@@ -1,5 +1,5 @@
-title: mlsys Arxiv Daily
-description: Automatically Update mlsys Papers Daily using Github Actions (Update Every 8th hours)
+title: Mlsys Arxiv Daily
+description: Automatically Update Mlsys(Mainly focus on LLM serving system) Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
 
 github:
