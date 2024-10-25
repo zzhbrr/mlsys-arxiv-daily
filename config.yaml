@@ -31,5 +31,5 @@ keywords:
     "Speculative Decoding":
         filters: ["Speculative Inference", "Speculation", "Speculative Decoding", "Speculative Sampling"]
     "Multimodal System":
-        filters: ["Diffusion inference", "Diffusion serving", "Multimodal inference", "Multimodal serving", ]
+        filters: ["Diffusion inference", "Diffusion serving", "VLM Inference", "Vision-Language Models Inference"]
     
