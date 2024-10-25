@@ -17,8 +17,6 @@
   </ol>
 </details>
 
-<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
-
 ## LLM inference
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -33,6 +31,16 @@
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
 |**2024-10-21**|**Bayesian Concept Bottleneck Models with LLM Priors**|Jean Feng et.al.|[2410.15555](http://arxiv.org/abs/2410.15555)|**[link](https://github.com/jjfeng/bc-llm)**|
 |**2024-10-20**|**EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models**|Junhao Hu et.al.|[2410.15332](http://arxiv.org/abs/2410.15332)|null|
+|**2024-10-19**|**IANUS: Integrated Accelerator based on NPU-PIM Unified Memory System**|Minseok Seo et.al.|[2410.15008](http://arxiv.org/abs/2410.15008)|null|
+|**2024-10-23**|**Harnessing Your DRAM and SSD for Sustainable and Accessible LLM Inference with Mixed-Precision and Multi-level Caching**|Jie Peng et.al.|[2410.14740](http://arxiv.org/abs/2410.14740)|null|
+|**2024-10-18**|**A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference**|You Wu et.al.|[2410.14442](http://arxiv.org/abs/2410.14442)|**[link](https://github.com/whyNLP/LCKV)**|
+|**2024-10-18**|**Revisiting SLO and Goodput Metrics in LLM Serving**|Zhibin Wang et.al.|[2410.14257](http://arxiv.org/abs/2410.14257)|null|
+|**2024-10-18**|**Leveraging Large Language Models for Enhancing Public Transit Services**|Jiahao Wang et.al.|[2410.14147](http://arxiv.org/abs/2410.14147)|null|
+|**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
+|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
+|**2024-10-17**|**Progressive Mixed-Precision Decoding for Efficient LLM Inference**|Hao Mark Chen et.al.|[2410.13461](http://arxiv.org/abs/2410.13461)|null|
+|**2024-10-17**|**Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning**|Minseok Choi et.al.|[2410.13274](http://arxiv.org/abs/2410.13274)|null|
+|**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|**[link](https://github.com/wagnew3/llmdatadefenses)**|
 
 <p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
@@ -58,6 +66,16 @@
 |**2024-10-22**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077](http://arxiv.org/abs/2410.16077)|null|
 |**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[2410.15774](http://arxiv.org/abs/2410.15774)|null|
 |**2024-10-21**|**ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts**|Xumeng Han et.al.|[2410.15732](http://arxiv.org/abs/2410.15732)|null|
+|**2024-10-20**|**Unveiling and Consulting Core Experts in Retrieval-Augmented MoE-based LLMs**|Xin Zhou et.al.|[2410.15438](http://arxiv.org/abs/2410.15438)|null|
+|**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
+|**2024-10-19**|**MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning**|Suning Huang et.al.|[2410.14972](http://arxiv.org/abs/2410.14972)|null|
+|**2024-10-18**|**Collaboratively adding new knowledge to an LLM**|Rhui Dih Lee et.al.|[2410.14753](http://arxiv.org/abs/2410.14753)|**[link](https://github.com/RhuiDih/cl)**|
+|**2024-10-18**|**MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts**|Rachel S. Y. Teo et.al.|[2410.14574](http://arxiv.org/abs/2410.14574)|**[link](https://github.com/rachtsy/momentumsmoe)**|
+|**2024-10-18**|**Towards a Simple and Extensible Standard for Object-Centric Event Data (OCED) -- Core Model, Design Space, and Lessons Learned**|Dirk Fahland et.al.|[2410.14495](http://arxiv.org/abs/2410.14495)|null|
+|**2024-10-18**|**ST-MoE-BERT: A Spatial-Temporal Mixture-of-Experts Framework for Long-Term Cross-City Mobility Prediction**|Haoyu He et.al.|[2410.14099](http://arxiv.org/abs/2410.14099)|**[link](https://github.com/he-h/HuMob)**|
+|**2024-10-17**|**Enhancing Generalization in Sparse Mixture of Experts Models: The Case for Increased Expert Activation in Compositional Tasks**|Jinze Zhao et.al.|[2410.13964](http://arxiv.org/abs/2410.13964)|null|
+|**2024-10-18**|**MoR: Mixture of Ranks for Low-Rank Adaptation Tuning**|Chuanyu Tang et.al.|[2410.13408](http://arxiv.org/abs/2410.13408)|null|
+|**2024-10-16**|**Satellite-Terrestrial Quantum Networks and the Global Quantum Internet**|Andrea Conti et.al.|[2410.13096](http://arxiv.org/abs/2410.13096)|null|
 
 <p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
@@ -75,6 +93,16 @@
 |**2024-10-22**|**Chiral polaritonics: cavity-mediated enantioselective excitation condensation**|Rosario R. Riso et.al.|[2410.16861](http://arxiv.org/abs/2410.16861)|null|
 |**2024-10-22**|**An Extreme Radio Fluctuation of Pulsar B1929 $+$ 10**|Zhengli Wang et.al.|[2410.16816](http://arxiv.org/abs/2410.16816)|null|
 |**2024-10-21**|**Galaxy Size and Mass Build-up in the First 2 Gyrs of Cosmic History from Multi-Wavelength JWST NIRCam Imaging**|Natalie Allen et.al.|[2410.16354](http://arxiv.org/abs/2410.16354)|null|
+|**2024-10-18**|**TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**|Jiahao Qiu et.al.|[2410.16033](http://arxiv.org/abs/2410.16033)|null|
+|**2024-10-21**|**Efficient and Universally Accessible Cross-Chain Options without Upfront Holder Collateral**|Zifan Peng et.al.|[2410.15724](http://arxiv.org/abs/2410.15724)|null|
+|**2024-10-21**|**Investigating Unusual H $α$ Features towards the Scutum Supershell**|R. Alsulami et.al.|[2410.15712](http://arxiv.org/abs/2410.15712)|null|
+|**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839](http://arxiv.org/abs/2410.13839)|null|
+|**2024-10-17**|**Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions**|Michael J. Q. Zhang et.al.|[2410.13788](http://arxiv.org/abs/2410.13788)|null|
+|**2024-10-17**|**Looking Inward: Language Models Can Learn About Themselves by Introspection**|Felix J Binder et.al.|[2410.13787](http://arxiv.org/abs/2410.13787)|**[link](https://github.com/felixbinder/introspection_self_prediction)**|
+|**2024-10-17**|**PGC 44685: A Dwarf Star-forming Lenticular Galaxy with Wolf-Rayet Population**|Shiying Lu et.al.|[2410.13119](http://arxiv.org/abs/2410.13119)|null|
+|**2024-10-16**|**Gravitational instantons and the quality problem of the QCD axion: Facts, speculations, and statements in between**|Pier Giuseppe Catinari et.al.|[2410.12741](http://arxiv.org/abs/2410.12741)|null|
+|**2024-10-15**|**Evolution of Ferromagnetism and Electrical Resistivity in Sb-Doped Cr4PtGa17**|Chaoguo Wang et.al.|[2410.12078](http://arxiv.org/abs/2410.12078)|null|
+|**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779](http://arxiv.org/abs/2410.11779)|**[link](https://github.com/zjunlp/Deco)**|
 
 <p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
@@ -82,16 +110,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-15**|**Enhancing Unimodal Latent Representations in Multimodal VAEs through Iterative Amortized Inference**|Yuta Oshima et.al.|[2410.11403](http://arxiv.org/abs/2410.11403)|null|
-|**2024-10-17**|**t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving**|Pengfei Hu et.al.|[2410.09747](http://arxiv.org/abs/2410.09747)|null|
 |**2024-10-08**|**A scaling limit for additive functionals**|Thibaud Taillefumier et.al.|[2410.06383](http://arxiv.org/abs/2410.06383)|null|
-|**2024-10-02**|**MARPLE: A Benchmark for Long-Horizon Inference**|Emily Jin et.al.|[2410.01926](http://arxiv.org/abs/2410.01926)|**[link](https://github.com/marple-benchmark/marple)**|
 |**2024-09-03**|**CT-SDM: A Sampling Diffusion Model for Sparse-View CT Reconstruction across All Sampling Rates**|Liutao Yang et.al.|[2409.01571](http://arxiv.org/abs/2409.01571)|null|
-|**2024-09-13**|**Meta-Learn Unimodal Signals with Weak Supervision for Multimodal Sentiment Analysis**|Sijie Mai et.al.|[2408.16029](http://arxiv.org/abs/2408.16029)|null|
 |**2024-07-27**|**Faster Image2Video Generation: A Closer Look at CLIP Image Embedding's Impact on Spatio-Temporal Cross-Attentions**|Ashkan Taghipour et.al.|[2407.19205](http://arxiv.org/abs/2407.19205)|null|
 |**2024-07-15**|**LiteFocus: Accelerated Diffusion Inference for Long Audio Synthesis**|Zhenxiong Tan et.al.|[2407.10468](http://arxiv.org/abs/2407.10468)|**[link](https://github.com/yuanshi9815/litefocus)**|
 |**2024-06-13**|**DiffPoGAN: Diffusion Policies with Generative Adversarial Networks for Offline Reinforcement Learning**|Xuemin Hu et.al.|[2406.09089](http://arxiv.org/abs/2406.09089)|null|
 |**2024-10-03**|**I4VGen: Image as Free Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
+|**2024-05-30**|**DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2405.20289](http://arxiv.org/abs/2405.20289)|null|
+|**2024-05-26**|**Reverse Transition Kernel: A Flexible Framework to Accelerate Diffusion Inference**|Xunpeng Huang et.al.|[2405.16387](http://arxiv.org/abs/2405.16387)|null|
+|**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
+|**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658](http://arxiv.org/abs/2404.16658)|null|
+|**2024-05-02**|**Privacy-Preserving Diffusion Model Using Homomorphic Encryption**|Yaojian Chen et.al.|[2403.05794](http://arxiv.org/abs/2403.05794)|**[link](https://github.com/HE-diffusion/HE-diffusion)**|
+|**2024-05-08**|**ToDo: Token Downsampling for Efficient Generation of High-Resolution Images**|Ethan Smith et.al.|[2402.13573](http://arxiv.org/abs/2402.13573)|null|
+|**2024-06-03**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
+|**2023-12-10**|**Statistical Spatially Inhomogeneous Diffusion Inference**|Yinuo Ren et.al.|[2312.05793](http://arxiv.org/abs/2312.05793)|null|
+|**2024-01-04**|**Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference**|Zihao Yu et.al.|[2305.17423](http://arxiv.org/abs/2305.17423)|**[link](https://github.com/hankpipi/diffusers-hetu)**|
+|**2023-10-25**|**ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval**|Kexun Zhang et.al.|[2302.02285](http://arxiv.org/abs/2302.02285)|**[link](https://github.com/zkx06111/rediffusion)**|
+|**2021-08-11**|**Manifold-aware Synthesis of High-resolution Diffusion from Structural Imaging**|Benoit Anctil-Robitaille et.al.|[2108.04135](http://arxiv.org/abs/2108.04135)|null|
+|**2021-12-22**|**Functional Data Analysis with Rough Sample Paths?**|Neda Mohammadi et.al.|[2105.12035](http://arxiv.org/abs/2105.12035)|null|
+|**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
+|**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
 <p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
