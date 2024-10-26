@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.25
+## Updated on 2024.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2024-10-17**|**Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning**|Minseok Choi et.al.|[2410.13274](http://arxiv.org/abs/2410.13274)|null|
 |**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|**[link](https://github.com/wagnew3/llmdatadefenses)**|
 
-<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241026>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -50,7 +50,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241026>back to top</a>)</p>
 
 ## MoE
 
@@ -77,7 +77,7 @@
 |**2024-10-18**|**MoR: Mixture of Ranks for Low-Rank Adaptation Tuning**|Chuanyu Tang et.al.|[2410.13408](http://arxiv.org/abs/2410.13408)|null|
 |**2024-10-16**|**Satellite-Terrestrial Quantum Networks and the Global Quantum Internet**|Andrea Conti et.al.|[2410.13096](http://arxiv.org/abs/2410.13096)|null|
 
-<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241026>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -104,7 +104,7 @@
 |**2024-10-15**|**Evolution of Ferromagnetism and Electrical Resistivity in Sb-Doped Cr4PtGa17**|Chaoguo Wang et.al.|[2410.12078](http://arxiv.org/abs/2410.12078)|null|
 |**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779](http://arxiv.org/abs/2410.11779)|**[link](https://github.com/zjunlp/Deco)**|
 
-<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241026>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -131,7 +131,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
