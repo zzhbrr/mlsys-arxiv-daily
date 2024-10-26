@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLM inference": 
-        filters: ["LLM inference", "LLM inference system", "LLM serving", "Large Language Model Serving", "Large Language Model Inference"]
+        filters: ["LLM inference", "LLM inference system", "LLM serving", "Large Language Model Serving", "Large Language Model Inference", "Efficient LLM"]
     "LLM Scheduling":
         filters: ["LLM Scheduling", "Large Language Model Scheduling"]
     "MoE":
