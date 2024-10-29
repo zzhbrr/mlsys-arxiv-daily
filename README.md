@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**FIRP: Faster LLM inference via future intermediate representation prediction**|Pengfei Wu et.al.|[2410.20488](http://arxiv.org/abs/2410.20488)|null|
 |**2024-10-25**|**Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management**|Tuowei Wang et.al.|[2410.19274](http://arxiv.org/abs/2410.19274)|null|
 |**2024-10-24**|**Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**|Ruisi Cai et.al.|[2410.19123](http://arxiv.org/abs/2410.19123)|null|
 |**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
@@ -33,7 +34,7 @@
 |**2024-10-23**|**AdaRankGrad: Adaptive Gradient-Rank and Moments for Memory-Efficient LLMs Training and Fine-Tuning**|Yehonathan Refael et.al.|[2410.17881](http://arxiv.org/abs/2410.17881)|null|
 |**2024-10-22**|**FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs**|Haoran Lin et.al.|[2410.16663](http://arxiv.org/abs/2410.16663)|null|
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
-|**2024-10-21**|**MagicPIG: LSH Sampling for Efficient LLM Generation**|Zhuoming Chen et.al.|[2410.16179](http://arxiv.org/abs/2410.16179)|**[link](https://github.com/infini-ai-lab/magicpig)**|
+|**2024-10-28**|**MagicPIG: LSH Sampling for Efficient LLM Generation**|Zhuoming Chen et.al.|[2410.16179](http://arxiv.org/abs/2410.16179)|**[link](https://github.com/infini-ai-lab/magicpig)**|
 |**2024-10-21**|**Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning**|Arijit Das et.al.|[2410.16029](http://arxiv.org/abs/2410.16029)|**[link](https://github.com/selfsupervised-ai/natural-galore)**|
 |**2024-10-21**|**RAC: Efficient LLM Factuality Correction with Retrieval Augmentation**|Changmao Li et.al.|[2410.15667](http://arxiv.org/abs/2410.15667)|**[link](https://github.com/jlab-nlp/retrieval-augmented-correction)**|
 |**2024-10-21**|**Bayesian Concept Bottleneck Models with LLM Priors**|Jean Feng et.al.|[2410.15555](http://arxiv.org/abs/2410.15555)|**[link](https://github.com/jjfeng/bc-llm)**|
@@ -64,6 +65,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**|Jiyao Wang et.al.|[2410.21086](http://arxiv.org/abs/2410.21086)|null|
+|**2024-10-27**|**Towards a Blockchain and Opportunistic Edge Driven Metaverse of Everything**|Paula Fraga-Lamas et.al.|[2410.20594](http://arxiv.org/abs/2410.20594)|null|
+|**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
+|**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
+|**2024-10-26**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178](http://arxiv.org/abs/2410.20178)|**[link](https://github.com/jiazuoyu/pathweave)**|
 |**2024-10-25**|**DMT-HI: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensionality Reduction**|Zelin Zang et.al.|[2410.19504](http://arxiv.org/abs/2410.19504)|null|
 |**2024-10-25**|**Hierarchical Mixture of Experts: Generalizable Learning for High-Level Synthesis**|Weikai Li et.al.|[2410.19225](http://arxiv.org/abs/2410.19225)|null|
 |**2024-10-24**|**Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**|Ruisi Cai et.al.|[2410.19123](http://arxiv.org/abs/2410.19123)|null|
@@ -95,6 +101,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**On the limits of informationally efficient stock markets: New insights from a chartist-fundamentalist model**|Laura Gardini et.al.|[2410.21198](http://arxiv.org/abs/2410.21198)|null|
+|**2024-10-27**|**A Jet-Induced Shock in a Young, Powerful Radio Galaxy at z=3.00**|Nick Seymour et.al.|[2410.20609](http://arxiv.org/abs/2410.20609)|null|
+|**2024-10-27**|**FIRP: Faster LLM inference via future intermediate representation prediction**|Pengfei Wu et.al.|[2410.20488](http://arxiv.org/abs/2410.20488)|null|
+|**2024-10-27**|**Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models**|Zhengmian Hu et.al.|[2410.20418](http://arxiv.org/abs/2410.20418)|null|
+|**2024-10-26**|**Fast Best-of-N Decoding via Speculative Rejection**|Hanshi Sun et.al.|[2410.20290](http://arxiv.org/abs/2410.20290)|**[link](https://github.com/Zanette-Labs/SpeculativeRejection)**|
 |**2024-10-24**|**Intention Is All You Need**|Advait Sarkar et.al.|[2410.18851](http://arxiv.org/abs/2410.18851)|null|
 |**2024-10-24**|**AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability**|Sudhanshu Agrawal et.al.|[2410.18351](http://arxiv.org/abs/2410.18351)|null|
 |**2024-10-23**|**Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**|Ashish Khisti et.al.|[2410.18234](http://arxiv.org/abs/2410.18234)|null|
@@ -105,7 +116,7 @@
 |**2024-10-22**|**Chiral polaritonics: cavity-mediated enantioselective excitation condensation**|Rosario R. Riso et.al.|[2410.16861](http://arxiv.org/abs/2410.16861)|null|
 |**2024-10-22**|**An Extreme Radio Fluctuation of Pulsar B1929 $+$ 10**|Zhengli Wang et.al.|[2410.16816](http://arxiv.org/abs/2410.16816)|null|
 |**2024-10-21**|**Galaxy Size and Mass Build-up in the First 2 Gyrs of Cosmic History from Multi-Wavelength JWST NIRCam Imaging**|Natalie Allen et.al.|[2410.16354](http://arxiv.org/abs/2410.16354)|null|
-|**2024-10-18**|**TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**|Jiahao Qiu et.al.|[2410.16033](http://arxiv.org/abs/2410.16033)|null|
+|**2024-10-27**|**TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling**|Jiahao Qiu et.al.|[2410.16033](http://arxiv.org/abs/2410.16033)|null|
 |**2024-10-21**|**Efficient and Universally Accessible Cross-Chain Options without Upfront Holder Collateral**|Zifan Peng et.al.|[2410.15724](http://arxiv.org/abs/2410.15724)|null|
 |**2024-10-21**|**Investigating Unusual H $α$ Features towards the Scutum Supershell**|R. Alsulami et.al.|[2410.15712](http://arxiv.org/abs/2410.15712)|null|
 |**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839](http://arxiv.org/abs/2410.13839)|null|
