@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
+|**2024-10-29**|**Scaling LLM Inference with Optimized Sample Compute Allocation**|Kexun Zhang et.al.|[2410.22480](http://arxiv.org/abs/2410.22480)|null|
 |**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|
 |**2024-10-29**|**ProMoE: Fast MoE-based LLM Serving using Proactive Caching**|Xiaoniu Song et.al.|[2410.22134](http://arxiv.org/abs/2410.22134)|null|
 |**2024-10-28**|**MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**|Noel Elias et.al.|[2410.21548](http://arxiv.org/abs/2410.21548)|**[link](https://github.com/noelkelias/multitok)**|
@@ -28,7 +30,7 @@
 |**2024-10-27**|**FIRP: Faster LLM inference via future intermediate representation prediction**|Pengfei Wu et.al.|[2410.20488](http://arxiv.org/abs/2410.20488)|null|
 |**2024-10-29**|**Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management**|Tuowei Wang et.al.|[2410.19274](http://arxiv.org/abs/2410.19274)|null|
 |**2024-10-24**|**Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**|Ruisi Cai et.al.|[2410.19123](http://arxiv.org/abs/2410.19123)|null|
-|**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
+|**2024-10-30**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|**[link](https://github.com/matteonulli/vocabulary_pruning)**|
 |**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
 |**2024-10-24**|**A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs**|Ankit Singh Rawat et.al.|[2410.18779](http://arxiv.org/abs/2410.18779)|null|
 |**2024-10-24**|**BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching**|Peizhuang Cong et.al.|[2410.18701](http://arxiv.org/abs/2410.18701)|null|
@@ -69,6 +71,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Stealing User Prompts from Mixture of Experts**|Itay Yona et.al.|[2410.22884](http://arxiv.org/abs/2410.22884)|null|
+|**2024-10-30**|**MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning**|Xujia Wang et.al.|[2410.22782](http://arxiv.org/abs/2410.22782)|null|
 |**2024-10-29**|**ProMoE: Fast MoE-based LLM Serving using Proactive Caching**|Xiaoniu Song et.al.|[2410.22134](http://arxiv.org/abs/2410.22134)|null|
 |**2024-10-29**|**Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging**|Li Shen et.al.|[2410.21804](http://arxiv.org/abs/2410.21804)|null|
 |**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
@@ -109,6 +113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection**|Mohamadreza Rostami et.al.|[2410.22555](http://arxiv.org/abs/2410.22555)|null|
 |**2024-10-29**|**Fast and High-Quality Auto-Regressive Speech Synthesis via Speculative Decoding**|Bohan Li et.al.|[2410.21951](http://arxiv.org/abs/2410.21951)|null|
 |**2024-10-29**|**Rapid cooling of the Cassiopeia A neutron star due to superfluid quantum criticality**|Hao-Fu Zhu et.al.|[2410.21945](http://arxiv.org/abs/2410.21945)|null|
 |**2024-10-28**|**Model-agnostic basis functions for the 2-point correlation function of dark matter in linear theory**|Aseem Paranjape et.al.|[2410.21374](http://arxiv.org/abs/2410.21374)|**[link](https://github.com/a-paranjape/mlfundas)**|
@@ -144,6 +149,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance**|Dongmin Park et.al.|[2410.22376](http://arxiv.org/abs/2410.22376)|**[link](https://github.com/krafton-ai/rare2frequent)**|
 |**2024-10-08**|**A scaling limit for additive functionals**|Thibaud Taillefumier et.al.|[2410.06383](http://arxiv.org/abs/2410.06383)|null|
 |**2024-09-03**|**CT-SDM: A Sampling Diffusion Model for Sparse-View CT Reconstruction across All Sampling Rates**|Liutao Yang et.al.|[2409.01571](http://arxiv.org/abs/2409.01571)|null|
 |**2024-07-27**|**Faster Image2Video Generation: A Closer Look at CLIP Image Embedding's Impact on Spatio-Temporal Cross-Attentions**|Ashkan Taghipour et.al.|[2407.19205](http://arxiv.org/abs/2407.19205)|null|
