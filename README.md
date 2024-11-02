@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -72,7 +72,7 @@
 |**2024-10-09**|**SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration**|Heming Xia et.al.|[2410.06916](http://arxiv.org/abs/2410.06916)|**[link](https://github.com/hemingkx/SWIFT)**|
 |**2024-10-08**|**Active Evaluation Acquisition for Efficient LLM Benchmarking**|Yang Li et.al.|[2410.05952](http://arxiv.org/abs/2410.05952)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## MoE
 
@@ -137,7 +137,7 @@
 |**2024-10-14**|**Learning to Ground VLMs without Forgetting**|Aritra Bhowmik et.al.|[2410.10491](http://arxiv.org/abs/2410.10491)|null|
 |**2024-10-14**|**Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts**|Xu Liu et.al.|[2410.10469](http://arxiv.org/abs/2410.10469)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -194,7 +194,7 @@
 |**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
 |**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -223,7 +223,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
