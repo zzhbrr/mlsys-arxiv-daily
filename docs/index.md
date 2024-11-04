@@ -141,7 +141,7 @@ layout: default
 |**2024-10-27**|**A Jet-Induced Shock in a Young, Powerful Radio Galaxy at z=3.00**|Nick Seymour et.al.|[2410.20609](http://arxiv.org/abs/2410.20609)|null|
 |**2024-10-27**|**FIRP: Faster LLM inference via future intermediate representation prediction**|Pengfei Wu et.al.|[2410.20488](http://arxiv.org/abs/2410.20488)|null|
 |**2024-10-27**|**Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models**|Zhengmian Hu et.al.|[2410.20418](http://arxiv.org/abs/2410.20418)|null|
-|**2024-10-26**|**Fast Best-of-N Decoding via Speculative Rejection**|Hanshi Sun et.al.|[2410.20290](http://arxiv.org/abs/2410.20290)|**[link](https://github.com/Zanette-Labs/SpeculativeRejection)**|
+|**2024-10-31**|**Fast Best-of-N Decoding via Speculative Rejection**|Hanshi Sun et.al.|[2410.20290](http://arxiv.org/abs/2410.20290)|**[link](https://github.com/Zanette-Labs/SpeculativeRejection)**|
 |**2024-10-24**|**Intention Is All You Need**|Advait Sarkar et.al.|[2410.18851](http://arxiv.org/abs/2410.18851)|null|
 |**2024-10-24**|**AdaEDL: Early Draft Stopping for Speculative Decoding of Large Language Models via an Entropy-based Lower Bound on Token Acceptance Probability**|Sudhanshu Agrawal et.al.|[2410.18351](http://arxiv.org/abs/2410.18351)|null|
 |**2024-10-23**|**Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits**|Ashish Khisti et.al.|[2410.18234](http://arxiv.org/abs/2410.18234)|null|
