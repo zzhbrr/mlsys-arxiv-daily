@@ -18,7 +18,7 @@ layout: default
 |**2024-11-04**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
 |**2024-11-04**|**RAGViz: Diagnose and Visualize Retrieval-Augmented Generation**|Tevin Wang et.al.|[2411.01751](http://arxiv.org/abs/2411.01751)|**[link](https://github.com/cxcscmu/ragviz)**|
 |**2024-11-03**|**Autoformulation of Mathematical Optimization Models Using LLMs**|Nicolás Astorga et.al.|[2411.01679](http://arxiv.org/abs/2411.01679)|null|
-|**2024-11-03**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
+|**2024-11-06**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
 |**2024-11-02**|**RA-WEBs: Remote Attestation for WEB services**|Kosei Akama et.al.|[2411.01340](http://arxiv.org/abs/2411.01340)|null|
 |**2024-11-02**|**NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference**|Xuanlin Jiang et.al.|[2411.01142](http://arxiv.org/abs/2411.01142)|null|
 |**2024-10-30**|**A Theoretical Perspective for Speculative Decoding Algorithm**|Ming Yin et.al.|[2411.00841](http://arxiv.org/abs/2411.00841)|null|
@@ -97,7 +97,7 @@ layout: default
 |**2024-10-02**|**ConServe: Harvesting GPUs for Low-Latency and High-Throughput Large Language Model Serving**|Yifan Qiao et.al.|[2410.01228](http://arxiv.org/abs/2410.01228)|null|
 |**2024-10-01**|**TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices**|Zonghang Li et.al.|[2410.00531](http://arxiv.org/abs/2410.00531)|**[link](https://github.com/lizonghang/tpi-llm)**|
 |**2024-10-09**|**LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management**|Yi Xiong et.al.|[2410.00428](http://arxiv.org/abs/2410.00428)|null|
-|**2024-09-30**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002](http://arxiv.org/abs/2409.20002)|null|
+|**2024-11-06**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002](http://arxiv.org/abs/2409.20002)|null|
 |**2024-09-28**|**SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models**|Yi Wu et.al.|[2409.19471](http://arxiv.org/abs/2409.19471)|null|
 |**2024-09-27**|**Confidential Prompting: Protecting User Prompts from Cloud LLM Providers**|In Gim et.al.|[2409.19134](http://arxiv.org/abs/2409.19134)|null|
 |**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|**[link](https://github.com/yuchenxia/llm4ias)**|
@@ -129,12 +129,12 @@ layout: default
 |**2024-11-05**|**DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts**|Zelin Yao et.al.|[2411.03025](http://arxiv.org/abs/2411.03025)|**[link](https://github.com/celin-yao/da-moe)**|
 |**2024-11-05**|**Advancing Robust Underwater Acoustic Target Recognition through Multi-task Learning and Multi-Gate Mixture-of-Experts**|Yuan Xie et.al.|[2411.02787](http://arxiv.org/abs/2411.02787)|null|
 |**2024-11-01**|**SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models**|Jianyi Zhang et.al.|[2411.02433](http://arxiv.org/abs/2411.02433)|null|
-|**2024-11-05**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
+|**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
 |**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
-|**2024-11-04**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
+|**2024-11-06**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457](http://arxiv.org/abs/2411.01457)|null|
-|**2024-11-03**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
+|**2024-11-06**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
 |**2024-11-02**|**$\texttt{HEXA-MoE}$ : Efficient and Heterogeneous-aware MoE Acceleration with ZERO Computation Redundancy**|Shuqing Luo et.al.|[2411.01288](http://arxiv.org/abs/2411.01288)|null|
 |**2024-11-02**|**PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment**|Dongxu Liu et.al.|[2411.01245](http://arxiv.org/abs/2411.01245)|null|
 |**2024-11-01**|**MoE-I $^2$ : Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition**|Cheng Yang et.al.|[2411.01016](http://arxiv.org/abs/2411.01016)|null|
@@ -234,9 +234,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation**|Lawrence Stewart et.al.|[2411.03786](http://arxiv.org/abs/2411.03786)|null|
+|**2024-11-05**|**Remarkable Scale Relation, Approximate SU(5), Fluctuating Lattice**|Holger Bech Nielsen et.al.|[2411.03552](http://arxiv.org/abs/2411.03552)|null|
+|**2024-11-05**|**Shared Memory-Aware Latency-Sensitive Message Aggregation for Fine-Grained Communication**|Kavitha Chandrasekar et.al.|[2411.03533](http://arxiv.org/abs/2411.03533)|null|
+|**2024-11-05**|**A high resolution simulation of protoplanetary disk turbulence driven by the vertical shear instability**|Karim Shariff et.al.|[2411.03467](http://arxiv.org/abs/2411.03467)|null|
+|**2024-11-04**|**PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption**|Yifan Tan et.al.|[2411.03357](http://arxiv.org/abs/2411.03357)|null|
 |**2024-11-05**|**On the possible core shift break in relativistic jets**|E. E. Nokhrina et.al.|[2411.02925](http://arxiv.org/abs/2411.02925)|null|
 |**2024-11-04**|**A proof of self-organized criticality in a sandpile**|Christopher Hoffman et.al.|[2411.02541](http://arxiv.org/abs/2411.02541)|null|
-|**2024-11-04**|**Pseudo Transitions in the Finite-Size Blume-Capel Model**|Lei Shi et.al.|[2411.01743](http://arxiv.org/abs/2411.01743)|null|
+|**2024-11-06**|**Pseudo Transitions in the Finite-Size Blume-Capel Model**|Lei Shi et.al.|[2411.01743](http://arxiv.org/abs/2411.01743)|null|
 |**2024-11-05**|**Privacy Risks of Speculative Decoding in Large Language Models**|Jiankun Wei et.al.|[2411.01076](http://arxiv.org/abs/2411.01076)|null|
 |**2024-10-30**|**Accelerated AI Inference via Dynamic Execution Methods**|Haim Barad et.al.|[2411.00853](http://arxiv.org/abs/2411.00853)|null|
 |**2024-10-30**|**A Theoretical Perspective for Speculative Decoding Algorithm**|Ming Yin et.al.|[2411.00841](http://arxiv.org/abs/2411.00841)|null|
