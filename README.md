@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
 |**2024-11-04**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
 |**2024-11-04**|**RAGViz: Diagnose and Visualize Retrieval-Augmented Generation**|Tevin Wang et.al.|[2411.01751](http://arxiv.org/abs/2411.01751)|**[link](https://github.com/cxcscmu/ragviz)**|
@@ -67,7 +68,7 @@
 |**2024-10-18**|**Revisiting SLO and Goodput Metrics in LLM Serving**|Zhibin Wang et.al.|[2410.14257](http://arxiv.org/abs/2410.14257)|null|
 |**2024-10-18**|**Leveraging Large Language Models for Enhancing Public Transit Services**|Jiahao Wang et.al.|[2410.14147](http://arxiv.org/abs/2410.14147)|null|
 |**2024-10-17**|**RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs**|Jiatan Huang et.al.|[2410.13987](http://arxiv.org/abs/2410.13987)|null|
-|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
+|**2024-11-07**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|**[link](https://github.com/guotianyu2000/active-dormant-attention)**|
 |**2024-10-17**|**Progressive Mixed-Precision Decoding for Efficient LLM Inference**|Hao Mark Chen et.al.|[2410.13461](http://arxiv.org/abs/2410.13461)|null|
 |**2024-10-17**|**Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning**|Minseok Choi et.al.|[2410.13274](http://arxiv.org/abs/2410.13274)|null|
 |**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|**[link](https://github.com/wagnew3/llmdatadefenses)**|
@@ -114,6 +115,7 @@
 |**2024-09-25**|**Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**|Fan Zhou et.al.|[2409.17115](http://arxiv.org/abs/2409.17115)|**[link](https://github.com/gair-nlp/prox)**|
 |**2024-09-25**|**Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference**|Zongyue Qin et.al.|[2409.16560](http://arxiv.org/abs/2409.16560)|null|
 |**2024-10-21**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|**[link](https://github.com/AlignedQuant/AlignedKV)**|
+|**2024-11-07**|**Enabling Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines**|Lei Gao et.al.|[2409.15520](http://arxiv.org/abs/2409.15520)|**[link](https://github.com/leigao97/prge)**|
 |**2024-10-29**|**Eagle: Efficient Training-Free Router for Multi-LLM Inference**|Zesen Zhao et.al.|[2409.15518](http://arxiv.org/abs/2409.15518)|null|
 |**2024-10-03**|**Archon: An Architecture Search Framework for Inference-Time Techniques**|Jon Saad-Falcon et.al.|[2409.15254](http://arxiv.org/abs/2409.15254)|**[link](https://github.com/scalingintelligence/archon)**|
 |**2024-09-23**|**CSPS: A Communication-Efficient Sequence-Parallelism based Serving System for Transformer based Models with Long Prompts**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
@@ -146,7 +148,7 @@
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457](http://arxiv.org/abs/2411.01457)|null|
 |**2024-11-06**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
-|**2024-11-02**|**$\texttt{HEXA-MoE}$ : Efficient and Heterogeneous-aware MoE Acceleration with ZERO Computation Redundancy**|Shuqing Luo et.al.|[2411.01288](http://arxiv.org/abs/2411.01288)|null|
+|**2024-11-07**|**HEXA-MoE: Efficient and Heterogeneous-aware MoE Acceleration with ZERO Computation Redundancy**|Shuqing Luo et.al.|[2411.01288](http://arxiv.org/abs/2411.01288)|null|
 |**2024-11-02**|**PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment**|Dongxu Liu et.al.|[2411.01245](http://arxiv.org/abs/2411.01245)|null|
 |**2024-11-01**|**MoE-I $^2$ : Compressing Mixture of Experts Models through Inter-Expert Pruning and Intra-Expert Low-Rank Decomposition**|Cheng Yang et.al.|[2411.01016](http://arxiv.org/abs/2411.01016)|null|
 |**2024-11-01**|**LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in Large Language Models**|Nam V. Nguyen et.al.|[2411.00918](http://arxiv.org/abs/2411.00918)|**[link](https://github.com/Fsoft-AIC/LibMoE)**|
@@ -247,6 +249,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-06**|**The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation**|Lawrence Stewart et.al.|[2411.03786](http://arxiv.org/abs/2411.03786)|null|
 |**2024-11-05**|**Remarkable Scale Relation, Approximate SU(5), Fluctuating Lattice**|Holger Bech Nielsen et.al.|[2411.03552](http://arxiv.org/abs/2411.03552)|null|
 |**2024-11-05**|**Shared Memory-Aware Latency-Sensitive Message Aggregation for Fine-Grained Communication**|Kavitha Chandrasekar et.al.|[2411.03533](http://arxiv.org/abs/2411.03533)|null|
@@ -377,7 +380,7 @@
 |**2024-05-08**|**ToDo: Token Downsampling for Efficient Generation of High-Resolution Images**|Ethan Smith et.al.|[2402.13573](http://arxiv.org/abs/2402.13573)|null|
 |**2024-06-03**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
 |**2023-12-10**|**Statistical Spatially Inhomogeneous Diffusion Inference**|Yinuo Ren et.al.|[2312.05793](http://arxiv.org/abs/2312.05793)|null|
-|**2024-01-04**|**Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference**|Zihao Yu et.al.|[2305.17423](http://arxiv.org/abs/2305.17423)|**[link](https://github.com/hankpipi/diffusers-hetu)**|
+|**2024-01-04**|**Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference**|Zihao Yu et.al.|[2305.17423](http://arxiv.org/abs/2305.17423)|**[link](https://github.com/pku-dair/hetu)**|
 |**2023-10-25**|**ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval**|Kexun Zhang et.al.|[2302.02285](http://arxiv.org/abs/2302.02285)|**[link](https://github.com/zkx06111/rediffusion)**|
 |**2021-08-11**|**Manifold-aware Synthesis of High-resolution Diffusion from Structural Imaging**|Benoit Anctil-Robitaille et.al.|[2108.04135](http://arxiv.org/abs/2108.04135)|null|
 |**2021-12-22**|**Functional Data Analysis with Rough Sample Paths?**|Neda Mohammadi et.al.|[2105.12035](http://arxiv.org/abs/2105.12035)|null|
