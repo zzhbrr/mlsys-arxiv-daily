@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -123,7 +123,7 @@
 |**2024-10-21**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|**[link](https://github.com/lmcache/lmcache)**|
 |**2024-09-19**|**PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)**|Mahmoud Nazzal et.al.|[2409.12699](http://arxiv.org/abs/2409.12699)|**[link](https://github.com/mahmoudkanazzal/PromSec)**|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -131,7 +131,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## MoE
 
@@ -241,7 +241,7 @@
 |**2024-10-03**|**MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction**|Zhaojian Yu et.al.|[2410.02241](http://arxiv.org/abs/2410.02241)|null|
 |**2024-10-03**|**Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts**|Minh Le et.al.|[2410.02200](http://arxiv.org/abs/2410.02200)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -355,7 +355,7 @@
 |**2024-08-28**|**An Empirical Study of API Misuses of Data-Centric Libraries**|Akalanka Galappaththi et.al.|[2408.15853](http://arxiv.org/abs/2408.15853)|null|
 |**2024-08-28**|**Indirect nonlinear interaction between toroidal Alfvén eigenmode and ion temperature gradient mode mediated by zonal structures**|Qian Fang et.al.|[2408.15782](http://arxiv.org/abs/2408.15782)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -384,7 +384,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
