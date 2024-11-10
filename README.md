@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -125,7 +125,7 @@
 |**2024-10-21**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|**[link](https://github.com/lmcache/lmcache)**|
 |**2024-09-19**|**PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)**|Mahmoud Nazzal et.al.|[2409.12699](http://arxiv.org/abs/2409.12699)|**[link](https://github.com/mahmoudkanazzal/PromSec)**|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -133,7 +133,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## MoE
 
@@ -142,7 +142,7 @@
 |**2024-11-05**|**DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts**|Zelin Yao et.al.|[2411.03025](http://arxiv.org/abs/2411.03025)|**[link](https://github.com/celin-yao/da-moe)**|
 |**2024-11-05**|**Advancing Robust Underwater Acoustic Target Recognition through Multi-task Learning and Multi-Gate Mixture-of-Experts**|Yuan Xie et.al.|[2411.02787](http://arxiv.org/abs/2411.02787)|null|
 |**2024-11-01**|**SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models**|Jianyi Zhang et.al.|[2411.02433](http://arxiv.org/abs/2411.02433)|null|
-|**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|**[link](https://github.com/tencent/tencent-hunyuan-large)**|
+|**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|null|
 |**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
 |**2024-11-06**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
@@ -243,7 +243,7 @@
 |**2024-10-03**|**MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction**|Zhaojian Yu et.al.|[2410.02241](http://arxiv.org/abs/2410.02241)|null|
 |**2024-10-03**|**Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts**|Minh Le et.al.|[2410.02200](http://arxiv.org/abs/2410.02200)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -358,7 +358,7 @@
 |**2024-08-28**|**An Empirical Study of API Misuses of Data-Centric Libraries**|Akalanka Galappaththi et.al.|[2408.15853](http://arxiv.org/abs/2408.15853)|null|
 |**2024-08-28**|**Indirect nonlinear interaction between toroidal Alfvén eigenmode and ion temperature gradient mode mediated by zonal structures**|Qian Fang et.al.|[2408.15782](http://arxiv.org/abs/2408.15782)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -387,7 +387,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
