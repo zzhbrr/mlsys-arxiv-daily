@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
+|**2024-11-07**|**Hardware and Software Platform Inference**|Cheng Zhang et.al.|[2411.05197](http://arxiv.org/abs/2411.05197)|null|
+|**2024-10-22**|**Scattered Forest Search: Smarter Code Space Exploration with LLMs**|Jonathan Light et.al.|[2411.05010](http://arxiv.org/abs/2411.05010)|null|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
 |**2024-11-04**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
@@ -151,7 +154,7 @@ layout: default
 |**2024-10-29**|**ProMoE: Fast MoE-based LLM Serving using Proactive Caching**|Xiaoniu Song et.al.|[2410.22134](http://arxiv.org/abs/2410.22134)|null|
 |**2024-10-29**|**Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging**|Li Shen et.al.|[2410.21804](http://arxiv.org/abs/2410.21804)|null|
 |**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
-|**2024-10-28**|**FinTeamExperts: Role Specialized MOEs For Financial Analysis**|Yue Yu et.al.|[2410.21338](http://arxiv.org/abs/2410.21338)|null|
+|**2024-11-07**|**FinTeamExperts: Role Specialized MOEs For Financial Analysis**|Yue Yu et.al.|[2410.21338](http://arxiv.org/abs/2410.21338)|null|
 |**2024-10-28**|**Efficient Mixture-of-Expert for Video-based Driver State and Physiological Multi-task Estimation in Conditional Autonomous Driving**|Jiyao Wang et.al.|[2410.21086](http://arxiv.org/abs/2410.21086)|null|
 |**2024-10-27**|**Towards a Blockchain and Opportunistic Edge Driven Metaverse of Everything**|Paula Fraga-Lamas et.al.|[2410.20594](http://arxiv.org/abs/2410.20594)|null|
 |**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
@@ -236,11 +239,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding**|Ryan Sun et.al.|[2411.05289](http://arxiv.org/abs/2411.05289)|**[link](https://github.com/mastergodzilla/speculative_decoding_ot)**|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-06**|**The N-Grammys: Accelerating Autoregressive Inference with Learning-Free Batched Speculation**|Lawrence Stewart et.al.|[2411.03786](http://arxiv.org/abs/2411.03786)|null|
 |**2024-11-05**|**Remarkable Scale Relation, Approximate SU(5), Fluctuating Lattice**|Holger Bech Nielsen et.al.|[2411.03552](http://arxiv.org/abs/2411.03552)|null|
 |**2024-11-05**|**Shared Memory-Aware Latency-Sensitive Message Aggregation for Fine-Grained Communication**|Kavitha Chandrasekar et.al.|[2411.03533](http://arxiv.org/abs/2411.03533)|null|
-|**2024-11-05**|**A high resolution simulation of protoplanetary disk turbulence driven by the vertical shear instability**|Karim Shariff et.al.|[2411.03467](http://arxiv.org/abs/2411.03467)|null|
+|**2024-11-07**|**A high resolution simulation of protoplanetary disk turbulence driven by the vertical shear instability**|Karim Shariff et.al.|[2411.03467](http://arxiv.org/abs/2411.03467)|null|
 |**2024-11-04**|**PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption**|Yifan Tan et.al.|[2411.03357](http://arxiv.org/abs/2411.03357)|null|
 |**2024-11-05**|**On the possible core shift break in relativistic jets**|E. E. Nokhrina et.al.|[2411.02925](http://arxiv.org/abs/2411.02925)|null|
 |**2024-11-04**|**A proof of self-organized criticality in a sandpile**|Christopher Hoffman et.al.|[2411.02541](http://arxiv.org/abs/2411.02541)|null|
