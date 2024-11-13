@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
+|**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
+|**2024-11-12**|**BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks**|Shubham Gandhi et.al.|[2411.07464](http://arxiv.org/abs/2411.07464)|null|
+|**2024-11-12**|**The Effect of Scheduling and Preemption on the Efficiency of LLM Inference Serving**|Kyoungmin Kim et.al.|[2411.07447](http://arxiv.org/abs/2411.07447)|null|
 |**2024-11-10**|**EcoServe: Maximizing Multi-Resource Utilization with SLO Guarantees in LLM Serving**|Haiying Shen et.al.|[2411.06364](http://arxiv.org/abs/2411.06364)|null|
 |**2024-11-08**|**SSSD: Simply-Scalable Speculative Decoding**|Michele Marzollo et.al.|[2411.05894](http://arxiv.org/abs/2411.05894)|null|
 |**2024-11-08**|**AcceLLM: Accelerating LLM Inference using Redundancy for Load Balancing and Data Locality**|Ilias Bournias et.al.|[2411.05555](http://arxiv.org/abs/2411.05555)|null|
@@ -28,7 +32,7 @@
 |**2024-10-22**|**Scattered Forest Search: Smarter Code Space Exploration with LLMs**|Jonathan Light et.al.|[2411.05010](http://arxiv.org/abs/2411.05010)|null|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
-|**2024-11-04**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
+|**2024-11-10**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
 |**2024-11-04**|**RAGViz: Diagnose and Visualize Retrieval-Augmented Generation**|Tevin Wang et.al.|[2411.01751](http://arxiv.org/abs/2411.01751)|**[link](https://github.com/cxcscmu/ragviz)**|
 |**2024-11-03**|**Autoformulation of Mathematical Optimization Models Using LLMs**|Nicolás Astorga et.al.|[2411.01679](http://arxiv.org/abs/2411.01679)|null|
 |**2024-11-06**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
@@ -236,6 +240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
 |**2024-11-11**|**Adaptive Conditional Expert Selection Network for Multi-domain Recommendation**|Kuiyao Dong et.al.|[2411.06826](http://arxiv.org/abs/2411.06826)|null|
 |**2024-11-11**|**WDMoE: Wireless Distributed Mixture of Experts for Large Language Models**|Nan Xue et.al.|[2411.06681](http://arxiv.org/abs/2411.06681)|null|
 |**2024-11-09**|**Learning Mixtures of Experts with EM**|Quentin Fruytier et.al.|[2411.06056](http://arxiv.org/abs/2411.06056)|null|
@@ -268,7 +273,7 @@
 |**2024-10-27**|**Towards a Blockchain and Opportunistic Edge Driven Metaverse of Everything**|Paula Fraga-Lamas et.al.|[2410.20594](http://arxiv.org/abs/2410.20594)|null|
 |**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
 |**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
-|**2024-10-26**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178](http://arxiv.org/abs/2410.20178)|**[link](https://github.com/jiazuoyu/pathweave)**|
+|**2024-11-12**|**LLMs Can Evolve Continually on Modality for X-Modal Reasoning**|Jiazuo Yu et.al.|[2410.20178](http://arxiv.org/abs/2410.20178)|**[link](https://github.com/jiazuoyu/pathweave)**|
 |**2024-10-25**|**DMT-HI: MOE-based Hyperbolic Interpretable Deep Manifold Transformation for Unspervised Dimensionality Reduction**|Zelin Zang et.al.|[2410.19504](http://arxiv.org/abs/2410.19504)|**[link](https://github.com/zangzelin/code_dmthi)**|
 |**2024-10-25**|**Hierarchical Mixture of Experts: Generalizable Learning for High-Level Synthesis**|Weikai Li et.al.|[2410.19225](http://arxiv.org/abs/2410.19225)|null|
 |**2024-10-24**|**Read-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**|Ruisi Cai et.al.|[2410.19123](http://arxiv.org/abs/2410.19123)|null|
@@ -359,7 +364,7 @@
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
 |**2024-09-30**|**HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models**|Bingshen Mu et.al.|[2409.19878](http://arxiv.org/abs/2409.19878)|null|
 |**2024-10-02**|**CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling**|Jihai Zhang et.al.|[2409.19291](http://arxiv.org/abs/2409.19291)|**[link](https://github.com/OpenSparseLLMs/CLIP-MoE)**|
-|**2024-11-07**|**SciDFM: A Large Language Model with Mixture-of-Experts for Science**|Liangtai Sun et.al.|[2409.18412](http://arxiv.org/abs/2409.18412)|null|
+|**2024-11-12**|**SciDFM: A Large Language Model with Mixture-of-Experts for Science**|Liangtai Sun et.al.|[2409.18412](http://arxiv.org/abs/2409.18412)|null|
 |**2024-11-01**|**Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE**|Xun Zhu et.al.|[2409.17508](http://arxiv.org/abs/2409.17508)|**[link](https://github.com/tsinghua-msiip/uni-med)**|
 |**2024-09-26**|**A Time Series is Worth Five Experts: Heterogeneous Mixture of Experts for Traffic Flow Prediction**|Guangyu Wang et.al.|[2409.17440](http://arxiv.org/abs/2409.17440)|**[link](https://github.com/sqlcow/TITAN)**|
 |**2024-09-24**|**Leveraging Mixture of Experts for Improved Speech Deepfake Detection**|Viola Negroni et.al.|[2409.16077](http://arxiv.org/abs/2409.16077)|null|
@@ -443,6 +448,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**A rich structure of renormalization group flows for Higgs-like models in 4 dimensions**|André LeClair et.al.|[2411.07476](http://arxiv.org/abs/2411.07476)|null|
+|**2024-11-12**|**Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions**|Siddharth Agarwal et.al.|[2411.07444](http://arxiv.org/abs/2411.07444)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
 |**2024-11-10**|**Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents**|Yu Gu et.al.|[2411.06559](http://arxiv.org/abs/2411.06559)|null|
 |**2024-11-10**|**MOCCA-III: Effects of pristine gas accretion and cluster migration on globular cluster evolution, global parameters and multiple stellar populations**|Mirek Giersz et.al.|[2411.06421](http://arxiv.org/abs/2411.06421)|null|
@@ -501,6 +508,7 @@
 |**2024-10-01**|**Duo-LLM: A Framework for Studying Adaptive Computation in Large Language Models**|Keivan Alizadeh et.al.|[2410.10846](http://arxiv.org/abs/2410.10846)|null|
 |**2024-10-15**|**The Discovery of Polarized Water Vapor Megamaser Emission in a Molecular Accretion Disk**|Jack F. Gallimore et.al.|[2410.10569](http://arxiv.org/abs/2410.10569)|null|
 |**2024-10-14**|**Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**|Siru Ouyang et.al.|[2410.10141](http://arxiv.org/abs/2410.10141)|null|
+|**2024-11-12**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
 |**2024-10-13**|**Super-Bandgap Electroluminescence from Cesium Lead Bromide**|Justin Sculley et.al.|[2410.09702](http://arxiv.org/abs/2410.09702)|null|
 |**2024-10-21**|**On Two Nucleons Near Unitarity with Perturbative Pions**|Yu Ping Teng et.al.|[2410.09653](http://arxiv.org/abs/2410.09653)|null|
 |**2024-10-11**|**Compact [OIII] emission-line regions ("Green Seeds") in $\mathrm{Hα}$ emitters at Cosmic Noon from JWST Observations**|Nuo Chen et.al.|[2410.08520](http://arxiv.org/abs/2410.08520)|null|
