@@ -240,6 +240,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing**|Xiaonan Nie et.al.|[2411.08446](http://arxiv.org/abs/2411.08446)|null|
+|**2024-11-12**|**Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**|Renzi Wang et.al.|[2411.08232](http://arxiv.org/abs/2411.08232)|null|
+|**2024-11-12**|**PERFT: Parameter-Efficient Routed Fine-Tuning for Mixture-of-Expert Model**|Yilun Liu et.al.|[2411.08212](http://arxiv.org/abs/2411.08212)|null|
+|**2024-11-08**|**Biodynamic Analysis of Alpine Skiing with a Skier-Ski-Snow Interaction Model**|Nan Gao et.al.|[2411.08056](http://arxiv.org/abs/2411.08056)|null|
 |**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834](http://arxiv.org/abs/2411.07834)|null|
 |**2024-11-11**|**Adaptive Conditional Expert Selection Network for Multi-domain Recommendation**|Kuiyao Dong et.al.|[2411.06826](http://arxiv.org/abs/2411.06826)|null|
 |**2024-11-11**|**WDMoE: Wireless Distributed Mixture of Experts for Large Language Models**|Nan Xue et.al.|[2411.06681](http://arxiv.org/abs/2411.06681)|null|
@@ -448,6 +452,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Thought Experiments in Design Fiction for Visualization**|Swaroop Panda et.al.|[2411.08621](http://arxiv.org/abs/2411.08621)|null|
+|**2024-11-12**|**A Geometric Substructure for Quantum Dynamics**|Anthony John Bracken et.al.|[2411.08230](http://arxiv.org/abs/2411.08230)|null|
+|**2024-11-08**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
 |**2024-11-12**|**A rich structure of renormalization group flows for Higgs-like models in 4 dimensions**|André LeClair et.al.|[2411.07476](http://arxiv.org/abs/2411.07476)|null|
 |**2024-11-12**|**Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions**|Siddharth Agarwal et.al.|[2411.07444](http://arxiv.org/abs/2411.07444)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
@@ -533,7 +540,7 @@
 |**2024-10-02**|**Speculative Coreset Selection for Task-Specific Fine-tuning**|Xiaoyu Zhang et.al.|[2410.01296](http://arxiv.org/abs/2410.01296)|null|
 |**2024-10-01**|**Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**|Michael R. Metel et.al.|[2410.01028](http://arxiv.org/abs/2410.01028)|null|
 |**2024-10-01**|**A Scheduling-Aware Defense Against Prefetching-Based Side-Channel Attacks**|Till Schlüter et.al.|[2410.00452](http://arxiv.org/abs/2410.00452)|null|
-|**2024-10-01**|**Galactic center G objects as dust-enshrouded stars near the supermassive black hole**|Michal Zajaček et.al.|[2410.00304](http://arxiv.org/abs/2410.00304)|null|
+|**2024-11-12**|**Galactic center G objects as dust-enshrouded stars near the supermassive black hole**|Michal Zajaček et.al.|[2410.00304](http://arxiv.org/abs/2410.00304)|null|
 |**2024-09-30**|**Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface**|Wenyue Hua et.al.|[2410.00079](http://arxiv.org/abs/2410.00079)|null|
 |**2024-09-30**|**Statistical view of orbital circularisation with 14 000 characterised TESS eclipsing binaries**|L. W. IJspeert et.al.|[2409.20540](http://arxiv.org/abs/2409.20540)|null|
 |**2024-09-30**|**New HI observations Toward the NGC 5055 Galaxy Group with FAST**|Xiao-Lan Liu et.al.|[2409.20109](http://arxiv.org/abs/2409.20109)|null|
@@ -641,6 +648,7 @@
 |**2024-07-09**|**Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1)**|Yanlong Peng et.al.|[2407.06590](http://arxiv.org/abs/2407.06590)|null|
 |**2024-07-05**|**Statistical investigations into the geometry and homology of random programs**|Jon Sporring et.al.|[2407.04854](http://arxiv.org/abs/2407.04854)|null|
 |**2024-07-05**|**Speculative Speech Recognition by Audio-Prefixed Low-Rank Adaptation of Language Models**|Bolaji Yusuf et.al.|[2407.04641](http://arxiv.org/abs/2407.04641)|null|
+|**2024-11-13**|**Black Holes with a charged quantum dust core**|R. Casadio et.al.|[2407.04146](http://arxiv.org/abs/2407.04146)|null|
 |**2024-08-23**|**A distance conjecture beyond moduli?**|Cédric Debusschere et.al.|[2407.03715](http://arxiv.org/abs/2407.03715)|null|
 |**2024-07-03**|**Braneworld Black Bounce to Transversable Wormhole Analytically Connected to an asymptotically $AdS_5$ Boundary**|T. M. Crispim et.al.|[2407.03528](http://arxiv.org/abs/2407.03528)|null|
 |**2024-07-03**|**Origin of anomalous magnetotransport in kagome superconductors AV $_{3}$Sb$_{5}$ (A=K,Rb,Cs)**|A. E. Koshelev et.al.|[2407.03189](http://arxiv.org/abs/2407.03189)|null|
