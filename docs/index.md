@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
+|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-14**|**Pie: Pooling CPU Memory for LLM Inference**|Yi Xu et.al.|[2411.09317](http://arxiv.org/abs/2411.09317)|null|
+|**2024-11-14**|**Reducing Reasoning Costs - The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-12**|**BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks**|Shubham Gandhi et.al.|[2411.07464](http://arxiv.org/abs/2411.07464)|null|
@@ -229,6 +233,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection**|Vima Gupta et.al.|[2411.08982](http://arxiv.org/abs/2411.08982)|null|
+|**2024-11-13**|**Sparse Upcycling: Inference Inefficient Finetuning**|Sasha Doubov et.al.|[2411.08968](http://arxiv.org/abs/2411.08968)|null|
 |**2024-11-13**|**LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing**|Xiaonan Nie et.al.|[2411.08446](http://arxiv.org/abs/2411.08446)|null|
 |**2024-11-12**|**Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**|Renzi Wang et.al.|[2411.08232](http://arxiv.org/abs/2411.08232)|null|
 |**2024-11-12**|**PERFT: Parameter-Efficient Routed Fine-Tuning for Mixture-of-Expert Model**|Yilun Liu et.al.|[2411.08212](http://arxiv.org/abs/2411.08212)|null|
@@ -439,6 +445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Nari Johnson et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
 |**2024-11-13**|**Thought Experiments in Design Fiction for Visualization**|Swaroop Panda et.al.|[2411.08621](http://arxiv.org/abs/2411.08621)|null|
 |**2024-11-12**|**A Geometric Substructure for Quantum Dynamics**|Anthony John Bracken et.al.|[2411.08230](http://arxiv.org/abs/2411.08230)|null|
 |**2024-11-08**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
