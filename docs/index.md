@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -17,7 +17,7 @@ layout: default
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
 |**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-14**|**Pie: Pooling CPU Memory for LLM Inference**|Yi Xu et.al.|[2411.09317](http://arxiv.org/abs/2411.09317)|null|
-|**2024-11-14**|**Reducing Reasoning Costs - The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
+|**2024-11-14**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-12**|**BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks**|Shubham Gandhi et.al.|[2411.07464](http://arxiv.org/abs/2411.07464)|null|
@@ -44,7 +44,7 @@ layout: default
 |**2024-10-31**|**Interpretable Language Modeling via Induction-head Ngram Models**|Eunji Kim et.al.|[2411.00066](http://arxiv.org/abs/2411.00066)|**[link](https://github.com/ejkim47/induction-gram)**|
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
-|**2024-10-29**|**Scaling LLM Inference with Optimized Sample Compute Allocation**|Kexun Zhang et.al.|[2410.22480](http://arxiv.org/abs/2410.22480)|null|
+|**2024-10-29**|**Scaling LLM Inference with Optimized Sample Compute Allocation**|Kexun Zhang et.al.|[2410.22480](http://arxiv.org/abs/2410.22480)|**[link](https://github.com/leililab/osca)**|
 |**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|
 |**2024-10-29**|**ProMoE: Fast MoE-based LLM Serving using Proactive Caching**|Xiaoniu Song et.al.|[2410.22134](http://arxiv.org/abs/2410.22134)|null|
 |**2024-10-28**|**MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**|Noel Elias et.al.|[2410.21548](http://arxiv.org/abs/2410.21548)|**[link](https://github.com/noelkelias/multitok)**|
@@ -452,7 +452,7 @@ layout: default
 |**2024-11-12**|**A rich structure of renormalization group flows for Higgs-like models in 4 dimensions**|André LeClair et.al.|[2411.07476](http://arxiv.org/abs/2411.07476)|null|
 |**2024-11-12**|**Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions**|Siddharth Agarwal et.al.|[2411.07444](http://arxiv.org/abs/2411.07444)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
-|**2024-11-10**|**Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents**|Yu Gu et.al.|[2411.06559](http://arxiv.org/abs/2411.06559)|null|
+|**2024-11-10**|**Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents**|Yu Gu et.al.|[2411.06559](http://arxiv.org/abs/2411.06559)|**[link](https://github.com/osu-nlp-group/webdreamer)**|
 |**2024-11-10**|**MOCCA-III: Effects of pristine gas accretion and cluster migration on globular cluster evolution, global parameters and multiple stellar populations**|Mirek Giersz et.al.|[2411.06421](http://arxiv.org/abs/2411.06421)|null|
 |**2024-11-10**|**Generating Mixcode Popular Songs with Artificial Intelligence: Concepts, Plans, and Speculations**|Abhishek Kaushik et.al.|[2411.06420](http://arxiv.org/abs/2411.06420)|null|
 |**2024-11-08**|**SSSD: Simply-Scalable Speculative Decoding**|Michele Marzollo et.al.|[2411.05894](http://arxiv.org/abs/2411.05894)|null|
