@@ -14,12 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
+|**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
+|**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
 |**2024-11-15**|**Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**|Zichen Song et.al.|[2411.10069](http://arxiv.org/abs/2411.10069)|null|
 |**2024-11-15**|**AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference**|Janghwan Lee et.al.|[2411.09909](http://arxiv.org/abs/2411.09909)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-14**|**Pie: Pooling CPU Memory for LLM Inference**|Yi Xu et.al.|[2411.09317](http://arxiv.org/abs/2411.09317)|null|
-|**2024-11-14**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
+|**2024-11-15**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
 |**2024-11-12**|**ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization**|Weibo Zhao et.al.|[2411.07762](http://arxiv.org/abs/2411.07762)|null|
 |**2024-11-12**|**BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks**|Shubham Gandhi et.al.|[2411.07464](http://arxiv.org/abs/2411.07464)|null|
@@ -42,7 +45,7 @@ layout: default
 |**2024-11-01**|**LLM-Based Misconfiguration Detection for AWS Serverless Computing**|Jinfeng Wen et.al.|[2411.00642](http://arxiv.org/abs/2411.00642)|null|
 |**2024-11-04**|**ReverseNER: A Self-Generated Example-Driven Framework for Zero-Shot Named Entity Recognition with Large Language Models**|Anbang Wang et.al.|[2411.00533](http://arxiv.org/abs/2411.00533)|null|
 |**2024-11-01**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
-|**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|null|
+|**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|**[link](https://github.com/argonne-lcf/llm-inference-bench)**|
 |**2024-10-31**|**Interpretable Language Modeling via Induction-head Ngram Models**|Eunji Kim et.al.|[2411.00066](http://arxiv.org/abs/2411.00066)|**[link](https://github.com/ejkim47/induction-gram)**|
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2024-10-30**|**BUZZ: Beehive-structured Sparse KV Cache with Segmented Heavy Hitters for Efficient LLM Inference**|Junqi Zhao et.al.|[2410.23079](http://arxiv.org/abs/2410.23079)|**[link](https://github.com/junqizhao888/buzz-llm)**|
@@ -203,7 +206,7 @@ layout: default
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522](http://arxiv.org/abs/2407.12522)|null|
 |**2024-07-17**|**LLM Inference Serving: Survey of Recent Advances and Opportunities**|Baolin Li et.al.|[2407.12391](http://arxiv.org/abs/2407.12391)|null|
 |**2024-10-11**|**Spectra: Surprising Effectiveness of Pretraining Ternary Language Models at Scale**|Ayush Kaushal et.al.|[2407.12327](http://arxiv.org/abs/2407.12327)|**[link](https://github.com/nolanoorg/spectrasuite)**|
-|**2024-07-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
+|**2024-11-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
 |**2024-08-16**|**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference**|Yuan Feng et.al.|[2407.11550](http://arxiv.org/abs/2407.11550)|**[link](https://github.com/ffy0/adakv)**|
 |**2024-07-15**|**Static Detection of Filesystem Vulnerabilities in Android Systems**|Yu-Tsung Lee et.al.|[2407.11279](http://arxiv.org/abs/2407.11279)|null|
 |**2024-10-03**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|**[link](https://github.com/hanguo97/flute)**|
@@ -212,7 +215,7 @@ layout: default
 |**2024-07-08**|**Empowering 1000 tokens/second on-device LLM prefilling with mllm-NPU**|Daliang Xu et.al.|[2407.05858](http://arxiv.org/abs/2407.05858)|**[link](https://github.com/ubiquitouslearning/mllm)**|
 |**2024-07-07**|**A Queueing Theoretic Perspective on Low-Latency LLM Inference with Variable Token Length**|Yuqing Yang et.al.|[2407.05347](http://arxiv.org/abs/2407.05347)|null|
 |**2024-07-06**|**Code Less, Align More: Efficient LLM Fine-tuning for Code Generation with Data Pruning**|Yun-Da Tsai et.al.|[2407.05040](http://arxiv.org/abs/2407.05040)|null|
-|**2024-08-02**|**Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design**|Yiyang Huang et.al.|[2407.04292](http://arxiv.org/abs/2407.04292)|**[link](https://github.com/hyy0613/corki)**|
+|**2024-11-16**|**Software-Hardware Co-Design For Embodied AI Robots**|Yiyang Huang et.al.|[2407.04292](http://arxiv.org/abs/2407.04292)|**[link](https://github.com/hyy0613/corki)**|
 |**2024-07-04**|**Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems**|Grant Wilkins et.al.|[2407.04014](http://arxiv.org/abs/2407.04014)|null|
 |**2024-10-30**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
 |**2024-06-29**|**When Robots Get Chatty: Grounding Multimodal Human-Robot Conversation and Collaboration**|Philipp Allgeuer et.al.|[2407.00518](http://arxiv.org/abs/2407.00518)|**[link](https://github.com/pallgeuer/chatty_robots)**|
@@ -235,6 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
+|**2024-11-16**|**Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts**|Jinqiang Long et.al.|[2411.10669](http://arxiv.org/abs/2411.10669)|**[link](https://github.com/metabrainagi/awaker)**|
 |**2024-11-15**|**Weakly-Supervised Multimodal Learning on MIMIC-CXR**|Andrea Agostini et.al.|[2411.10356](http://arxiv.org/abs/2411.10356)|null|
 |**2024-11-15**|**Pro-Prophet: Systematic Load Balancing Method for Efficient Parallel Training of Large-scale MoE Models**|Wei Wang et.al.|[2411.10003](http://arxiv.org/abs/2411.10003)|null|
 |**2024-11-13**|**Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection**|Vima Gupta et.al.|[2411.08982](http://arxiv.org/abs/2411.08982)|null|
@@ -292,7 +297,7 @@ layout: default
 |**2024-10-29**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[2410.15774](http://arxiv.org/abs/2410.15774)|**[link](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2024-10-21**|**ViMoE: An Empirical Study of Designing Vision Mixture-of-Experts**|Xumeng Han et.al.|[2410.15732](http://arxiv.org/abs/2410.15732)|null|
 |**2024-10-20**|**Unveiling and Consulting Core Experts in Retrieval-Augmented MoE-based LLMs**|Xin Zhou et.al.|[2410.15438](http://arxiv.org/abs/2410.15438)|null|
-|**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
+|**2024-11-16**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
 |**2024-10-19**|**MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning**|Suning Huang et.al.|[2410.14972](http://arxiv.org/abs/2410.14972)|null|
 |**2024-10-29**|**Collaboratively adding new knowledge to an LLM**|Rhui Dih Lee et.al.|[2410.14753](http://arxiv.org/abs/2410.14753)|**[link](https://github.com/RhuiDih/cl)**|
 |**2024-10-18**|**MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts**|Rachel S. Y. Teo et.al.|[2410.14574](http://arxiv.org/abs/2410.14574)|**[link](https://github.com/rachtsy/momentumsmoe)**|
@@ -449,6 +454,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Teapot: Efficiently Uncovering Spectre Gadgets in COTS Binaries**|Fangzheng Lin et.al.|[2411.11624](http://arxiv.org/abs/2411.11624)|null|
+|**2024-11-18**|**Diversity of disc viscosities can explain the period ratios of resonant and non-resonant systems of hot super-Earths and mini-Neptunes**|Bertram Bitsch et.al.|[2411.11452](http://arxiv.org/abs/2411.11452)|null|
+|**2024-11-17**|**First memoir on the asymptotics of certain infinite products**|Wadim Zudilin et.al.|[2411.11100](http://arxiv.org/abs/2411.11100)|null|
+|**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
+|**2024-11-16**|**SAM Decoding: Speculative Decoding via Suffix Automaton**|Yuxuan Hu et.al.|[2411.10666](http://arxiv.org/abs/2411.10666)|**[link](https://github.com/hyx1999/sam-decoding)**|
 |**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
 |**2024-11-14**|**Cosmic inflation in an extended non-commutative foliated quantum gravity: the wave function of the universe**|César A. Zen Vasconcellos et.al.|[2411.09756](http://arxiv.org/abs/2411.09756)|null|
 |**2024-11-15**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Samantha Dalal et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
@@ -636,7 +646,7 @@ layout: default
 |**2024-07-18**|**SecScale: A Scalable and Secure Trusted Execution Environment for Servers**|Ani Sunny et.al.|[2407.13572](http://arxiv.org/abs/2407.13572)|null|
 |**2024-07-17**|**RTL Verification for Secure Speculation Using Contract Shadow Logic**|Qinhan Tan et.al.|[2407.12232](http://arxiv.org/abs/2407.12232)|null|
 |**2024-07-16**|**Breakup dynamics of a neutron-halo projectile on heavy target at deep sub-barrier energies**|B. Mukeru et.al.|[2407.12129](http://arxiv.org/abs/2407.12129)|null|
-|**2024-07-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
+|**2024-11-16**|**PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation**|Branden Butler et.al.|[2407.11798](http://arxiv.org/abs/2407.11798)|null|
 |**2024-10-02**|**Optimized Multi-Token Joint Decoding with Auxiliary Model for LLM Inference**|Zongyue Qin et.al.|[2407.09722](http://arxiv.org/abs/2407.09722)|null|
 |**2024-07-17**|**Accelerating the inference of string generation-based chemical reaction models for industrial applications**|Mikhail Andronov et.al.|[2407.09685](http://arxiv.org/abs/2407.09685)|null|
 |**2024-09-12**|**Krylov complexity and chaos in deformed SYK models**|Shira Chapman et.al.|[2407.09604](http://arxiv.org/abs/2407.09604)|null|
