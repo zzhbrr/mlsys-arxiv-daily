@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
 |**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
@@ -238,6 +239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Ultra-Sparse Memory Network**|Zihao Huang et.al.|[2411.12364](http://arxiv.org/abs/2411.12364)|null|
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-16**|**Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts**|Jinqiang Long et.al.|[2411.10669](http://arxiv.org/abs/2411.10669)|**[link](https://github.com/metabrainagi/awaker)**|
 |**2024-11-15**|**Weakly-Supervised Multimodal Learning on MIMIC-CXR**|Andrea Agostini et.al.|[2411.10356](http://arxiv.org/abs/2411.10356)|null|
@@ -454,6 +456,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing**|Ruyi Ding et.al.|[2411.12508](http://arxiv.org/abs/2411.12508)|null|
+|**2024-11-18**|**Continuous Speculative Decoding for Autoregressive Image Generation**|Zili Wang et.al.|[2411.11925](http://arxiv.org/abs/2411.11925)|**[link](https://github.com/markxcloud/cspd)**|
 |**2024-11-18**|**Teapot: Efficiently Uncovering Spectre Gadgets in COTS Binaries**|Fangzheng Lin et.al.|[2411.11624](http://arxiv.org/abs/2411.11624)|null|
 |**2024-11-18**|**Diversity of disc viscosities can explain the period ratios of resonant and non-resonant systems of hot super-Earths and mini-Neptunes**|Bertram Bitsch et.al.|[2411.11452](http://arxiv.org/abs/2411.11452)|null|
 |**2024-11-17**|**First memoir on the asymptotics of certain infinite products**|Wadim Zudilin et.al.|[2411.11100](http://arxiv.org/abs/2411.11100)|null|
@@ -584,7 +588,7 @@ layout: default
 |**2024-08-28**|**Indirect nonlinear interaction between toroidal Alfvén eigenmode and ion temperature gradient mode mediated by zonal structures**|Qian Fang et.al.|[2408.15782](http://arxiv.org/abs/2408.15782)|null|
 |**2024-09-19**|**Learning Harmonized Representations for Speculative Sampling**|Lefan Zhang et.al.|[2408.15766](http://arxiv.org/abs/2408.15766)|null|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
-|**2024-08-27**|**The companion mass distribution of post common envelope hot subdwarf binaries: evidence for boosted and disrupted magnetic braking?**|Lisa Blomberg et.al.|[2408.15334](http://arxiv.org/abs/2408.15334)|null|
+|**2024-11-18**|**The companion mass distribution of post common envelope hot subdwarf binaries: evidence for boosted and disrupted magnetic braking?**|Lisa Blomberg et.al.|[2408.15334](http://arxiv.org/abs/2408.15334)|null|
 |**2024-08-27**|**The Way To Circumbinary Planets**|Hans J Deeg et.al.|[2408.15307](http://arxiv.org/abs/2408.15307)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-26**|**SO as shock tracer in protoplanetary disks: the AB Aurigae case**|A. Dutrey et.al.|[2408.14276](http://arxiv.org/abs/2408.14276)|null|
