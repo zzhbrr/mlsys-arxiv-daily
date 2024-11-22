@@ -21,17 +21,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-21**|**InstCache: A Predictive Cache for LLM Serving**|Longwei Zou et.al.|[2411.13820](http://arxiv.org/abs/2411.13820)|null|
+|**2024-11-21**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
 |**2024-11-20**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|null|
-|**2024-11-20**|**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**|Zhuohan Gu et.al.|[2411.13009](http://arxiv.org/abs/2411.13009)|null|
+|**2024-11-21**|**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**|Zhuohan Gu et.al.|[2411.13009](http://arxiv.org/abs/2411.13009)|null|
 |**2024-11-15**|**An exploration of the effect of quantisation on energy consumption and inference time of StarCoder2**|Pepijn de Reus et.al.|[2411.12758](http://arxiv.org/abs/2411.12758)|null|
 |**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
-|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
+|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|**[link](https://github.com/yc2367/bitmod-hpca-25)**|
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
 |**2024-11-15**|**Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**|Zichen Song et.al.|[2411.10069](http://arxiv.org/abs/2411.10069)|null|
 |**2024-11-15**|**AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference**|Janghwan Lee et.al.|[2411.09909](http://arxiv.org/abs/2411.09909)|null|
-|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
+|**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|**[link](https://github.com/SqueezeAILab/SqueezedAttention)**|
 |**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-14**|**Pie: Pooling CPU Memory for LLM Inference**|Yi Xu et.al.|[2411.09317](http://arxiv.org/abs/2411.09317)|null|
 |**2024-11-15**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
@@ -260,7 +261,7 @@
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-16**|**Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts**|Jinqiang Long et.al.|[2411.10669](http://arxiv.org/abs/2411.10669)|**[link](https://github.com/metabrainagi/awaker)**|
 |**2024-11-15**|**Weakly-Supervised Multimodal Learning on MIMIC-CXR**|Andrea Agostini et.al.|[2411.10356](http://arxiv.org/abs/2411.10356)|null|
-|**2024-11-15**|**Pro-Prophet: Systematic Load Balancing Method for Efficient Parallel Training of Large-scale MoE Models**|Wei Wang et.al.|[2411.10003](http://arxiv.org/abs/2411.10003)|null|
+|**2024-11-21**|**Pro-Prophet: A Systematic Load Balancing Method for Efficient Parallel Training of Large-scale MoE Models**|Wei Wang et.al.|[2411.10003](http://arxiv.org/abs/2411.10003)|null|
 |**2024-11-13**|**Lynx: Enabling Efficient MoE Inference through Dynamic Batch-Aware Expert Selection**|Vima Gupta et.al.|[2411.08982](http://arxiv.org/abs/2411.08982)|null|
 |**2024-11-13**|**Sparse Upcycling: Inference Inefficient Finetuning**|Sasha Doubov et.al.|[2411.08968](http://arxiv.org/abs/2411.08968)|null|
 |**2024-11-13**|**LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing**|Xiaonan Nie et.al.|[2411.08446](http://arxiv.org/abs/2411.08446)|null|
@@ -475,6 +476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**THz optical response of Ba(Fe $_{1-x}$Ni$_x$)$_2$As$_2$ films analyzed within the three-band Eliashberg s$_\pm$ -wave model**|Yurii A. Aleshchenko et.al.|[2411.14011](http://arxiv.org/abs/2411.14011)|null|
 |**2024-11-20**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|null|
 |**2024-11-20**|**Far-field Boundary Conditions for Airfoil Simulation at High Incidence in Steady, Incompressible, Two-dimensional Flow**|Narges Golmirzaee et.al.|[2411.13077](http://arxiv.org/abs/2411.13077)|null|
 |**2024-11-19**|**Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing**|Ruyi Ding et.al.|[2411.12508](http://arxiv.org/abs/2411.12508)|null|
@@ -546,7 +548,7 @@
 |**2024-10-15**|**DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure**|Yunfan Xiong et.al.|[2410.11744](http://arxiv.org/abs/2410.11744)|null|
 |**2024-10-15**|**Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling**|Wenda Xu et.al.|[2410.11325](http://arxiv.org/abs/2410.11325)|null|
 |**2024-10-15**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|null|
-|**2024-10-14**|**Unveiling dust, molecular gas, and high star formation efficiency in extremely UV-bright star-forming galaxies at $z\sim 2.1-3.6$**|M. Dessauges-Zavadsky et.al.|[2410.11121](http://arxiv.org/abs/2410.11121)|null|
+|**2024-11-20**|**Unveiling dust, molecular gas, and high star formation efficiency in extremely UV bright star-forming galaxies at $z\sim 2.1-3.6$**|M. Dessauges-Zavadsky et.al.|[2410.11121](http://arxiv.org/abs/2410.11121)|null|
 |**2024-10-01**|**Duo-LLM: A Framework for Studying Adaptive Computation in Large Language Models**|Keivan Alizadeh et.al.|[2410.10846](http://arxiv.org/abs/2410.10846)|null|
 |**2024-10-15**|**The Discovery of Polarized Water Vapor Megamaser Emission in a Molecular Accretion Disk**|Jack F. Gallimore et.al.|[2410.10569](http://arxiv.org/abs/2410.10569)|null|
 |**2024-10-14**|**Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**|Siru Ouyang et.al.|[2410.10141](http://arxiv.org/abs/2410.10141)|null|
@@ -664,7 +666,7 @@
 |**2024-07-22**|**AI for Handball: predicting and explaining the 2024 Olympic Games tournament with Deep Learning and Large Language Models**|Florian Felice et.al.|[2407.15987](http://arxiv.org/abs/2407.15987)|null|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-23**|**Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**|Shao-Yu Fu et.al.|[2407.15824](http://arxiv.org/abs/2407.15824)|null|
-|**2024-11-20**|**SNIP: Speculative Execution and Non-Interference Preservation for Compiler Transformations**|Sören van der Wall et.al.|[2407.15080](http://arxiv.org/abs/2407.15080)|null|
+|**2024-11-21**|**SNIP: Speculative Execution and Non-Interference Preservation for Compiler Transformations**|Sören van der Wall et.al.|[2407.15080](http://arxiv.org/abs/2407.15080)|null|
 |**2024-10-21**|**Is the difference between deep hedging and delta hedging a statistical arbitrage?**|Pascal François et.al.|[2407.14736](http://arxiv.org/abs/2407.14736)|**[link](https://github.com/cpmendoza/DeepHedging_StatisticalArbitrage)**|
 |**2024-07-19**|**Rational Bubbles: A Clarification**|Tomohiro Hirano et.al.|[2407.14017](http://arxiv.org/abs/2407.14017)|null|
 |**2024-07-18**|**Surface roughening in nanoparticle catalysts**|Cameron J. Owen et.al.|[2407.13643](http://arxiv.org/abs/2407.13643)|null|
