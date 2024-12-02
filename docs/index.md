@@ -14,9 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**A dynamic parallel method for performance optimization on hybrid CPUs**|Luo Yu et.al.|[2411.19542](http://arxiv.org/abs/2411.19542)|null|
+|**2024-11-28**|**Marconi: Prefix Caching for the Era of Hybrid LLMs**|Rui Pan et.al.|[2411.19379](http://arxiv.org/abs/2411.19379)|null|
+|**2024-11-28**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146](http://arxiv.org/abs/2411.19146)|null|
 |**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|
-|**2024-11-27**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
-|**2024-11-27**|**Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
+|**2024-11-29**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
+|**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
 |**2024-11-24**|**Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments**|Nikoleta Iliakopoulou et.al.|[2411.17741](http://arxiv.org/abs/2411.17741)|null|
 |**2024-11-18**|**Generative AI on the Edge: Architecture and Performance Evaluation**|Zeinab Nezami et.al.|[2411.17712](http://arxiv.org/abs/2411.17712)|null|
 |**2024-11-26**|**Toward High-Performance LLM Serving: A Simulation-Based Approach for Identifying Optimal Parallelism**|Yi-Chien Lin et.al.|[2411.17651](http://arxiv.org/abs/2411.17651)|null|
@@ -141,7 +144,7 @@ layout: default
 |**2024-10-09**|**LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management**|Yi Xiong et.al.|[2410.00428](http://arxiv.org/abs/2410.00428)|null|
 |**2024-11-06**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002](http://arxiv.org/abs/2409.20002)|null|
 |**2024-09-28**|**SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models**|Yi Wu et.al.|[2409.19471](http://arxiv.org/abs/2409.19471)|null|
-|**2024-09-27**|**Confidential Prompting: Protecting User Prompts from Cloud LLM Providers**|In Gim et.al.|[2409.19134](http://arxiv.org/abs/2409.19134)|null|
+|**2024-11-28**|**Confidential Prompting: Protecting User Prompts from Cloud LLM Providers**|In Gim et.al.|[2409.19134](http://arxiv.org/abs/2409.19134)|null|
 |**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|**[link](https://github.com/yuchenxia/llm4ias)**|
 |**2024-10-18**|**Efficient Arbitrary Precision Acceleration for Large Language Models on GPU Tensor Cores**|Shaobo Ma et.al.|[2409.17870](http://arxiv.org/abs/2409.17870)|null|
 |**2024-09-25**|**Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction**|Zhenmei Shi et.al.|[2409.17422](http://arxiv.org/abs/2409.17422)|**[link](https://github.com/salesforceairesearch/gemfilter)**|
@@ -261,12 +264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758](http://arxiv.org/abs/2411.19758)|null|
+|**2024-11-28**|**On the effectiveness of discrete representations in sparse mixture of experts**|Giang Do et.al.|[2411.19402](http://arxiv.org/abs/2411.19402)|null|
+|**2024-11-28**|**Bayesian Cluster Weighted Gaussian Models**|Panagiotis Papastamoulis et.al.|[2411.18957](http://arxiv.org/abs/2411.18957)|null|
+|**2024-11-27**|**UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS**|Haomin Zhuang et.al.|[2411.18797](http://arxiv.org/abs/2411.18797)|null|
 |**2024-11-27**|**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**|Eduard Zamfir et.al.|[2411.18466](http://arxiv.org/abs/2411.18466)|null|
 |**2024-11-27**|**Mixture of Experts in Image Classification: What's the Sweet Spot?**|Mathurin Videau et.al.|[2411.18322](http://arxiv.org/abs/2411.18322)|null|
 |**2024-11-26**|**$H^3$ Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs**|Selim Furkan Tekin et.al.|[2411.17792](http://arxiv.org/abs/2411.17792)|**[link](https://github.com/sftekin/h3fusion)**|
 |**2024-11-26**|**The Tempered Finite Element Method**|Antoine Quiriny et.al.|[2411.17564](http://arxiv.org/abs/2411.17564)|null|
 |**2024-11-25**|**Staleness-Centric Optimizations for Efficient Diffusion MoE Inference**|Jiajun Luo et.al.|[2411.16786](http://arxiv.org/abs/2411.16786)|null|
-|**2024-11-26**|**MH-MoE: Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
+|**2024-11-29**|**MH-MoE: Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
 |**2024-11-25**|**LDACP: Long-Delayed Ad Conversions Prediction Model for Bidding Strategy**|Peng Cui et.al.|[2411.16095](http://arxiv.org/abs/2411.16095)|null|
 |**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
 |**2024-11-24**|**LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**|Xiaoye Qu et.al.|[2411.15708](http://arxiv.org/abs/2411.15708)|**[link](https://github.com/opensparsellms/llama-moe-v2)**|
@@ -293,7 +300,7 @@ layout: default
 |**2024-11-08**|**NeKo: Toward Post Recognition Generative Correction Large Language Models with Task-Oriented Experts**|Yen-Ting Lin et.al.|[2411.05945](http://arxiv.org/abs/2411.05945)|null|
 |**2024-11-05**|**DA-MoE: Addressing Depth-Sensitivity in Graph-Level Analysis through Mixture of Experts**|Zelin Yao et.al.|[2411.03025](http://arxiv.org/abs/2411.03025)|**[link](https://github.com/celin-yao/da-moe)**|
 |**2024-11-05**|**Advancing Robust Underwater Acoustic Target Recognition through Multi-task Learning and Multi-Gate Mixture-of-Experts**|Yuan Xie et.al.|[2411.02787](http://arxiv.org/abs/2411.02787)|null|
-|**2024-11-01**|**SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models**|Jianyi Zhang et.al.|[2411.02433](http://arxiv.org/abs/2411.02433)|null|
+|**2024-11-27**|**SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models**|Jianyi Zhang et.al.|[2411.02433](http://arxiv.org/abs/2411.02433)|null|
 |**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|null|
 |**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
 |**2024-11-06**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
@@ -492,6 +499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-28**|**Night-Side Relativistic Electron Precipitation Bursts in the Outer Radiation Belt: Insights from ELFIN and THEMIS**|Xi Lu et.al.|[2411.19232](http://arxiv.org/abs/2411.19232)|null|
 |**2024-11-27**|**Magnetic field tuned superconducting and normal phase magnetism in CeCo $_{0.5}$Rh$_{0.5}$In$_{5}$**|A. Howell et.al.|[2411.18540](http://arxiv.org/abs/2411.18540)|null|
 |**2024-11-27**|**Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding**|Ziyin Zhang et.al.|[2411.18462](http://arxiv.org/abs/2411.18462)|**[link](https://github.com/geralt-targaryen/svip)**|
 |**2024-11-27**|**6G Takes Shape**|Jeffrey G. Andrews et.al.|[2411.18435](http://arxiv.org/abs/2411.18435)|null|
@@ -511,7 +519,7 @@ layout: default
 |**2024-11-18**|**Diversity of disc viscosities can explain the period ratios of resonant and non-resonant systems of hot super-Earths and mini-Neptunes**|Bertram Bitsch et.al.|[2411.11452](http://arxiv.org/abs/2411.11452)|null|
 |**2024-11-25**|**First memoir on the asymptotics of certain infinite products**|Wadim Zudilin et.al.|[2411.11100](http://arxiv.org/abs/2411.11100)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
-|**2024-11-16**|**SAM Decoding: Speculative Decoding via Suffix Automaton**|Yuxuan Hu et.al.|[2411.10666](http://arxiv.org/abs/2411.10666)|**[link](https://github.com/hyx1999/sam-decoding)**|
+|**2024-11-29**|**SAM Decoding: Speculative Decoding via Suffix Automaton**|Yuxuan Hu et.al.|[2411.10666](http://arxiv.org/abs/2411.10666)|**[link](https://github.com/hyx1999/sam-decoding)**|
 |**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
 |**2024-11-14**|**Cosmic inflation in an extended non-commutative foliated quantum gravity: the wave function of the universe**|César A. Zen Vasconcellos et.al.|[2411.09756](http://arxiv.org/abs/2411.09756)|null|
 |**2024-11-15**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Samantha Dalal et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
