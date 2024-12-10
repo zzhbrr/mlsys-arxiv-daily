@@ -14,11 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
+|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|null|
+|**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
+|**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|
+|**2024-12-09**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
 |**2024-12-06**|**Can Large Language Models Serve as Effective Classifiers for Hierarchical Multi-Label Classification of Scientific Documents at Industrial Scale?**|Seyed Amin Tabatabaei et.al.|[2412.05137](http://arxiv.org/abs/2412.05137)|null|
 |**2024-12-06**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
 |**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|
-|**2024-12-05**|**Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems**|Ayush Gundawar et.al.|[2412.04569](http://arxiv.org/abs/2412.04569)|null|
+|**2024-12-09**|**Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems**|Ayush Gundawar et.al.|[2412.04569](http://arxiv.org/abs/2412.04569)|null|
 |**2024-12-03**|**Multi-Bin Batching for Increasing LLM Inference Throughput**|Ozgur Guldogan et.al.|[2412.04504](http://arxiv.org/abs/2412.04504)|null|
 |**2024-11-29**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|null|
 |**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|
@@ -32,7 +35,7 @@ layout: default
 |**2024-11-25**|**Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration**|Zhuofan Wen et.al.|[2412.00061](http://arxiv.org/abs/2412.00061)|null|
 |**2024-11-29**|**A dynamic parallel method for performance optimization on hybrid CPUs**|Luo Yu et.al.|[2411.19542](http://arxiv.org/abs/2411.19542)|null|
 |**2024-12-04**|**Marconi: Prefix Caching for the Era of Hybrid LLMs**|Rui Pan et.al.|[2411.19379](http://arxiv.org/abs/2411.19379)|null|
-|**2024-12-03**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146](http://arxiv.org/abs/2411.19146)|null|
+|**2024-12-08**|**Puzzle: Distillation-Based NAS for Inference-Optimized LLMs**|Akhiad Bercovich et.al.|[2411.19146](http://arxiv.org/abs/2411.19146)|null|
 |**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|
 |**2024-11-29**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
 |**2024-11-28**|**MiniKV: Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache**|Akshat Sharma et.al.|[2411.18077](http://arxiv.org/abs/2411.18077)|null|
@@ -85,7 +88,7 @@ layout: default
 |**2024-10-30**|**A Theoretical Perspective for Speculative Decoding Algorithm**|Ming Yin et.al.|[2411.00841](http://arxiv.org/abs/2411.00841)|null|
 |**2024-11-01**|**Phase Diagram of Vision Large Language Models Inference: A Perspective from Interaction across Image and Instruction**|Houjing Wei et.al.|[2411.00646](http://arxiv.org/abs/2411.00646)|null|
 |**2024-11-01**|**LLM-Based Misconfiguration Detection for AWS Serverless Computing**|Jinfeng Wen et.al.|[2411.00642](http://arxiv.org/abs/2411.00642)|null|
-|**2024-11-04**|**ReverseNER: A Self-Generated Example-Driven Framework for Zero-Shot Named Entity Recognition with Large Language Models**|Anbang Wang et.al.|[2411.00533](http://arxiv.org/abs/2411.00533)|null|
+|**2024-12-08**|**ReverseNER: A Self-Generated Example-Driven Framework for Zero-Shot Named Entity Recognition with Large Language Models**|Anbang Wang et.al.|[2411.00533](http://arxiv.org/abs/2411.00533)|null|
 |**2024-11-01**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
 |**2024-10-31**|**LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators**|Krishna Teja Chitty-Venkata et.al.|[2411.00136](http://arxiv.org/abs/2411.00136)|**[link](https://github.com/argonne-lcf/llm-inference-bench)**|
 |**2024-10-31**|**Interpretable Language Modeling via Induction-head Ngram Models**|Eunji Kim et.al.|[2411.00066](http://arxiv.org/abs/2411.00066)|**[link](https://github.com/ejkim47/induction-gram)**|
@@ -280,9 +283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
+|**2024-12-09**|**UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts**|Zhen Wan et.al.|[2412.06340](http://arxiv.org/abs/2412.06340)|null|
+|**2024-12-08**|**Hallucination-aware Optimization for Large Language Model-empowered Communications**|Yinqiu Liu et.al.|[2412.06007](http://arxiv.org/abs/2412.06007)|null|
+|**2024-12-08**|**An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism**|Qing Zhang et.al.|[2412.05821](http://arxiv.org/abs/2412.05821)|null|
+|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-07**|**SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts**|Gengze Zhou et.al.|[2412.05552](http://arxiv.org/abs/2412.05552)|**[link](https://github.com/gengzezhou/same)**|
+|**2024-12-07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|Boxun Xu et.al.|[2412.05540](http://arxiv.org/abs/2412.05540)|null|
 |**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023](http://arxiv.org/abs/2412.05023)|null|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
-|**2024-12-05**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
+|**2024-12-09**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
 |**2024-12-05**|**Meta-Reinforcement Learning With Mixture of Experts for Generalizable Multi Access in Heterogeneous Wireless Networks**|Zhaoyang Liu et.al.|[2412.03850](http://arxiv.org/abs/2412.03850)|null|
 |**2024-12-04**|**Convolutional Neural Networks and Mixture of Experts for Intrusion Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483](http://arxiv.org/abs/2412.03483)|null|
 |**2024-12-03**|**CA-MoE: Channel-Adapted MoE for Incremental Weather Forecasting**|Hao Chen et.al.|[2412.02503](http://arxiv.org/abs/2412.02503)|null|
@@ -464,7 +474,7 @@ layout: default
 |**2024-09-18**|**GRIN: GRadient-INformed MoE**|Liyuan Liu et.al.|[2409.12136](http://arxiv.org/abs/2409.12136)|null|
 |**2024-09-18**|**Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0**|Zhiyong Wang et.al.|[2409.11909](http://arxiv.org/abs/2409.11909)|null|
 |**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
-|**2024-09-19**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|**[link](https://github.com/dice-group/lola)**|
+|**2024-12-09**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|**[link](https://github.com/dice-group/lola)**|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
 |**2024-11-20**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|**[link](https://github.com/emzucas/minidrive)**|
 |**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
@@ -527,6 +537,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Inelastic H + H^+_3 Collision rates and their impact in the determination of the excitation temperature of H^+_3**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
+|**2024-12-09**|**Systematic comparison of deep generative models applied to multivariate financial time series**|Howard Caulfield et.al.|[2412.06417](http://arxiv.org/abs/2412.06417)|null|
+|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
+|**2024-12-06**|**Revisiting the hallmark freezing and melting points in colloidal dispersions and the search for the elusive coexistence region**|J. Galen Wang et.al.|[2412.05422](http://arxiv.org/abs/2412.05422)|null|
 |**2024-12-06**|**Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients**|Tirtharaj Barman et.al.|[2412.05235](http://arxiv.org/abs/2412.05235)|null|
 |**2024-12-06**|**Predictive Window Decoding for Fault-Tolerant Quantum Programs**|Joshua Viszlai et.al.|[2412.05115](http://arxiv.org/abs/2412.05115)|null|
 |**2024-12-04**|**Successive magnetic transitions in the spin-5/2 easy-axis triangular-lattice antiferromagnet Na $_2$BaMn(PO$_4$)$_2$ : A neutron diffraction study**|Chuandi Zhang et.al.|[2412.03149](http://arxiv.org/abs/2412.03149)|null|
@@ -543,7 +557,7 @@ layout: default
 |**2024-11-27**|**Comprehensive Kernel Safety in the Spectre Era: Mitigations and Performance Evaluation (Extended Version)**|Davide Davoli et.al.|[2411.18094](http://arxiv.org/abs/2411.18094)|null|
 |**2024-11-27**|**Stellar evolution along the AGB as revealed by the shape of Miras' visual light curves**|D. T. Hoai et.al.|[2411.18044](http://arxiv.org/abs/2411.18044)|null|
 |**2024-11-26**|**Stable curves and chromatic polynomials**|Bernhard Reinke et.al.|[2411.17551](http://arxiv.org/abs/2411.17551)|null|
-|**2024-11-24**|**A revamped understanding of Cosmic Rays and Gamma-Ray Bursts**|A. De Rújula et.al.|[2411.15850](http://arxiv.org/abs/2411.15850)|null|
+|**2024-12-08**|**A revamped understanding of Cosmic Rays and Gamma-Ray Bursts**|A. De Rújula et.al.|[2411.15850](http://arxiv.org/abs/2411.15850)|null|
 |**2024-11-20**|**The Impossible Test: A 2024 Unsolvable Dataset and A Chance for an AGI Quiz**|David Noever et.al.|[2411.14486](http://arxiv.org/abs/2411.14486)|null|
 |**2024-12-03**|**Mediating Modes of Thought: LLM's for design scripting**|Moritz Rietschel et.al.|[2411.14485](http://arxiv.org/abs/2411.14485)|null|
 |**2024-11-21**|**THz optical response of Ba(Fe $_{1-x}$Ni$_x$)$_2$As$_2$ films analyzed within the three-band Eliashberg s$_\pm$ -wave model**|Yurii A. Aleshchenko et.al.|[2411.14011](http://arxiv.org/abs/2411.14011)|null|
@@ -643,7 +657,7 @@ layout: default
 |**2024-10-02**|**Time Variation of the Solar Tachocline**|Sarbani Basu et.al.|[2410.01895](http://arxiv.org/abs/2410.01895)|null|
 |**2024-10-11**|**Interpretable Contrastive Monte Carlo Tree Search Reasoning**|Zitian Gao et.al.|[2410.01707](http://arxiv.org/abs/2410.01707)|**[link](https://github.com/zitian-gao/sc-mcts)**|
 |**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|**[link](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)**|
-|**2024-10-02**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|null|
+|**2024-12-09**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|null|
 |**2024-10-02**|**Speculative Coreset Selection for Task-Specific Fine-tuning**|Xiaoyu Zhang et.al.|[2410.01296](http://arxiv.org/abs/2410.01296)|null|
 |**2024-10-01**|**Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**|Michael R. Metel et.al.|[2410.01028](http://arxiv.org/abs/2410.01028)|null|
 |**2024-10-01**|**A Scheduling-Aware Defense Against Prefetching-Based Side-Channel Attacks**|Till Schlüter et.al.|[2410.00452](http://arxiv.org/abs/2410.00452)|null|
@@ -701,7 +715,7 @@ layout: default
 |**2024-08-16**|**Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**|Xianzhen Luo et.al.|[2408.08696](http://arxiv.org/abs/2408.08696)|null|
 |**2024-08-15**|**KOALA: Enhancing Speculative Decoding for LLM via Multi-Layer Draft Heads with Adversarial Learning**|Kaiqi Zhang et.al.|[2408.08146](http://arxiv.org/abs/2408.08146)|null|
 |**2024-08-19**|**Coupling without Communication and Drafter-Invariant Speculative Decoding**|Majid Daliri et.al.|[2408.07978](http://arxiv.org/abs/2408.07978)|**[link](https://github.com/majid-daliri/disd)**|
-|**2024-08-14**|**The Small Sizes and High Implied Densities of `Little Red Dots' with Balmer Breaks Could Explain Their Broad Emission Lines Without an AGN**|Josephine F. W. Baggen et.al.|[2408.07745](http://arxiv.org/abs/2408.07745)|null|
+|**2024-12-06**|**The Small Sizes and High Implied Densities of `Little Red Dots' with Balmer Breaks Could Explain Their Broad Emission Lines Without an AGN**|Josephine F. W. Baggen et.al.|[2408.07745](http://arxiv.org/abs/2408.07745)|null|
 |**2024-08-14**|**Only One Relation Possible? Modeling the Ambiguity in Event Temporal Relation Extraction**|Yutong Hu et.al.|[2408.07353](http://arxiv.org/abs/2408.07353)|null|
 |**2024-07-23**|**Stablecoin Runs and Disclosure Policy in the Presence of Large Sales**|Brian Zhu et.al.|[2408.07227](http://arxiv.org/abs/2408.07227)|null|
 |**2024-08-13**|**Speculations on Uncertainty and Humane Algorithms**|Nicholas Gray et.al.|[2408.06736](http://arxiv.org/abs/2408.06736)|null|
