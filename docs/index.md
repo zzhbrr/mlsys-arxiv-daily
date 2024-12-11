@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Asynchronous LLM Function Calling**|In Gim et.al.|[2412.07017](http://arxiv.org/abs/2412.07017)|null|
+|**2024-12-08**|**Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization**|Dongwei Wang et.al.|[2412.06858](http://arxiv.org/abs/2412.06858)|null|
 |**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|null|
 |**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
 |**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|
@@ -283,11 +285,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**MoDULA: Mixture of Domain-Specific and Universal LoRA for Multi-Task Learning**|Yufei Ma et.al.|[2412.07405](http://arxiv.org/abs/2412.07405)|null|
+|**2024-12-10**|**Post-Training Statistical Calibration for Higher Activation Sparsity**|Vui Seng Chua et.al.|[2412.07174](http://arxiv.org/abs/2412.07174)|**[link](https://github.com/intellabs/scap)**|
+|**2024-12-10**|**MoE-CAP: Cost-Accuracy-Performance Benchmarking for Mixture-of-Experts Systems**|Yao Fu et.al.|[2412.07067](http://arxiv.org/abs/2412.07067)|null|
+|**2024-12-07**|**Partition of Unity Physics-Informed Neural Networks (POU-PINNs): An Unsupervised Framework for Physics-Informed Domain Decomposition and Mixtures of Experts**|Arturo Rodriguez et.al.|[2412.06842](http://arxiv.org/abs/2412.06842)|null|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
 |**2024-12-09**|**UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts**|Zhen Wan et.al.|[2412.06340](http://arxiv.org/abs/2412.06340)|null|
 |**2024-12-08**|**Hallucination-aware Optimization for Large Language Model-empowered Communications**|Yinqiu Liu et.al.|[2412.06007](http://arxiv.org/abs/2412.06007)|null|
-|**2024-12-08**|**An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism**|Qing Zhang et.al.|[2412.05821](http://arxiv.org/abs/2412.05821)|null|
-|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-10**|**An Entailment Tree Generation Approach for Multimodal Multi-Hop Question Answering with Mixture-of-Experts and Iterative Feedback Mechanism**|Qing Zhang et.al.|[2412.05821](http://arxiv.org/abs/2412.05821)|null|
+|**2024-12-10**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
 |**2024-12-07**|**SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts**|Gengze Zhou et.al.|[2412.05552](http://arxiv.org/abs/2412.05552)|**[link](https://github.com/gengzezhou/same)**|
 |**2024-12-07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|Boxun Xu et.al.|[2412.05540](http://arxiv.org/abs/2412.05540)|null|
 |**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023](http://arxiv.org/abs/2412.05023)|null|
@@ -537,6 +543,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Mapping the spatial extent of HI-rich absorbers using MgII absorption along gravitational arcs**|Trystyn A. M. Berg et.al.|[2412.07652](http://arxiv.org/abs/2412.07652)|null|
+|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|null|
+|**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
+|**2024-12-10**|**KPZ-like scaling on a high-dimensional hypersphere**|Daniil Fedotov et.al.|[2412.07432](http://arxiv.org/abs/2412.07432)|null|
+|**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
+|**2024-12-10**|**Relativistic Mott transition in strongly correlated artificial graphene**|Liguo Ma et.al.|[2412.07150](http://arxiv.org/abs/2412.07150)|null|
+|**2024-12-10**|**Gravitational focusing and horizon entropy for higher-spin fields**|Zihan Yan et.al.|[2412.07107](http://arxiv.org/abs/2412.07107)|null|
 |**2024-12-09**|**Inelastic H + H^+_3 Collision rates and their impact in the determination of the excitation temperature of H^+_3**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
 |**2024-12-09**|**Systematic comparison of deep generative models applied to multivariate financial time series**|Howard Caulfield et.al.|[2412.06417](http://arxiv.org/abs/2412.06417)|null|
 |**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
@@ -555,7 +568,7 @@ layout: default
 |**2024-11-27**|**6G Takes Shape**|Jeffrey G. Andrews et.al.|[2411.18435](http://arxiv.org/abs/2411.18435)|null|
 |**2024-11-27**|**An evolution of matrix-valued orthogonal polynomials**|Erik Koelink et.al.|[2411.18362](http://arxiv.org/abs/2411.18362)|null|
 |**2024-11-27**|**Comprehensive Kernel Safety in the Spectre Era: Mitigations and Performance Evaluation (Extended Version)**|Davide Davoli et.al.|[2411.18094](http://arxiv.org/abs/2411.18094)|null|
-|**2024-11-27**|**Stellar evolution along the AGB as revealed by the shape of Miras' visual light curves**|D. T. Hoai et.al.|[2411.18044](http://arxiv.org/abs/2411.18044)|null|
+|**2024-12-10**|**Stellar evolution along the AGB as revealed by the shape of Miras' visual light curves**|D. T. Hoai et.al.|[2411.18044](http://arxiv.org/abs/2411.18044)|null|
 |**2024-11-26**|**Stable curves and chromatic polynomials**|Bernhard Reinke et.al.|[2411.17551](http://arxiv.org/abs/2411.17551)|null|
 |**2024-12-08**|**A revamped understanding of Cosmic Rays and Gamma-Ray Bursts**|A. De Rújula et.al.|[2411.15850](http://arxiv.org/abs/2411.15850)|null|
 |**2024-11-20**|**The Impossible Test: A 2024 Unsolvable Dataset and A Chance for an AGI Quiz**|David Noever et.al.|[2411.14486](http://arxiv.org/abs/2411.14486)|null|
@@ -575,7 +588,7 @@ layout: default
 |**2024-11-15**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Samantha Dalal et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
 |**2024-11-13**|**Thought Experiments in Design Fiction for Visualization**|Swaroop Panda et.al.|[2411.08621](http://arxiv.org/abs/2411.08621)|null|
 |**2024-11-12**|**A Geometric Substructure for Quantum Dynamics**|Anthony John Bracken et.al.|[2411.08230](http://arxiv.org/abs/2411.08230)|null|
-|**2024-11-08**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
+|**2024-12-10**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
 |**2024-11-12**|**A rich structure of renormalization group flows for Higgs-like models in 4 dimensions**|André LeClair et.al.|[2411.07476](http://arxiv.org/abs/2411.07476)|null|
 |**2024-11-12**|**Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions**|Siddharth Agarwal et.al.|[2411.07444](http://arxiv.org/abs/2411.07444)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
