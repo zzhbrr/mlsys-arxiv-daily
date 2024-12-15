@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -19,14 +19,14 @@ layout: default
 |**2024-12-12**|**TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**|Xingchen Song et.al.|[2412.08237](http://arxiv.org/abs/2412.08237)|null|
 |**2024-12-09**|**Asynchronous LLM Function Calling**|In Gim et.al.|[2412.07017](http://arxiv.org/abs/2412.07017)|null|
 |**2024-12-08**|**Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization**|Dongwei Wang et.al.|[2412.06858](http://arxiv.org/abs/2412.06858)|null|
-|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|null|
+|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|**[link](https://github.com/retrieva/japagen)**|
 |**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
 |**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|
 |**2024-12-09**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
 |**2024-12-06**|**Can Large Language Models Serve as Effective Classifiers for Hierarchical Multi-Label Classification of Scientific Documents at Industrial Scale?**|Seyed Amin Tabatabaei et.al.|[2412.05137](http://arxiv.org/abs/2412.05137)|null|
 |**2024-12-11**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
 |**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|
-|**2024-12-09**|**Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems**|Ayush Gundawar et.al.|[2412.04569](http://arxiv.org/abs/2412.04569)|null|
+|**2024-12-09**|**Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems**|Ayush Gundawar et.al.|[2412.04569](http://arxiv.org/abs/2412.04569)|**[link](https://github.com/ayushgun/mqms)**|
 |**2024-12-03**|**Multi-Bin Batching for Increasing LLM Inference Throughput**|Ozgur Guldogan et.al.|[2412.04504](http://arxiv.org/abs/2412.04504)|null|
 |**2024-11-29**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|null|
 |**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|

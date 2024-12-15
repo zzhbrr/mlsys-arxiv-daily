@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,14 +26,14 @@
 |**2024-12-12**|**TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**|Xingchen Song et.al.|[2412.08237](http://arxiv.org/abs/2412.08237)|null|
 |**2024-12-09**|**Asynchronous LLM Function Calling**|In Gim et.al.|[2412.07017](http://arxiv.org/abs/2412.07017)|null|
 |**2024-12-08**|**Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization**|Dongwei Wang et.al.|[2412.06858](http://arxiv.org/abs/2412.06858)|null|
-|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|null|
+|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|**[link](https://github.com/retrieva/japagen)**|
 |**2024-12-09**|**SparseAccelerate: Efficient Long-Context Inference for Mid-Range GPUs**|James Vo et.al.|[2412.06198](http://arxiv.org/abs/2412.06198)|null|
 |**2024-12-08**|**XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**|Weizhuo Li et.al.|[2412.05896](http://arxiv.org/abs/2412.05896)|null|
 |**2024-12-09**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
 |**2024-12-06**|**Can Large Language Models Serve as Effective Classifiers for Hierarchical Multi-Label Classification of Scientific Documents at Industrial Scale?**|Seyed Amin Tabatabaei et.al.|[2412.05137](http://arxiv.org/abs/2412.05137)|null|
 |**2024-12-11**|**Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference**|Qingyuan Li et.al.|[2412.04964](http://arxiv.org/abs/2412.04964)|null|
 |**2024-12-06**|**GUIDE: A Global Unified Inference Engine for Deploying Large Language Models in Heterogeneous Environments**|Yanyu Chen et.al.|[2412.04788](http://arxiv.org/abs/2412.04788)|null|
-|**2024-12-09**|**Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems**|Ayush Gundawar et.al.|[2412.04569](http://arxiv.org/abs/2412.04569)|null|
+|**2024-12-09**|**Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems**|Ayush Gundawar et.al.|[2412.04569](http://arxiv.org/abs/2412.04569)|**[link](https://github.com/ayushgun/mqms)**|
 |**2024-12-03**|**Multi-Bin Batching for Increasing LLM Inference Throughput**|Ozgur Guldogan et.al.|[2412.04504](http://arxiv.org/abs/2412.04504)|null|
 |**2024-11-29**|**BatchLLM: Optimizing Large Batched LLM Inference with Global Prefix Sharing and Throughput-oriented Token Batching**|Zhen Zheng et.al.|[2412.03594](http://arxiv.org/abs/2412.03594)|null|
 |**2024-12-04**|**Unifying KV Cache Compression for Large Language Models with LeanKV**|Yanqi Zhang et.al.|[2412.03131](http://arxiv.org/abs/2412.03131)|null|
@@ -285,7 +285,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -293,7 +293,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## MoE
 
@@ -558,7 +558,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -818,7 +818,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -850,7 +850,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
