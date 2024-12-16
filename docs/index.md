@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -561,7 +561,7 @@ layout: default
 |**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
 |**2024-12-10**|**Relativistic Mott transition in strongly correlated artificial graphene**|Liguo Ma et.al.|[2412.07150](http://arxiv.org/abs/2412.07150)|null|
 |**2024-12-10**|**Gravitational focusing and horizon entropy for higher-spin fields**|Zihan Yan et.al.|[2412.07107](http://arxiv.org/abs/2412.07107)|null|
-|**2024-12-09**|**Inelastic H + H^+_3 Collision rates and their impact in the determination of the excitation temperature of H^+_3**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
+|**2024-12-09**|**Inelastic H + H $^+_3$ Collision rates and their impact in the determination of the excitation temperature of H$^+_3$**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
 |**2024-12-09**|**Systematic comparison of deep generative models applied to multivariate financial time series**|Howard Caulfield et.al.|[2412.06417](http://arxiv.org/abs/2412.06417)|null|
 |**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
 |**2024-12-06**|**Revisiting the hallmark freezing and melting points in colloidal dispersions and the search for the elusive coexistence region**|J. Galen Wang et.al.|[2412.05422](http://arxiv.org/abs/2412.05422)|null|
@@ -681,7 +681,7 @@ layout: default
 |**2024-10-02**|**Time Variation of the Solar Tachocline**|Sarbani Basu et.al.|[2410.01895](http://arxiv.org/abs/2410.01895)|null|
 |**2024-10-11**|**Interpretable Contrastive Monte Carlo Tree Search Reasoning**|Zitian Gao et.al.|[2410.01707](http://arxiv.org/abs/2410.01707)|**[link](https://github.com/zitian-gao/sc-mcts)**|
 |**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|**[link](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)**|
-|**2024-12-09**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|null|
+|**2024-12-09**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|**[link](https://github.com/DebarghaG/forte)**|
 |**2024-10-02**|**Speculative Coreset Selection for Task-Specific Fine-tuning**|Xiaoyu Zhang et.al.|[2410.01296](http://arxiv.org/abs/2410.01296)|null|
 |**2024-10-01**|**Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**|Michael R. Metel et.al.|[2410.01028](http://arxiv.org/abs/2410.01028)|null|
 |**2024-10-01**|**A Scheduling-Aware Defense Against Prefetching-Based Side-Channel Attacks**|Till Schlüter et.al.|[2410.00452](http://arxiv.org/abs/2410.00452)|null|

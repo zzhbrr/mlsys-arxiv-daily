@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -285,7 +285,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -293,7 +293,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## MoE
 
@@ -558,7 +558,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -574,7 +574,7 @@
 |**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
 |**2024-12-10**|**Relativistic Mott transition in strongly correlated artificial graphene**|Liguo Ma et.al.|[2412.07150](http://arxiv.org/abs/2412.07150)|null|
 |**2024-12-10**|**Gravitational focusing and horizon entropy for higher-spin fields**|Zihan Yan et.al.|[2412.07107](http://arxiv.org/abs/2412.07107)|null|
-|**2024-12-09**|**Inelastic H + H^+_3 Collision rates and their impact in the determination of the excitation temperature of H^+_3**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
+|**2024-12-09**|**Inelastic H + H $^+_3$ Collision rates and their impact in the determination of the excitation temperature of H$^+_3$**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
 |**2024-12-09**|**Systematic comparison of deep generative models applied to multivariate financial time series**|Howard Caulfield et.al.|[2412.06417](http://arxiv.org/abs/2412.06417)|null|
 |**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
 |**2024-12-06**|**Revisiting the hallmark freezing and melting points in colloidal dispersions and the search for the elusive coexistence region**|J. Galen Wang et.al.|[2412.05422](http://arxiv.org/abs/2412.05422)|null|
@@ -694,7 +694,7 @@
 |**2024-10-02**|**Time Variation of the Solar Tachocline**|Sarbani Basu et.al.|[2410.01895](http://arxiv.org/abs/2410.01895)|null|
 |**2024-10-11**|**Interpretable Contrastive Monte Carlo Tree Search Reasoning**|Zitian Gao et.al.|[2410.01707](http://arxiv.org/abs/2410.01707)|**[link](https://github.com/zitian-gao/sc-mcts)**|
 |**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|**[link](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)**|
-|**2024-12-09**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|null|
+|**2024-12-09**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|**[link](https://github.com/DebarghaG/forte)**|
 |**2024-10-02**|**Speculative Coreset Selection for Task-Specific Fine-tuning**|Xiaoyu Zhang et.al.|[2410.01296](http://arxiv.org/abs/2410.01296)|null|
 |**2024-10-01**|**Draft on the Fly: Adaptive Self-Speculative Decoding using Cosine Similarity**|Michael R. Metel et.al.|[2410.01028](http://arxiv.org/abs/2410.01028)|null|
 |**2024-10-01**|**A Scheduling-Aware Defense Against Prefetching-Based Side-Channel Attacks**|Till Schlüter et.al.|[2410.00452](http://arxiv.org/abs/2410.00452)|null|
@@ -818,7 +818,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -850,7 +850,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
