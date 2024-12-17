@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -287,7 +287,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -295,14 +295,14 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
-|**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|null|
+|**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2024-12-12**|**Memory Layers at Scale**|Vincent-Pierre Berges et.al.|[2412.09764](http://arxiv.org/abs/2412.09764)|**[link](https://github.com/facebookresearch/memory)**|
 |**2024-12-12**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278](http://arxiv.org/abs/2412.09278)|**[link](https://github.com/shawnhuang497/medplib)**|
 |**2024-12-12**|**MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning**|Lulu Zhao et.al.|[2412.08946](http://arxiv.org/abs/2412.08946)|null|
@@ -331,7 +331,7 @@
 |**2024-11-30**|**Mixture of Experts for Node Classification**|Yu Shi et.al.|[2412.00418](http://arxiv.org/abs/2412.00418)|null|
 |**2024-11-30**|**HiMoE: Heterogeneity-Informed Mixture-of-Experts for Fair Spatial-Temporal Forecasting**|Shaohan Yu et.al.|[2412.00316](http://arxiv.org/abs/2412.00316)|null|
 |**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
-|**2024-11-26**|**Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning**|Mingyu Cao et.al.|[2412.00069](http://arxiv.org/abs/2412.00069)|null|
+|**2024-11-26**|**Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning**|Mingyu Cao et.al.|[2412.00069](http://arxiv.org/abs/2412.00069)|**[link](https://github.com/duterscmy/cd-moe)**|
 |**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758](http://arxiv.org/abs/2411.19758)|null|
 |**2024-11-28**|**On the effectiveness of discrete representations in sparse mixture of experts**|Giang Do et.al.|[2411.19402](http://arxiv.org/abs/2411.19402)|null|
 |**2024-11-28**|**Bayesian Cluster Weighted Gaussian Models**|Panagiotis Papastamoulis et.al.|[2411.18957](http://arxiv.org/abs/2411.18957)|**[link](https://github.com/mqbssppe/BGCWM)**|
@@ -563,7 +563,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -573,7 +573,7 @@
 |**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
 |**2024-12-11**|**Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality**|Jesus L. Lobo et.al.|[2412.08273](http://arxiv.org/abs/2412.08273)|null|
 |**2024-12-10**|**Mapping the spatial extent of HI-rich absorbers using MgII absorption along gravitational arcs**|Trystyn A. M. Berg et.al.|[2412.07652](http://arxiv.org/abs/2412.07652)|null|
-|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|null|
+|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|**[link](https://github.com/hwlongcuhk/coinclip)**|
 |**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
 |**2024-12-10**|**KPZ-like scaling on a high-dimensional hypersphere**|Daniil Fedotov et.al.|[2412.07432](http://arxiv.org/abs/2412.07432)|null|
 |**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
@@ -581,7 +581,7 @@
 |**2024-12-10**|**Gravitational focusing and horizon entropy for higher-spin fields**|Zihan Yan et.al.|[2412.07107](http://arxiv.org/abs/2412.07107)|null|
 |**2024-12-09**|**Inelastic H + H $^+_3$ Collision rates and their impact in the determination of the excitation temperature of H$^+_3$**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
 |**2024-12-09**|**Systematic comparison of deep generative models applied to multivariate financial time series**|Howard Caulfield et.al.|[2412.06417](http://arxiv.org/abs/2412.06417)|null|
-|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
+|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|**[link](https://github.com/coinse/installamatic)**|
 |**2024-12-06**|**Revisiting the hallmark freezing and melting points in colloidal dispersions and the search for the elusive coexistence region**|J. Galen Wang et.al.|[2412.05422](http://arxiv.org/abs/2412.05422)|null|
 |**2024-12-06**|**Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients**|Tirtharaj Barman et.al.|[2412.05235](http://arxiv.org/abs/2412.05235)|null|
 |**2024-12-06**|**Predictive Window Decoding for Fault-Tolerant Quantum Programs**|Joshua Viszlai et.al.|[2412.05115](http://arxiv.org/abs/2412.05115)|null|
@@ -823,7 +823,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -855,7 +855,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

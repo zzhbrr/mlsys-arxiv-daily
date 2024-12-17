@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -291,7 +291,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
-|**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|null|
+|**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2024-12-12**|**Memory Layers at Scale**|Vincent-Pierre Berges et.al.|[2412.09764](http://arxiv.org/abs/2412.09764)|**[link](https://github.com/facebookresearch/memory)**|
 |**2024-12-12**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278](http://arxiv.org/abs/2412.09278)|**[link](https://github.com/shawnhuang497/medplib)**|
 |**2024-12-12**|**MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning**|Lulu Zhao et.al.|[2412.08946](http://arxiv.org/abs/2412.08946)|null|
@@ -320,7 +320,7 @@ layout: default
 |**2024-11-30**|**Mixture of Experts for Node Classification**|Yu Shi et.al.|[2412.00418](http://arxiv.org/abs/2412.00418)|null|
 |**2024-11-30**|**HiMoE: Heterogeneity-Informed Mixture-of-Experts for Fair Spatial-Temporal Forecasting**|Shaohan Yu et.al.|[2412.00316](http://arxiv.org/abs/2412.00316)|null|
 |**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
-|**2024-11-26**|**Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning**|Mingyu Cao et.al.|[2412.00069](http://arxiv.org/abs/2412.00069)|null|
+|**2024-11-26**|**Condense, Don't Just Prune: Enhancing Efficiency and Performance in MoE Layer Pruning**|Mingyu Cao et.al.|[2412.00069](http://arxiv.org/abs/2412.00069)|**[link](https://github.com/duterscmy/cd-moe)**|
 |**2024-11-29**|**LaVIDE: A Language-Vision Discriminator for Detecting Changes in Satellite Image with Map References**|Shuguo Jiang et.al.|[2411.19758](http://arxiv.org/abs/2411.19758)|null|
 |**2024-11-28**|**On the effectiveness of discrete representations in sparse mixture of experts**|Giang Do et.al.|[2411.19402](http://arxiv.org/abs/2411.19402)|null|
 |**2024-11-28**|**Bayesian Cluster Weighted Gaussian Models**|Panagiotis Papastamoulis et.al.|[2411.18957](http://arxiv.org/abs/2411.18957)|**[link](https://github.com/mqbssppe/BGCWM)**|
@@ -560,7 +560,7 @@ layout: default
 |**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
 |**2024-12-11**|**Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality**|Jesus L. Lobo et.al.|[2412.08273](http://arxiv.org/abs/2412.08273)|null|
 |**2024-12-10**|**Mapping the spatial extent of HI-rich absorbers using MgII absorption along gravitational arcs**|Trystyn A. M. Berg et.al.|[2412.07652](http://arxiv.org/abs/2412.07652)|null|
-|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|null|
+|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|**[link](https://github.com/hwlongcuhk/coinclip)**|
 |**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
 |**2024-12-10**|**KPZ-like scaling on a high-dimensional hypersphere**|Daniil Fedotov et.al.|[2412.07432](http://arxiv.org/abs/2412.07432)|null|
 |**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
@@ -568,7 +568,7 @@ layout: default
 |**2024-12-10**|**Gravitational focusing and horizon entropy for higher-spin fields**|Zihan Yan et.al.|[2412.07107](http://arxiv.org/abs/2412.07107)|null|
 |**2024-12-09**|**Inelastic H + H $^+_3$ Collision rates and their impact in the determination of the excitation temperature of H$^+_3$**|Daniel Felix-Gonzalez et.al.|[2412.06697](http://arxiv.org/abs/2412.06697)|null|
 |**2024-12-09**|**Systematic comparison of deep generative models applied to multivariate financial time series**|Howard Caulfield et.al.|[2412.06417](http://arxiv.org/abs/2412.06417)|null|
-|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
+|**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|**[link](https://github.com/coinse/installamatic)**|
 |**2024-12-06**|**Revisiting the hallmark freezing and melting points in colloidal dispersions and the search for the elusive coexistence region**|J. Galen Wang et.al.|[2412.05422](http://arxiv.org/abs/2412.05422)|null|
 |**2024-12-06**|**Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients**|Tirtharaj Barman et.al.|[2412.05235](http://arxiv.org/abs/2412.05235)|null|
 |**2024-12-06**|**Predictive Window Decoding for Fault-Tolerant Quantum Programs**|Joshua Viszlai et.al.|[2412.05115](http://arxiv.org/abs/2412.05115)|null|
