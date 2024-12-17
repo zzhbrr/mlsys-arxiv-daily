@@ -14,8 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
+|**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
+|**2024-12-15**|**Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning**|Yun Qu et.al.|[2412.11120](http://arxiv.org/abs/2412.11120)|**[link](https://github.com/cloud-qu/lare)**|
+|**2024-12-15**|**NITRO: LLM Inference on Intel Laptop NPUs**|Anthony Fei et.al.|[2412.11053](http://arxiv.org/abs/2412.11053)|**[link](https://github.com/abdelfattah-lab/nitro)**|
 |**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
-|**2024-12-11**|**TURBOATTENTION: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
+|**2024-12-16**|**TurboAttention: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
 |**2024-12-11**|**Lachesis: Predicting LLM Inference Accuracy using Structural Properties of Reasoning Paths**|Naryeong Kim et.al.|[2412.08281](http://arxiv.org/abs/2412.08281)|null|
 |**2024-12-12**|**TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**|Xingchen Song et.al.|[2412.08237](http://arxiv.org/abs/2412.08237)|null|
 |**2024-12-09**|**Asynchronous LLM Function Calling**|In Gim et.al.|[2412.07017](http://arxiv.org/abs/2412.07017)|null|
@@ -68,6 +72,7 @@ layout: default
 |**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|**[link](https://github.com/yc2367/bitmod-hpca-25)**|
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
+|**2024-12-16**|**SAM Decoding: Speculative Decoding via Suffix Automaton**|Yuxuan Hu et.al.|[2411.10666](http://arxiv.org/abs/2411.10666)|**[link](https://github.com/hyx1999/sam-decoding)**|
 |**2024-11-15**|**Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**|Zichen Song et.al.|[2411.10069](http://arxiv.org/abs/2411.10069)|null|
 |**2024-11-15**|**AMXFP4: Taming Activation Outliers with Asymmetric Microscaling Floating-Point for 4-bit LLM Inference**|Janghwan Lee et.al.|[2411.09909](http://arxiv.org/abs/2411.09909)|null|
 |**2024-11-23**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|**[link](https://github.com/SqueezeAILab/SqueezedAttention)**|
@@ -290,6 +295,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
+|**2024-12-16**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
+|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
+|**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
+|**2024-12-14**|**DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification**|Yuhao Wang et.al.|[2412.10650](http://arxiv.org/abs/2412.10650)|**[link](https://github.com/924973292/demo)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2024-12-12**|**Memory Layers at Scale**|Vincent-Pierre Berges et.al.|[2412.09764](http://arxiv.org/abs/2412.09764)|**[link](https://github.com/facebookresearch/memory)**|
@@ -556,6 +566,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**Heat kernel and local index theorem for open complex manifolds with $\mathbb{C}^{\ast }$ -action**|Jih-Hsin Cheng et.al.|[2412.11037](http://arxiv.org/abs/2412.11037)|null|
+|**2024-12-14**|**The JWST-NIRCam View of Sagittarius C. II. Evidence for Magnetically Dominated HII Regions in the CMZ**|John Bally et.al.|[2412.10983](http://arxiv.org/abs/2412.10983)|null|
+|**2024-12-14**|**Interference in Fuzzy Dark Matter Filaments: Idealised Models and Statistics**|Tim Zimmermann et.al.|[2412.10829](http://arxiv.org/abs/2412.10829)|null|
+|**2024-12-09**|**Constrained Decoding with Speculative Lookaheads**|Nishanth Nakshatri et.al.|[2412.10418](http://arxiv.org/abs/2412.10418)|null|
 |**2024-12-12**|**Asymmetric Temperature Variations In Protoplanetary disks: I. Linear Theory and Corotating Spirals**|Zhaohuan Zhu et.al.|[2412.09571](http://arxiv.org/abs/2412.09571)|null|
 |**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
 |**2024-12-11**|**Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality**|Jesus L. Lobo et.al.|[2412.08273](http://arxiv.org/abs/2412.08273)|null|
@@ -598,7 +612,7 @@ layout: default
 |**2024-11-30**|**Diversity of disc viscosities can explain the period ratios of resonant and non-resonant systems of hot super-Earths and mini-Neptunes**|Bertram Bitsch et.al.|[2411.11452](http://arxiv.org/abs/2411.11452)|null|
 |**2024-11-25**|**First memoir on the asymptotics of certain infinite products**|Wadim Zudilin et.al.|[2411.11100](http://arxiv.org/abs/2411.11100)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
-|**2024-11-29**|**SAM Decoding: Speculative Decoding via Suffix Automaton**|Yuxuan Hu et.al.|[2411.10666](http://arxiv.org/abs/2411.10666)|**[link](https://github.com/hyx1999/sam-decoding)**|
+|**2024-12-16**|**SAM Decoding: Speculative Decoding via Suffix Automaton**|Yuxuan Hu et.al.|[2411.10666](http://arxiv.org/abs/2411.10666)|**[link](https://github.com/hyx1999/sam-decoding)**|
 |**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
 |**2024-11-14**|**Cosmic inflation in an extended non-commutative foliated quantum gravity: the wave function of the universe**|César A. Zen Vasconcellos et.al.|[2411.09756](http://arxiv.org/abs/2411.09756)|null|
 |**2024-11-15**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Samantha Dalal et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
@@ -705,7 +719,7 @@ layout: default
 |**2024-12-12**|**Consequences of Minimal Entanglement in Bosonic Field Theories**|Spencer Chang et.al.|[2409.13030](http://arxiv.org/abs/2409.13030)|null|
 |**2024-09-17**|**UNCOVER: Significant Reddening in Cosmic Noon Quiescent Galaxies**|Jared Siegel et.al.|[2409.11457](http://arxiv.org/abs/2409.11457)|null|
 |**2024-09-17**|**The ALMA-CRISTAL Survey: Spatially-resolved Star Formation Activity and Dust Content in 4 < z < 6 Star-forming Galaxies**|Juno Li et.al.|[2409.10961](http://arxiv.org/abs/2409.10961)|null|
-|**2024-10-28**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|**[link](https://github.com/JackZeng0208/DynaSD)**|
+|**2024-12-14**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|**[link](https://github.com/JackZeng0208/DynaSD)**|
 |**2024-09-16**|**Aggregation-diffusion in heterogeneous environments**|Jonathan R. Potts et.al.|[2409.10147](http://arxiv.org/abs/2409.10147)|**[link](https://github.com/jonathan-potts/AggDiffHet)**|
 |**2024-12-12**|**Pure Lovelock Gravity regular black holes**|Milko Estrada et.al.|[2409.09559](http://arxiv.org/abs/2409.09559)|null|
 |**2024-09-14**|**Ground State Phase Diagram of $\text{SU}(3)$ $t$-$J$ Chain**|Junhao Zhang et.al.|[2409.09344](http://arxiv.org/abs/2409.09344)|null|
