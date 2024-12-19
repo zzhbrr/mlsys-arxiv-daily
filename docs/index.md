@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-17**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
+|**2024-12-18**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
 |**2024-12-17**|**A System for Microserving of LLMs**|Hongyi Jin et.al.|[2412.12488](http://arxiv.org/abs/2412.12488)|null|
 |**2024-12-17**|**LITA: An Efficient LLM-assisted Iterative Topic Augmentation Framework**|Chia-Hsuan Chang et.al.|[2412.12459](http://arxiv.org/abs/2412.12459)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
@@ -127,7 +127,7 @@ layout: default
 |**2024-10-23**|**AdaRankGrad: Adaptive Gradient-Rank and Moments for Memory-Efficient LLMs Training and Fine-Tuning**|Yehonathan Refael et.al.|[2410.17881](http://arxiv.org/abs/2410.17881)|null|
 |**2024-10-22**|**FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs**|Haoran Lin et.al.|[2410.16663](http://arxiv.org/abs/2410.16663)|null|
 |**2024-10-22**|**Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency**|Prafulla Kumar Choubey et.al.|[2410.16597](http://arxiv.org/abs/2410.16597)|null|
-|**2024-12-17**|**MagicPIG: LSH Sampling for Efficient LLM Generation**|Zhuoming Chen et.al.|[2410.16179](http://arxiv.org/abs/2410.16179)|**[link](https://github.com/infini-ai-lab/magicpig)**|
+|**2024-12-18**|**MagicPIG: LSH Sampling for Efficient LLM Generation**|Zhuoming Chen et.al.|[2410.16179](http://arxiv.org/abs/2410.16179)|**[link](https://github.com/infini-ai-lab/magicpig)**|
 |**2024-10-21**|**Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning**|Arijit Das et.al.|[2410.16029](http://arxiv.org/abs/2410.16029)|**[link](https://github.com/selfsupervised-ai/natural-galore)**|
 |**2024-10-21**|**RAC: Efficient LLM Factuality Correction with Retrieval Augmentation**|Changmao Li et.al.|[2410.15667](http://arxiv.org/abs/2410.15667)|**[link](https://github.com/jlab-nlp/retrieval-augmented-correction)**|
 |**2024-10-21**|**Bayesian Concept Bottleneck Models with LLM Priors**|Jean Feng et.al.|[2410.15555](http://arxiv.org/abs/2410.15555)|**[link](https://github.com/jjfeng/bc-llm)**|
@@ -298,11 +298,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**SEKE: Specialised Experts for Keyword Extraction**|Matej Martinc et.al.|[2412.14087](http://arxiv.org/abs/2412.14087)|**[link](https://github.com/matejmartinc/seke_keyword_extraction)**|
+|**2024-12-18**|**MedCoT: Medical Chain of Thought via Hierarchical Expert**|Jiaxiang Liu et.al.|[2412.13736](http://arxiv.org/abs/2412.13736)|**[link](https://github.com/jxliu-ai/medcot)**|
 |**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|null|
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
-|**2024-12-16**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
+|**2024-12-18**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
 |**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-14**|**DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification**|Yuhao Wang et.al.|[2412.10650](http://arxiv.org/abs/2412.10650)|**[link](https://github.com/924973292/demo)**|
@@ -572,9 +574,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Current and secular accretion rates of EX Hydrae**|K. Beuermann et.al.|[2412.13850](http://arxiv.org/abs/2412.13850)|null|
+|**2024-12-18**|**Fool's gold: ligand-receptor interactions and the origins of life**|Betony Adams et.al.|[2412.13836](http://arxiv.org/abs/2412.13836)|null|
+|**2024-12-18**|**Diffusion models and stochastic quantisation in lattice field theory**|Gert Aarts et.al.|[2412.13704](http://arxiv.org/abs/2412.13704)|null|
+|**2024-12-17**|**Distributed Speculative Execution for Resilient Cloud Applications**|Tianyu Li et.al.|[2412.13314](http://arxiv.org/abs/2412.13314)|null|
+|**2024-12-17**|**Where do X-ray low surface brightness clusters sit with respect to filaments?**|S. Zarattini et.al.|[2412.13258](http://arxiv.org/abs/2412.13258)|null|
 |**2024-12-17**|**Agnosticism About Artificial Consciousness**|Tom McClelland et.al.|[2412.13145](http://arxiv.org/abs/2412.13145)|null|
 |**2024-12-17**|**Insight into the Starburst Nature of Galaxy GN-z11 with JWST MIRI Spectroscopy**|J. Álvarez-Márquez et.al.|[2412.12826](http://arxiv.org/abs/2412.12826)|null|
-|**2024-12-17**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
+|**2024-12-18**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
 |**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
 |**2024-12-15**|**Heat kernel and local index theorem for open complex manifolds with $\mathbb{C}^{\ast }$ -action**|Jih-Hsin Cheng et.al.|[2412.11037](http://arxiv.org/abs/2412.11037)|null|
 |**2024-12-14**|**The JWST-NIRCam View of Sagittarius C. II. Evidence for Magnetically Dominated HII Regions in the CMZ**|John Bally et.al.|[2412.10983](http://arxiv.org/abs/2412.10983)|null|
