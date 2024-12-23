@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
+|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|null|
 |**2024-12-19**|**PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**|Jiayi Wu et.al.|[2412.14510](http://arxiv.org/abs/2412.14510)|**[link](https://github.com/wujwyi/pa-rag)**|
 |**2024-12-19**|**Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems**|Genki Kusano et.al.|[2412.14454](http://arxiv.org/abs/2412.14454)|null|
 |**2024-12-18**|**A Survey on LLM Inference-Time Self-Improvement**|Xiangjue Dong et.al.|[2412.14352](http://arxiv.org/abs/2412.14352)|**[link](https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement)**|
@@ -96,7 +98,7 @@ layout: default
 |**2024-10-22**|**Scattered Forest Search: Smarter Code Space Exploration with LLMs**|Jonathan Light et.al.|[2411.05010](http://arxiv.org/abs/2411.05010)|null|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-05**|**CE-CoLLM: Efficient and Adaptive Large Language Models Through Cloud-Edge Collaboration**|Hongpeng Jin et.al.|[2411.02829](http://arxiv.org/abs/2411.02829)|null|
-|**2024-12-13**|**DroidSpeak: KV Cache Sharing for Efficient Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
+|**2024-12-19**|**DroidSpeak: KV Cache Sharing for Cross-LLM Communication and Multi-LLM Serving**|Yuhan Liu et.al.|[2411.02820](http://arxiv.org/abs/2411.02820)|null|
 |**2024-11-10**|**Context Parallelism for Scalable Million-Token Inference**|Amy Yang et.al.|[2411.01783](http://arxiv.org/abs/2411.01783)|null|
 |**2024-11-04**|**RAGViz: Diagnose and Visualize Retrieval-Augmented Generation**|Tevin Wang et.al.|[2411.01751](http://arxiv.org/abs/2411.01751)|**[link](https://github.com/cxcscmu/ragviz)**|
 |**2024-11-03**|**Autoformulation of Mathematical Optimization Models Using LLMs**|Nicolás Astorga et.al.|[2411.01679](http://arxiv.org/abs/2411.01679)|null|
@@ -301,6 +303,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Theory of Mixture-of-Experts for Mobile Edge Computing**|Hongbo Li et.al.|[2412.15690](http://arxiv.org/abs/2412.15690)|null|
+|**2024-12-19**|**MoEtion: Efficient and Reliable Checkpointing for Mixture-of-Experts Models at Scale**|Swapnil Gandhi et.al.|[2412.15411](http://arxiv.org/abs/2412.15411)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
 |**2024-12-19**|**ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing**|Ziteng Wang et.al.|[2412.14711](http://arxiv.org/abs/2412.14711)|**[link](https://github.com/thu-ml/remoe)**|
 |**2024-12-18**|**A Survey on Inference Optimization Techniques for Mixture of Experts Models**|Jiacheng Liu et.al.|[2412.14219](http://arxiv.org/abs/2412.14219)|**[link](https://github.com/moe-inf/awesome-moe-inference)**|
@@ -310,17 +314,17 @@ layout: default
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
-|**2024-12-18**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
+|**2024-12-20**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
 |**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-14**|**DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification**|Yuhao Wang et.al.|[2412.10650](http://arxiv.org/abs/2412.10650)|**[link](https://github.com/924973292/demo)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|**[link](https://github.com/NVIDIA/NeMo)**|
-|**2024-12-12**|**Memory Layers at Scale**|Vincent-Pierre Berges et.al.|[2412.09764](http://arxiv.org/abs/2412.09764)|**[link](https://github.com/facebookresearch/memory)**|
+|**2024-12-20**|**Memory Layers at Scale**|Vincent-Pierre Berges et.al.|[2412.09764](http://arxiv.org/abs/2412.09764)|**[link](https://github.com/facebookresearch/memory)**|
 |**2024-12-12**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278](http://arxiv.org/abs/2412.09278)|**[link](https://github.com/shawnhuang497/medplib)**|
 |**2024-12-12**|**MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning**|Lulu Zhao et.al.|[2412.08946](http://arxiv.org/abs/2412.08946)|null|
 |**2024-11-26**|**Enhancing Code-Switching ASR Leveraging Non-Peaky CTC Loss and Deep Language Posterior Injection**|Tzu-Ting Yang et.al.|[2412.08651](http://arxiv.org/abs/2412.08651)|null|
-|**2024-12-12**|**Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective**|Minh Le et.al.|[2412.08285](http://arxiv.org/abs/2412.08285)|null|
+|**2024-12-20**|**Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective**|Minh Le et.al.|[2412.08285](http://arxiv.org/abs/2412.08285)|null|
 |**2024-12-11**|**Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification**|Xuanze Chen et.al.|[2412.08193](http://arxiv.org/abs/2412.08193)|null|
 |**2024-12-10**|**MoDULA: Mixture of Domain-Specific and Universal LoRA for Multi-Task Learning**|Yufei Ma et.al.|[2412.07405](http://arxiv.org/abs/2412.07405)|null|
 |**2024-12-10**|**Post-Training Statistical Calibration for Higher Activation Sparsity**|Vui Seng Chua et.al.|[2412.07174](http://arxiv.org/abs/2412.07174)|**[link](https://github.com/intellabs/scap)**|
@@ -580,6 +584,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Two-Part Interplanetary Type II Solar Radio Bursts**|Silja Pohjolainen et.al.|[2412.15961](http://arxiv.org/abs/2412.15961)|null|
 |**2024-12-19**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
 |**2024-12-19**|**$\mathcal{N}=2$ superconformal gravitino in harmonic superspace**|Evgeny Ivanov et.al.|[2412.14822](http://arxiv.org/abs/2412.14822)|null|
 |**2024-12-19**|**The JWST/NIRSpec view of the nuclear region in the prototypical merging galaxy NGC 6240**|Matteo Ceci et.al.|[2412.14685](http://arxiv.org/abs/2412.14685)|null|
@@ -771,7 +776,7 @@ layout: default
 |**2024-08-26**|**SO as shock tracer in protoplanetary disks: the AB Aurigae case**|A. Dutrey et.al.|[2408.14276](http://arxiv.org/abs/2408.14276)|null|
 |**2024-08-25**|**The origins of noise in the Zeeman splitting of spin qubits in natural-silicon devices**|Juan S. Rojas-Arias et.al.|[2408.13707](http://arxiv.org/abs/2408.13707)|null|
 |**2024-07-22**|**Simopt -- Simulation pass for Speculative Optimisation of FPGA-CAD flow**|Eashan Wadhwa et.al.|[2408.12676](http://arxiv.org/abs/2408.12676)|null|
-|**2024-08-22**|**Exposing Shadow Branches**|Chrysanthos Pepi et.al.|[2408.12592](http://arxiv.org/abs/2408.12592)|null|
+|**2024-12-19**|**Exposing Shadow Branches**|Chrysanthos Pepi et.al.|[2408.12592](http://arxiv.org/abs/2408.12592)|null|
 |**2024-08-22**|**Enhancing Causal Discovery in Financial Networks with Piecewise Quantile Regression**|Cameron Cornell et.al.|[2408.12210](http://arxiv.org/abs/2408.12210)|null|
 |**2024-08-21**|**Electrostatic Origins of the Dirichlet Principle**|Steven Deckelman et.al.|[2408.12002](http://arxiv.org/abs/2408.12002)|null|
 |**2024-09-04**|**Parallel Speculative Decoding with Adaptive Draft Length**|Tianyu Liu et.al.|[2408.11850](http://arxiv.org/abs/2408.11850)|**[link](https://github.com/smart-lty/parallelspeculativedecoding)**|
