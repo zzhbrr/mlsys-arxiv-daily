@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference**|Chao Zeng et.al.|[2412.17560](http://arxiv.org/abs/2412.17560)|null|
+|**2024-12-21**|**SYMPHONY: Improving Memory Management for LLM Inference Workloads**|Saurabh Agarwal et.al.|[2412.16434](http://arxiv.org/abs/2412.16434)|null|
 |**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
 |**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|null|
 |**2024-12-19**|**PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**|Jiayi Wu et.al.|[2412.14510](http://arxiv.org/abs/2412.14510)|**[link](https://github.com/wujwyi/pa-rag)**|
@@ -314,6 +316,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu et.al.|[2412.17507](http://arxiv.org/abs/2412.17507)|null|
+|**2024-12-23**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404](http://arxiv.org/abs/2412.17404)|null|
+|**2024-12-23**|**Efficient fine-tuning methodology of text embedding models for information retrieval: contrastive learning penalty (clp)**|Jeongsu Yu et.al.|[2412.17364](http://arxiv.org/abs/2412.17364)|**[link](https://github.com/crealabs/enhanced-bge-m3-with-clp-and-moe)**|
+|**2024-12-22**|**The Fermat curves and arrangements of lines and conics**|Nils Peder Astrup Toft et.al.|[2412.16993](http://arxiv.org/abs/2412.16993)|null|
+|**2024-12-22**|**Part-Of-Speech Sensitivity of Routers in Mixture of Experts Models**|Elie Antoine et.al.|[2412.16971](http://arxiv.org/abs/2412.16971)|null|
+|**2024-12-18**|**GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE**|Ting Bai et.al.|[2412.16216](http://arxiv.org/abs/2412.16216)|null|
 |**2024-12-20**|**Theory of Mixture-of-Experts for Mobile Edge Computing**|Hongbo Li et.al.|[2412.15690](http://arxiv.org/abs/2412.15690)|null|
 |**2024-12-19**|**MoEtion: Efficient and Reliable Checkpointing for Mixture-of-Experts Models at Scale**|Swapnil Gandhi et.al.|[2412.15411](http://arxiv.org/abs/2412.15411)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
@@ -355,7 +363,7 @@
 |**2024-12-04**|**Convolutional Neural Networks and Mixture of Experts for Intrusion Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483](http://arxiv.org/abs/2412.03483)|null|
 |**2024-12-03**|**CA-MoE: Channel-Adapted MoE for Incremental Weather Forecasting**|Hao Chen et.al.|[2412.02503](http://arxiv.org/abs/2412.02503)|null|
 |**2024-12-05**|**MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**|Siddhant Dutta et.al.|[2412.01858](http://arxiv.org/abs/2412.01858)|null|
-|**2024-12-05**|**Yi-Lightning Technical Report**|01. AI et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|
+|**2024-12-21**|**Yi-Lightning Technical Report**|Alan Wake et.al.|[2412.01253](http://arxiv.org/abs/2412.01253)|null|
 |**2024-11-30**|**Mixture of Experts for Node Classification**|Yu Shi et.al.|[2412.00418](http://arxiv.org/abs/2412.00418)|null|
 |**2024-11-30**|**HiMoE: Heterogeneity-Informed Mixture-of-Experts for Fair Spatial-Temporal Forecasting**|Shaohan Yu et.al.|[2412.00316](http://arxiv.org/abs/2412.00316)|null|
 |**2024-11-27**|**Mixture of Cache-Conditional Experts for Efficient Mobile Device Inference**|Andrii Skliar et.al.|[2412.00099](http://arxiv.org/abs/2412.00099)|null|
@@ -597,8 +605,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**The Unique Helium Nova V445 Puppis Ejected $\gg$0.001 M$_{\odot}$ in the Year 2000 and Will Not Become a Type Ia Supernova**|Bradley E. Schaefer et.al.|[2412.17286](http://arxiv.org/abs/2412.17286)|null|
+|**2024-12-20**|**Gravitational Observatories in AdS $_4$**|Dionysios Anninos et.al.|[2412.16305](http://arxiv.org/abs/2412.16305)|null|
 |**2024-12-20**|**Two-Part Interplanetary Type II Solar Radio Bursts**|Silja Pohjolainen et.al.|[2412.15961](http://arxiv.org/abs/2412.15961)|null|
-|**2024-12-19**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
+|**2024-12-22**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
 |**2024-12-19**|**$\mathcal{N}=2$ superconformal gravitino in harmonic superspace**|Evgeny Ivanov et.al.|[2412.14822](http://arxiv.org/abs/2412.14822)|null|
 |**2024-12-19**|**The JWST/NIRSpec view of the nuclear region in the prototypical merging galaxy NGC 6240**|Matteo Ceci et.al.|[2412.14685](http://arxiv.org/abs/2412.14685)|null|
 |**2024-12-18**|**Fermion-Portal Dark Matter at a High-Energy Muon Collider**|Pouya Asadi et.al.|[2412.14235](http://arxiv.org/abs/2412.14235)|null|
