@@ -14,7 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-24**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
+|**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|null|
+|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|null|
+|**2024-12-27**|**An Engorgio Prompt Makes Large Language Model Babble on**|Jianshuo Dong et.al.|[2412.19394](http://arxiv.org/abs/2412.19394)|null|
+|**2024-12-25**|**Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**|Libo Zhang et.al.|[2412.18934](http://arxiv.org/abs/2412.18934)|null|
+|**2024-12-24**|**TimelyLLM: Segmented LLM Serving System for Time-sensitive Robotic Applications**|Neiwen Ling et.al.|[2412.18695](http://arxiv.org/abs/2412.18695)|null|
+|**2024-12-26**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
 |**2024-12-24**|**Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media**|Zhen Sun et.al.|[2412.18148](http://arxiv.org/abs/2412.18148)|null|
 |**2024-12-24**|**Tackling the Dynamicity in a Production LLM Serving System with SOTA Optimizations via Hybrid Prefill/Decode/Verify Scheduling on Efficient Meta-kernels**|Mingcong Song et.al.|[2412.18106](http://arxiv.org/abs/2412.18106)|null|
 |**2024-12-23**|**Trustworthy and Efficient LLMs Meet Databases**|Kyoungmin Kim et.al.|[2412.18022](http://arxiv.org/abs/2412.18022)|null|
@@ -309,6 +314,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**DeepSeek-V3 Technical Report**|DeepSeek-AI et.al.|[2412.19437](http://arxiv.org/abs/2412.19437)|**[link](https://github.com/deepseek-ai/deepseek-v3)**|
+|**2024-12-26**|**AskChart: Universal Chart Understanding through Textual Enhancement**|Xudong Yang et.al.|[2412.19146](http://arxiv.org/abs/2412.19146)|**[link](https://github.com/sootung/askchart)**|
+|**2024-12-26**|**Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection**|Xiaoyu Huang et.al.|[2412.19108](http://arxiv.org/abs/2412.19108)|null|
+|**2024-12-26**|**DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion**|Yinghui Li et.al.|[2412.19062](http://arxiv.org/abs/2412.19062)|**[link](https://github.com/yinghui-li-new/dapointr)**|
 |**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
 |**2024-12-24**|**BIG-MoE: Bypass Isolated Gating MoE for Generalized Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2412.18065](http://arxiv.org/abs/2412.18065)|**[link](https://github.com/murinj/big-moe)**|
 |**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu et.al.|[2412.17507](http://arxiv.org/abs/2412.17507)|null|
@@ -401,7 +410,7 @@ layout: default
 |**2024-11-05**|**Advancing Robust Underwater Acoustic Target Recognition through Multi-task Learning and Multi-Gate Mixture-of-Experts**|Yuan Xie et.al.|[2411.02787](http://arxiv.org/abs/2411.02787)|null|
 |**2024-11-27**|**SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models**|Jianyi Zhang et.al.|[2411.02433](http://arxiv.org/abs/2411.02433)|**[link](https://github.com/JayZhang42/SLED)**|
 |**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|null|
-|**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
+|**2024-12-27**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
 |**2024-11-06**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
 |**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2024-11-03**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457](http://arxiv.org/abs/2411.01457)|null|
@@ -598,6 +607,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Paleoinspired Vision: From Exploring Colour Vision Evolution to Inspiring Camera Design**|Junjie Zhang et.al.|[2412.19439](http://arxiv.org/abs/2412.19439)|null|
+|**2024-12-25**|**Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**|Libo Zhang et.al.|[2412.18934](http://arxiv.org/abs/2412.18934)|null|
+|**2024-12-25**|**AdaEAGLE: Optimizing Speculative Decoding via Explicit Modeling of Adaptive Draft Structures**|Situo Zhang et.al.|[2412.18910](http://arxiv.org/abs/2412.18910)|null|
 |**2024-12-23**|**The Unique Helium Nova V445 Puppis Ejected $\gg$0.001 M$_{\odot}$ in the Year 2000 and Will Not Become a Type Ia Supernova**|Bradley E. Schaefer et.al.|[2412.17286](http://arxiv.org/abs/2412.17286)|null|
 |**2024-12-20**|**Gravitational Observatories in AdS $_4$**|Dionysios Anninos et.al.|[2412.16305](http://arxiv.org/abs/2412.16305)|null|
 |**2024-12-20**|**Two-Part Interplanetary Type II Solar Radio Bursts**|Silja Pohjolainen et.al.|[2412.15961](http://arxiv.org/abs/2412.15961)|null|
@@ -613,7 +625,7 @@ layout: default
 |**2024-12-17**|**Agnosticism About Artificial Consciousness**|Tom McClelland et.al.|[2412.13145](http://arxiv.org/abs/2412.13145)|null|
 |**2024-12-17**|**Insight into the Starburst Nature of Galaxy GN-z11 with JWST MIRI Spectroscopy**|J. Álvarez-Márquez et.al.|[2412.12826](http://arxiv.org/abs/2412.12826)|null|
 |**2024-12-18**|**Uncertainty-Aware Hybrid Inference with On-Device Small and Remote Large Language Models**|Seungeun Oh et.al.|[2412.12687](http://arxiv.org/abs/2412.12687)|null|
-|**2024-12-17**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
+|**2024-12-26**|**Falcon: Faster and Parallel Inference of Large Language Models through Enhanced Semi-Autoregressive Drafting and Custom-Designed Decoding Tree**|Xiangxiang Gao et.al.|[2412.12639](http://arxiv.org/abs/2412.12639)|null|
 |**2024-12-15**|**Heat kernel and local index theorem for open complex manifolds with $\mathbb{C}^{\ast }$ -action**|Jih-Hsin Cheng et.al.|[2412.11037](http://arxiv.org/abs/2412.11037)|null|
 |**2024-12-14**|**The JWST-NIRCam View of Sagittarius C. II. Evidence for Magnetically Dominated HII Regions in the CMZ**|John Bally et.al.|[2412.10983](http://arxiv.org/abs/2412.10983)|null|
 |**2024-12-14**|**Interference in Fuzzy Dark Matter Filaments: Idealised Models and Statistics**|Tim Zimmermann et.al.|[2412.10829](http://arxiv.org/abs/2412.10829)|null|
@@ -622,7 +634,7 @@ layout: default
 |**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
 |**2024-12-11**|**Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality**|Jesus L. Lobo et.al.|[2412.08273](http://arxiv.org/abs/2412.08273)|null|
 |**2024-12-10**|**Mapping the spatial extent of HI-rich absorbers using MgII absorption along gravitational arcs**|Trystyn A. M. Berg et.al.|[2412.07652](http://arxiv.org/abs/2412.07652)|null|
-|**2024-12-10**|**CoinCLIP: A Multimodal Framework for Evaluating the Viability of Memecoins in the Web3 Ecosystem**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|**[link](https://github.com/hwlongcuhk/coinclip)**|
+|**2024-12-26**|**CoinCLIP: A Multimodal Framework for Assessing Viability in Web3 Memecoins**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|**[link](https://github.com/hwlongcuhk/coinclip)**|
 |**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
 |**2024-12-10**|**KPZ-like scaling on a high-dimensional hypersphere**|Daniil Fedotov et.al.|[2412.07432](http://arxiv.org/abs/2412.07432)|null|
 |**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
@@ -646,7 +658,7 @@ layout: default
 |**2024-11-27**|**6G Takes Shape**|Jeffrey G. Andrews et.al.|[2411.18435](http://arxiv.org/abs/2411.18435)|null|
 |**2024-11-27**|**An evolution of matrix-valued orthogonal polynomials**|Erik Koelink et.al.|[2411.18362](http://arxiv.org/abs/2411.18362)|null|
 |**2024-11-27**|**Comprehensive Kernel Safety in the Spectre Era: Mitigations and Performance Evaluation (Extended Version)**|Davide Davoli et.al.|[2411.18094](http://arxiv.org/abs/2411.18094)|null|
-|**2024-12-10**|**Stellar evolution along the AGB as revealed by the shape of Miras' visual light curves**|D. T. Hoai et.al.|[2411.18044](http://arxiv.org/abs/2411.18044)|null|
+|**2024-12-25**|**Stellar evolution along the AGB as revealed by the shape of Miras' visual light curves**|D. T. Hoai et.al.|[2411.18044](http://arxiv.org/abs/2411.18044)|null|
 |**2024-11-26**|**Stable curves and chromatic polynomials**|Bernhard Reinke et.al.|[2411.17551](http://arxiv.org/abs/2411.17551)|null|
 |**2024-12-08**|**A revamped understanding of Cosmic Rays and Gamma-Ray Bursts**|A. De Rújula et.al.|[2411.15850](http://arxiv.org/abs/2411.15850)|null|
 |**2024-11-20**|**The Impossible Test: A 2024 Unsolvable Dataset and A Chance for an AGI Quiz**|David Noever et.al.|[2411.14486](http://arxiv.org/abs/2411.14486)|null|
@@ -656,7 +668,7 @@ layout: default
 |**2024-11-20**|**Far-field Boundary Conditions for Airfoil Simulation at High Incidence in Steady, Incompressible, Two-dimensional Flow**|Narges Golmirzaee et.al.|[2411.13077](http://arxiv.org/abs/2411.13077)|null|
 |**2024-11-19**|**Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing**|Ruyi Ding et.al.|[2411.12508](http://arxiv.org/abs/2411.12508)|null|
 |**2024-11-18**|**Continuous Speculative Decoding for Autoregressive Image Generation**|Zili Wang et.al.|[2411.11925](http://arxiv.org/abs/2411.11925)|**[link](https://github.com/markxcloud/cspd)**|
-|**2024-11-18**|**Teapot: Efficiently Uncovering Spectre Gadgets in COTS Binaries**|Fangzheng Lin et.al.|[2411.11624](http://arxiv.org/abs/2411.11624)|null|
+|**2024-12-26**|**Teapot: Efficiently Uncovering Spectre Gadgets in COTS Binaries**|Fangzheng Lin et.al.|[2411.11624](http://arxiv.org/abs/2411.11624)|null|
 |**2024-11-30**|**Diversity of disc viscosities can explain the period ratios of resonant and non-resonant systems of hot super-Earths and mini-Neptunes**|Bertram Bitsch et.al.|[2411.11452](http://arxiv.org/abs/2411.11452)|null|
 |**2024-11-25**|**First memoir on the asymptotics of certain infinite products**|Wadim Zudilin et.al.|[2411.11100](http://arxiv.org/abs/2411.11100)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
@@ -746,7 +758,7 @@ layout: default
 |**2024-10-03**|**The Stellar Initial Mass Function of Early Dark Matter-free Gas Objects**|William Lake et.al.|[2410.02868](http://arxiv.org/abs/2410.02868)|null|
 |**2024-10-03**|**Atoms near a conducting wedge: decay rates and entanglement around a corner**|Romuald Kilianski et.al.|[2410.02349](http://arxiv.org/abs/2410.02349)|null|
 |**2024-10-02**|**Time Variation of the Solar Tachocline**|Sarbani Basu et.al.|[2410.01895](http://arxiv.org/abs/2410.01895)|null|
-|**2024-10-11**|**Interpretable Contrastive Monte Carlo Tree Search Reasoning**|Zitian Gao et.al.|[2410.01707](http://arxiv.org/abs/2410.01707)|**[link](https://github.com/zitian-gao/sc-mcts)**|
+|**2024-12-25**|**Interpretable Contrastive Monte Carlo Tree Search Reasoning**|Zitian Gao et.al.|[2410.01707](http://arxiv.org/abs/2410.01707)|**[link](https://github.com/zitian-gao/sc-mcts)**|
 |**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|**[link](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)**|
 |**2024-12-09**|**Forte : Finding Outliers with Representation Typicality Estimation**|Debargha Ganguly et.al.|[2410.01322](http://arxiv.org/abs/2410.01322)|**[link](https://github.com/DebarghaG/forte)**|
 |**2024-10-02**|**Speculative Coreset Selection for Task-Specific Fine-tuning**|Xiaoyu Zhang et.al.|[2410.01296](http://arxiv.org/abs/2410.01296)|null|
@@ -788,7 +800,7 @@ layout: default
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
 |**2024-11-18**|**The companion mass distribution of post common envelope hot subdwarf binaries: evidence for boosted and disrupted magnetic braking?**|Lisa Blomberg et.al.|[2408.15334](http://arxiv.org/abs/2408.15334)|null|
 |**2024-08-27**|**The Way To Circumbinary Planets**|Hans J Deeg et.al.|[2408.15307](http://arxiv.org/abs/2408.15307)|null|
-|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-12-26**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/itsdaniele/speculative_mamba)**|
 |**2024-08-26**|**SO as shock tracer in protoplanetary disks: the AB Aurigae case**|A. Dutrey et.al.|[2408.14276](http://arxiv.org/abs/2408.14276)|null|
 |**2024-08-25**|**The origins of noise in the Zeeman splitting of spin qubits in natural-silicon devices**|Juan S. Rojas-Arias et.al.|[2408.13707](http://arxiv.org/abs/2408.13707)|null|
 |**2024-07-22**|**Simopt -- Simulation pass for Speculative Optimisation of FPGA-CAD flow**|Eashan Wadhwa et.al.|[2408.12676](http://arxiv.org/abs/2408.12676)|null|
