@@ -19,7 +19,7 @@ layout: default
 |**2024-12-28**|**LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System**|Hyucksung Kwon et.al.|[2412.20166](http://arxiv.org/abs/2412.20166)|null|
 |**2024-12-19**|**GFormer: Accelerating Large Language Models with Optimized Transformers on Gaudi Processors**|Chengming Zhang et.al.|[2412.19829](http://arxiv.org/abs/2412.19829)|null|
 |**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|**[link](https://github.com/jhhuangkay/gradient-weight-normalized-low-rank-projection-for-efficient-llm-training)**|
-|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**|
+|**2025-01-02**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**|
 |**2024-12-27**|**An Engorgio Prompt Makes Large Language Model Babble on**|Jianshuo Dong et.al.|[2412.19394](http://arxiv.org/abs/2412.19394)|**[link](https://github.com/jianshuod/engorgio-prompt)**|
 |**2024-12-25**|**Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**|Libo Zhang et.al.|[2412.18934](http://arxiv.org/abs/2412.18934)|null|
 |**2024-12-24**|**TimelyLLM: Segmented LLM Serving System for Time-sensitive Robotic Applications**|Neiwen Ling et.al.|[2412.18695](http://arxiv.org/abs/2412.18695)|null|
@@ -217,7 +217,7 @@ layout: default
 |**2024-09-19**|**PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)**|Mahmoud Nazzal et.al.|[2409.12699](http://arxiv.org/abs/2409.12699)|**[link](https://github.com/mahmoudkanazzal/PromSec)**|
 |**2024-09-12**|**LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs**|Han Xu et.al.|[2409.11424](http://arxiv.org/abs/2409.11424)|null|
 |**2024-09-04**|**ISO: Overlap of Computation and Communication within Seqenence For LLM Inference**|Bin Xiao et.al.|[2409.11155](http://arxiv.org/abs/2409.11155)|null|
-|**2024-09-18**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|**[link](https://github.com/jzbjyb/reatt)**|
+|**2024-12-31**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|**[link](https://github.com/jzbjyb/reatt)**|
 |**2024-09-12**|**Enabling Cost-Effective UI Automation Testing with Retrieval-Based LLMs: A Case Study in WeChat**|Sidong Feng et.al.|[2409.07829](http://arxiv.org/abs/2409.07829)|null|
 |**2024-09-13**|**LLM-Enhanced Software Patch Localization**|Jinhong Yu et.al.|[2409.06816](http://arxiv.org/abs/2409.06816)|null|
 |**2024-09-24**|**OPAL: Outlier-Preserved Microscaling Quantization Accelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902](http://arxiv.org/abs/2409.05902)|null|
@@ -617,7 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato et.al.|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
+|**2025-01-02**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato et.al.|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
 |**2024-12-30**|**Strategic Learning and Trading in Broker-Mediated Markets**|Alif Aqsha et.al.|[2412.20847](http://arxiv.org/abs/2412.20847)|null|
 |**2024-12-28**|**From Worms to Mice: Homeostasis Maybe All You Need**|Jesus Marco de Lucas et.al.|[2412.20090](http://arxiv.org/abs/2412.20090)|null|
 |**2024-12-27**|**HADES: Hardware Accelerated Decoding for Efficient Speculation in Large Language Models**|Ze Yang et.al.|[2412.19925](http://arxiv.org/abs/2412.19925)|null|
@@ -662,7 +662,7 @@ layout: default
 |**2024-12-06**|**Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients**|Tirtharaj Barman et.al.|[2412.05235](http://arxiv.org/abs/2412.05235)|null|
 |**2024-12-06**|**Predictive Window Decoding for Fault-Tolerant Quantum Programs**|Joshua Viszlai et.al.|[2412.05115](http://arxiv.org/abs/2412.05115)|null|
 |**2024-12-04**|**Successive magnetic transitions in the spin-5/2 easy-axis triangular-lattice antiferromagnet Na $_2$BaMn(PO$_4$)$_2$ : A neutron diffraction study**|Chuandi Zhang et.al.|[2412.03149](http://arxiv.org/abs/2412.03149)|null|
-|**2024-12-04**|**The Reality of AI and Biorisk**|Aidan Peppin et.al.|[2412.01946](http://arxiv.org/abs/2412.01946)|null|
+|**2025-01-02**|**The Reality of AI and Biorisk**|Aidan Peppin et.al.|[2412.01946](http://arxiv.org/abs/2412.01946)|null|
 |**2024-12-02**|**PLD+: Accelerating LLM inference by leveraging Language Model Artifacts**|Shwetha Somasundaram et.al.|[2412.01447](http://arxiv.org/abs/2412.01447)|null|
 |**2024-12-02**|**Enhanced solid solution hardening by off-center substitutional solute atoms in α-Ti**|Zi-Han Yu et.al.|[2412.01298](http://arxiv.org/abs/2412.01298)|null|
 |**2024-11-25**|**Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration**|Zhuofan Wen et.al.|[2412.00061](http://arxiv.org/abs/2412.00061)|null|
@@ -692,7 +692,7 @@ layout: default
 |**2024-11-14**|**Cosmic inflation in an extended non-commutative foliated quantum gravity: the wave function of the universe**|César A. Zen Vasconcellos et.al.|[2411.09756](http://arxiv.org/abs/2411.09756)|null|
 |**2024-11-15**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Samantha Dalal et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
 |**2024-11-13**|**Thought Experiments in Design Fiction for Visualization**|Swaroop Panda et.al.|[2411.08621](http://arxiv.org/abs/2411.08621)|null|
-|**2024-11-12**|**A Geometric Substructure for Quantum Dynamics**|Anthony John Bracken et.al.|[2411.08230](http://arxiv.org/abs/2411.08230)|null|
+|**2025-01-01**|**A Geometric Substructure for Quantum Dynamics**|Anthony John Bracken et.al.|[2411.08230](http://arxiv.org/abs/2411.08230)|null|
 |**2024-12-10**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
 |**2024-11-12**|**A rich structure of renormalization group flows for Higgs-like models in 4 dimensions**|André LeClair et.al.|[2411.07476](http://arxiv.org/abs/2411.07476)|null|
 |**2024-11-12**|**Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions**|Siddharth Agarwal et.al.|[2411.07444](http://arxiv.org/abs/2411.07444)|null|
