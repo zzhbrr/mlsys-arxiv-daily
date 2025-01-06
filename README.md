@@ -21,7 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-02**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|null|
+|**2025-01-03**|**Efficient LLM Inference with Activation Checkpointing and Hybrid Caching**|Sanghyeon Lee et.al.|[2501.01792](http://arxiv.org/abs/2501.01792)|null|
+|**2025-01-03**|**(WhyPHI) Fine-Tuning PHI-3 for Multiple-Choice Question Answering: Methodology, Results, and Challenges**|Mohamed Hisham Abdellatif et.al.|[2501.01588](http://arxiv.org/abs/2501.01588)|null|
+|**2025-01-03**|**BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|null|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2024-12-23**|**Highly Optimized Kernels and Fine-Grained Codebooks for LLM Inference on Arm CPUs**|Dibakar Gope et.al.|[2501.00032](http://arxiv.org/abs/2501.00032)|**[link](https://github.com/ggerganov/llama.cpp)**|
 |**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|**[link](https://github.com/aca-lab-sjtu/token-ring)**|
@@ -332,6 +334,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-01**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization**|Huyen Nguyen et.al.|[2501.00779](http://arxiv.org/abs/2501.00779)|null|
 |**2024-12-31**|**Superposition in Transformers: A Novel Way of Building Mixture of Experts**|Ayoub Ben Chaliah et.al.|[2501.00530](http://arxiv.org/abs/2501.00530)|**[link](https://github.com/BenChaliah/Superposition-Transformer)**|
 |**2024-12-31**|**CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection**|Xiaolei Wang et.al.|[2501.00346](http://arxiv.org/abs/2501.00346)|null|
@@ -355,7 +358,7 @@
 |**2024-12-18**|**GraphLoRA: Empowering LLMs Fine-Tuning via Graph Collaboration of MoE**|Ting Bai et.al.|[2412.16216](http://arxiv.org/abs/2412.16216)|null|
 |**2024-12-20**|**Theory of Mixture-of-Experts for Mobile Edge Computing**|Hongbo Li et.al.|[2412.15690](http://arxiv.org/abs/2412.15690)|null|
 |**2024-12-19**|**MoEtion: Efficient and Reliable Checkpointing for Mixture-of-Experts Models at Scale**|Swapnil Gandhi et.al.|[2412.15411](http://arxiv.org/abs/2412.15411)|null|
-|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|**[link](https://github.com/qwenlm/qwen2.5)**|
+|**2025-01-03**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|**[link](https://github.com/qwenlm/qwen2.5)**|
 |**2024-12-19**|**ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing**|Ziteng Wang et.al.|[2412.14711](http://arxiv.org/abs/2412.14711)|**[link](https://github.com/thu-ml/remoe)**|
 |**2024-12-18**|**A Survey on Inference Optimization Techniques for Mixture of Experts Models**|Jiacheng Liu et.al.|[2412.14219](http://arxiv.org/abs/2412.14219)|**[link](https://github.com/moe-inf/awesome-moe-inference)**|
 |**2024-12-18**|**SEKE: Specialised Experts for Keyword Extraction**|Matej Martinc et.al.|[2412.14087](http://arxiv.org/abs/2412.14087)|**[link](https://github.com/matejmartinc/seke_keyword_extraction)**|
@@ -489,7 +492,7 @@
 |**2024-10-16**|**On the Risk of Evidence Pollution for Malicious Social Text Detection in the Era of LLMs**|Herun Wan et.al.|[2410.12600](http://arxiv.org/abs/2410.12600)|null|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
 |**2024-10-16**|**Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts**|Fanqi Yan et.al.|[2410.12258](http://arxiv.org/abs/2410.12258)|null|
-|**2024-10-16**|**EPS-MoE: Expert Pipeline Scheduler for Cost-Efficient MoE Inference**|Yulei Qian et.al.|[2410.12247](http://arxiv.org/abs/2410.12247)|null|
+|**2025-01-03**|**EPS-MoE: Expert Pipeline Scheduler for Cost-Efficient MoE Inference**|Yulei Qian et.al.|[2410.12247](http://arxiv.org/abs/2410.12247)|null|
 |**2024-10-15**|**MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router**|Yanyue Xie et.al.|[2410.12013](http://arxiv.org/abs/2410.12013)|null|
 |**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842](http://arxiv.org/abs/2410.11842)|**[link](https://github.com/skyworkai/moh)**|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|**[link](https://github.com/sugarandgugu/GaVaMoE)**|
