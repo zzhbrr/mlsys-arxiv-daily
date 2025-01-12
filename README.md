@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -48,7 +48,7 @@
 |**2025-01-09**|**ViLBias: A Comprehensive Framework for Bias Detection through Linguistic and Visual Cues , presenting Annotation Strategies, Evaluation, and Key Challenges**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|**[link](https://github.com/shainarazavi/vilbias)**|
 |**2024-12-21**|**SYMPHONY: Improving Memory Management for LLM Inference Workloads**|Saurabh Agarwal et.al.|[2412.16434](http://arxiv.org/abs/2412.16434)|null|
 |**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
-|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|null|
+|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|**[link](https://github.com/bramvanroy/fietje-2)**|
 |**2024-12-19**|**PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**|Jiayi Wu et.al.|[2412.14510](http://arxiv.org/abs/2412.14510)|**[link](https://github.com/wujwyi/pa-rag)**|
 |**2024-12-19**|**Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems**|Genki Kusano et.al.|[2412.14454](http://arxiv.org/abs/2412.14454)|null|
 |**2024-12-18**|**A Survey on LLM Inference-Time Self-Improvement**|Xiangjue Dong et.al.|[2412.14352](http://arxiv.org/abs/2412.14352)|**[link](https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement)**|
@@ -326,7 +326,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -334,7 +334,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 ## MoE
 
@@ -647,7 +647,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -942,7 +942,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -975,7 +975,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

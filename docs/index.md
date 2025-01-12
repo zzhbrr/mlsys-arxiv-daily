@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.11
+## Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -41,7 +41,7 @@ layout: default
 |**2025-01-09**|**ViLBias: A Comprehensive Framework for Bias Detection through Linguistic and Visual Cues , presenting Annotation Strategies, Evaluation, and Key Challenges**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|**[link](https://github.com/shainarazavi/vilbias)**|
 |**2024-12-21**|**SYMPHONY: Improving Memory Management for LLM Inference Workloads**|Saurabh Agarwal et.al.|[2412.16434](http://arxiv.org/abs/2412.16434)|null|
 |**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
-|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|null|
+|**2024-12-19**|**Fietje: An open, efficient LLM for Dutch**|Bram Vanroy et.al.|[2412.15450](http://arxiv.org/abs/2412.15450)|**[link](https://github.com/bramvanroy/fietje-2)**|
 |**2024-12-19**|**PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**|Jiayi Wu et.al.|[2412.14510](http://arxiv.org/abs/2412.14510)|**[link](https://github.com/wujwyi/pa-rag)**|
 |**2024-12-19**|**Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems**|Genki Kusano et.al.|[2412.14454](http://arxiv.org/abs/2412.14454)|null|
 |**2024-12-18**|**A Survey on LLM Inference-Time Self-Improvement**|Xiangjue Dong et.al.|[2412.14352](http://arxiv.org/abs/2412.14352)|**[link](https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement)**|
