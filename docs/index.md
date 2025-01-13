@@ -329,6 +329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**TAMER: A Test-Time Adaptive MoE-Driven Framework for EHR Representation Learning**|Yinghao Zhu et.al.|[2501.05661](http://arxiv.org/abs/2501.05661)|**[link](https://github.com/yhzhu99/tamer)**|
 |**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
 |**2025-01-07**|**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**|Xiang Xu et.al.|[2501.04004](http://arxiv.org/abs/2501.04004)|**[link](https://github.com/xiangxu-0103/limoe)**|
 |**2025-01-07**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training**|Xudong Liao et.al.|[2501.03905](http://arxiv.org/abs/2501.03905)|null|
@@ -376,7 +377,7 @@ layout: default
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
 |**2024-12-13**|**Llama 3 Meets MoE: Efficient Upcycling**|Aditya Vavre et.al.|[2412.09952](http://arxiv.org/abs/2412.09952)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2024-12-20**|**Memory Layers at Scale**|Vincent-Pierre Berges et.al.|[2412.09764](http://arxiv.org/abs/2412.09764)|**[link](https://github.com/facebookresearch/memory)**|
-|**2024-12-12**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278](http://arxiv.org/abs/2412.09278)|**[link](https://github.com/shawnhuang497/medplib)**|
+|**2025-01-10**|**Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**|Xiaoshuang Huang et.al.|[2412.09278](http://arxiv.org/abs/2412.09278)|**[link](https://github.com/shawnhuang497/medplib)**|
 |**2024-12-12**|**MoSLD: An Extremely Parameter-Efficient Mixture-of-Shared LoRAs for Multi-Task Learning**|Lulu Zhao et.al.|[2412.08946](http://arxiv.org/abs/2412.08946)|null|
 |**2024-11-26**|**Enhancing Code-Switching ASR Leveraging Non-Peaky CTC Loss and Deep Language Posterior Injection**|Tzu-Ting Yang et.al.|[2412.08651](http://arxiv.org/abs/2412.08651)|null|
 |**2024-12-30**|**Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective**|Minh Le et.al.|[2412.08285](http://arxiv.org/abs/2412.08285)|null|
@@ -640,6 +641,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185](http://arxiv.org/abs/2501.06185)|null|
+|**2025-01-10**|**Analysing the coverage of the University of Bologna's publication metadata in an existing source of open research information**|Erica Andreose et.al.|[2501.05821](http://arxiv.org/abs/2501.05821)|null|
 |**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
 |**2025-01-09**|**The CO-Fuelled Time Machine: Tracing Birth Conditions and Terrestrial Planet Formation Outcomes in HD 163296 through Pebble Drift-induced CO Enhancements**|Joe Williams et.al.|[2501.05316](http://arxiv.org/abs/2501.05316)|null|
 |**2025-01-09**|**Observational Study of the Atmospheric Gravity Waves in the lower Solar Atmosphere**|Ravi Chaurasiya et.al.|[2501.05042](http://arxiv.org/abs/2501.05042)|null|
@@ -658,7 +661,7 @@ layout: default
 |**2024-12-23**|**The Unique Helium Nova V445 Puppis Ejected $\gg$0.001 M$_{\odot}$ in the Year 2000 and Will Not Become a Type Ia Supernova**|Bradley E. Schaefer et.al.|[2412.17286](http://arxiv.org/abs/2412.17286)|null|
 |**2024-12-20**|**Gravitational Observatories in AdS $_4$**|Dionysios Anninos et.al.|[2412.16305](http://arxiv.org/abs/2412.16305)|null|
 |**2024-12-20**|**Two-Part Interplanetary Type II Solar Radio Bursts**|Silja Pohjolainen et.al.|[2412.15961](http://arxiv.org/abs/2412.15961)|null|
-|**2024-12-22**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
+|**2025-01-10**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
 |**2024-12-19**|**$\mathcal{N}=2$ superconformal gravitino in harmonic superspace**|Evgeny Ivanov et.al.|[2412.14822](http://arxiv.org/abs/2412.14822)|null|
 |**2024-12-19**|**The JWST/NIRSpec view of the nuclear region in the prototypical merging galaxy NGC 6240**|Matteo Ceci et.al.|[2412.14685](http://arxiv.org/abs/2412.14685)|null|
 |**2024-12-18**|**Fermion-Portal Dark Matter at a High-Energy Muon Collider**|Pouya Asadi et.al.|[2412.14235](http://arxiv.org/abs/2412.14235)|null|
@@ -933,6 +936,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
 |**2024-12-06**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Xiyao Wang et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
 |**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|
