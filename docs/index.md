@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -50,7 +50,7 @@ layout: default
 |**2024-12-17**|**LITA: An Efficient LLM-assisted Iterative Topic Augmentation Framework**|Chia-Hsuan Chang et.al.|[2412.12459](http://arxiv.org/abs/2412.12459)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
 |**2024-12-16**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
-|**2025-01-09**|**Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning**|Yun Qu et.al.|[2412.11120](http://arxiv.org/abs/2412.11120)|**[link](https://github.com/cloud-qu/lare)**|
+|**2025-01-09**|**Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning**|Yun Qu et.al.|[2412.11120](http://arxiv.org/abs/2412.11120)|**[link](https://github.com/thu-rllab/lare)**|
 |**2024-12-15**|**NITRO: LLM Inference on Intel Laptop NPUs**|Anthony Fei et.al.|[2412.11053](http://arxiv.org/abs/2412.11053)|**[link](https://github.com/abdelfattah-lab/nitro)**|
 |**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
 |**2024-12-17**|**TurboAttention: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
