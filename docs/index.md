@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|
+|**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/abs/2501.06709)|null|
+|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|null|
 |**2025-01-09**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079](http://arxiv.org/abs/2501.05079)|null|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-05**|**TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms**|Jovan Stojkovic et.al.|[2501.02600](http://arxiv.org/abs/2501.02600)|null|
@@ -329,6 +332,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis**|Binyu Zhang et.al.|[2501.07016](http://arxiv.org/abs/2501.07016)|**[link](https://github.com/binging512/umpsnet)**|
+|**2025-01-12**|**Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning**|Hanwen Zhong et.al.|[2501.06884](http://arxiv.org/abs/2501.06884)|**[link](https://github.com/yewen1486/emtal)**|
+|**2025-01-12**|**A Comprehensive Evaluation of Large Language Models on Mental Illnesses in Arabic Context**|Noureldin Zahran et.al.|[2501.06859](http://arxiv.org/abs/2501.06859)|null|
 |**2025-01-10**|**TAMER: A Test-Time Adaptive MoE-Driven Framework for EHR Representation Learning**|Yinghao Zhu et.al.|[2501.05661](http://arxiv.org/abs/2501.05661)|**[link](https://github.com/yhzhu99/tamer)**|
 |**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
 |**2025-01-07**|**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**|Xiang Xu et.al.|[2501.04004](http://arxiv.org/abs/2501.04004)|**[link](https://github.com/xiangxu-0103/limoe)**|
@@ -336,7 +342,7 @@ layout: default
 |**2025-01-08**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432](http://arxiv.org/abs/2501.03432)|null|
 |**2025-01-06**|**Solving the Porous Medium Equation with the eXtreme Mesh deformation approach (X-Mesh)**|Alexandre Chemin et.al.|[2501.03083](http://arxiv.org/abs/2501.03083)|null|
 |**2025-01-05**|**Soft and Compliant Contact-Rich Hair Manipulation and Care**|Uksang Yoo et.al.|[2501.02630](http://arxiv.org/abs/2501.02630)|null|
-|**2025-01-04**|**Fresh-CL: Feature Realignment through Experts on Hypersphere in Continual Learning**|Zhongyi Zhou et.al.|[2501.02198](http://arxiv.org/abs/2501.02198)|null|
+|**2025-01-12**|**Fresh-CL: Feature Realignment through Experts on Hypersphere in Continual Learning**|Zhongyi Zhou et.al.|[2501.02198](http://arxiv.org/abs/2501.02198)|null|
 |**2025-01-03**|**MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**|Jiajun Cao et.al.|[2501.01709](http://arxiv.org/abs/2501.01709)|null|
 |**2025-01-01**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization**|Huyen Nguyen et.al.|[2501.00779](http://arxiv.org/abs/2501.00779)|null|
 |**2025-01-06**|**Superposition in Transformers: A Novel Way of Building Mixture of Experts**|Ayoub Ben Chaliah et.al.|[2501.00530](http://arxiv.org/abs/2501.00530)|**[link](https://github.com/BenChaliah/Superposition-Transformer)**|
@@ -641,6 +647,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-11**|**Is the Monetary Transmission Mechanism Broken? Time for People's Quantitative Easing**|Sebastian Dragoe et.al.|[2501.06575](http://arxiv.org/abs/2501.06575)|null|
 |**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185](http://arxiv.org/abs/2501.06185)|null|
 |**2025-01-10**|**Analysing the coverage of the University of Bologna's publication metadata in an existing source of open research information**|Erica Andreose et.al.|[2501.05821](http://arxiv.org/abs/2501.05821)|null|
 |**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
@@ -653,7 +660,7 @@ layout: default
 |**2025-01-02**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato et.al.|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
 |**2024-12-30**|**Strategic Learning and Trading in Broker-Mediated Markets**|Alif Aqsha et.al.|[2412.20847](http://arxiv.org/abs/2412.20847)|null|
 |**2024-12-28**|**From Worms to Mice: Homeostasis Maybe All You Need**|Jesus Marco de Lucas et.al.|[2412.20090](http://arxiv.org/abs/2412.20090)|null|
-|**2024-12-27**|**HADES: Hardware Accelerated Decoding for Efficient Speculation in Large Language Models**|Ze Yang et.al.|[2412.19925](http://arxiv.org/abs/2412.19925)|null|
+|**2025-01-13**|**HADES: Hardware Accelerated Decoding for Efficient Speculation in Large Language Models**|Ze Yang et.al.|[2412.19925](http://arxiv.org/abs/2412.19925)|null|
 |**2024-12-27**|**Cosmohedra**|Nima Arkani-Hamed et.al.|[2412.19881](http://arxiv.org/abs/2412.19881)|null|
 |**2024-12-27**|**Paleoinspired Vision: From Exploring Colour Vision Evolution to Inspiring Camera Design**|Junjie Zhang et.al.|[2412.19439](http://arxiv.org/abs/2412.19439)|null|
 |**2024-12-25**|**Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**|Libo Zhang et.al.|[2412.18934](http://arxiv.org/abs/2412.18934)|null|
@@ -662,7 +669,7 @@ layout: default
 |**2024-12-20**|**Gravitational Observatories in AdS $_4$**|Dionysios Anninos et.al.|[2412.16305](http://arxiv.org/abs/2412.16305)|null|
 |**2024-12-20**|**Two-Part Interplanetary Type II Solar Radio Bursts**|Silja Pohjolainen et.al.|[2412.15961](http://arxiv.org/abs/2412.15961)|null|
 |**2025-01-10**|**Minimizing speculation overhead in a parallel recognizer for regular texts**|Angelo Borsotti et.al.|[2412.14975](http://arxiv.org/abs/2412.14975)|null|
-|**2024-12-19**|**$\mathcal{N}=2$ superconformal gravitino in harmonic superspace**|Evgeny Ivanov et.al.|[2412.14822](http://arxiv.org/abs/2412.14822)|null|
+|**2025-01-13**|**$\mathcal{N}=2$ superconformal gravitino in harmonic superspace**|Evgeny Ivanov et.al.|[2412.14822](http://arxiv.org/abs/2412.14822)|null|
 |**2024-12-19**|**The JWST/NIRSpec view of the nuclear region in the prototypical merging galaxy NGC 6240**|Matteo Ceci et.al.|[2412.14685](http://arxiv.org/abs/2412.14685)|null|
 |**2024-12-18**|**Fermion-Portal Dark Matter at a High-Energy Muon Collider**|Pouya Asadi et.al.|[2412.14235](http://arxiv.org/abs/2412.14235)|null|
 |**2024-12-18**|**Current and secular accretion rates of EX Hydrae**|K. Beuermann et.al.|[2412.13850](http://arxiv.org/abs/2412.13850)|null|
@@ -726,7 +733,7 @@ layout: default
 |**2024-11-15**|**Provocation: Who benefits from "inclusion" in Generative AI?**|Samantha Dalal et.al.|[2411.09102](http://arxiv.org/abs/2411.09102)|null|
 |**2024-11-13**|**Thought Experiments in Design Fiction for Visualization**|Swaroop Panda et.al.|[2411.08621](http://arxiv.org/abs/2411.08621)|null|
 |**2025-01-01**|**A Geometric Substructure for Quantum Dynamics**|Anthony John Bracken et.al.|[2411.08230](http://arxiv.org/abs/2411.08230)|null|
-|**2024-12-10**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
+|**2025-01-11**|**The Grass of the Universe: Rethinking Technosphere, Planetary History, and Sustainability with Fermi Paradox**|Lukáš Likavčan et.al.|[2411.08057](http://arxiv.org/abs/2411.08057)|null|
 |**2024-11-12**|**A rich structure of renormalization group flows for Higgs-like models in 4 dimensions**|André LeClair et.al.|[2411.07476](http://arxiv.org/abs/2411.07476)|null|
 |**2024-11-12**|**Input-Based Ensemble-Learning Method for Dynamic Memory Configuration of Serverless Computing Functions**|Siddharth Agarwal et.al.|[2411.07444](http://arxiv.org/abs/2411.07444)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
