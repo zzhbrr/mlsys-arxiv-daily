@@ -21,13 +21,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367](http://arxiv.org/abs/2501.09367)|null|
+|**2025-01-16**|**Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition**|Takaaki Hori et.al.|[2501.09258](http://arxiv.org/abs/2501.09258)|null|
+|**2025-01-16**|**Split Fine-Tuning for Large Language Models in Wireless Networks**|Songge Zhang et.al.|[2501.09237](http://arxiv.org/abs/2501.09237)|null|
+|**2025-01-15**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186](http://arxiv.org/abs/2501.09186)|**[link](https://github.com/mandeep-rathee/llmgar)**|
 |**2025-01-14**|**Investigating Energy Efficiency and Performance Trade-offs in LLM Inference Across Tasks and DVFS Settings**|Paul Joe Maliakel et.al.|[2501.08219](http://arxiv.org/abs/2501.08219)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-14**|**Hierarchical Autoscaling for Large Language Model Serving with Chiron**|Archit Patke et.al.|[2501.08090](http://arxiv.org/abs/2501.08090)|null|
 |**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|
 |**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/abs/2501.06709)|null|
-|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/ibm/dolomite-engine)**|
-|**2025-01-09**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079](http://arxiv.org/abs/2501.05079)|null|
+|**2025-01-11**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/mayank31398/ladder-residual-inference)**|
+|**2025-01-15**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079](http://arxiv.org/abs/2501.05079)|null|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-05**|**TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms**|Jovan Stojkovic et.al.|[2501.02600](http://arxiv.org/abs/2501.02600)|null|
 |**2025-01-04**|**AdaSkip: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference**|Zhuomin He et.al.|[2501.02336](http://arxiv.org/abs/2501.02336)|**[link](https://github.com/asisys/adaskip)**|
@@ -346,6 +350,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
+|**2025-01-16**|**MoE $^2$ : Optimizing Collaborative Inference for Edge Large Language Models**|Lyudong Jin et.al.|[2501.09410](http://arxiv.org/abs/2501.09410)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
 |**2025-01-14**|**Guiding polaritonic energy and momentum through two-dimensional Bravais lattices**|Zhonglin Li et.al.|[2501.08123](http://arxiv.org/abs/2501.08123)|null|
 |**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890](http://arxiv.org/abs/2501.07890)|null|
@@ -667,6 +673,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**25 years of XMM-Newton observations of the Sgr A complex: 3D distribution and internal structure of the clouds**|G. Stel et.al.|[2501.09737](http://arxiv.org/abs/2501.09737)|null|
+|**2025-01-16**|**Weak electronic correlations in the cobalt oxychalcogenide superconductor Na2CoSe2O**|Zhenchao Wu et.al.|[2501.09675](http://arxiv.org/abs/2501.09675)|null|
+|**2025-01-16**|**Anatomy of a Digital Bubble: Lessons Learned from the NFT and Metaverse Frenzy**|Daisuke Kawai et.al.|[2501.09601](http://arxiv.org/abs/2501.09601)|null|
+|**2025-01-16**|**A universal break in energy functions of three hyperactive repeating fast radio bursts**|Q. Wu et.al.|[2501.09248](http://arxiv.org/abs/2501.09248)|null|
+|**2025-01-15**|**The emission of interpulses by a 6.45-hour period coherent radio transient**|Y. W. J. Lee et.al.|[2501.09133](http://arxiv.org/abs/2501.09133)|null|
 |**2025-01-13**|**Cassiopeia A's Reverse Shock and its Effects on the Expanding SN Ejecta**|Robert A. Fesen et.al.|[2501.07708](http://arxiv.org/abs/2501.07708)|null|
 |**2025-01-11**|**Is the Monetary Transmission Mechanism Broken? Time for People's Quantitative Easing**|Sebastian Dragoe et.al.|[2501.06575](http://arxiv.org/abs/2501.06575)|null|
 |**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185](http://arxiv.org/abs/2501.06185)|null|
@@ -966,7 +977,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
+|**2025-01-16**|**PATCHEDSERVE: A Patch Management Framework for SLO-Optimized Hybrid Resolution Diffusion Serving**|Desen Sun et.al.|[2501.09253](http://arxiv.org/abs/2501.09253)|null|
+|**2025-01-16**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
 |**2024-12-06**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Xiyao Wang et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
 |**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|
