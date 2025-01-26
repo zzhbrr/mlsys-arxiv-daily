@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -410,7 +410,7 @@ layout: default
 |**2025-01-09**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-16**|**Investigating Mixture of Experts in Dense Retrieval**|Effrosyni Sokli et.al.|[2412.11864](http://arxiv.org/abs/2412.11864)|null|
 |**2024-12-20**|**Wonderful Matrices: Combining for a More Efficient and Effective Foundation Model Architecture**|Jingze Shi et.al.|[2412.11834](http://arxiv.org/abs/2412.11834)|**[link](https://github.com/losercheems/doge)**|
-|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
+|**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|**[link](https://github.com/kastel-mobilitylab/mixtures-of-experts)**|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-14**|**DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification**|Yuhao Wang et.al.|[2412.10650](http://arxiv.org/abs/2412.10650)|**[link](https://github.com/924973292/demo)**|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
@@ -699,7 +699,7 @@ layout: default
 |**2025-01-15**|**The emission of interpulses by a 6.45-hour period coherent radio transient**|Y. W. J. Lee et.al.|[2501.09133](http://arxiv.org/abs/2501.09133)|null|
 |**2025-01-13**|**Cassiopeia A's Reverse Shock and its Effects on the Expanding SN Ejecta**|Robert A. Fesen et.al.|[2501.07708](http://arxiv.org/abs/2501.07708)|null|
 |**2025-01-11**|**Is the Monetary Transmission Mechanism Broken? Time for People's Quantitative Easing**|Sebastian Dragoe et.al.|[2501.06575](http://arxiv.org/abs/2501.06575)|null|
-|**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185](http://arxiv.org/abs/2501.06185)|null|
+|**2025-01-10**|**QPEs as Lense-Thirring precession of super-Eddington flows**|M. Middleton et.al.|[2501.06185](http://arxiv.org/abs/2501.06185)|**[link](https://github.com/andresgur/qpes)**|
 |**2025-01-10**|**Analysing the coverage of the University of Bologna's publication metadata in an existing source of open research information**|Erica Andreose et.al.|[2501.05821](http://arxiv.org/abs/2501.05821)|null|
 |**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
 |**2025-01-09**|**The CO-Fuelled Time Machine: Tracing Birth Conditions and Terrestrial Planet Formation Outcomes in HD 163296 through Pebble Drift-induced CO Enhancements**|Joe Williams et.al.|[2501.05316](http://arxiv.org/abs/2501.05316)|null|
@@ -740,7 +740,7 @@ layout: default
 |**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
 |**2024-12-11**|**Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality**|Jesus L. Lobo et.al.|[2412.08273](http://arxiv.org/abs/2412.08273)|null|
 |**2024-12-10**|**Mapping the spatial extent of HI-rich absorbers using MgII absorption along gravitational arcs**|Trystyn A. M. Berg et.al.|[2412.07652](http://arxiv.org/abs/2412.07652)|null|
-|**2024-12-26**|**CoinCLIP: A Multimodal Framework for Assessing Viability in Web3 Memecoins**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|**[link](https://github.com/hwlongcuhk/coinclip)**|
+|**2024-12-26**|**CoinCLIP: A Multimodal Framework for Assessing Viability in Web3 Memecoins**|Hou-Wan Long et.al.|[2412.07591](http://arxiv.org/abs/2412.07591)|null|
 |**2024-12-10**|**Modeling Speculative Trading Patterns in Token Markets: An Agent-Based Analysis with TokenLab**|Mengjue Wang et.al.|[2412.07512](http://arxiv.org/abs/2412.07512)|null|
 |**2024-12-10**|**KPZ-like scaling on a high-dimensional hypersphere**|Daniil Fedotov et.al.|[2412.07432](http://arxiv.org/abs/2412.07432)|null|
 |**2024-12-10**|**Exploring types I and IIA effective actions through T-duality**|Mohammad R. Garousi et.al.|[2412.07234](http://arxiv.org/abs/2412.07234)|null|
