@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Accelerated Preference Elicitation with LLM-Based Proxies**|David Huang et.al.|[2501.14625](http://arxiv.org/abs/2501.14625)|null|
+|**2025-01-24**|**DeepFlow: Serverless Large Language Model Serving at Scale**|Junhao Hu et.al.|[2501.14417](http://arxiv.org/abs/2501.14417)|null|
+|**2025-01-24**|**Locality-aware Fair Scheduling in LLM Serving**|Shiyi Cao et.al.|[2501.14312](http://arxiv.org/abs/2501.14312)|null|
+|**2025-01-24**|**Serving Long-Context LLMs at the Mobile Edge: Test-Time Reinforcement Learning-based Model Caching and Inference Offloading**|Minrui Xu et.al.|[2501.14205](http://arxiv.org/abs/2501.14205)|null|
 |**2025-01-08**|**iServe: An Intent-based Serving System for LLMs**|Dimitrios Liakopoulos et.al.|[2501.13111](http://arxiv.org/abs/2501.13111)|null|
 |**2025-01-22**|**EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation**|Yifan Yu et.al.|[2501.12689](http://arxiv.org/abs/2501.12689)|null|
 |**2025-01-21**|**Human-like conceptual representations emerge from language prediction**|Ningyu Xu et.al.|[2501.12547](http://arxiv.org/abs/2501.12547)|null|
@@ -120,7 +124,7 @@ layout: default
 |**2024-11-27**|**Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding**|Hyun Ryu et.al.|[2411.13157](http://arxiv.org/abs/2411.13157)|null|
 |**2024-11-21**|**LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**|Zhuohan Gu et.al.|[2411.13009](http://arxiv.org/abs/2411.13009)|null|
 |**2024-11-15**|**An exploration of the effect of quantisation on energy consumption and inference time of StarCoder2**|Pepijn de Reus et.al.|[2411.12758](http://arxiv.org/abs/2411.12758)|**[link](https://github.com/ana-oprescu/greenllms)**|
-|**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
+|**2025-01-24**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
 |**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|**[link](https://github.com/yc2367/bitmod-hpca-25)**|
 |**2024-11-18**|**MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs**|Shiyi Cao et.al.|[2411.11217](http://arxiv.org/abs/2411.11217)|null|
 |**2024-11-17**|**FastDraft: How to Train Your Draft**|Ofir Zafrir et.al.|[2411.11055](http://arxiv.org/abs/2411.11055)|null|
@@ -347,6 +351,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Mean-field limit from general mixtures of experts to quantum neural networks**|Anderson Melchor Hernandez et.al.|[2501.14660](http://arxiv.org/abs/2501.14660)|null|
+|**2025-01-24**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/abs/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|
+|**2025-01-24**|**Sparse Mixture-of-Experts for Non-Uniform Noise Reduction in MRI Images**|Zeyun Deng et.al.|[2501.14198](http://arxiv.org/abs/2501.14198)|null|
+|**2025-01-23**|**CSAOT: Cooperative Multi-Agent System for Active Object Tracking**|Hy Nguyen et.al.|[2501.13994](http://arxiv.org/abs/2501.13994)|null|
 |**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/abs/2501.13074)|null|
 |**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/abs/2501.12983)|null|
 |**2025-01-22**|**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**|Xu Zhang et.al.|[2501.12981](http://arxiv.org/abs/2501.12981)|null|
@@ -680,6 +688,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**The disrupting and growing open cluster spiral arm patterns of the Milky Way**|Xiaochen Liu et.al.|[2501.14215](http://arxiv.org/abs/2501.14215)|null|
+|**2025-01-19**|**Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks**|Diego Gosmar et.al.|[2501.13946](http://arxiv.org/abs/2501.13946)|null|
 |**2025-01-23**|**Inflaton Self Resonance, Oscillons, and Gravitational Waves in Small Field Polynomial Inflation**|Manuel Drees et.al.|[2501.13811](http://arxiv.org/abs/2501.13811)|null|
 |**2025-01-23**|**Considerations on the Origin of IRAS 19312+1950 Based on Long-Term Maser Observations**|Huan-Xue Feng et.al.|[2501.13769](http://arxiv.org/abs/2501.13769)|null|
 |**2025-01-23**|**Compiler Support for Speculation in Decoupled Access/Execute Architectures**|Robert Szafarczyk et.al.|[2501.13553](http://arxiv.org/abs/2501.13553)|null|
