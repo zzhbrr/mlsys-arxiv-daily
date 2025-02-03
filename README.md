@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
+|**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
+|**2025-01-31**|**Structural Embedding Projection for Contextual Large Language Model Inference**|Vincent Enoasmo et.al.|[2501.18826](http://arxiv.org/abs/2501.18826)|null|
 |**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
 |**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
@@ -373,6 +376,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
+|**2025-01-31**|**Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning**|Minh Le et.al.|[2501.18936](http://arxiv.org/abs/2501.18936)|null|
 |**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439](http://arxiv.org/abs/2501.18439)|null|
 |**2025-01-29**|**Free Agent in Agent-Based Mixture-of-Experts Generative AI Framework**|Jung-Hua Liu et.al.|[2501.17903](http://arxiv.org/abs/2501.17903)|null|
 |**2025-01-29**|**Heuristic-Informed Mixture of Experts for Link Prediction in Multilayer Networks**|Lucio La Cava et.al.|[2501.17557](http://arxiv.org/abs/2501.17557)|null|
@@ -723,6 +728,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
+|**2025-01-31**|**Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**|Gregor Bachmann et.al.|[2501.19309](http://arxiv.org/abs/2501.19309)|null|
+|**2025-01-31**|**Emancipatory Information Retrieval**|Bhaskar Mitra et.al.|[2501.19241](http://arxiv.org/abs/2501.19241)|null|
+|**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
+|**2025-01-30**|**Human Re-ID Meets LVLMs: What can we expect?**|Kailash Hambarde et.al.|[2501.18698](http://arxiv.org/abs/2501.18698)|null|
 |**2025-01-28**|**How Hamilton-Jacobi formalism helps to address the physical meaning of the wave function in Bohmian mechanics**|Arnaud Amblard et.al.|[2501.16989](http://arxiv.org/abs/2501.16989)|null|
 |**2025-01-28**|**Distilling Large Language Models for Network Active Queue Management**|Deol Satish et.al.|[2501.16734](http://arxiv.org/abs/2501.16734)|null|
 |**2025-01-24**|**The disrupting and growing open cluster spiral arm patterns of the Milky Way**|Xiaochen Liu et.al.|[2501.14215](http://arxiv.org/abs/2501.14215)|null|
@@ -737,7 +747,7 @@
 |**2025-01-21**|**AdaServe: SLO-Customized LLM Serving with Fine-Grained Speculative Decoding**|Zikun Li et.al.|[2501.12162](http://arxiv.org/abs/2501.12162)|null|
 |**2025-01-20**|**MIDIS: Quantifying the AGN component of X-ray-detected galaxies**|Steven Gillman et.al.|[2501.11491](http://arxiv.org/abs/2501.11491)|null|
 |**2025-01-23**|**The JWST EXCELS survey: an extremely metal-poor galaxy at $z=8.271$ hosting an unusual population of massive stars**|F. Cullen et.al.|[2501.11099](http://arxiv.org/abs/2501.11099)|null|
-|**2025-01-12**|**Vortices for lake equations (review with questions and speculations)**|Jair Koiller et.al.|[2501.10433](http://arxiv.org/abs/2501.10433)|null|
+|**2025-01-30**|**Vortices for lake equations (review with questions and speculations)**|Jair Koiller et.al.|[2501.10433](http://arxiv.org/abs/2501.10433)|null|
 |**2025-01-17**|**From strong to weak correlations in breathing-mode kagome van der Waals materials: Nb $_3$(F,Cl,Br,I)$_8$ as a robust and versatile platform for many-body engineering**|Joost Aretz et.al.|[2501.10320](http://arxiv.org/abs/2501.10320)|null|
 |**2025-01-16**|**25 years of XMM-Newton observations of the Sgr A complex: 3D distribution and internal structure of the clouds**|G. Stel et.al.|[2501.09737](http://arxiv.org/abs/2501.09737)|null|
 |**2025-01-16**|**Weak electronic correlations in the cobalt oxychalcogenide superconductor Na2CoSe2O**|Zhenchao Wu et.al.|[2501.09675](http://arxiv.org/abs/2501.09675)|null|
@@ -905,7 +915,7 @@
 |**2024-10-04**|**Mixture of Attentions For Speculative Decoding**|Matthieu Zimmer et.al.|[2410.03804](http://arxiv.org/abs/2410.03804)|null|
 |**2024-10-03**|**AI-rays: Exploring Bias in the Gaze of AI Through a Multimodal Interactive Installation**|Ziyao Gao et.al.|[2410.03786](http://arxiv.org/abs/2410.03786)|null|
 |**2024-09-24**|**Nonmetric geometric flows and quasicrystalline topological phases for dark energy and dark matter in $f(Q)$ cosmology**|L. Bubuianu et.al.|[2410.03700](http://arxiv.org/abs/2410.03700)|null|
-|**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
+|**2025-01-31**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
 |**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
 |**2024-10-03**|**Inductive Generative Recommendation via Retrieval-based Speculation**|Yijie Ding et.al.|[2410.02939](http://arxiv.org/abs/2410.02939)|**[link](https://github.com/jamesding000/specgr)**|
 |**2024-10-03**|**The Stellar Initial Mass Function of Early Dark Matter-free Gas Objects**|William Lake et.al.|[2410.02868](http://arxiv.org/abs/2410.02868)|null|
