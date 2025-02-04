@@ -25,13 +25,13 @@
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
 |**2025-01-31**|**Structural Embedding Projection for Contextual Large Language Model Inference**|Vincent Enoasmo et.al.|[2501.18826](http://arxiv.org/abs/2501.18826)|null|
 |**2025-01-29**|**On the Partitioning of GPU Power among Multi-Instances**|Tirth Vamja et.al.|[2501.17752](http://arxiv.org/abs/2501.17752)|null|
-|**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
+|**2025-02-02**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|**[link](https://github.com/ZunhaiSu/RotateKV)**|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
 |**2025-01-27**|**TOPLOC: A Locality Sensitive Hashing Scheme for Trustless Verifiable Inference**|Jack Min Ong et.al.|[2501.16007](http://arxiv.org/abs/2501.16007)|null|
 |**2025-01-27**|**Aging-aware CPU Core Management for Embodied Carbon Amortization in Cloud LLM Inference**|Tharindu B. Hewage et.al.|[2501.15829](http://arxiv.org/abs/2501.15829)|**[link](https://github.com/tharindu-b-hewage/splitwise-sim-cpu-carbon)**|
 |**2025-01-25**|**Task-KV: Task-aware KV Cache Optimization via Semantic Differentiation of Attention Heads**|Xingyang He et.al.|[2501.15113](http://arxiv.org/abs/2501.15113)|null|
 |**2025-01-25**|**PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation**|Jiayi Liao et.al.|[2501.15087](http://arxiv.org/abs/2501.15087)|null|
-|**2025-01-15**|**HyGen: Efficient LLM Serving via Elastic Online-Offline Request Co-location**|Ting Sun et.al.|[2501.14808](http://arxiv.org/abs/2501.14808)|null|
+|**2025-02-01**|**HyGen: Efficient LLM Serving via Elastic Online-Offline Request Co-location**|Ting Sun et.al.|[2501.14808](http://arxiv.org/abs/2501.14808)|null|
 |**2025-01-11**|**HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs platform with Heterogeneous AI Accelerators**|Le Chen et.al.|[2501.14794](http://arxiv.org/abs/2501.14794)|null|
 |**2025-01-04**|**DeServe: Towards Affordable Offline LLM Inference via Decentralization**|Linyu Wu et.al.|[2501.14784](http://arxiv.org/abs/2501.14784)|null|
 |**2024-12-13**|**KVDirect: Distributed Disaggregated LLM Inference**|Shiyang Chen et.al.|[2501.14743](http://arxiv.org/abs/2501.14743)|null|
@@ -56,7 +56,7 @@
 |**2025-01-14**|**Hierarchical Autoscaling for Large Language Model Serving with Chiron**|Archit Patke et.al.|[2501.08090](http://arxiv.org/abs/2501.08090)|null|
 |**2025-01-12**|**MPCache: MPC-Friendly KV Cache Eviction for Efficient Private Large Language Model Inference**|Wenxuan Zeng et.al.|[2501.06807](http://arxiv.org/abs/2501.06807)|null|
 |**2025-01-12**|**Mell: Memory-Efficient Large Language Model Serving via Multi-GPU KV Cache Management**|Liu Qianli et.al.|[2501.06709](http://arxiv.org/abs/2501.06709)|null|
-|**2025-01-21**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/mayank31398/ladder-residual-inference)**|
+|**2025-01-31**|**Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping**|Muru Zhang et.al.|[2501.06589](http://arxiv.org/abs/2501.06589)|**[link](https://github.com/mayank31398/ladder-residual-inference)**|
 |**2025-01-15**|**Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization**|Harshith Manjunath et.al.|[2501.05079](http://arxiv.org/abs/2501.05079)|null|
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-05**|**TAPAS: Thermal- and Power-Aware Scheduling for LLM Inference in Cloud Platforms**|Jovan Stojkovic et.al.|[2501.02600](http://arxiv.org/abs/2501.02600)|null|
@@ -439,7 +439,7 @@
 |**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|**[link](https://github.com/ReserveJudgement/Centaur-GPT)**|
 |**2024-12-24**|**BIG-MoE: Bypass Isolated Gating MoE for Generalized Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2412.18065](http://arxiv.org/abs/2412.18065)|**[link](https://github.com/murinj/big-moe)**|
 |**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu et.al.|[2412.17507](http://arxiv.org/abs/2412.17507)|null|
-|**2024-12-23**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404](http://arxiv.org/abs/2412.17404)|null|
+|**2025-02-01**|**BrainMAP: Learning Multiple Activation Pathways in Brain Networks**|Song Wang et.al.|[2412.17404](http://arxiv.org/abs/2412.17404)|**[link](https://github.com/lzyfischer/brainmap)**|
 |**2024-12-23**|**Efficient fine-tuning methodology of text embedding models for information retrieval: contrastive learning penalty (clp)**|Jeongsu Yu et.al.|[2412.17364](http://arxiv.org/abs/2412.17364)|**[link](https://github.com/crealabs/enhanced-bge-m3-with-clp-and-moe)**|
 |**2024-12-22**|**The Fermat curves and arrangements of lines and conics**|Nils Peder Astrup Toft et.al.|[2412.16993](http://arxiv.org/abs/2412.16993)|null|
 |**2024-12-22**|**Part-Of-Speech Sensitivity of Routers in Mixture of Experts Models**|Elie Antoine et.al.|[2412.16971](http://arxiv.org/abs/2412.16971)|null|
@@ -730,17 +730,17 @@
 |---|---|---|---|---|
 |**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
 |**2025-01-31**|**Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**|Gregor Bachmann et.al.|[2501.19309](http://arxiv.org/abs/2501.19309)|null|
-|**2025-01-31**|**Emancipatory Information Retrieval**|Bhaskar Mitra et.al.|[2501.19241](http://arxiv.org/abs/2501.19241)|null|
+|**2025-02-03**|**Emancipatory Information Retrieval**|Bhaskar Mitra et.al.|[2501.19241](http://arxiv.org/abs/2501.19241)|null|
 |**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
 |**2025-01-30**|**Human Re-ID Meets LVLMs: What can we expect?**|Kailash Hambarde et.al.|[2501.18698](http://arxiv.org/abs/2501.18698)|null|
 |**2025-01-28**|**How Hamilton-Jacobi formalism helps to address the physical meaning of the wave function in Bohmian mechanics**|Arnaud Amblard et.al.|[2501.16989](http://arxiv.org/abs/2501.16989)|null|
 |**2025-01-28**|**Distilling Large Language Models for Network Active Queue Management**|Deol Satish et.al.|[2501.16734](http://arxiv.org/abs/2501.16734)|null|
 |**2025-01-24**|**The disrupting and growing open cluster spiral arm patterns of the Milky Way**|Xiaochen Liu et.al.|[2501.14215](http://arxiv.org/abs/2501.14215)|null|
-|**2025-01-19**|**Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks**|Diego Gosmar et.al.|[2501.13946](http://arxiv.org/abs/2501.13946)|null|
+|**2025-01-19**|**Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks**|Diego Gosmar et.al.|[2501.13946](http://arxiv.org/abs/2501.13946)|**[link](https://github.com/diegogosmar/hall_evaluator)**|
 |**2025-01-23**|**Inflaton Self Resonance, Oscillons, and Gravitational Waves in Small Field Polynomial Inflation**|Manuel Drees et.al.|[2501.13811](http://arxiv.org/abs/2501.13811)|null|
 |**2025-01-23**|**Considerations on the Origin of IRAS 19312+1950 Based on Long-Term Maser Observations**|Huan-Xue Feng et.al.|[2501.13769](http://arxiv.org/abs/2501.13769)|null|
 |**2025-01-23**|**Compiler Support for Speculation in Decoupled Access/Execute Architectures**|Robert Szafarczyk et.al.|[2501.13553](http://arxiv.org/abs/2501.13553)|null|
-|**2025-01-23**|**Concentration in Governance Control Across Decentralised Finance Protocols**|Thomas Eisermann et.al.|[2501.13377](http://arxiv.org/abs/2501.13377)|**[link](https://github.com/xm3van/reasearch-project-erc20-governance)**|
+|**2025-02-01**|**Concentration in Governance Control Across Decentralised Finance Protocols**|Thomas Eisermann et.al.|[2501.13377](http://arxiv.org/abs/2501.13377)|**[link](https://github.com/xm3van/reasearch-project-erc20-governance)**|
 |**2025-01-22**|**The outer structure of old star clusters in the Small Magellanic Cloud**|Andrés E. Piatti et.al.|[2501.13062](http://arxiv.org/abs/2501.13062)|null|
 |**2025-01-22**|**Entanglement dynamics in collision models and entanglement quilts**|Le Hu et.al.|[2501.12629](http://arxiv.org/abs/2501.12629)|null|
 |**2025-01-22**|**Link in $\mathbb{R}\mathbb{P}^3$ and the Topological Vertex**|John Chae et.al.|[2501.12566](http://arxiv.org/abs/2501.12566)|null|
@@ -897,7 +897,7 @@
 |**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779](http://arxiv.org/abs/2410.11779)|**[link](https://github.com/zjunlp/Deco)**|
 |**2024-10-15**|**DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure**|Yunfan Xiong et.al.|[2410.11744](http://arxiv.org/abs/2410.11744)|null|
 |**2024-10-15**|**Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling**|Wenda Xu et.al.|[2410.11325](http://arxiv.org/abs/2410.11325)|null|
-|**2024-10-15**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|null|
+|**2025-02-01**|**QSpec: Speculative Decoding with Complementary Quantization Schemes**|Juntao Zhao et.al.|[2410.11305](http://arxiv.org/abs/2410.11305)|null|
 |**2024-11-20**|**Unveiling dust, molecular gas, and high star formation efficiency in extremely UV bright star-forming galaxies at $z\sim 2.1-3.6$**|M. Dessauges-Zavadsky et.al.|[2410.11121](http://arxiv.org/abs/2410.11121)|null|
 |**2024-10-01**|**Duo-LLM: A Framework for Studying Adaptive Computation in Large Language Models**|Keivan Alizadeh et.al.|[2410.10846](http://arxiv.org/abs/2410.10846)|null|
 |**2024-10-15**|**The Discovery of Polarized Water Vapor Megamaser Emission in a Molecular Accretion Disk**|Jack F. Gallimore et.al.|[2410.10569](http://arxiv.org/abs/2410.10569)|null|
