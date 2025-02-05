@@ -21,6 +21,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
+|**2025-01-30**|**Fine-tuning LLaMA 2 interference: a comparative study of language implementations for optimal efficiency**|Sazzad Hossain et.al.|[2502.01651](http://arxiv.org/abs/2502.01651)|null|
+|**2025-02-03**|**An Investigation of FP8 Across Accelerators for LLM Inference**|Jiwoo Kim et.al.|[2502.01070](http://arxiv.org/abs/2502.01070)|null|
+|**2025-02-02**|**Huff-LLM: End-to-End Lossless Compression for Efficient LLM Inference**|Patrick Yubeaton et.al.|[2502.00922](http://arxiv.org/abs/2502.00922)|null|
+|**2025-02-02**|**MorphBPE: A Morpho-Aware Tokenizer Bridging Linguistic Complexity for Efficient LLM Training Across Morphologies**|Ehsaneddin Asgari et.al.|[2502.00894](http://arxiv.org/abs/2502.00894)|null|
+|**2025-02-02**|**SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models**|Jiawen Zhang et.al.|[2502.00847](http://arxiv.org/abs/2502.00847)|null|
+|**2025-02-02**|**Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**|Youhe Jiang et.al.|[2502.00722](http://arxiv.org/abs/2502.00722)|null|
+|**2025-02-01**|**Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**|Zhi Zhou et.al.|[2502.00511](http://arxiv.org/abs/2502.00511)|null|
+|**2025-02-01**|**UniAttn: Reducing Inference Costs via Softmax Unification for Post-Training LLMs**|Yizhe Xiong et.al.|[2502.00439](http://arxiv.org/abs/2502.00439)|null|
+|**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
+|**2025-01-16**|**Optimization Strategies for Enhancing Resource Efficiency in Transformers & Large Language Models**|Tom Wallace et.al.|[2502.00046](http://arxiv.org/abs/2502.00046)|null|
+|**2025-01-21**|**Pushing the Limits of BFP on Narrow Precision LLM Inference**|Hui Wang et.al.|[2502.00026](http://arxiv.org/abs/2502.00026)|null|
 |**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
 |**2025-01-31**|**Structural Embedding Projection for Contextual Large Language Model Inference**|Vincent Enoasmo et.al.|[2501.18826](http://arxiv.org/abs/2501.18826)|null|
@@ -376,8 +388,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/abs/2502.02581)|null|
+|**2025-02-04**|**Brief analysis of DeepSeek R1 and it's implications for Generative AI**|Sarah Mercer et.al.|[2502.02523](http://arxiv.org/abs/2502.02523)|null|
+|**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/abs/2502.02040)|null|
+|**2025-02-03**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
+|**2025-02-03**|**Omni-Mol: Exploring Universal Convergent Space for Omni-Molecular Tasks**|Chengxin Hu et.al.|[2502.01074](http://arxiv.org/abs/2502.01074)|null|
+|**2025-02-04**|**MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs**|Yuhang Zhou et.al.|[2502.00997](http://arxiv.org/abs/2502.00997)|null|
+|**2025-02-03**|**CLIP-UP: A Simple and Efficient Mixture-of-Experts CLIP Training Recipe with Sparse Upcycling**|Xinze Wang et.al.|[2502.00965](http://arxiv.org/abs/2502.00965)|null|
+|**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
+|**2025-02-02**|**Distribution-aware Fairness Learning in Medical Image Segmentation From A Control-Theoretic Perspective**|Yujin Oh et.al.|[2502.00619](http://arxiv.org/abs/2502.00619)|null|
+|**2025-02-01**|**Weak-to-Strong Diffusion with Reflection**|Lichen Bai et.al.|[2502.00473](http://arxiv.org/abs/2502.00473)|null|
+|**2025-02-01**|**PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning**|Yu Feng et.al.|[2502.00354](http://arxiv.org/abs/2502.00354)|null|
+|**2025-02-01**|**Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective**|Fanqi Yan et.al.|[2502.00281](http://arxiv.org/abs/2502.00281)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
-|**2025-01-31**|**Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning**|Minh Le et.al.|[2501.18936](http://arxiv.org/abs/2501.18936)|null|
+|**2025-02-04**|**Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning**|Minh Le et.al.|[2501.18936](http://arxiv.org/abs/2501.18936)|null|
 |**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439](http://arxiv.org/abs/2501.18439)|null|
 |**2025-01-29**|**Free Agent in Agent-Based Mixture-of-Experts Generative AI Framework**|Jung-Hua Liu et.al.|[2501.17903](http://arxiv.org/abs/2501.17903)|null|
 |**2025-01-29**|**Heuristic-Informed Mixture of Experts for Link Prediction in Multilayer Networks**|Lucio La Cava et.al.|[2501.17557](http://arxiv.org/abs/2501.17557)|null|
@@ -401,7 +425,7 @@
 |**2025-01-21**|**SCFCRC: Simultaneously Counteract Feature Camouflage and Relation Camouflage for Fraud Detection**|Xiaocheng Zhang et.al.|[2501.12430](http://arxiv.org/abs/2501.12430)|null|
 |**2025-01-25**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
 |**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281](http://arxiv.org/abs/2501.12281)|**[link](https://github.com/youxiaotu/MoGERNN)**|
-|**2025-01-21**|**Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models**|Zihan Qiu et.al.|[2501.11873](http://arxiv.org/abs/2501.11873)|null|
+|**2025-02-04**|**Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models**|Zihan Qiu et.al.|[2501.11873](http://arxiv.org/abs/2501.11873)|null|
 |**2025-01-18**|**FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models**|Xinglin Pan et.al.|[2501.10714](http://arxiv.org/abs/2501.10714)|null|
 |**2024-12-16**|**DAOP: Data-Aware Offloading and Predictive Pre-Calculation for Efficient MoE Inference**|Yujie Zhang et.al.|[2501.10375](http://arxiv.org/abs/2501.10375)|null|
 |**2025-01-17**|**OMoE: Diversifying Mixture of Low-Rank Adaptation by Orthogonal Finetuning**|Jinyuan Feng et.al.|[2501.10062](http://arxiv.org/abs/2501.10062)|null|
@@ -728,6 +752,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
+|**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/abs/2502.02040)|null|
+|**2025-02-03**|**Cosmic Ray Feedback in Massive Halos: Implications for the Distribution of Baryons**|Eliot Quataert et.al.|[2502.01753](http://arxiv.org/abs/2502.01753)|null|
+|**2025-02-01**|**Speculative Ensemble: Fast Large Language Model Ensemble via Speculation**|Jiale Fu et.al.|[2502.01662](http://arxiv.org/abs/2502.01662)|null|
+|**2025-02-03**|**Time-dependent solutions of biadjoint scalar field theories**|Kymani Armstrong-Williams et.al.|[2502.01294](http://arxiv.org/abs/2502.01294)|null|
+|**2025-02-02**|**Constructing AI ethics narratives based on real-world data: Human-AI collaboration in data-driven visual storytelling**|Mengyi Wei et.al.|[2502.00637](http://arxiv.org/abs/2502.00637)|null|
+|**2025-02-01**|**Predicting the number density of heavy seed massive black holes due to an intense Lyman-Werner field**|Hannah O'Brennan et.al.|[2502.00574](http://arxiv.org/abs/2502.00574)|null|
+|**2025-02-04**|**Video Latent Flow Matching: Optimal Polynomial Projections for Video Interpolation and Extrapolation**|Yang Cao et.al.|[2502.00500](http://arxiv.org/abs/2502.00500)|null|
 |**2025-01-31**|**Reward-Guided Speculative Decoding for Efficient LLM Reasoning**|Baohao Liao et.al.|[2501.19324](http://arxiv.org/abs/2501.19324)|null|
 |**2025-01-31**|**Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment**|Gregor Bachmann et.al.|[2501.19309](http://arxiv.org/abs/2501.19309)|null|
 |**2025-02-03**|**Emancipatory Information Retrieval**|Bhaskar Mitra et.al.|[2501.19241](http://arxiv.org/abs/2501.19241)|null|
