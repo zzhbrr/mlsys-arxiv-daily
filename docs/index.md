@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL**|Wenbo Sun et.al.|[2502.02818](http://arxiv.org/abs/2502.02818)|null|
+|**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|null|
+|**2025-02-04**|**LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned Dynamic Routing**|Yang Li et.al.|[2502.02743](http://arxiv.org/abs/2502.02743)|null|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-01-30**|**Fine-tuning LLaMA 2 interference: a comparative study of language implementations for optimal efficiency**|Sazzad Hossain et.al.|[2502.01651](http://arxiv.org/abs/2502.01651)|null|
 |**2025-02-03**|**An Investigation of FP8 Across Accelerators for LLM Inference**|Jiwoo Kim et.al.|[2502.01070](http://arxiv.org/abs/2502.01070)|null|
@@ -377,16 +380,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**RepLoRA: Reparameterizing Low-Rank Adaptation via the Perspective of Mixture of Experts**|Tuan Truong et.al.|[2502.03044](http://arxiv.org/abs/2502.03044)|null|
+|**2025-02-05**|**On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation**|Nghiem T. Diep et.al.|[2502.03029](http://arxiv.org/abs/2502.03029)|null|
+|**2025-02-05**|**Scaling Laws for Upcycling Mixture-of-Experts Language Models**|Seng Pei Liew et.al.|[2502.03009](http://arxiv.org/abs/2502.03009)|null|
+|**2025-02-04**|**ReGNet: Reciprocal Space-Aware Long-Range Modeling and Multi-Property Prediction for Crystals**|Jianan Nie et.al.|[2502.02748](http://arxiv.org/abs/2502.02748)|null|
+|**2025-02-04**|**Binarity at LOw Metallicity (BLOeM): The multiplicity properties and evolution of BAF-type supergiants**|L. R. Patrick et.al.|[2502.02644](http://arxiv.org/abs/2502.02644)|null|
 |**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581](http://arxiv.org/abs/2502.02581)|null|
-|**2025-02-04**|**Brief analysis of DeepSeek R1 and it's implications for Generative AI**|Sarah Mercer et.al.|[2502.02523](http://arxiv.org/abs/2502.02523)|null|
+|**2025-02-05**|**Brief analysis of DeepSeek R1 and its implications for Generative AI**|Sarah Mercer et.al.|[2502.02523](http://arxiv.org/abs/2502.02523)|null|
 |**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/abs/2502.02040)|null|
-|**2025-02-03**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
+|**2025-02-05**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
 |**2025-02-03**|**Omni-Mol: Exploring Universal Convergent Space for Omni-Molecular Tasks**|Chengxin Hu et.al.|[2502.01074](http://arxiv.org/abs/2502.01074)|null|
 |**2025-02-04**|**MergeME: Model Merging Techniques for Homogeneous and Heterogeneous MoEs**|Yuhang Zhou et.al.|[2502.00997](http://arxiv.org/abs/2502.00997)|null|
 |**2025-02-03**|**CLIP-UP: A Simple and Efficient Mixture-of-Experts CLIP Training Recipe with Sparse Upcycling**|Xinze Wang et.al.|[2502.00965](http://arxiv.org/abs/2502.00965)|null|
 |**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
 |**2025-02-02**|**Distribution-aware Fairness Learning in Medical Image Segmentation From A Control-Theoretic Perspective**|Yujin Oh et.al.|[2502.00619](http://arxiv.org/abs/2502.00619)|null|
-|**2025-02-01**|**Weak-to-Strong Diffusion with Reflection**|Lichen Bai et.al.|[2502.00473](http://arxiv.org/abs/2502.00473)|null|
+|**2025-02-05**|**Weak-to-Strong Diffusion with Reflection**|Lichen Bai et.al.|[2502.00473](http://arxiv.org/abs/2502.00473)|null|
 |**2025-02-01**|**PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning**|Yu Feng et.al.|[2502.00354](http://arxiv.org/abs/2502.00354)|null|
 |**2025-02-01**|**Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective**|Fanqi Yan et.al.|[2502.00281](http://arxiv.org/abs/2502.00281)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
@@ -739,6 +747,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**FSLH: Flexible Mechanized Speculative Load Hardening**|Roberto Blanco et.al.|[2502.03203](http://arxiv.org/abs/2502.03203)|null|
+|**2025-02-05**|**How probable is the Lyman- $α$ damping wing in the spectrum of the redshift z = 5.9896 quasar ULAS J0148+0600?**|Fiona Sawyer et.al.|[2502.03085](http://arxiv.org/abs/2502.03085)|null|
+|**2025-02-05**|**A comprehensive study of the gas-phase formation network of HC $_5$ N: theory, experiments, observations and models**|Lisa Giani et.al.|[2502.03046](http://arxiv.org/abs/2502.03046)|null|
+|**2025-02-05**|**The connection between high-redshift galaxies and Lyman $α$ transmission in the Sherwood-Relics simulations of patchy reionisation**|Luke Conaboy et.al.|[2502.02983](http://arxiv.org/abs/2502.02983)|null|
+|**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|null|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/abs/2502.02040)|null|
 |**2025-02-03**|**Cosmic Ray Feedback in Massive Halos: Implications for the Distribution of Baryons**|Eliot Quataert et.al.|[2502.01753](http://arxiv.org/abs/2502.01753)|null|
