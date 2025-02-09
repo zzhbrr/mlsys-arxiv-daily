@@ -414,7 +414,7 @@
 |**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
 |**2025-02-02**|**Distribution-aware Fairness Learning in Medical Image Segmentation From A Control-Theoretic Perspective**|Yujin Oh et.al.|[2502.00619](http://arxiv.org/abs/2502.00619)|null|
 |**2025-02-05**|**Weak-to-Strong Diffusion with Reflection**|Lichen Bai et.al.|[2502.00473](http://arxiv.org/abs/2502.00473)|null|
-|**2025-02-01**|**PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning**|Yu Feng et.al.|[2502.00354](http://arxiv.org/abs/2502.00354)|null|
+|**2025-02-01**|**PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning**|Yu Feng et.al.|[2502.00354](http://arxiv.org/abs/2502.00354)|**[link](https://github.com/dannis97500/pm-moe)**|
 |**2025-02-01**|**Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective**|Fanqi Yan et.al.|[2502.00281](http://arxiv.org/abs/2502.00281)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
 |**2025-02-04**|**Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning**|Minh Le et.al.|[2501.18936](http://arxiv.org/abs/2501.18936)|null|
@@ -778,7 +778,7 @@
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/abs/2502.02040)|null|
 |**2025-02-03**|**Cosmic Ray Feedback in Massive Halos: Implications for the Distribution of Baryons**|Eliot Quataert et.al.|[2502.01753](http://arxiv.org/abs/2502.01753)|null|
-|**2025-02-01**|**Speculative Ensemble: Fast Large Language Model Ensemble via Speculation**|Jiale Fu et.al.|[2502.01662](http://arxiv.org/abs/2502.01662)|null|
+|**2025-02-01**|**Speculative Ensemble: Fast Large Language Model Ensemble via Speculation**|Jiale Fu et.al.|[2502.01662](http://arxiv.org/abs/2502.01662)|**[link](https://github.com/kamichanw/speculative-ensemble)**|
 |**2025-02-03**|**Time-dependent solutions of biadjoint scalar field theories**|Kymani Armstrong-Williams et.al.|[2502.01294](http://arxiv.org/abs/2502.01294)|null|
 |**2025-02-02**|**Constructing AI ethics narratives based on real-world data: Human-AI collaboration in data-driven visual storytelling**|Mengyi Wei et.al.|[2502.00637](http://arxiv.org/abs/2502.00637)|null|
 |**2025-02-01**|**Predicting the number density of heavy seed massive black holes due to an intense Lyman-Werner field**|Hannah O'Brennan et.al.|[2502.00574](http://arxiv.org/abs/2502.00574)|null|
