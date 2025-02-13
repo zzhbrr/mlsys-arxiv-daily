@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|null|
+|**2025-02-10**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
 |**2025-02-08**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
 |**2025-02-08**|**Mechanistic Interpretability of Emotion Inference in Large Language Models**|Ala N. Tak et.al.|[2502.05489](http://arxiv.org/abs/2502.05489)|null|
@@ -31,7 +33,7 @@
 |**2025-02-06**|**WaferLLM: A Wafer-Scale LLM Inference System**|Congjie He et.al.|[2502.04563](http://arxiv.org/abs/2502.04563)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
 |**2025-02-06**|**CMoE: Fast Carving of Mixture-of-Experts for Efficient LLM Inference**|Zehua Pei et.al.|[2502.04416](http://arxiv.org/abs/2502.04416)|**[link](https://github.com/JarvisPei/CMoE)**|
-|**2025-02-06**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
+|**2025-02-11**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
 |**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
 |**2025-02-06**|**CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing**|Yu Yuan et.al.|[2502.03997](http://arxiv.org/abs/2502.03997)|null|
 |**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|null|
@@ -75,7 +77,7 @@
 |**2025-01-24**|**EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation**|Yifan Yu et.al.|[2501.12689](http://arxiv.org/abs/2501.12689)|null|
 |**2025-01-21**|**Human-like conceptual representations emerge from language prediction**|Ningyu Xu et.al.|[2501.12547](http://arxiv.org/abs/2501.12547)|null|
 |**2025-01-21**|**AdaServe: SLO-Customized LLM Serving with Fine-Grained Speculative Decoding**|Zikun Li et.al.|[2501.12162](http://arxiv.org/abs/2501.12162)|null|
-|**2025-01-20**|**Glinthawk: A Two-Tiered Architecture for High-Throughput LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
+|**2025-02-11**|**Glinthawk: A Two-Tiered Architecture for Offline LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
 |**2025-01-20**|**Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas**|Nishant Balepur et.al.|[2501.11549](http://arxiv.org/abs/2501.11549)|**[link](https://github.com/pinafore/alignment-personalization)**|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
 |**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
@@ -394,7 +396,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -402,12 +404,17 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|null|
+|**2025-02-11**|**MoENAS: Mixture-of-Expert based Neural Architecture Search for jointly Accurate, Fair, and Robust Edge Deep Neural Networks**|Lotfi Abdelkrim Mecharbat et.al.|[2502.07422](http://arxiv.org/abs/2502.07422)|null|
+|**2025-02-11**|**Online Aggregation of Trajectory Predictors**|Alex Tong et.al.|[2502.07178](http://arxiv.org/abs/2502.07178)|null|
+|**2025-02-09**|**Klotski: Efficient Mixture-of-Expert Inference via Expert-Aware Multi-Batch Pipeline**|Zhiyuan Fang et.al.|[2502.06888](http://arxiv.org/abs/2502.06888)|null|
+|**2025-02-05**|**Optimizing Robustness and Accuracy in Mixture of Experts: A Dual-Model Approach**|Xu Zhang et.al.|[2502.06832](http://arxiv.org/abs/2502.06832)|null|
 |**2025-02-10**|**MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing**|Seokjin Go et.al.|[2502.06643](http://arxiv.org/abs/2502.06643)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
 |**2025-02-10**|**Fair-MoE: Fairness-Oriented Mixture of Experts in Vision-Language Models**|Peiran Wang et.al.|[2502.06094](http://arxiv.org/abs/2502.06094)|null|
@@ -470,7 +477,7 @@
 |**2025-01-16**|**MoE $^2$ : Optimizing Collaborative Inference for Edge Large Language Models**|Lyudong Jin et.al.|[2501.09410](http://arxiv.org/abs/2501.09410)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
 |**2025-01-14**|**Guiding polaritonic energy and momentum through two-dimensional Bravais lattices**|Zhonglin Li et.al.|[2501.08123](http://arxiv.org/abs/2501.08123)|null|
-|**2025-01-14**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890](http://arxiv.org/abs/2501.07890)|null|
+|**2025-02-11**|**GRAPHMOE: Amplifying Cognitive Depth of Mixture-of-Experts Network via Introducing Self-Rethinking Mechanism**|Chen Tang et.al.|[2501.07890](http://arxiv.org/abs/2501.07890)|null|
 |**2025-01-18**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762](http://arxiv.org/abs/2501.07762)|null|
 |**2025-01-13**|**A Multi-Modal Deep Learning Framework for Pan-Cancer Prognosis**|Binyu Zhang et.al.|[2501.07016](http://arxiv.org/abs/2501.07016)|**[link](https://github.com/binging512/umpsnet)**|
 |**2025-01-12**|**Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning**|Hanwen Zhong et.al.|[2501.06884](http://arxiv.org/abs/2501.06884)|**[link](https://github.com/yewen1486/emtal)**|
@@ -592,7 +599,7 @@
 |**2024-11-06**|**Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent**|Xingwu Sun et.al.|[2411.02265](http://arxiv.org/abs/2411.02265)|null|
 |**2024-12-27**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
 |**2024-11-06**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
-|**2024-11-03**|**RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
+|**2025-02-10**|**RS-MoE: A Vision-Language Model with Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering**|Hui Lin et.al.|[2411.01595](http://arxiv.org/abs/2411.01595)|null|
 |**2025-02-10**|**Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation**|Mingrui Liu et.al.|[2411.01457](http://arxiv.org/abs/2411.01457)|null|
 |**2024-11-06**|**HOBBIT: A Mixed Precision Expert Offloading System for Fast MoE Inference**|Peng Tang et.al.|[2411.01433](http://arxiv.org/abs/2411.01433)|null|
 |**2024-12-12**|**HEXA-MoE: Efficient and Heterogeneous-aware MoE Acceleration with ZERO Computation Redundancy**|Shuqing Luo et.al.|[2411.01288](http://arxiv.org/abs/2411.01288)|**[link](https://github.com/unites-lab/hexa-moe)**|
@@ -783,12 +790,13 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Entropy Adaptive Decoding: Dynamic Model Switching for Efficient Inference**|Toby Simonds et.al.|[2502.06833](http://arxiv.org/abs/2502.06833)|null|
 |**2025-02-10**|**Persistent spin grids with spin-orbit coupled 2D electron gas**|A. V. Poshakinskiy et.al.|[2502.06745](http://arxiv.org/abs/2502.06745)|null|
 |**2025-02-10**|**LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**|Sihwan Park et.al.|[2502.06352](http://arxiv.org/abs/2502.06352)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
@@ -877,7 +885,7 @@
 |**2024-12-15**|**Heat kernel and local index theorem for open complex manifolds with $\mathbb{C}^{\ast }$ -action**|Jih-Hsin Cheng et.al.|[2412.11037](http://arxiv.org/abs/2412.11037)|null|
 |**2024-12-14**|**The JWST-NIRCam View of Sagittarius C. II. Evidence for Magnetically Dominated HII Regions in the CMZ**|John Bally et.al.|[2412.10983](http://arxiv.org/abs/2412.10983)|null|
 |**2024-12-14**|**Interference in Fuzzy Dark Matter Filaments: Idealised Models and Statistics**|Tim Zimmermann et.al.|[2412.10829](http://arxiv.org/abs/2412.10829)|null|
-|**2024-12-09**|**Constrained Decoding with Speculative Lookaheads**|Nishanth Nakshatri et.al.|[2412.10418](http://arxiv.org/abs/2412.10418)|null|
+|**2025-02-10**|**Constrained Decoding with Speculative Lookaheads**|Nishanth Nakshatri et.al.|[2412.10418](http://arxiv.org/abs/2412.10418)|null|
 |**2025-01-15**|**Asymmetric Temperature Variations In Protoplanetary disks: I. Linear Theory, Corotating Spirals, and Ring Formation**|Zhaohuan Zhu et.al.|[2412.09571](http://arxiv.org/abs/2412.09571)|null|
 |**2024-12-12**|**AI Predicts AGI: Leveraging AGI Forecasting and Peer Review to Explore LLMs' Complex Reasoning Capabilities**|Fabrizio Davide et.al.|[2412.09385](http://arxiv.org/abs/2412.09385)|null|
 |**2024-12-11**|**Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality**|Jesus L. Lobo et.al.|[2412.08273](http://arxiv.org/abs/2412.08273)|null|
@@ -1132,7 +1140,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1168,7 +1176,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
