@@ -21,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**On multi-token prediction for efficient LLM inference**|Somesh Mehra et.al.|[2502.09419](http://arxiv.org/abs/2502.09419)|null|
+|**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
+|**2025-02-13**|**RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models**|Quan Wei et.al.|[2502.09003](http://arxiv.org/abs/2502.09003)|null|
+|**2025-02-13**|**InfiniteHiP: Extending Language Model Context Up to 3 Million Tokens on a Single GPU**|Heejun Lee et.al.|[2502.08910](http://arxiv.org/abs/2502.08910)|null|
+|**2025-02-13**|**DiffoRA: Enabling Parameter-Efficient LLM Fine-Tuning via Differential Low-Rank Matrix Adaptation**|Tangyu Jiang et.al.|[2502.08905](http://arxiv.org/abs/2502.08905)|null|
+|**2025-02-12**|**Universal Model Routing for Efficient LLM Inference**|Wittawat Jitkrittum et.al.|[2502.08773](http://arxiv.org/abs/2502.08773)|null|
 |**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
 |**2025-02-12**|**Memory Offloading for Large Language Model Inference with Latency SLO Guarantees**|Chenxiang Ma et.al.|[2502.08182](http://arxiv.org/abs/2502.08182)|null|
 |**2025-02-12**|**Bridging the Safety Gap: A Guardrail Pipeline for Trustworthy LLM Inferences**|Shanshan Han et.al.|[2502.08142](http://arxiv.org/abs/2502.08142)|null|
@@ -28,7 +34,7 @@
 |**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903](http://arxiv.org/abs/2502.07903)|null|
 |**2025-02-11**|**SHARP: Accelerating Language Model Inference by SHaring Adjacent layers with Recovery Parameters**|Yiping Wang et.al.|[2502.07832](http://arxiv.org/abs/2502.07832)|null|
 |**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
-|**2025-02-10**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
+|**2025-02-13**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
 |**2025-02-08**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
 |**2025-02-08**|**Mechanistic Interpretability of Emotion Inference in Large Language Models**|Ala N. Tak et.al.|[2502.05489](http://arxiv.org/abs/2502.05489)|null|
@@ -56,7 +62,7 @@
 |**2025-02-02**|**MorphBPE: A Morpho-Aware Tokenizer Bridging Linguistic Complexity for Efficient LLM Training Across Morphologies**|Ehsaneddin Asgari et.al.|[2502.00894](http://arxiv.org/abs/2502.00894)|null|
 |**2025-02-02**|**SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models**|Jiawen Zhang et.al.|[2502.00847](http://arxiv.org/abs/2502.00847)|null|
 |**2025-02-02**|**Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs**|Youhe Jiang et.al.|[2502.00722](http://arxiv.org/abs/2502.00722)|null|
-|**2025-02-01**|**Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**|Zhi Zhou et.al.|[2502.00511](http://arxiv.org/abs/2502.00511)|null|
+|**2025-02-13**|**Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**|Zhi Zhou et.al.|[2502.00511](http://arxiv.org/abs/2502.00511)|null|
 |**2025-02-01**|**UniAttn: Reducing Inference Costs via Softmax Unification for Post-Training LLMs**|Yizhe Xiong et.al.|[2502.00439](http://arxiv.org/abs/2502.00439)|null|
 |**2025-02-01**|**ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference**|Xiang Liu et.al.|[2502.00299](http://arxiv.org/abs/2502.00299)|null|
 |**2025-01-16**|**Optimization Strategies for Enhancing Resource Efficiency in Transformers & Large Language Models**|Tom Wallace et.al.|[2502.00046](http://arxiv.org/abs/2502.00046)|null|
@@ -113,7 +119,7 @@
 |**2024-12-19**|**GFormer: Accelerating Large Language Models with Optimized Transformers on Gaudi Processors**|Chengming Zhang et.al.|[2412.19829](http://arxiv.org/abs/2412.19829)|null|
 |**2025-01-05**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|**[link](https://github.com/jhhuangkay/gradient-weight-normalized-low-rank-projection-for-efficient-llm-training)**|
 |**2025-01-02**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442](http://arxiv.org/abs/2412.19442)|**[link](https://github.com/treeai-lab/awesome-kv-cache-management)**|
-|**2024-12-27**|**An Engorgio Prompt Makes Large Language Model Babble on**|Jianshuo Dong et.al.|[2412.19394](http://arxiv.org/abs/2412.19394)|**[link](https://github.com/jianshuod/engorgio-prompt)**|
+|**2025-02-13**|**An Engorgio Prompt Makes Large Language Model Babble on**|Jianshuo Dong et.al.|[2412.19394](http://arxiv.org/abs/2412.19394)|**[link](https://github.com/jianshuod/engorgio-prompt)**|
 |**2024-12-25**|**Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference**|Libo Zhang et.al.|[2412.18934](http://arxiv.org/abs/2412.18934)|null|
 |**2024-12-24**|**TimelyLLM: Segmented LLM Serving System for Time-sensitive Robotic Applications**|Neiwen Ling et.al.|[2412.18695](http://arxiv.org/abs/2412.18695)|null|
 |**2024-12-26**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
@@ -416,9 +422,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Eidetic Learning: an Efficient and Provable Solution to Catastrophic Forgetting**|Nicholas Dronen et.al.|[2502.09500](http://arxiv.org/abs/2502.09500)|**[link](https://github.com/amazon-science/eideticnet-training)**|
 |**2025-02-12**|**The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**|Ning Li et.al.|[2502.08381](http://arxiv.org/abs/2502.08381)|null|
 |**2025-02-12**|**Mixture of Decoupled Message Passing Experts with Entropy Constraint for General Node Classification**|Xuanze Chen et.al.|[2502.08083](http://arxiv.org/abs/2502.08083)|null|
-|**2025-02-11**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/abs/2502.07972)|null|
+|**2025-02-13**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/abs/2502.07972)|null|
 |**2025-02-11**|**Memory Analysis on the Training Course of DeepSeek Models**|Ping Zhang et.al.|[2502.07846](http://arxiv.org/abs/2502.07846)|null|
 |**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-02-11**|**MoENAS: Mixture-of-Expert based Neural Architecture Search for jointly Accurate, Fair, and Robust Edge Deep Neural Networks**|Lotfi Abdelkrim Mecharbat et.al.|[2502.07422](http://arxiv.org/abs/2502.07422)|null|
@@ -461,7 +468,7 @@
 |**2025-01-29**|**Heuristic-Informed Mixture of Experts for Link Prediction in Multilayer Networks**|Lucio La Cava et.al.|[2501.17557](http://arxiv.org/abs/2501.17557)|null|
 |**2025-01-28**|**3D-MoE: A Mixture-of-Experts Multi-modal LLM for 3D Vision and Pose Diffusion via Rectified Flow**|Yueen Ma et.al.|[2501.16698](http://arxiv.org/abs/2501.16698)|null|
 |**2025-01-27**|**Searching for GEMS: Discovery and Characterization of Two Brown Dwarfs Around M Dwarfs**|Alexander Larsen et.al.|[2501.16554](http://arxiv.org/abs/2501.16554)|null|
-|**2025-01-27**|**MoEVD: Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|
+|**2025-02-12**|**One-for-All Does Not Work! Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)**|Xu Yang et.al.|[2501.16454](http://arxiv.org/abs/2501.16454)|null|
 |**2025-01-18**|**Mixture of Experts (MoE): A Big Data Perspective**|Wensheng Gan et.al.|[2501.16352](http://arxiv.org/abs/2501.16352)|null|
 |**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/abs/2501.16103)|null|
 |**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
@@ -806,6 +813,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Rosette Nebula Outburst Gaia 24djk from the Young Stellar Object V557 Mon**|Adolfo S. Carvalho et.al.|[2502.09523](http://arxiv.org/abs/2502.09523)|null|
+|**2025-02-13**|**$^{18}$ F-FDG brain PET hypometabolism in post-SARS-CoV-2 infection: substrate for persistent/delayed disorders?**|Eric Guedj et.al.|[2502.09077](http://arxiv.org/abs/2502.09077)|null|
+|**2025-02-13**|**CopySpec: Accelerating LLMs with Speculative Copy-and-Paste Without Compromising Quality**|Razvan-Gabriel Dumitru et.al.|[2502.08923](http://arxiv.org/abs/2502.08923)|null|
 |**2025-02-11**|**Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding**|Ziyao Wang et.al.|[2502.08020](http://arxiv.org/abs/2502.08020)|null|
 |**2025-02-11**|**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**|Ruichen Zhang et.al.|[2502.07942](http://arxiv.org/abs/2502.07942)|null|
 |**2025-02-05**|**Entropy Adaptive Decoding: Dynamic Model Switching for Efficient Inference**|Toby Simonds et.al.|[2502.06833](http://arxiv.org/abs/2502.06833)|null|
@@ -820,7 +830,7 @@
 |**2025-02-06**|**The Evolution of Hypervelocity Supernova Survivors and the Outcomes of Interacting Double White Dwarf Binaries**|Ken J. Shen et.al.|[2502.04451](http://arxiv.org/abs/2502.04451)|null|
 |**2025-02-06**|**Properties of the emission region in pulsars with opposite subpulse drift directions in different profile components**|H. M. Tedila et.al.|[2502.03833](http://arxiv.org/abs/2502.03833)|null|
 |**2025-02-05**|**COSMOS-Web: The emergence of the Hubble Sequence**|M. Huertas-Company et.al.|[2502.03532](http://arxiv.org/abs/2502.03532)|null|
-|**2025-02-06**|**FSLH: Flexible Mechanized Speculative Load Hardening**|Roberto Blanco et.al.|[2502.03203](http://arxiv.org/abs/2502.03203)|null|
+|**2025-02-13**|**FSLH: Flexible Mechanized Speculative Load Hardening**|Roberto Blanco et.al.|[2502.03203](http://arxiv.org/abs/2502.03203)|null|
 |**2025-02-05**|**How probable is the Lyman- $α$ damping wing in the spectrum of the redshift z = 5.9896 quasar ULAS J0148+0600?**|Fiona Sawyer et.al.|[2502.03085](http://arxiv.org/abs/2502.03085)|null|
 |**2025-02-05**|**A comprehensive study of the gas-phase formation network of HC $_5$ N: theory, experiments, observations and models**|Lisa Giani et.al.|[2502.03046](http://arxiv.org/abs/2502.03046)|null|
 |**2025-02-05**|**The connection between high-redshift galaxies and Lyman $α$ transmission in the Sherwood-Relics simulations of patchy reionisation**|Luke Conaboy et.al.|[2502.02983](http://arxiv.org/abs/2502.02983)|null|
