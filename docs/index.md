@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -46,7 +46,7 @@ layout: default
 |**2025-02-05**|**Bilevel ZOFO: Bridging Parameter-Efficient and Zeroth-Order Techniques for Efficient LLM Fine-Tuning and Meta-Training**|Reza Shirkavand et.al.|[2502.03604](http://arxiv.org/abs/2502.03604)|null|
 |**2025-02-05**|**HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference**|Zeyu Zhang et.al.|[2502.03589](http://arxiv.org/abs/2502.03589)|null|
 |**2025-02-05**|**Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL**|Wenbo Sun et.al.|[2502.02818](http://arxiv.org/abs/2502.02818)|null|
-|**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|null|
+|**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|**[link](https://github.com/Jingyu6/speculative_prefill)**|
 |**2025-02-04**|**LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned Dynamic Routing**|Yang Li et.al.|[2502.02743](http://arxiv.org/abs/2502.02743)|null|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-01-30**|**Fine-tuning LLaMA 2 interference: a comparative study of language implementations for optimal efficiency**|Sazzad Hossain et.al.|[2502.01651](http://arxiv.org/abs/2502.01651)|null|
@@ -414,7 +414,7 @@ layout: default
 |**2025-02-13**|**Eidetic Learning: an Efficient and Provable Solution to Catastrophic Forgetting**|Nicholas Dronen et.al.|[2502.09500](http://arxiv.org/abs/2502.09500)|**[link](https://github.com/amazon-science/eideticnet-training)**|
 |**2025-02-12**|**The MoE-Empowered Edge LLMs Deployment: Architecture, Challenges, and Opportunities**|Ning Li et.al.|[2502.08381](http://arxiv.org/abs/2502.08381)|null|
 |**2025-02-12**|**Mixture of Decoupled Message Passing Experts with Entropy Constraint for General Node Classification**|Xuanze Chen et.al.|[2502.08083](http://arxiv.org/abs/2502.08083)|null|
-|**2025-02-13**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/abs/2502.07972)|null|
+|**2025-02-13**|**Training Sparse Mixture Of Experts Text Embedding Models**|Zach Nussbaum et.al.|[2502.07972](http://arxiv.org/abs/2502.07972)|**[link](https://github.com/nomic-ai/contrastors)**|
 |**2025-02-11**|**Memory Analysis on the Training Course of DeepSeek Models**|Ping Zhang et.al.|[2502.07846](http://arxiv.org/abs/2502.07846)|null|
 |**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-02-11**|**MoENAS: Mixture-of-Expert based Neural Architecture Search for jointly Accurate, Fair, and Robust Edge Deep Neural Networks**|Lotfi Abdelkrim Mecharbat et.al.|[2502.07422](http://arxiv.org/abs/2502.07422)|null|
@@ -821,7 +821,7 @@ layout: default
 |**2025-02-05**|**How probable is the Lyman- $α$ damping wing in the spectrum of the redshift z = 5.9896 quasar ULAS J0148+0600?**|Fiona Sawyer et.al.|[2502.03085](http://arxiv.org/abs/2502.03085)|null|
 |**2025-02-05**|**A comprehensive study of the gas-phase formation network of HC $_5$ N: theory, experiments, observations and models**|Lisa Giani et.al.|[2502.03046](http://arxiv.org/abs/2502.03046)|null|
 |**2025-02-05**|**The connection between high-redshift galaxies and Lyman $α$ transmission in the Sherwood-Relics simulations of patchy reionisation**|Luke Conaboy et.al.|[2502.02983](http://arxiv.org/abs/2502.02983)|null|
-|**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|null|
+|**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|**[link](https://github.com/Jingyu6/speculative_prefill)**|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-02-04**|**M2R2: Mixture of Multi-Rate Residuals for Efficient Transformer Inference**|Nikhil Bhendawade et.al.|[2502.02040](http://arxiv.org/abs/2502.02040)|null|
 |**2025-02-03**|**Cosmic Ray Feedback in Massive Halos: Implications for the Distribution of Baryons**|Eliot Quataert et.al.|[2502.01753](http://arxiv.org/abs/2502.01753)|null|
