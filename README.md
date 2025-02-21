@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|null|
+|**2025-02-20**|**Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale**|Shashwat Jaiswal et.al.|[2502.14617](http://arxiv.org/abs/2502.14617)|null|
+|**2025-02-20**|**SR-LLM: Rethinking the Structured Representation in Large Language Model**|Jiahuan Zhang et.al.|[2502.14352](http://arxiv.org/abs/2502.14352)|null|
+|**2025-02-20**|**Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications**|Kayhan Behdin et.al.|[2502.14305](http://arxiv.org/abs/2502.14305)|null|
+|**2025-02-19**|**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression**|Payman Behnam et.al.|[2502.14051](http://arxiv.org/abs/2502.14051)|null|
 |**2025-02-19**|**Autellix: An Efficient Serving Engine for LLM Agents as General Programs**|Michael Luo et.al.|[2502.13965](http://arxiv.org/abs/2502.13965)|null|
 |**2025-02-19**|**Activation-aware Probe-Query: Effective Key-Value Retrieval for Long-Context LLMs Inference**|Qingfa Xiao et.al.|[2502.13542](http://arxiv.org/abs/2502.13542)|null|
 |**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
@@ -29,7 +34,7 @@
 |**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
 |**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|null|
 |**2025-02-18**|**Distributed On-Device LLM Inference With Over-the-Air Computation**|Kai Zhang et.al.|[2502.12559](http://arxiv.org/abs/2502.12559)|null|
-|**2025-02-18**|**SparAMX: Accelerating Compressed LLMs Token Generation on AMX-powered CPUs**|Ahmed F. AbouElhamayed et.al.|[2502.12444](http://arxiv.org/abs/2502.12444)|null|
+|**2025-02-18**|**SparAMX: Accelerating Compressed LLMs Token Generation on AMX-powered CPUs**|Ahmed F. AbouElhamayed et.al.|[2502.12444](http://arxiv.org/abs/2502.12444)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
 |**2025-02-17**|**Designing Role Vectors to Improve LLM Inference Behaviour**|Daniele Potertì et.al.|[2502.12055](http://arxiv.org/abs/2502.12055)|null|
 |**2025-02-17**|**DiSCo: Device-Server Collaborative LLM-Based Text Streaming Services**|Ting Sun et.al.|[2502.11417](http://arxiv.org/abs/2502.11417)|null|
@@ -37,7 +42,7 @@
 |**2025-02-16**|**Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View**|Yanran Wu et.al.|[2502.11256](http://arxiv.org/abs/2502.11256)|null|
 |**2025-02-16**|**Diversified Sampling Improves Scaling LLM inference**|Tianchun Wang et.al.|[2502.11027](http://arxiv.org/abs/2502.11027)|null|
 |**2025-02-16**|**Leveraging Uncertainty Estimation for Efficient LLM Routing**|Tuo Zhang et.al.|[2502.11021](http://arxiv.org/abs/2502.11021)|null|
-|**2025-02-16**|**Local-Cloud Inference Offloading for LLMs in Multi-Modal, Multi-Task, Multi-Dialogue Settings**|Liangqi Yuan et.al.|[2502.11007](http://arxiv.org/abs/2502.11007)|null|
+|**2025-02-16**|**Local-Cloud Inference Offloading for LLMs in Multi-Modal, Multi-Task, Multi-Dialogue Settings**|Liangqi Yuan et.al.|[2502.11007](http://arxiv.org/abs/2502.11007)|**[link](https://github.com/liangqiyuan/LCIO)**|
 |**2025-02-15**|**Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA**|Jindong Li et.al.|[2502.10659](http://arxiv.org/abs/2502.10659)|null|
 |**2025-02-05**|**QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache**|Rishabh Tiwari et.al.|[2502.10424](http://arxiv.org/abs/2502.10424)|null|
 |**2025-02-14**|**λScale: Enabling Fast Scaling for Serverless Large Language Model Inference**|Minchen Yu et.al.|[2502.09922](http://arxiv.org/abs/2502.09922)|null|
@@ -147,7 +152,7 @@
 |**2024-12-24**|**Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media**|Zhen Sun et.al.|[2412.18148](http://arxiv.org/abs/2412.18148)|null|
 |**2024-12-24**|**Tackling the Dynamicity in a Production LLM Serving System with SOTA Optimizations via Hybrid Prefill/Decode/Verify Scheduling on Efficient Meta-kernels**|Mingcong Song et.al.|[2412.18106](http://arxiv.org/abs/2412.18106)|null|
 |**2024-12-23**|**Trustworthy and Efficient LLMs Meet Databases**|Kyoungmin Kim et.al.|[2412.18022](http://arxiv.org/abs/2412.18022)|null|
-|**2025-02-19**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference**|Chao Zeng et.al.|[2412.17560](http://arxiv.org/abs/2412.17560)|null|
+|**2025-02-20**|**GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference**|Chao Zeng et.al.|[2412.17560](http://arxiv.org/abs/2412.17560)|null|
 |**2025-02-18**|**VilBias: A Study of Bias Detection through Linguistic and Visual Cues , presenting Annotation Strategies, Evaluation, and Key Challenges**|Shaina Raza et.al.|[2412.17052](http://arxiv.org/abs/2412.17052)|**[link](https://github.com/shainarazavi/vilbias)**|
 |**2024-12-21**|**SYMPHONY: Improving Memory Management for LLM Inference Workloads**|Saurabh Agarwal et.al.|[2412.16434](http://arxiv.org/abs/2412.16434)|null|
 |**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
@@ -443,9 +448,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/abs/2502.13685)|null|
+|**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/abs/2502.14788)|null|
+|**2025-02-20**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
+|**2025-02-19**|**MoM: Linear Sequence Modeling with Mixture-of-Memories**|Jusen Du et.al.|[2502.13685](http://arxiv.org/abs/2502.13685)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-02-19**|**Unraveling the Localized Latents: Learning Stratified Manifold Structures in LLM Embedding Space with Sparse Mixture-of-Experts**|Xin Li et.al.|[2502.13577](http://arxiv.org/abs/2502.13577)|null|
-|**2025-02-18**|**MoBA: Mixture of Block Attention for Long-Context LLMs**|Enzhe Lu et.al.|[2502.13189](http://arxiv.org/abs/2502.13189)|null|
+|**2025-02-18**|**MoBA: Mixture of Block Attention for Long-Context LLMs**|Enzhe Lu et.al.|[2502.13189](http://arxiv.org/abs/2502.13189)|**[link](https://github.com/moonshotai/moba)**|
 |**2025-02-18**|**Every Expert Matters: Towards Effective Knowledge Distillation for Mixture-of-Experts Language Models**|Gyeongman Kim et.al.|[2502.12947](http://arxiv.org/abs/2502.12947)|null|
 |**2025-02-18**|**DSMoE: Matrix-Partitioned Experts with Dynamic Routing for Computation-Efficient Dense LLMs**|Minxuan Lv et.al.|[2502.12455](http://arxiv.org/abs/2502.12455)|null|
 |**2025-02-17**|**From Dense to Dynamic: Token-Difficulty Driven MoEfication of Pre-Trained LLMs**|Kumari Nishu et.al.|[2502.12325](http://arxiv.org/abs/2502.12325)|null|
@@ -453,7 +460,7 @@
 |**2025-02-17**|**Accurate Expert Predictions in MoE Inference via Cross-Layer Gate**|Zhiyuan Fang et.al.|[2502.12224](http://arxiv.org/abs/2502.12224)|null|
 |**2025-02-17**|**How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines**|Ayan Sengupta et.al.|[2502.12051](http://arxiv.org/abs/2502.12051)|null|
 |**2025-02-17**|**Connector-S: A Survey of Connectors in Multi-modal Large Language Models**|Xun Zhu et.al.|[2502.11453](http://arxiv.org/abs/2502.11453)|null|
-|**2025-02-16**|**Mixture of Tunable Experts - Behavior Modification of DeepSeek-R1 at Inference Time**|Robert Dahlke et.al.|[2502.11096](http://arxiv.org/abs/2502.11096)|null|
+|**2025-02-16**|**Mixture of Tunable Experts -- Behavior Modification of DeepSeek-R1 at Inference Time**|Robert Dahlke et.al.|[2502.11096](http://arxiv.org/abs/2502.11096)|null|
 |**2025-02-16**|**ClimateLLM: Efficient Weather Forecasting via Frequency-Aware Large Language Models**|Shixuan Li et.al.|[2502.11059](http://arxiv.org/abs/2502.11059)|null|
 |**2025-02-15**|**Semantic Specialization in MoE Appears with Scale: A Study of DeepSeek R1 Expert Specialization**|Matthew Lyle Olson et.al.|[2502.10928](http://arxiv.org/abs/2502.10928)|null|
 |**2025-02-11**|**MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition**|Sungnyun Kim et.al.|[2502.10447](http://arxiv.org/abs/2502.10447)|null|
@@ -849,6 +856,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
+|**2025-02-20**|**Fusion rules and structure constants of E-series minimal models**|Rongvoram Nivesvivat et.al.|[2502.14295](http://arxiv.org/abs/2502.14295)|null|
+|**2025-02-19**|**Which Attention Heads Matter for In-Context Learning?**|Kayo Yin et.al.|[2502.14010](http://arxiv.org/abs/2502.14010)|null|
 |**2025-02-19**|**NVR: Vector Runahead on NPUs for Sparse Memory Access**|Hui Wang et.al.|[2502.13873](http://arxiv.org/abs/2502.13873)|null|
 |**2025-02-19**|**Hierarchical accretion flow from the G351 infrared dark filament to its central cores**|H. Beuther et.al.|[2502.13866](http://arxiv.org/abs/2502.13866)|null|
 |**2025-02-19**|**C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**|Feiye Huo et.al.|[2502.13652](http://arxiv.org/abs/2502.13652)|null|
