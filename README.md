@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**LLM Inference Acceleration via Efficient Operation Fusion**|Mahsa Salmani et.al.|[2502.17728](http://arxiv.org/abs/2502.17728)|null|
 |**2025-02-24**|**CodeSwift: Accelerating LLM Inference for Efficient Code Generation**|Qianhui Zhao et.al.|[2502.17139](http://arxiv.org/abs/2502.17139)|null|
 |**2025-02-24**|**Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM**|Lian Liu et.al.|[2502.16963](http://arxiv.org/abs/2502.16963)|null|
 |**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
@@ -84,10 +85,10 @@
 |**2025-02-07**|**EcoServe: Designing Carbon-Aware AI Inference Systems**|Yueying et.al.|[2502.05043](http://arxiv.org/abs/2502.05043)|null|
 |**2025-02-07**|**LLM Query Scheduling with Prefix Reuse and Latency Constraints**|Gregory Dexter et.al.|[2502.04677](http://arxiv.org/abs/2502.04677)|null|
 |**2025-02-18**|**WaferLLM: A Wafer-Scale LLM Inference System**|Congjie He et.al.|[2502.04563](http://arxiv.org/abs/2502.04563)|null|
-|**2025-02-24**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|**[link](https://github.com/cmd2001/KVTuner)**|
+|**2025-02-25**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|**[link](https://github.com/cmd2001/KVTuner)**|
 |**2025-02-06**|**CMoE: Fast Carving of Mixture-of-Experts for Efficient LLM Inference**|Zehua Pei et.al.|[2502.04416](http://arxiv.org/abs/2502.04416)|**[link](https://github.com/JarvisPei/CMoE)**|
 |**2025-02-11**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
-|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|null|
+|**2025-02-06**|**AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference**|Qingyue Yang et.al.|[2502.04077](http://arxiv.org/abs/2502.04077)|**[link](https://github.com/MIRALab-USTC/LLM-AttentionPredictor)**|
 |**2025-02-06**|**CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing**|Yu Yuan et.al.|[2502.03997](http://arxiv.org/abs/2502.03997)|null|
 |**2025-02-06**|**Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective**|Yuan Feng et.al.|[2502.03805](http://arxiv.org/abs/2502.03805)|**[link](https://github.com/NVIDIA/kvpress)**|
 |**2025-02-06**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
@@ -153,6 +154,7 @@
 |**2025-01-03**|**(WhyPHI) Fine-Tuning PHI-3 for Multiple-Choice Question Answering: Methodology, Results, and Challenges**|Mohamed Hisham Abdellatif et.al.|[2501.01588](http://arxiv.org/abs/2501.01588)|null|
 |**2025-01-21**|**BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference**|Wonsuk Jang et.al.|[2501.01144](http://arxiv.org/abs/2501.01144)|**[link](https://code.stanford.edu/tambe-lab/blockdialect)**|
 |**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
+|**2025-02-25**|**Rethinking Layer Removal: A Hybrid Pruning Framework Combining Layer Removal and Singular Value Selection for Efficient LLM Compression**|Kainan Liu et.al.|[2501.00339](http://arxiv.org/abs/2501.00339)|null|
 |**2024-12-23**|**Highly Optimized Kernels and Fine-Grained Codebooks for LLM Inference on Arm CPUs**|Dibakar Gope et.al.|[2501.00032](http://arxiv.org/abs/2501.00032)|**[link](https://github.com/ggerganov/llama.cpp)**|
 |**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|**[link](https://github.com/aca-lab-sjtu/token-ring)**|
 |**2024-12-29**|**GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions**|Tianyao Shi et.al.|[2412.20322](http://arxiv.org/abs/2412.20322)|null|
@@ -463,6 +465,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
+|**2025-02-09**|**MoEMba: A Mamba-based Mixture of Experts for High-Density EMG-based Hand Gesture Recognition**|Mehran Shabanpour et.al.|[2502.17457](http://arxiv.org/abs/2502.17457)|null|
 |**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/abs/2502.17391)|null|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
 |**2025-02-24**|**Evaluating Expert Contributions in a MoE LLM for Quiz-Based Tasks**|Andrei Chernov et.al.|[2502.17187](http://arxiv.org/abs/2502.17187)|null|
@@ -883,6 +887,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Kinematics of metallicity populations in Omega Centauri using Gaia Focused Product Release and Hubble Space Telescope**|Nagaraj Vernekar et.al.|[2502.17755](http://arxiv.org/abs/2502.17755)|null|
+|**2025-02-24**|**Knowledge Distillation with Training Wheels**|Guanlin Liu et.al.|[2502.17717](http://arxiv.org/abs/2502.17717)|null|
+|**2025-02-24**|**THOR: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX**|Farshad Dizani et.al.|[2502.17658](http://arxiv.org/abs/2502.17658)|null|
 |**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
 |**2025-02-24**|**Defects in the \b{eta}-Ga2O3(-201)/HfO2 MOS system and the effect of thermal treatments**|Khushabu. S. Agrawal et.al.|[2502.17112](http://arxiv.org/abs/2502.17112)|null|
 |**2025-02-24**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
