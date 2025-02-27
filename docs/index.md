@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -545,7 +545,7 @@ layout: default
 |**2025-02-07**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/abs/2501.12983)|null|
 |**2025-01-22**|**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**|Xu Zhang et.al.|[2501.12981](http://arxiv.org/abs/2501.12981)|null|
 |**2025-01-22**|**BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR**|Guodong Ma et.al.|[2501.12602](http://arxiv.org/abs/2501.12602)|null|
-|**2025-01-21**|**Modality Interactive Mixture-of-Experts for Fake News Detection**|Yifan Liu et.al.|[2501.12431](http://arxiv.org/abs/2501.12431)|null|
+|**2025-01-21**|**Modality Interactive Mixture-of-Experts for Fake News Detection**|Yifan Liu et.al.|[2501.12431](http://arxiv.org/abs/2501.12431)|**[link](https://github.com/yliuaa/MIMoE-FND)**|
 |**2025-01-21**|**SCFCRC: Simultaneously Counteract Feature Camouflage and Relation Camouflage for Fraud Detection**|Xiaocheng Zhang et.al.|[2501.12430](http://arxiv.org/abs/2501.12430)|null|
 |**2025-01-25**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
 |**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281](http://arxiv.org/abs/2501.12281)|**[link](https://github.com/youxiaotu/MoGERNN)**|
@@ -878,7 +878,7 @@ layout: default
 |**2025-02-24**|**Knowledge Distillation with Training Wheels**|Guanlin Liu et.al.|[2502.17717](http://arxiv.org/abs/2502.17717)|null|
 |**2025-02-24**|**THOR: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX**|Farshad Dizani et.al.|[2502.17658](http://arxiv.org/abs/2502.17658)|null|
 |**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
-|**2025-02-24**|**Defects in the \b{eta}-Ga2O3(-201)/HfO2 MOS system and the effect of thermal treatments**|Khushabu. S. Agrawal et.al.|[2502.17112](http://arxiv.org/abs/2502.17112)|null|
+|**2025-02-24**|**Defects in the $β$-Ga$_2$O$_3$($\bar201$)/HfO$_2$ MOS system and the effect of thermal treatments**|Khushabu. S. Agrawal et.al.|[2502.17112](http://arxiv.org/abs/2502.17112)|null|
 |**2025-02-24**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
 |**2025-02-24**|**APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits**|Hyunjun Cho et.al.|[2502.16877](http://arxiv.org/abs/2502.16877)|null|
 |**2025-02-24**|**Towards Reinforcement Learning for Exploration of Speculative Execution Vulnerabilities**|Evan Lai et.al.|[2502.16756](http://arxiv.org/abs/2502.16756)|null|
