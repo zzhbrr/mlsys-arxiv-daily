@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|null|
+|**2025-02-28**|**SPD: Sync-Point Drop for efficient tensor parallelism of Large Language Models**|Han-Byul Kim et.al.|[2502.20727](http://arxiv.org/abs/2502.20727)|null|
+|**2025-02-27**|**ECCOS: Efficient Capability and Cost Coordinated Scheduling for Multi-LLM Serving**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|null|
 |**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301](http://arxiv.org/abs/2502.20301)|null|
 |**2025-02-26**|**Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for LLMs**|Yiheng Yang et.al.|[2502.19078](http://arxiv.org/abs/2502.19078)|null|
 |**2025-02-26**|**Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection**|Carter Adams et.al.|[2502.18823](http://arxiv.org/abs/2502.18823)|null|
@@ -468,7 +471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|**[link](https://github.com/tianyi-lab/R2-T2)**|
 |**2025-02-27**|**Mixture of Experts for Recognizing Depression from Interview and Reading Tasks**|Loukas Ilias et.al.|[2502.20213](http://arxiv.org/abs/2502.20213)|null|
 |**2025-02-27**|**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**|Zeyi Ren et.al.|[2502.20183](http://arxiv.org/abs/2502.20183)|null|
 |**2025-02-27**|**UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook**|Yidi Jiang et.al.|[2502.20067](http://arxiv.org/abs/2502.20067)|null|
@@ -900,10 +903,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|null|
+|**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019](http://arxiv.org/abs/2502.21019)|null|
+|**2025-02-28**|**Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**|Maximilian Holsman et.al.|[2502.20704](http://arxiv.org/abs/2502.20704)|null|
+|**2025-02-28**|**MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**|Mohammad Mussadiq Jalalzai et.al.|[2502.20692](http://arxiv.org/abs/2502.20692)|null|
+|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-02-27**|**Frobenius subalgebra lattices in tensor categories**|Mainak Ghosh et.al.|[2502.19876](http://arxiv.org/abs/2502.19876)|null|
 |**2025-02-27**|**Speculative Decoding and Beyond: An In-Depth Review of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
-|**2025-02-26**|**From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens**|Tong Wu et.al.|[2502.18890](http://arxiv.org/abs/2502.18890)|null|
+|**2025-02-26**|**From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens**|Tong Wu et.al.|[2502.18890](http://arxiv.org/abs/2502.18890)|**[link](https://github.com/bigai-nlco/tokenswift)**|
 |**2025-02-26**|**Reimagining Personal Data: Unlocking the Potential of AI-Generated Images in Personal Data Meaning-Making**|Soobin Park et.al.|[2502.18853](http://arxiv.org/abs/2502.18853)|null|
 |**2025-02-26**|**Towards Optimal Multi-draft Speculative Decoding**|Zhengmian Hu et.al.|[2502.18779](http://arxiv.org/abs/2502.18779)|null|
 |**2025-02-25**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651](http://arxiv.org/abs/2502.18651)|null|
