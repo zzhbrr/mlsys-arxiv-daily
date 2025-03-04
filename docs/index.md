@@ -24,7 +24,7 @@ layout: default
 |**2025-02-24**|**CodeSwift: Accelerating LLM Inference for Efficient Code Generation**|Qianhui Zhao et.al.|[2502.17139](http://arxiv.org/abs/2502.17139)|null|
 |**2025-02-24**|**Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM**|Lian Liu et.al.|[2502.16963](http://arxiv.org/abs/2502.16963)|null|
 |**2025-02-24**|**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance**|Xuanfan Ni et.al.|[2502.16886](http://arxiv.org/abs/2502.16886)|null|
-|**2025-02-24**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
+|**2025-03-01**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
 |**2025-02-23**|**DISC: Dynamic Decomposition Improves LLM Inference Scaling**|Jonathan Light et.al.|[2502.16706](http://arxiv.org/abs/2502.16706)|null|
 |**2025-02-23**|**Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines**|Xinwei Long et.al.|[2502.16641](http://arxiv.org/abs/2502.16641)|null|
 |**2025-02-23**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
@@ -460,12 +460,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|**[link](https://github.com/tianyi-lab/R2-T2)**|
+|**2025-03-01**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|**[link](https://github.com/tianyi-lab/R2-T2)**|
 |**2025-02-27**|**Mixture of Experts for Recognizing Depression from Interview and Reading Tasks**|Loukas Ilias et.al.|[2502.20213](http://arxiv.org/abs/2502.20213)|null|
 |**2025-02-27**|**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**|Zeyi Ren et.al.|[2502.20183](http://arxiv.org/abs/2502.20183)|null|
 |**2025-02-27**|**UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook**|Yidi Jiang et.al.|[2502.20067](http://arxiv.org/abs/2502.20067)|null|
 |**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|**[link](https://github.com/clin0212/hydralora)**|
-|**2025-02-27**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|null|
+|**2025-03-01**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|null|
 |**2025-02-27**|**Extension of SUSY SU(5) GUTs with Nelson-Barr models**|Junji Hisano et.al.|[2502.19686](http://arxiv.org/abs/2502.19686)|null|
 |**2025-02-26**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
 |**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965](http://arxiv.org/abs/2502.18965)|null|
@@ -482,7 +482,7 @@ layout: default
 |**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
 |**2025-02-20**|**A Stronger Mixture of Low-Rank Experts for Fine-Tuning Foundation Models**|Mengyang Sun et.al.|[2502.15828](http://arxiv.org/abs/2502.15828)|**[link](https://github.com/thudm/moelora_riemannian)**|
 |**2025-02-21**|**A fast convergence algorithm based on binary integer programming for expert load balancing in MoE LLMs**|Yuan Sun et.al.|[2502.15451](http://arxiv.org/abs/2502.15451)|null|
-|**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315](http://arxiv.org/abs/2502.15315)|**[link](https://github.com/stefvk/acmoe)**|
+|**2025-03-02**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315](http://arxiv.org/abs/2502.15315)|**[link](https://github.com/stefvk/acmoe)**|
 |**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290](http://arxiv.org/abs/2502.15290)|**[link](https://github.com/ZovanZhou/MG-VMoE)**|
 |**2025-02-20**|**Ray-Tracing for Conditionally Activated Neural Networks**|Claudio Gallicchio et.al.|[2502.14788](http://arxiv.org/abs/2502.14788)|null|
 |**2025-02-21**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
@@ -541,7 +541,7 @@ layout: default
 |**2025-02-01**|**PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning**|Yu Feng et.al.|[2502.00354](http://arxiv.org/abs/2502.00354)|**[link](https://github.com/dannis97500/pm-moe)**|
 |**2025-02-01**|**Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective**|Fanqi Yan et.al.|[2502.00281](http://arxiv.org/abs/2502.00281)|null|
 |**2025-01-31**|**Pheromone-based Learning of Optimal Reasoning Paths**|Anirudh Chari et.al.|[2501.19278](http://arxiv.org/abs/2501.19278)|null|
-|**2025-02-21**|**Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning**|Minh Le et.al.|[2501.18936](http://arxiv.org/abs/2501.18936)|null|
+|**2025-03-03**|**Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning**|Minh Le et.al.|[2501.18936](http://arxiv.org/abs/2501.18936)|null|
 |**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439](http://arxiv.org/abs/2501.18439)|null|
 |**2025-02-10**|**Free Agent in Agent-Based Mixture-of-Experts Generative AI Framework**|Jung-Hua Liu et.al.|[2501.17903](http://arxiv.org/abs/2501.17903)|null|
 |**2025-01-29**|**Heuristic-Informed Mixture of Experts for Link Prediction in Multilayer Networks**|Lucio La Cava et.al.|[2501.17557](http://arxiv.org/abs/2501.17557)|null|
@@ -633,7 +633,7 @@ layout: default
 |**2025-02-12**|**Mixture of Experts Meets Decoupled Message Passing: Towards General and Adaptive Node Classification**|Xuanze Chen et.al.|[2412.08193](http://arxiv.org/abs/2412.08193)|**[link](https://github.com/GISec-Team/GNNMoE)**|
 |**2024-12-10**|**MoDULA: Mixture of Domain-Specific and Universal LoRA for Multi-Task Learning**|Yufei Ma et.al.|[2412.07405](http://arxiv.org/abs/2412.07405)|null|
 |**2024-12-10**|**Post-Training Statistical Calibration for Higher Activation Sparsity**|Vui Seng Chua et.al.|[2412.07174](http://arxiv.org/abs/2412.07174)|**[link](https://github.com/intellabs/scap)**|
-|**2025-02-26**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yao Fu et.al.|[2412.07067](http://arxiv.org/abs/2412.07067)|null|
+|**2025-03-02**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yao Fu et.al.|[2412.07067](http://arxiv.org/abs/2412.07067)|null|
 |**2024-12-07**|**Partition of Unity Physics-Informed Neural Networks (POU-PINNs): An Unsupervised Framework for Physics-Informed Domain Decomposition and Mixtures of Experts**|Arturo Rodriguez et.al.|[2412.06842](http://arxiv.org/abs/2412.06842)|null|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts**|Zhen Wan et.al.|[2412.06340](http://arxiv.org/abs/2412.06340)|null|
@@ -644,7 +644,7 @@ layout: default
 |**2024-12-07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|Boxun Xu et.al.|[2412.05540](http://arxiv.org/abs/2412.05540)|null|
 |**2024-12-23**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023](http://arxiv.org/abs/2412.05023)|null|
 |**2024-12-05**|**Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts**|Chenyang Zhu et.al.|[2412.04220](http://arxiv.org/abs/2412.04220)|null|
-|**2024-12-09**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
+|**2025-03-02**|**Monet: Mixture of Monosemantic Experts for Transformers**|Jungwoo Park et.al.|[2412.04139](http://arxiv.org/abs/2412.04139)|**[link](https://github.com/dmis-lab/monet)**|
 |**2024-12-05**|**Meta-Reinforcement Learning With Mixture of Experts for Generalizable Multi Access in Heterogeneous Wireless Networks**|Zhaoyang Liu et.al.|[2412.03850](http://arxiv.org/abs/2412.03850)|null|
 |**2024-12-04**|**Convolutional Neural Networks and Mixture of Experts for Intrusion Detection in 5G Networks and beyond**|Loukas Ilias et.al.|[2412.03483](http://arxiv.org/abs/2412.03483)|null|
 |**2024-12-03**|**CA-MoE: Channel-Adapted MoE for Incremental Weather Forecasting**|Hao Chen et.al.|[2412.02503](http://arxiv.org/abs/2412.02503)|null|
@@ -891,21 +891,21 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019](http://arxiv.org/abs/2502.21019)|null|
-|**2025-02-28**|**Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**|Maximilian Holsman et.al.|[2502.20704](http://arxiv.org/abs/2502.20704)|null|
+|**2025-03-03**|**Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**|Maximilian Holsman et.al.|[2502.20704](http://arxiv.org/abs/2502.20704)|null|
 |**2025-02-28**|**MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**|Mohammad Mussadiq Jalalzai et.al.|[2502.20692](http://arxiv.org/abs/2502.20692)|null|
 |**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
-|**2025-02-27**|**Frobenius subalgebra lattices in tensor categories**|Mainak Ghosh et.al.|[2502.19876](http://arxiv.org/abs/2502.19876)|null|
-|**2025-02-27**|**Speculative Decoding and Beyond: An In-Depth Review of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
+|**2025-03-03**|**Frobenius subalgebra lattices in tensor categories**|Mainak Ghosh et.al.|[2502.19876](http://arxiv.org/abs/2502.19876)|null|
+|**2025-03-03**|**Speculative Decoding and Beyond: An In-Depth Survey of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
 |**2025-02-26**|**From Hours to Minutes: Lossless Acceleration of Ultra Long Sequence Generation up to 100K Tokens**|Tong Wu et.al.|[2502.18890](http://arxiv.org/abs/2502.18890)|**[link](https://github.com/bigai-nlco/tokenswift)**|
 |**2025-02-26**|**Reimagining Personal Data: Unlocking the Potential of AI-Generated Images in Personal Data Meaning-Making**|Soobin Park et.al.|[2502.18853](http://arxiv.org/abs/2502.18853)|null|
 |**2025-02-26**|**Towards Optimal Multi-draft Speculative Decoding**|Zhengmian Hu et.al.|[2502.18779](http://arxiv.org/abs/2502.18779)|null|
-|**2025-02-25**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651](http://arxiv.org/abs/2502.18651)|null|
+|**2025-03-02**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651](http://arxiv.org/abs/2502.18651)|null|
 |**2025-02-27**|**Kinematics of metallicity populations in Omega Centauri using Gaia Focused Product Release and Hubble Space Telescope**|Nagaraj Vernekar et.al.|[2502.17755](http://arxiv.org/abs/2502.17755)|null|
 |**2025-02-24**|**Knowledge Distillation with Training Wheels**|Guanlin Liu et.al.|[2502.17717](http://arxiv.org/abs/2502.17717)|null|
 |**2025-02-24**|**THOR: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX**|Farshad Dizani et.al.|[2502.17658](http://arxiv.org/abs/2502.17658)|null|
 |**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
 |**2025-02-24**|**Defects in the $β$-Ga$_2$O$_3$($\bar201$)/HfO$_2$ MOS system and the effect of thermal treatments**|Khushabu. S. Agrawal et.al.|[2502.17112](http://arxiv.org/abs/2502.17112)|null|
-|**2025-02-24**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
+|**2025-03-01**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
 |**2025-02-24**|**APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits**|Hyunjun Cho et.al.|[2502.16877](http://arxiv.org/abs/2502.16877)|null|
 |**2025-02-24**|**Towards Reinforcement Learning for Exploration of Speculative Execution Vulnerabilities**|Evan Lai et.al.|[2502.16756](http://arxiv.org/abs/2502.16756)|null|
 |**2025-02-22**|**Fluctuating Lattice, Several Energy Scales**|Holger Bech Nielsen et.al.|[2502.16369](http://arxiv.org/abs/2502.16369)|null|
