@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2503.03686](http://arxiv.org/abs/2503.03686)|null|
+|**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|null|
+|**2025-03-05**|**Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism**|Xinyuan Lin et.al.|[2503.03182](http://arxiv.org/abs/2503.03182)|null|
 |**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|null|
 |**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
@@ -85,7 +88,7 @@ layout: default
 |**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903](http://arxiv.org/abs/2502.07903)|null|
 |**2025-02-11**|**SHARP: Accelerating Language Model Inference by SHaring Adjacent layers with Recovery Parameters**|Yiping Wang et.al.|[2502.07832](http://arxiv.org/abs/2502.07832)|null|
 |**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
-|**2025-02-13**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
+|**2025-03-05**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
 |**2025-02-08**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
 |**2025-02-08**|**Mechanistic Interpretability of Emotion Inference in Large Language Models**|Ala N. Tak et.al.|[2502.05489](http://arxiv.org/abs/2502.05489)|null|
@@ -143,7 +146,7 @@ layout: default
 |**2025-02-11**|**Glinthawk: A Two-Tiered Architecture for Offline LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
 |**2025-01-20**|**Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas**|Nishant Balepur et.al.|[2501.11549](http://arxiv.org/abs/2501.11549)|**[link](https://github.com/pinafore/alignment-personalization)**|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
-|**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
+|**2025-03-05**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
 |**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367](http://arxiv.org/abs/2501.09367)|null|
 |**2025-01-16**|**Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition**|Takaaki Hori et.al.|[2501.09258](http://arxiv.org/abs/2501.09258)|null|
 |**2025-01-16**|**Split Fine-Tuning for Large Language Models in Wireless Networks**|Songge Zhang et.al.|[2501.09237](http://arxiv.org/abs/2501.09237)|null|
@@ -470,6 +473,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs**|Haoran Fan et.al.|[2503.03594](http://arxiv.org/abs/2503.03594)|null|
+|**2025-03-05**|**Convergence Rates for Softmax Gating Mixture of Experts**|Huy Nguyen et.al.|[2503.03213](http://arxiv.org/abs/2503.03213)|null|
 |**2025-03-04**|**MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation**|Weihang Wang et.al.|[2503.02799](http://arxiv.org/abs/2503.02799)|null|
 |**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
 |**2025-03-04**|**Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer**|Yujiao Yang et.al.|[2503.02495](http://arxiv.org/abs/2503.02495)|null|
@@ -616,7 +621,7 @@ layout: default
 |**2024-12-31**|**CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection**|Xiaolei Wang et.al.|[2501.00346](http://arxiv.org/abs/2501.00346)|null|
 |**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665](http://arxiv.org/abs/2412.20665)|**[link](https://github.com/zcablii/sm3det)**|
 |**2024-12-29**|**Multimodal Variational Autoencoder: a Barycentric View**|Peijie Qiu et.al.|[2412.20487](http://arxiv.org/abs/2412.20487)|null|
-|**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
+|**2025-03-05**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
 |**2024-12-29**|**Mind the Data Gap: Bridging LLMs to Enterprise Data Integration**|Moe Kayali et.al.|[2412.20331](http://arxiv.org/abs/2412.20331)|null|
 |**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157](http://arxiv.org/abs/2412.20157)|**[link](https://github.com/mrluin/unirestorer)**|
 |**2024-12-28**|**Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection**|Yaning Zhang et.al.|[2412.20156](http://arxiv.org/abs/2412.20156)|null|
@@ -914,6 +919,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
 |**2025-03-04**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-03-03**|**Linear Representations of Political Perspective Emerge in Large Language Models**|Junsol Kim et.al.|[2503.02080](http://arxiv.org/abs/2503.02080)|null|
 |**2025-03-03**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
@@ -1003,7 +1009,7 @@ layout: default
 |**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
 |**2025-01-30**|**Human Re-ID Meets LVLMs: What can we expect?**|Kailash Hambarde et.al.|[2501.18698](http://arxiv.org/abs/2501.18698)|null|
 |**2025-01-28**|**How Hamilton-Jacobi formalism helps to address the physical meaning of the wave function in Bohmian mechanics**|Arnaud Amblard et.al.|[2501.16989](http://arxiv.org/abs/2501.16989)|null|
-|**2025-01-28**|**Distilling Large Language Models for Network Active Queue Management**|Deol Satish et.al.|[2501.16734](http://arxiv.org/abs/2501.16734)|null|
+|**2025-03-04**|**Distilling Large Language Models for Network Active Queue Management**|Deol Satish et.al.|[2501.16734](http://arxiv.org/abs/2501.16734)|null|
 |**2025-01-24**|**The disrupting and growing open cluster spiral arm patterns of the Milky Way**|Xiaochen Liu et.al.|[2501.14215](http://arxiv.org/abs/2501.14215)|null|
 |**2025-01-19**|**Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks**|Diego Gosmar et.al.|[2501.13946](http://arxiv.org/abs/2501.13946)|**[link](https://github.com/diegogosmar/hall_evaluator)**|
 |**2025-01-23**|**Inflaton Self Resonance, Oscillons, and Gravitational Waves in Small Field Polynomial Inflation**|Manuel Drees et.al.|[2501.13811](http://arxiv.org/abs/2501.13811)|null|
