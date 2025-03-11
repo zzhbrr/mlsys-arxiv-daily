@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
 |**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
-|**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|null|
+|**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
 |**2025-03-02**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
 |**2025-03-02**|**Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers**|Yiran Zhao et.al.|[2503.00865](http://arxiv.org/abs/2503.00865)|null|
@@ -163,7 +163,7 @@
 |**2025-02-11**|**Glinthawk: A Two-Tiered Architecture for Offline LLM Inference**|Pouya Hamadanian et.al.|[2501.11779](http://arxiv.org/abs/2501.11779)|**[link](https://github.com/microsoft/glinthawk)**|
 |**2025-01-20**|**Whose Boat Does it Float? Improving Personalization in Preference Tuning via Inferred User Personas**|Nishant Balepur et.al.|[2501.11549](http://arxiv.org/abs/2501.11549)|**[link](https://github.com/pinafore/alignment-personalization)**|
 |**2025-01-19**|**GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation**|Shashikant Ilager et.al.|[2501.11006](http://arxiv.org/abs/2501.11006)|null|
-|**2025-03-06**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
+|**2025-03-06**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|**[link](https://github.com/xinzhel/llm-agent-survey)**|
 |**2025-01-16**|**PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks**|Huiyou Zhan et.al.|[2501.09367](http://arxiv.org/abs/2501.09367)|null|
 |**2025-01-16**|**Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition**|Takaaki Hori et.al.|[2501.09258](http://arxiv.org/abs/2501.09258)|null|
 |**2025-01-16**|**Split Fine-Tuning for Large Language Models in Wireless Networks**|Songge Zhang et.al.|[2501.09237](http://arxiv.org/abs/2501.09237)|null|
@@ -480,7 +480,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -488,7 +488,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## MoE
 
@@ -512,7 +512,7 @@
 |**2025-03-05**|**Convergence Rates for Softmax Gating Mixture of Experts**|Huy Nguyen et.al.|[2503.03213](http://arxiv.org/abs/2503.03213)|null|
 |**2025-03-04**|**MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation**|Weihang Wang et.al.|[2503.02799](http://arxiv.org/abs/2503.02799)|null|
 |**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
-|**2025-03-06**|**Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer**|Yujiao Yang et.al.|[2503.02495](http://arxiv.org/abs/2503.02495)|null|
+|**2025-03-06**|**Union of Experts: Adapting Hierarchical Routing to Equivalently Decomposed Transformer**|Yujiao Yang et.al.|[2503.02495](http://arxiv.org/abs/2503.02495)|**[link](https://github.com/yujiaoyang-work/uoe)**|
 |**2025-03-04**|**Tabby: Tabular Data Synthesis with Language Models**|Sonia Cromp et.al.|[2503.02152](http://arxiv.org/abs/2503.02152)|null|
 |**2025-03-03**|**ECG-EmotionNet: Nested Mixture of Expert (NMoE) Adaptation of ECG-Foundation Model for Driver Emotion Recognition**|Nastaran Mansourian et.al.|[2503.01750](http://arxiv.org/abs/2503.01750)|null|
 |**2025-03-03**|**Effective High-order Graph Representation Learning for Credit Card Fraud Detection**|Yao Zou et.al.|[2503.01556](http://arxiv.org/abs/2503.01556)|null|
@@ -529,7 +529,7 @@
 |**2025-02-27**|**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**|Zeyi Ren et.al.|[2502.20183](http://arxiv.org/abs/2502.20183)|null|
 |**2025-02-27**|**UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook**|Yidi Jiang et.al.|[2502.20067](http://arxiv.org/abs/2502.20067)|null|
 |**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|**[link](https://github.com/clin0212/hydralora)**|
-|**2025-03-04**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|null|
+|**2025-03-04**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|**[link](https://github.com/bytedance/flux)**|
 |**2025-02-27**|**Extension of SUSY SU(5) GUTs with Nelson-Barr models**|Junji Hisano et.al.|[2502.19686](http://arxiv.org/abs/2502.19686)|null|
 |**2025-02-26**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
 |**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965](http://arxiv.org/abs/2502.18965)|null|
@@ -539,7 +539,7 @@
 |**2025-02-24**|**The Empirical Impact of Reducing Symmetries on the Performance of Deep Ensembles and MoE**|Andrei Chernov et.al.|[2502.17391](http://arxiv.org/abs/2502.17391)|null|
 |**2025-02-24**|**Delta Decompression for MoE-based LLMs Compression**|Hao Gu et.al.|[2502.17298](http://arxiv.org/abs/2502.17298)|**[link](https://github.com/lliai/d2moe)**|
 |**2025-02-24**|**Evaluating Expert Contributions in a MoE LLM for Quiz-Based Tasks**|Andrei Chernov et.al.|[2502.17187](http://arxiv.org/abs/2502.17187)|null|
-|**2025-02-24**|**Muon is Scalable for LLM Training**|Jingyuan Liu et.al.|[2502.16982](http://arxiv.org/abs/2502.16982)|null|
+|**2025-02-24**|**Muon is Scalable for LLM Training**|Jingyuan Liu et.al.|[2502.16982](http://arxiv.org/abs/2502.16982)|**[link](https://github.com/KellerJordan/Muon)**|
 |**2025-03-07**|**BigMac: A Communication-Efficient Mixture-of-Experts Model Structure for Fast Training and Inference**|Zewen Jin et.al.|[2502.16927](http://arxiv.org/abs/2502.16927)|null|
 |**2025-02-24**|**ENACT-Heart -- ENsemble-based Assessment Using CNN and Transformer on Heart Sounds**|Jiho Han et.al.|[2502.16914](http://arxiv.org/abs/2502.16914)|null|
 |**2025-02-26**|**Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment**|Chenghao Fan et.al.|[2502.16894](http://arxiv.org/abs/2502.16894)|null|
@@ -950,7 +950,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -978,7 +978,7 @@
 |**2025-02-28**|**Assessment of universal relations among second-order moments of relativistic stars via reformulated perturbation equations**|Koutarou Kyutoku et.al.|[2503.00098](http://arxiv.org/abs/2503.00098)|null|
 |**2025-02-14**|**A Short History of Rocks: or, How to Invent Quantum Computing**|David Wakeham et.al.|[2503.00005](http://arxiv.org/abs/2503.00005)|null|
 |**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019](http://arxiv.org/abs/2502.21019)|null|
-|**2025-03-04**|**Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**|Maximilian Holsman et.al.|[2502.20704](http://arxiv.org/abs/2502.20704)|null|
+|**2025-03-04**|**Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**|Maximilian Holsman et.al.|[2502.20704](http://arxiv.org/abs/2502.20704)|**[link](https://github.com/maxholsman/fsd)**|
 |**2025-02-28**|**MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**|Mohammad Mussadiq Jalalzai et.al.|[2502.20692](http://arxiv.org/abs/2502.20692)|null|
 |**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-03-03**|**Frobenius subalgebra lattices in tensor categories**|Mainak Ghosh et.al.|[2502.19876](http://arxiv.org/abs/2502.19876)|null|
@@ -1364,7 +1364,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1400,7 +1400,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
