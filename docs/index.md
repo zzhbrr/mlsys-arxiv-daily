@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Position-Aware Depth Decay Decoding ( $D^3$ ): Boosting Large Language Model Inference Efficiency**|Siqi Fan et.al.|[2503.08524](http://arxiv.org/abs/2503.08524)|null|
+|**2025-03-11**|**FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework**|Jianian Zhu et.al.|[2503.08461](http://arxiv.org/abs/2503.08461)|null|
+|**2025-03-11**|**TokenSim: Enabling Hardware and Software Exploration for Large Language Model Inference Systems**|Feiyang Wu et.al.|[2503.08415](http://arxiv.org/abs/2503.08415)|null|
+|**2025-03-11**|**Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference**|Pol G. Recasens et.al.|[2503.08311](http://arxiv.org/abs/2503.08311)|null|
 |**2025-03-09**|**Seesaw: High-throughput LLM Inference via Model Re-sharding**|Qidong Su et.al.|[2503.06433](http://arxiv.org/abs/2503.06433)|null|
 |**2025-02-24**|**Encoding Inequity: Examining Demographic Bias in LLM-Driven Robot Caregiving**|Raj Korpan et.al.|[2503.05765](http://arxiv.org/abs/2503.05765)|null|
 |**2025-03-07**|**Optimizing LLM Inference Throughput via Memory-aware and SLA-constrained Dynamic Batching**|Bowen Pang et.al.|[2503.05248](http://arxiv.org/abs/2503.05248)|null|
@@ -208,7 +212,7 @@ layout: default
 |**2025-01-20**|**FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation**|Dannong Wang et.al.|[2412.11378](http://arxiv.org/abs/2412.11378)|null|
 |**2025-01-09**|**Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning**|Yun Qu et.al.|[2412.11120](http://arxiv.org/abs/2412.11120)|**[link](https://github.com/thu-rllab/lare)**|
 |**2024-12-15**|**NITRO: LLM Inference on Intel Laptop NPUs**|Anthony Fei et.al.|[2412.11053](http://arxiv.org/abs/2412.11053)|**[link](https://github.com/abdelfattah-lab/nitro)**|
-|**2024-12-13**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
+|**2025-03-11**|**SCBench: A KV Cache-Centric Analysis of Long-Context Methods**|Yucheng Li et.al.|[2412.10319](http://arxiv.org/abs/2412.10319)|null|
 |**2024-12-17**|**TurboAttention: Efficient Attention Approximation For High Throughputs LLMs**|Hao Kang et.al.|[2412.08585](http://arxiv.org/abs/2412.08585)|null|
 |**2024-12-11**|**Lachesis: Predicting LLM Inference Accuracy using Structural Properties of Reasoning Paths**|Naryeong Kim et.al.|[2412.08281](http://arxiv.org/abs/2412.08281)|null|
 |**2024-12-12**|**TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**|Xingchen Song et.al.|[2412.08237](http://arxiv.org/abs/2412.08237)|null|
@@ -485,9 +489,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**MoE-Loco: Mixture of Experts for Multitask Locomotion**|Runhan Huang et.al.|[2503.08564](http://arxiv.org/abs/2503.08564)|null|
+|**2025-03-11**|**BoundarEase: Fostering Constructive Community Engagement to Inform More Equitable Student Assignment Policies**|Cassandra Overney et.al.|[2503.08543](http://arxiv.org/abs/2503.08543)|null|
+|**2025-03-11**|**Accelerating MoE Model Inference with Expert Sharding**|Oana Balmau et.al.|[2503.08467](http://arxiv.org/abs/2503.08467)|null|
+|**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
+|**2025-03-11**|**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**|Han Zhao et.al.|[2503.08007](http://arxiv.org/abs/2503.08007)|null|
+|**2025-03-10**|**Hierarchical Balance Packing: Towards Efficient Supervised Fine-tuning for Long-Context LLM**|Yongqiang Yao et.al.|[2503.07680](http://arxiv.org/abs/2503.07680)|null|
+|**2025-03-06**|**TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**|Kanghui Ning et.al.|[2503.07649](http://arxiv.org/abs/2503.07649)|null|
+|**2025-03-05**|**BrainNet-MoE: Brain-Inspired Mixture-of-Experts Learning for Neurological Disease Identification**|Jing Zhang et.al.|[2503.07640](http://arxiv.org/abs/2503.07640)|null|
+|**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
 |**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|null|
-|**2025-03-10**|**VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots**|Fu Chen et.al.|[2503.07049](http://arxiv.org/abs/2503.07049)|null|
+|**2025-03-10**|**VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots**|Fu Chen et.al.|[2503.07049](http://arxiv.org/abs/2503.07049)|**[link](https://github.com/chenfu-user/VMTS)**|
 |**2025-03-10**|**ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration**|Mengting Ai et.al.|[2503.06881](http://arxiv.org/abs/2503.06881)|null|
 |**2025-03-10**|**eMoE: Task-aware Memory Efficient Mixture-of-Experts-Based (MoE) Model Inference**|Suraiya Tairin et.al.|[2503.06823](http://arxiv.org/abs/2503.06823)|null|
 |**2025-03-09**|**MoFE: Mixture of Frozen Experts Architecture**|Jean Seo et.al.|[2503.06491](http://arxiv.org/abs/2503.06491)|null|
@@ -957,6 +970,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**In Search of the Potentially Hazardous Asteroids in the Taurid Resonant Swarm**|Jasmine Li et.al.|[2503.08670](http://arxiv.org/abs/2503.08670)|null|
+|**2025-03-11**|**Liquidity Competition Between Brokers and an Informed Trader**|Ryan Donnelly et.al.|[2503.08287](http://arxiv.org/abs/2503.08287)|null|
+|**2025-03-10**|**Training Domain Draft Models for Speculative Decoding: Best Practices and Insights**|Fenglu Hong et.al.|[2503.07807](http://arxiv.org/abs/2503.07807)|null|
+|**2025-03-10**|**Did smartphones break the world as we knew it?**|Mikhail V. Tamm et.al.|[2503.07773](http://arxiv.org/abs/2503.07773)|null|
+|**2025-03-10**|**Design as Hope: Reimagining Futures for Seemingly Doomed Problems**|JaeWon Kim et.al.|[2503.07586](http://arxiv.org/abs/2503.07586)|null|
 |**2025-03-09**|**A parallel parser for regular expressions**|Angelo Borsotti et.al.|[2503.06763](http://arxiv.org/abs/2503.06763)|null|
 |**2025-03-07**|**Quantum-like cognition and decision making in the light of quantum measurement theory**|Miho Fuyama et.al.|[2503.05859](http://arxiv.org/abs/2503.05859)|null|
 |**2025-02-25**|**Generative Artificial Intelligence: Evolving Technology, Growing Societal Impact, and Opportunities for Information Systems Research**|Veda C. Storey et.al.|[2503.05770](http://arxiv.org/abs/2503.05770)|null|
@@ -1005,7 +1023,7 @@ layout: default
 |**2025-02-24**|**Ultra-high-energy $γ$ -ray emission associated with the tail of a bow-shock pulsar wind nebula**|Zhen Cao et.al.|[2502.15447](http://arxiv.org/abs/2502.15447)|null|
 |**2025-02-21**|**TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding**|Zhaoxuan Wu et.al.|[2502.15197](http://arxiv.org/abs/2502.15197)|null|
 |**2025-02-21**|**A Critical Examination of the Nested Leaky Box Model for Galactic Cosmic Ray Transport**|Benedikt Schroer et.al.|[2502.15115](http://arxiv.org/abs/2502.15115)|null|
-|**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
+|**2025-03-11**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
 |**2025-02-20**|**Fusion rules and structure constants of E-series minimal models**|Rongvoram Nivesvivat et.al.|[2502.14295](http://arxiv.org/abs/2502.14295)|null|
 |**2025-02-19**|**Which Attention Heads Matter for In-Context Learning?**|Kayo Yin et.al.|[2502.14010](http://arxiv.org/abs/2502.14010)|**[link](https://github.com/kayoyin/icl-heads)**|
 |**2025-02-19**|**NVR: Vector Runahead on NPUs for Sparse Memory Access**|Hui Wang et.al.|[2502.13873](http://arxiv.org/abs/2502.13873)|null|
