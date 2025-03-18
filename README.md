@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -55,7 +55,7 @@
 |**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
 |**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
-|**2025-03-09**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
+|**2025-03-15**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
 |**2025-03-02**|**Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers**|Yiran Zhao et.al.|[2503.00865](http://arxiv.org/abs/2503.00865)|null|
 |**2025-03-01**|**Tutorial Proposal: Speculative Decoding for Efficient LLM Inference**|Heming Xia et.al.|[2503.00491](http://arxiv.org/abs/2503.00491)|null|
 |**2025-03-01**|**Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving**|Qihui Zhou et.al.|[2503.00392](http://arxiv.org/abs/2503.00392)|null|
@@ -122,7 +122,7 @@
 |**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
 |**2025-03-05**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
-|**2025-02-08**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
+|**2025-03-15**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
 |**2025-02-08**|**Mechanistic Interpretability of Emotion Inference in Large Language Models**|Ala N. Tak et.al.|[2502.05489](http://arxiv.org/abs/2502.05489)|null|
 |**2025-02-07**|**BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM Inference**|Reena Elangovan et.al.|[2502.05376](http://arxiv.org/abs/2502.05376)|null|
 |**2025-01-31**|**Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies**|Nadav Timor et.al.|[2502.05202](http://arxiv.org/abs/2502.05202)|null|
@@ -495,7 +495,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -503,7 +503,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## MoE
 
@@ -549,7 +549,7 @@
 |**2025-03-07**|**Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts**|Shwai He et.al.|[2503.05066](http://arxiv.org/abs/2503.05066)|null|
 |**2025-03-06**|**Continual Pre-training of MoEs: How robust is your router?**|Benjamin Thérien et.al.|[2503.05029](http://arxiv.org/abs/2503.05029)|null|
 |**2025-02-25**|**Comparative Analysis Based on DeepSeek, ChatGPT, and Google Gemini: Features, Techniques, Performance, Future Prospects**|Anichur Rahman et.al.|[2503.04783](http://arxiv.org/abs/2503.04783)|null|
-|**2025-03-09**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-15**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
 |**2025-03-07**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
 |**2025-03-07**|**Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling**|Yan Li et.al.|[2503.04398](http://arxiv.org/abs/2503.04398)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
@@ -579,7 +579,7 @@
 |**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|**[link](https://github.com/clin0212/hydralora)**|
 |**2025-03-04**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|**[link](https://github.com/bytedance/flux)**|
 |**2025-02-27**|**Extension of SUSY SU(5) GUTs with Nelson-Barr models**|Junji Hisano et.al.|[2502.19686](http://arxiv.org/abs/2502.19686)|null|
-|**2025-02-26**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
+|**2025-03-15**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
 |**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965](http://arxiv.org/abs/2502.18965)|null|
 |**2025-02-26**|**Sherlock: Towards Multi-scene Video Abnormal Event Extraction and Localization via a Global-local Spatial-sensitive LLM**|Junxiao Ma et.al.|[2502.18863](http://arxiv.org/abs/2502.18863)|null|
 |**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
@@ -998,7 +998,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1423,7 +1423,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1461,7 +1461,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

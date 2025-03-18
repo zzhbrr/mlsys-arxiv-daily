@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -48,7 +48,7 @@ layout: default
 |**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
 |**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
-|**2025-03-09**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
+|**2025-03-15**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
 |**2025-03-02**|**Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers**|Yiran Zhao et.al.|[2503.00865](http://arxiv.org/abs/2503.00865)|null|
 |**2025-03-01**|**Tutorial Proposal: Speculative Decoding for Efficient LLM Inference**|Heming Xia et.al.|[2503.00491](http://arxiv.org/abs/2503.00491)|null|
 |**2025-03-01**|**Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving**|Qihui Zhou et.al.|[2503.00392](http://arxiv.org/abs/2503.00392)|null|
@@ -115,7 +115,7 @@ layout: default
 |**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
 |**2025-03-05**|**Online Scheduling for LLM Inference with KV Cache Constraints**|Patrick Jaillet et.al.|[2502.07115](http://arxiv.org/abs/2502.07115)|null|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
-|**2025-02-08**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
+|**2025-03-15**|**Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models**|Soham Poddar et.al.|[2502.05610](http://arxiv.org/abs/2502.05610)|null|
 |**2025-02-08**|**Mechanistic Interpretability of Emotion Inference in Large Language Models**|Ala N. Tak et.al.|[2502.05489](http://arxiv.org/abs/2502.05489)|null|
 |**2025-02-07**|**BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM Inference**|Reena Elangovan et.al.|[2502.05376](http://arxiv.org/abs/2502.05376)|null|
 |**2025-01-31**|**Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies**|Nadav Timor et.al.|[2502.05202](http://arxiv.org/abs/2502.05202)|null|
@@ -538,7 +538,7 @@ layout: default
 |**2025-03-07**|**Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts**|Shwai He et.al.|[2503.05066](http://arxiv.org/abs/2503.05066)|null|
 |**2025-03-06**|**Continual Pre-training of MoEs: How robust is your router?**|Benjamin Thérien et.al.|[2503.05029](http://arxiv.org/abs/2503.05029)|null|
 |**2025-02-25**|**Comparative Analysis Based on DeepSeek, ChatGPT, and Google Gemini: Features, Techniques, Performance, Future Prospects**|Anichur Rahman et.al.|[2503.04783](http://arxiv.org/abs/2503.04783)|null|
-|**2025-03-09**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-15**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
 |**2025-03-07**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
 |**2025-03-07**|**Speculative MoE: Communication Efficient Parallel MoE Inference with Speculative Token and Expert Pre-scheduling**|Yan Li et.al.|[2503.04398](http://arxiv.org/abs/2503.04398)|null|
 |**2025-03-06**|**A Generalist Cross-Domain Molecular Learning Framework for Structure-Based Drug Discovery**|Yiheng Zhu et.al.|[2503.04362](http://arxiv.org/abs/2503.04362)|null|
@@ -568,7 +568,7 @@ layout: default
 |**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|**[link](https://github.com/clin0212/hydralora)**|
 |**2025-03-04**|**Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts**|Shulai Zhang et.al.|[2502.19811](http://arxiv.org/abs/2502.19811)|**[link](https://github.com/bytedance/flux)**|
 |**2025-02-27**|**Extension of SUSY SU(5) GUTs with Nelson-Barr models**|Junji Hisano et.al.|[2502.19686](http://arxiv.org/abs/2502.19686)|null|
-|**2025-02-26**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
+|**2025-03-15**|**Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization**|Taishi Nakamura et.al.|[2502.19261](http://arxiv.org/abs/2502.19261)|null|
 |**2025-02-26**|**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**|Jiaxin Deng et.al.|[2502.18965](http://arxiv.org/abs/2502.18965)|null|
 |**2025-02-26**|**Sherlock: Towards Multi-scene Video Abnormal Event Extraction and Localization via a Global-local Spatial-sensitive LLM**|Junxiao Ma et.al.|[2502.18863](http://arxiv.org/abs/2502.18863)|null|
 |**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
