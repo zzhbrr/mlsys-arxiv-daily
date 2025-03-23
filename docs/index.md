@@ -689,7 +689,7 @@ layout: default
 |**2025-01-18**|**Mixture of Experts (MoE): A Big Data Perspective**|Wensheng Gan et.al.|[2501.16352](http://arxiv.org/abs/2501.16352)|null|
 |**2025-01-27**|**Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference**|Yinghan Li et.al.|[2501.16103](http://arxiv.org/abs/2501.16103)|null|
 |**2025-01-25**|**ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning**|Shangqian Gao et.al.|[2501.15316](http://arxiv.org/abs/2501.15316)|null|
-|**2025-03-16**|**FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts**|Ziqi Liu et.al.|[2501.15125](http://arxiv.org/abs/2501.15125)|**[link](https://github.com/thuml/autoformer)**|
+|**2025-03-16**|**FreqMoE: Enhancing Time Series Forecasting through Frequency Decomposition Mixture of Experts**|Ziqi Liu et.al.|[2501.15125](http://arxiv.org/abs/2501.15125)|**[link](https://github.com/sunbus100/FreqMoE-main)**|
 |**2025-01-25**|**Each Rank Could be an Expert: Single-Ranked Mixture of Experts LoRA for Multi-Task Learning**|Ziyu Zhao et.al.|[2501.15103](http://arxiv.org/abs/2501.15103)|null|
 |**2025-01-24**|**Mean-field limit from general mixtures of experts to quantum neural networks**|Anderson Melchor Hernandez et.al.|[2501.14660](http://arxiv.org/abs/2501.14660)|null|
 |**2025-01-30**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/abs/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|
