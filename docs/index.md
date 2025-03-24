@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -516,7 +516,7 @@ layout: default
 |**2025-03-20**|**Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts**|Yike Yuan et.al.|[2503.16057](http://arxiv.org/abs/2503.16057)|null|
 |**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-20**|**Mixture of Lookup Experts**|Shibo Jie et.al.|[2503.15798](http://arxiv.org/abs/2503.15798)|null|
-|**2025-03-19**|**Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication**|Sin-Yu Huang et.al.|[2503.15722](http://arxiv.org/abs/2503.15722)|null|
+|**2025-03-21**|**Leveraging MoE-based Large Language Model for Zero-Shot Multi-Task Semantic Communication**|Sin-Yu Huang et.al.|[2503.15722](http://arxiv.org/abs/2503.15722)|null|
 |**2025-03-19**|**SemEval-2025 Task 1: AdMIRe -- Advancing Multimodal Idiomaticity Representation**|Thomas Pickard et.al.|[2503.15358](http://arxiv.org/abs/2503.15358)|null|
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960](http://arxiv.org/abs/2503.14960)|null|
 |**2025-03-18**|**Core-Periphery Principle Guided State Space Model for Functional Connectome Classification**|Minheng Chen et.al.|[2503.14655](http://arxiv.org/abs/2503.14655)|null|
@@ -561,7 +561,7 @@ layout: default
 |**2025-03-10**|**ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration**|Mengting Ai et.al.|[2503.06881](http://arxiv.org/abs/2503.06881)|**[link](https://github.com/idea-isail-lab-uiuc/resmoe)**|
 |**2025-03-10**|**eMoE: Task-aware Memory Efficient Mixture-of-Experts-Based (MoE) Model Inference**|Suraiya Tairin et.al.|[2503.06823](http://arxiv.org/abs/2503.06823)|null|
 |**2025-03-09**|**MoFE: Mixture of Frozen Experts Architecture**|Jean Seo et.al.|[2503.06491](http://arxiv.org/abs/2503.06491)|null|
-|**2025-03-09**|**Swift Hydra: Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models**|Nguyen Do et.al.|[2503.06413](http://arxiv.org/abs/2503.06413)|null|
+|**2025-03-09**|**Swift Hydra: Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models**|Nguyen Do et.al.|[2503.06413](http://arxiv.org/abs/2503.06413)|**[link](https://github.com/nguyendohoangkhoiUF/Swift-Hydra)**|
 |**2025-03-08**|**MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering**|Vinay Kumar Verma et.al.|[2503.06296](http://arxiv.org/abs/2503.06296)|null|
 |**2025-03-08**|**A Novel Trustworthy Video Summarization Algorithm Through a Mixture of LoRA Experts**|Wenzhuo Du et.al.|[2503.06064](http://arxiv.org/abs/2503.06064)|null|
 |**2025-03-08**|**MANDARIN: Mixture-of-Experts Framework for Dynamic Delirium and Coma Prediction in ICU Patients: Development and Validation of an Acute Brain Dysfunction Prediction Model**|Miguel Contreras et.al.|[2503.06059](http://arxiv.org/abs/2503.06059)|null|
