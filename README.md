@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599](http://arxiv.org/abs/2503.18599)|null|
+|**2025-03-24**|**DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective**|Changlun Li et.al.|[2503.18313](http://arxiv.org/abs/2503.18313)|null|
+|**2025-03-24**|**Jenga: Effective Memory Management for Serving LLM with Heterogeneity**|Chen Zhang et.al.|[2503.18292](http://arxiv.org/abs/2503.18292)|null|
+|**2025-03-23**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|null|
+|**2025-03-22**|**PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling**|Chongpeng Liu et.al.|[2503.17707](http://arxiv.org/abs/2503.17707)|null|
+|**2025-03-21**|**V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms**|Javier J. Poveda Rodrigo et.al.|[2503.17422](http://arxiv.org/abs/2503.17422)|null|
 |**2025-03-21**|**Improving the End-to-End Efficiency of Offline Inference for Multi-LLM Applications Based on Sampling and Simulation**|Jingzhi Fang et.al.|[2503.16893](http://arxiv.org/abs/2503.16893)|null|
 |**2025-03-17**|**KVShare: Semantic-Aware Key-Value Cache Sharing for Efficient Large Language Model Inference**|Huan Yang et.al.|[2503.16525](http://arxiv.org/abs/2503.16525)|null|
 |**2025-03-20**|**SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**|Fahao Chen et.al.|[2503.15921](http://arxiv.org/abs/2503.15921)|null|
@@ -108,7 +116,7 @@
 |**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
 |**2025-02-24**|**BaKlaVa -- Budgeted Allocation of KV cache for Long-context Inference**|Ahmed Burak Gulhan et.al.|[2502.13176](http://arxiv.org/abs/2502.13176)|null|
 |**2025-02-18**|**SEFL: Harnessing Large Language Model Agents to Improve Educational Feedback Systems**|Mike Zhang et.al.|[2502.12927](http://arxiv.org/abs/2502.12927)|**[link](https://github.com/jjzha/sefl)**|
-|**2025-03-06**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
+|**2025-03-24**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|**[link](https://github.com/ekrxjwh2009/R2-KG)**|
 |**2025-02-18**|**HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading**|Cheng Luo et.al.|[2502.12574](http://arxiv.org/abs/2502.12574)|**[link](https://github.com/wdlctc/headinfer)**|
 |**2025-02-18**|**Distributed On-Device LLM Inference With Over-the-Air Computation**|Kai Zhang et.al.|[2502.12559](http://arxiv.org/abs/2502.12559)|null|
 |**2025-02-18**|**SparAMX: Accelerating Compressed LLMs Token Generation on AMX-powered CPUs**|Ahmed F. AbouElhamayed et.al.|[2502.12444](http://arxiv.org/abs/2502.12444)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
@@ -526,6 +534,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
+|**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
+|**2025-03-23**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|null|
+|**2025-03-22**|**Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM**|Codefuse et.al.|[2503.17793](http://arxiv.org/abs/2503.17793)|null|
 |**2025-03-20**|**Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts**|Yike Yuan et.al.|[2503.16057](http://arxiv.org/abs/2503.16057)|null|
 |**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-20**|**Mixture of Lookup Experts**|Shibo Jie et.al.|[2503.15798](http://arxiv.org/abs/2503.15798)|**[link](https://github.com/jieshibo/mole)**|
@@ -1043,6 +1056,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**A Multi-Model Adaptation of Speculative Decoding for Classification**|Somnath Roy et.al.|[2503.18076](http://arxiv.org/abs/2503.18076)|null|
 |**2025-03-20**|**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs**|Shibo Jie et.al.|[2503.16163](http://arxiv.org/abs/2503.16163)|null|
 |**2025-03-20**|**"This could save us months of work" -- Use Cases of AI and Automation Support in Investigative Journalism**|Besjon Cifliku et.al.|[2503.16011](http://arxiv.org/abs/2503.16011)|null|
 |**2025-03-20**|**SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models**|Fahao Chen et.al.|[2503.15921](http://arxiv.org/abs/2503.15921)|null|
@@ -1075,7 +1089,7 @@
 |**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
 |**2025-03-14**|**Thunder: Harnessing Unused GPU Cycles in Large-Scale Training via Opportunistic Execution**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-03-03**|**Linear Representations of Political Perspective Emerge in Large Language Models**|Junsol Kim et.al.|[2503.02080](http://arxiv.org/abs/2503.02080)|null|
-|**2025-03-03**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
+|**2025-03-23**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
 |**2025-03-03**|**Efficient Long-Term Structural Reliability Estimation with Non-Gaussian Stochastic Models: A Design of Experiments Approach**|Sebastian Winter et.al.|[2503.01566](http://arxiv.org/abs/2503.01566)|null|
 |**2025-03-17**|**MeshPad: Interactive Sketch-Conditioned Artist-Designed Mesh Generation and Editing**|Haoxuan Li et.al.|[2503.01425](http://arxiv.org/abs/2503.01425)|null|
 |**2025-03-03**|**Turbulence in virtual: II. Origin of skewness and dual fraction processes**|Xunchuan Liu et.al.|[2503.01160](http://arxiv.org/abs/2503.01160)|null|
