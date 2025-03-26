@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment**|Varsha Embar et.al.|[2503.19090](http://arxiv.org/abs/2503.19090)|null|
+|**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
 |**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599](http://arxiv.org/abs/2503.18599)|null|
@@ -79,7 +81,7 @@ layout: default
 |**2025-03-01**|**Progressive Sparse Attention: Algorithm and System Co-design for Efficient Attention in LLM Serving**|Qihui Zhou et.al.|[2503.00392](http://arxiv.org/abs/2503.00392)|null|
 |**2025-02-28**|**FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference**|Xunhao Lai et.al.|[2502.20766](http://arxiv.org/abs/2502.20766)|**[link](https://github.com/bytedance/FlexPrefill)**|
 |**2025-02-28**|**SPD: Sync-Point Drop for efficient tensor parallelism of Large Language Models**|Han-Byul Kim et.al.|[2502.20727](http://arxiv.org/abs/2502.20727)|null|
-|**2025-03-22**|**Smart Routing: Cost-Effective Multi-LLM Serving in AIOS**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|**[link](https://github.com/agiresearch/eccos)**|
+|**2025-03-22**|**Smart Routing: Cost-Effective Multi-LLM Serving in AIOS**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|**[link](https://github.com/agiresearch/aios)**|
 |**2025-02-27**|**M^3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging**|Jinghao Feng et.al.|[2502.20301](http://arxiv.org/abs/2502.20301)|null|
 |**2025-02-26**|**Sparse Brains are Also Adaptive Brains: Cognitive-Load-Aware Dynamic Activation for LLMs**|Yiheng Yang et.al.|[2502.19078](http://arxiv.org/abs/2502.19078)|null|
 |**2025-02-26**|**Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection**|Carter Adams et.al.|[2502.18823](http://arxiv.org/abs/2502.18823)|null|
@@ -523,6 +525,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
+|**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
+|**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
 |**2025-03-24**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
@@ -1043,6 +1048,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**The Centers and Margins of Modeling Humans in Well-being Technologies: A Decentering Approach**|Jichen Zhu et.al.|[2503.19132](http://arxiv.org/abs/2503.19132)|null|
+|**2025-03-24**|**Spectropolarimetry of A Nuclear Transient AT2023clx: Revealing The Geometrical Alignment between The Transient Outflow and The Nuclear Dusty Region**|Kohki Uno et.al.|[2503.19024](http://arxiv.org/abs/2503.19024)|null|
+|**2025-03-23**|**A Novel Hat-Shaped Device-Cloud Collaborative Inference Framework for Large Language Models**|Zuan Xie et.al.|[2503.18989](http://arxiv.org/abs/2503.18989)|null|
 |**2025-03-23**|**A Multi-Model Adaptation of Speculative Decoding for Classification**|Somnath Roy et.al.|[2503.18076](http://arxiv.org/abs/2503.18076)|null|
 |**2025-03-20**|**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs**|Shibo Jie et.al.|[2503.16163](http://arxiv.org/abs/2503.16163)|null|
 |**2025-03-20**|**"This could save us months of work" -- Use Cases of AI and Automation Support in Investigative Journalism**|Besjon Cifliku et.al.|[2503.16011](http://arxiv.org/abs/2503.16011)|null|
@@ -1092,6 +1100,7 @@ layout: default
 |**2025-02-28**|**Nano Drone-based Indoor Crime Scene Analysis**|Martin Cooney et.al.|[2502.21019](http://arxiv.org/abs/2502.21019)|null|
 |**2025-03-04**|**Fuzzy Speculative Decoding for a Tunable Accuracy-Runtime Tradeoff**|Maximilian Holsman et.al.|[2502.20704](http://arxiv.org/abs/2502.20704)|**[link](https://github.com/maxholsman/fsd)**|
 |**2025-02-28**|**MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus**|Mohammad Mussadiq Jalalzai et.al.|[2502.20692](http://arxiv.org/abs/2502.20692)|null|
+|**2025-03-24**|**Turbulence in virtual: Origin of the variance and skewness of density function**|Xunchuan Liu et.al.|[2502.20458](http://arxiv.org/abs/2502.20458)|null|
 |**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-03-10**|**Frobenius subalgebra lattices in tensor categories**|Mainak Ghosh et.al.|[2502.19876](http://arxiv.org/abs/2502.19876)|null|
 |**2025-03-04**|**Speculative Decoding and Beyond: An In-Depth Survey of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
