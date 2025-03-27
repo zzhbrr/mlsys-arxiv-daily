@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -522,7 +522,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -530,7 +530,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 ## MoE
 
@@ -580,13 +580,13 @@
 |**2025-03-11**|**MoE-Loco: Mixture of Experts for Multitask Locomotion**|Runhan Huang et.al.|[2503.08564](http://arxiv.org/abs/2503.08564)|null|
 |**2025-03-11**|**BoundarEase: Fostering Constructive Community Engagement to Inform More Equitable Student Assignment Policies**|Cassandra Overney et.al.|[2503.08543](http://arxiv.org/abs/2503.08543)|**[link](https://github.com/Plural-Connections/BoundarEase-platform)**|
 |**2025-03-11**|**Accelerating MoE Model Inference with Expert Sharding**|Oana Balmau et.al.|[2503.08467](http://arxiv.org/abs/2503.08467)|null|
-|**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
+|**2025-03-26**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
 |**2025-03-11**|**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**|Han Zhao et.al.|[2503.08007](http://arxiv.org/abs/2503.08007)|null|
 |**2025-03-10**|**Hierarchical Balance Packing: Towards Efficient Supervised Fine-tuning for Long-Context LLM**|Yongqiang Yao et.al.|[2503.07680](http://arxiv.org/abs/2503.07680)|null|
 |**2025-03-06**|**TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**|Kanghui Ning et.al.|[2503.07649](http://arxiv.org/abs/2503.07649)|null|
 |**2025-03-05**|**BrainNet-MoE: Brain-Inspired Mixture-of-Experts Learning for Neurological Disease Identification**|Jing Zhang et.al.|[2503.07640](http://arxiv.org/abs/2503.07640)|null|
 |**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
-|**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
+|**2025-03-26**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
 |**2025-03-10**|**A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications**|Siyuan Mu et.al.|[2503.07137](http://arxiv.org/abs/2503.07137)|**[link](https://github.com/deepseek-ai/DeepEP)**|
 |**2025-03-10**|**VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots**|Fu Chen et.al.|[2503.07049](http://arxiv.org/abs/2503.07049)|**[link](https://github.com/chenfu-user/VMTS)**|
 |**2025-03-10**|**ResMoE: Space-efficient Compression of Mixture of Experts LLMs via Residual Restoration**|Mengting Ai et.al.|[2503.06881](http://arxiv.org/abs/2503.06881)|**[link](https://github.com/idea-isail-lab-uiuc/resmoe)**|
@@ -1055,7 +1055,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1083,7 +1083,7 @@
 |**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et.al.|[2503.09814](http://arxiv.org/abs/2503.09814)|null|
 |**2025-03-11**|**In Search of the Potentially Hazardous Asteroids in the Taurid Resonant Swarm**|Jasmine Li et.al.|[2503.08670](http://arxiv.org/abs/2503.08670)|null|
 |**2025-03-11**|**Liquidity Competition Between Brokers and an Informed Trader**|Ryan Donnelly et.al.|[2503.08287](http://arxiv.org/abs/2503.08287)|null|
-|**2025-03-10**|**Training Domain Draft Models for Speculative Decoding: Best Practices and Insights**|Fenglu Hong et.al.|[2503.07807](http://arxiv.org/abs/2503.07807)|null|
+|**2025-03-25**|**Training Domain Draft Models for Speculative Decoding: Best Practices and Insights**|Fenglu Hong et.al.|[2503.07807](http://arxiv.org/abs/2503.07807)|null|
 |**2025-03-10**|**Did smartphones break the world as we knew it?**|Mikhail V. Tamm et.al.|[2503.07773](http://arxiv.org/abs/2503.07773)|null|
 |**2025-03-13**|**Design as Hope: Reimagining Futures for Seemingly Doomed Problems**|JaeWon Kim et.al.|[2503.07586](http://arxiv.org/abs/2503.07586)|null|
 |**2025-03-09**|**A parallel parser for regular expressions**|Angelo Borsotti et.al.|[2503.06763](http://arxiv.org/abs/2503.06763)|null|
@@ -1498,7 +1498,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1536,7 +1536,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
