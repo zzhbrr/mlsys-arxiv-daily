@@ -1167,7 +1167,7 @@
 |**2025-03-06**|**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**|Ruichen Zhang et.al.|[2502.07942](http://arxiv.org/abs/2502.07942)|null|
 |**2025-02-05**|**Entropy Adaptive Decoding: Dynamic Model Switching for Efficient Inference**|Toby Simonds et.al.|[2502.06833](http://arxiv.org/abs/2502.06833)|null|
 |**2025-02-10**|**Persistent spin grids with spin-orbit coupled 2D electron gas**|A. V. Poshakinskiy et.al.|[2502.06745](http://arxiv.org/abs/2502.06745)|null|
-|**2025-03-27**|**LANTERN++: Enhancing Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**|Sihwan Park et.al.|[2502.06352](http://arxiv.org/abs/2502.06352)|null|
+|**2025-03-27**|**LANTERN++: Enhancing Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models**|Sihwan Park et.al.|[2502.06352](http://arxiv.org/abs/2502.06352)|**[link](https://github.com/jadohu/LANTERN)**|
 |**2025-02-10**|**Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE**|Haiduo Huang et.al.|[2502.06282](http://arxiv.org/abs/2502.06282)|**[link](https://github.com/haiduo/Jakiro)**|
 |**2025-02-08**|**Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding**|Sukmin Cho et.al.|[2502.05609](http://arxiv.org/abs/2502.05609)|**[link](https://github.com/zomss/Hierarchy_Drafting)**|
 |**2025-01-31**|**Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies**|Nadav Timor et.al.|[2502.05202](http://arxiv.org/abs/2502.05202)|null|
