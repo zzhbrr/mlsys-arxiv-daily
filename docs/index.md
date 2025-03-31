@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -1075,7 +1075,7 @@ layout: default
 |**2025-03-18**|**Growing a Twig to Accelerate Large Vision-Language Models**|Zhenwei Shao et.al.|[2503.14075](http://arxiv.org/abs/2503.14075)|null|
 |**2025-03-17**|**ML-SpecQD: Multi-Level Speculative Decoding with Quantized Drafts**|Evangelos Georganas et.al.|[2503.13565](http://arxiv.org/abs/2503.13565)|null|
 |**2025-03-17**|**Enhanced anomalous Hall effect in the topological Kagome metal Cs(V $_{1-x}$Mn$_x$)$_3$Sb$_5$**|Xinmin Wang et.al.|[2503.13351](http://arxiv.org/abs/2503.13351)|null|
-|**2025-03-17**|**WOW: Workflow-Aware Data Movement and Task Scheduling for Dynamic Scientific Workflows**|Fabian Lehmann et.al.|[2503.13072](http://arxiv.org/abs/2503.13072)|**[link](https://github.com/WOW-WorkflowScheduler/KubernetesScheduler)**|
+|**2025-03-28**|**WOW: Workflow-Aware Data Movement and Task Scheduling for Dynamic Scientific Workflows**|Fabian Lehmann et.al.|[2503.13072](http://arxiv.org/abs/2503.13072)|**[link](https://github.com/WOW-WorkflowScheduler/KubernetesScheduler)**|
 |**2025-03-13**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325](http://arxiv.org/abs/2503.10325)|null|
 |**2025-03-13**|**Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding**|Jinze Li et.al.|[2503.10135](http://arxiv.org/abs/2503.10135)|null|
 |**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et.al.|[2503.09814](http://arxiv.org/abs/2503.09814)|null|
