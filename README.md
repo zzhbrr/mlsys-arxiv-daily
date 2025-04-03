@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|null|
+|**2025-03-28**|**Token-Driven GammaTune: Adaptive Calibration for Enchanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
 |**2025-03-31**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|null|
 |**2025-03-31**|**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving**|Wei Gao et.al.|[2503.24000](http://arxiv.org/abs/2503.24000)|**[link](https://github.com/llmkvsys/rethink-kv-compression)**|
@@ -546,6 +548,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**|Mohan Zhang et.al.|[2504.01337](http://arxiv.org/abs/2504.01337)|null|
+|**2025-04-01**|**Mixture-of-Experts for Distributed Edge Computing with Channel-Aware Gating Function**|Qiuchen Song et.al.|[2504.00819](http://arxiv.org/abs/2504.00819)|null|
+|**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
+|**2025-04-01**|**CFP: Low-overhead Profiling-based Intra-operator Parallelism Generation by Preserving Communication-Free Structures**|Weifang Hu et.al.|[2504.00598](http://arxiv.org/abs/2504.00598)|null|
+|**2025-04-01**|**Continual Cross-Modal Generalization**|Yan Xia et.al.|[2504.00561](http://arxiv.org/abs/2504.00561)|null|
+|**2025-04-01**|**Mixture-of-Attack-Experts with Class Regularization for Unified Physical-Digital Face Attack Detection**|Shunxin Chen et.al.|[2504.00458](http://arxiv.org/abs/2504.00458)|null|
 |**2025-03-31**|**Unimodal-driven Distillation in Multimodal Emotion Recognition with Dynamic Fusion**|Jiagen Li et.al.|[2503.23721](http://arxiv.org/abs/2503.23721)|null|
 |**2025-03-30**|**Mixture of Routers**|Jia-Chen Zhang et.al.|[2503.23362](http://arxiv.org/abs/2503.23362)|null|
 |**2025-03-29**|**Beyond Standard MoE: Mixture of Latent Experts for Resource-Efficient Language Models**|Zehua Liu et.al.|[2503.23100](http://arxiv.org/abs/2503.23100)|null|
@@ -1088,6 +1096,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Graviton Scattering on Gravitational Atoms: Relic Graviton Shot Noise**|Benjamin Avila-Lopez et.al.|[2504.01286](http://arxiv.org/abs/2504.01286)|null|
+|**2025-04-01**|**Reminiscences about Steven Weinberg (This Time it's Personal)**|C. P. Burgess et.al.|[2504.01118](http://arxiv.org/abs/2504.01118)|null|
+|**2025-04-01**|**Mesoscale Eddy -- Internal Wave Coupling. III. The End of the Enstrophy Cascade and Maintenance of Gyre Scale Potential Vorticity Gradients**|Kurt L. Polzin et.al.|[2504.00486](http://arxiv.org/abs/2504.00486)|null|
+|**2025-04-01**|**The Impact of Triangular-Toothed Gears on the Functionality of the Antikythera Mechanism**|Esteban Guillermo Szigety y Gustavo Francisco Arenas et.al.|[2504.00327](http://arxiv.org/abs/2504.00327)|null|
+|**2025-03-28**|**Token-Driven GammaTune: Adaptive Calibration for Enchanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**What the F*ck Is Artificial General Intelligence?**|Michael Timothy Bennett et.al.|[2503.23923](http://arxiv.org/abs/2503.23923)|null|
 |**2025-03-31**|**A search for the three isomers of cyano-1,3-butadiene in TMC-1: Implications for bottom-up routes involving 1,3-butadiene**|M. Agundez et.al.|[2503.23841](http://arxiv.org/abs/2503.23841)|null|
 |**2025-03-30**|**Credit, Land Speculation, and Low-Interest-Rate Policy**|Tomohiro Hirano et.al.|[2503.23552](http://arxiv.org/abs/2503.23552)|null|
