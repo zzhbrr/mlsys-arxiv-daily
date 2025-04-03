@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -573,7 +573,7 @@ layout: default
 |**2025-03-18**|**SNAKE: A Sustainable and Multi-functional Traffic Analysis System utilizing Specialized Large-Scale Models with a Mixture of Experts Architecture**|Tian Qin et.al.|[2503.13808](http://arxiv.org/abs/2503.13808)|null|
 |**2025-03-13**|**Ensemble Learning for Large Language Models in Text and Code Generation: A Survey**|Mari Ashiga et.al.|[2503.13505](http://arxiv.org/abs/2503.13505)|null|
 |**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421](http://arxiv.org/abs/2503.13421)|null|
-|**2025-03-31**|**Channel Estimation for Pinching-Antenna Systems (PASS)**|Jian Xiao et.al.|[2503.13268](http://arxiv.org/abs/2503.13268)|null|
+|**2025-04-02**|**Channel Estimation for Pinching-Antenna Systems (PASS)**|Jian Xiao et.al.|[2503.13268](http://arxiv.org/abs/2503.13268)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
 |**2025-03-16**|**Fast filtering of non-Gaussian models using Amortized Optimal Transport Maps**|Mohammad Al-Jarrah et.al.|[2503.12633](http://arxiv.org/abs/2503.12633)|null|
 |**2025-03-16**|**MoECollab: Democratizing LLM Development Through Collaborative Mixture of Experts**|Harshit et.al.|[2503.12592](http://arxiv.org/abs/2503.12592)|null|
@@ -599,7 +599,7 @@ layout: default
 |**2025-03-26**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
 |**2025-03-11**|**MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models**|Han Zhao et.al.|[2503.08007](http://arxiv.org/abs/2503.08007)|null|
 |**2025-03-10**|**Hierarchical Balance Packing: Towards Efficient Supervised Fine-tuning for Long-Context LLM**|Yongqiang Yao et.al.|[2503.07680](http://arxiv.org/abs/2503.07680)|null|
-|**2025-03-06**|**TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**|Kanghui Ning et.al.|[2503.07649](http://arxiv.org/abs/2503.07649)|null|
+|**2025-04-01**|**TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster**|Kanghui Ning et.al.|[2503.07649](http://arxiv.org/abs/2503.07649)|null|
 |**2025-03-05**|**BrainNet-MoE: Brain-Inspired Mixture-of-Experts Learning for Neurological Disease Identification**|Jing Zhang et.al.|[2503.07640](http://arxiv.org/abs/2503.07640)|null|
 |**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
 |**2025-03-26**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
@@ -1119,7 +1119,7 @@ layout: default
 |**2025-03-06**|**A possible jet and corona configuration for Swift J1727.8--1613 during the hard state**|Jing-Qiang Peng et.al.|[2503.04044](http://arxiv.org/abs/2503.04044)|null|
 |**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
 |**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
-|**2025-03-03**|**Linear Representations of Political Perspective Emerge in Large Language Models**|Junsol Kim et.al.|[2503.02080](http://arxiv.org/abs/2503.02080)|**[link](https://github.com/JunsolKim/RepresentationPoliticalLLM)**|
+|**2025-04-02**|**Linear Representations of Political Perspective Emerge in Large Language Models**|Junsol Kim et.al.|[2503.02080](http://arxiv.org/abs/2503.02080)|**[link](https://github.com/JunsolKim/RepresentationPoliticalLLM)**|
 |**2025-03-23**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
 |**2025-03-03**|**Efficient Long-Term Structural Reliability Estimation with Non-Gaussian Stochastic Models: A Design of Experiments Approach**|Sebastian Winter et.al.|[2503.01566](http://arxiv.org/abs/2503.01566)|null|
 |**2025-03-17**|**MeshPad: Interactive Sketch-Conditioned Artist-Designed Mesh Generation and Editing**|Haoxuan Li et.al.|[2503.01425](http://arxiv.org/abs/2503.01425)|null|
