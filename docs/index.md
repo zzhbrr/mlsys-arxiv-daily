@@ -14,15 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Narrative Studio: Visual narrative exploration using LLMs and Monte Carlo Tree Search**|Parsa Ghaffari et.al.|[2504.02426](http://arxiv.org/abs/2504.02426)|null|
 |**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|null|
-|**2025-03-28**|**Token-Driven GammaTune: Adaptive Calibration for Enchanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
+|**2025-04-03**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
-|**2025-03-31**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|null|
+|**2025-03-31**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|**[link](https://github.com/2000012835xt/realm-dac)**|
 |**2025-03-31**|**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving**|Wei Gao et.al.|[2503.24000](http://arxiv.org/abs/2503.24000)|**[link](https://github.com/llmkvsys/rethink-kv-compression)**|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
 |**2025-03-31**|**MVDRAM: Enabling GeMV Execution in Unmodified DRAM for Low-Bit LLM Acceleration**|Tatsuya Kubo et.al.|[2503.23817](http://arxiv.org/abs/2503.23817)|null|
 |**2025-03-30**|**Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference**|Wei Tao et.al.|[2503.23294](http://arxiv.org/abs/2503.23294)|null|
-|**2025-03-30**|**PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference**|Weisheng Jin et.al.|[2503.23274](http://arxiv.org/abs/2503.23274)|null|
+|**2025-03-30**|**PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference**|Weisheng Jin et.al.|[2503.23274](http://arxiv.org/abs/2503.23274)|**[link](https://github.com/declare-lab/PromptDistill)**|
 |**2025-03-28**|**Niyama : Breaking the Silos of LLM Inference Serving**|Kanishk Goel et.al.|[2503.22562](http://arxiv.org/abs/2503.22562)|null|
 |**2025-03-26**|**Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation**|Yunkai Liang et.al.|[2503.20552](http://arxiv.org/abs/2503.20552)|**[link](https://github.com/ASISys/Adrenaline)**|
 |**2025-03-25**|**LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation**|Han Chen et.al.|[2503.19950](http://arxiv.org/abs/2503.19950)|**[link](https://github.com/concyclics/logquantkv)**|
@@ -537,6 +538,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
+|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|null|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
+|**2025-04-03**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
 |**2025-04-02**|**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**|Mohan Zhang et.al.|[2504.01337](http://arxiv.org/abs/2504.01337)|null|
 |**2025-04-01**|**Mixture-of-Experts for Distributed Edge Computing with Channel-Aware Gating Function**|Qiuchen Song et.al.|[2504.00819](http://arxiv.org/abs/2504.00819)|null|
 |**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
@@ -594,7 +599,7 @@ layout: default
 |**2025-03-13**|**Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores**|Chenpeng Wu et.al.|[2503.10725](http://arxiv.org/abs/2503.10725)|**[link](https://github.com/guqiqi/Samoyeds)**|
 |**2025-03-19**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412](http://arxiv.org/abs/2503.10412)|null|
 |**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
-|**2025-03-12**|**MoE-Gen: High-Throughput MoE Inference on a Single GPU with Module-Based Batching**|Tairan Xu et.al.|[2503.09716](http://arxiv.org/abs/2503.09716)|**[link](https://github.com/efficientmoe/moe-gen)**|
+|**2025-03-12**|**MoE-Gen: High-Throughput MoE Inference on a Single GPU with Module-Based Batching**|Tairan Xu et.al.|[2503.09716](http://arxiv.org/abs/2503.09716)|null|
 |**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504](http://arxiv.org/abs/2503.09504)|null|
 |**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|**[link](https://github.com/nazaninmn/mosare)**|
 |**2025-04-01**|**Astrea: A MOE-based Visual Understanding Model with Progressive Alignment**|Xiaoda Yang et.al.|[2503.09445](http://arxiv.org/abs/2503.09445)|null|
@@ -1083,11 +1088,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
+|**2025-04-03**|**Black Holes, Moduli Stabilisation and the Swampland**|Matilda Delgado et.al.|[2504.02645](http://arxiv.org/abs/2504.02645)|null|
+|**2025-04-03**|**Variational Online Mirror Descent for Robust Learning in Schrödinger Bridge**|Dong-Sig Han et.al.|[2504.02618](http://arxiv.org/abs/2504.02618)|null|
 |**2025-04-02**|**Graviton Scattering on Gravitational Atoms: Relic Graviton Shot Noise**|Benjamin Avila-Lopez et.al.|[2504.01286](http://arxiv.org/abs/2504.01286)|null|
 |**2025-04-01**|**Reminiscences about Steven Weinberg (This Time it's Personal)**|C. P. Burgess et.al.|[2504.01118](http://arxiv.org/abs/2504.01118)|null|
 |**2025-04-01**|**Mesoscale Eddy -- Internal Wave Coupling. III. The End of the Enstrophy Cascade and Maintenance of Gyre Scale Potential Vorticity Gradients**|Kurt L. Polzin et.al.|[2504.00486](http://arxiv.org/abs/2504.00486)|null|
 |**2025-04-01**|**The Impact of Triangular-Toothed Gears on the Functionality of the Antikythera Mechanism**|Esteban Guillermo Szigety y Gustavo Francisco Arenas et.al.|[2504.00327](http://arxiv.org/abs/2504.00327)|null|
-|**2025-03-28**|**Token-Driven GammaTune: Adaptive Calibration for Enchanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
+|**2025-04-03**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**What the F*ck Is Artificial General Intelligence?**|Michael Timothy Bennett et.al.|[2503.23923](http://arxiv.org/abs/2503.23923)|null|
 |**2025-03-31**|**A search for the three isomers of cyano-1,3-butadiene in TMC-1: Implications for bottom-up routes involving 1,3-butadiene**|M. Agundez et.al.|[2503.23841](http://arxiv.org/abs/2503.23841)|null|
 |**2025-03-30**|**Credit, Land Speculation, and Low-Interest-Rate Policy**|Tomohiro Hirano et.al.|[2503.23552](http://arxiv.org/abs/2503.23552)|null|
