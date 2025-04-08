@@ -21,13 +21,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
+|**2025-04-07**|**Debate Only When Necessary: Adaptive Multiagent Collaboration for Efficient LLM Reasoning**|Sugyeong Eo et.al.|[2504.05047](http://arxiv.org/abs/2504.05047)|null|
+|**2025-04-05**|**PipeDec: Low-Latency Pipeline-based Inference with Dynamic Speculative Decoding towards Large-scale Models**|Haofei Yin et.al.|[2504.04104](http://arxiv.org/abs/2504.04104)|null|
+|**2025-04-03**|**FlowKV: A Disaggregated Inference Framework with Low-Latency KV Cache Transfer and Load-Aware Scheduling**|Weiqing Li et.al.|[2504.03775](http://arxiv.org/abs/2504.03775)|null|
+|**2025-03-30**|**VFlow: Discovering Optimal Agentic Workflows for Verilog Generation**|Yangbo Wei et.al.|[2504.03723](http://arxiv.org/abs/2504.03723)|null|
+|**2025-03-12**|**MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization**|Zongwu Wang et.al.|[2504.03661](http://arxiv.org/abs/2504.03661)|null|
+|**2025-03-01**|**Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving**|Zhibin Wang et.al.|[2504.03651](http://arxiv.org/abs/2504.03651)|null|
+|**2025-02-22**|**AIBrix: Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure**|The AIBrix Team et.al.|[2504.03648](http://arxiv.org/abs/2504.03648)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
 |**2025-04-04**|**Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation**|Weitao Li et.al.|[2504.03165](http://arxiv.org/abs/2504.03165)|null|
 |**2025-04-03**|**Narrative Studio: Visual narrative exploration using LLMs and Monte Carlo Tree Search**|Parsa Ghaffari et.al.|[2504.02426](http://arxiv.org/abs/2504.02426)|null|
 |**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|null|
 |**2025-04-03**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
-|**2025-03-31**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|**[link](https://github.com/2000012835xt/realm-dac)**|
+|**2025-04-06**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|**[link](https://github.com/2000012835xt/realm-dac)**|
 |**2025-03-31**|**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving**|Wei Gao et.al.|[2503.24000](http://arxiv.org/abs/2503.24000)|**[link](https://github.com/llmkvsys/rethink-kv-compression)**|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
 |**2025-03-31**|**MVDRAM: Enabling GeMV Execution in Unmodified DRAM for Low-Bit LLM Acceleration**|Tatsuya Kubo et.al.|[2503.23817](http://arxiv.org/abs/2503.23817)|null|
@@ -551,11 +559,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
+|**2025-04-06**|**On the Spatial Structure of Mixture-of-Experts in Transformers**|Daniel Bershatsky et.al.|[2504.04444](http://arxiv.org/abs/2504.04444)|null|
+|**2025-04-05**|**Collaboration and Controversy Among Experts: Rumor Early Detection by Tuning a Comment Generator**|Bing Wang et.al.|[2504.04076](http://arxiv.org/abs/2504.04076)|null|
+|**2025-04-04**|**HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs**|Yongji Wu et.al.|[2504.03871](http://arxiv.org/abs/2504.03871)|null|
+|**2025-04-01**|**Detecting Financial Fraud with Hybrid Deep Learning: A Mix-of-Experts Approach to Sequential and Anomalous Patterns**|Diego Vallarino et.al.|[2504.03750](http://arxiv.org/abs/2504.03750)|null|
+|**2025-04-01**|**A Unified Virtual Mixture-of-Experts Framework:Enhanced Inference and Hallucination Mitigation in Single-Model System**|Mingyan Liu et.al.|[2504.03739](http://arxiv.org/abs/2504.03739)|null|
+|**2025-03-26**|**A multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based MLP**|Yuzhu Lei et.al.|[2504.03706](http://arxiv.org/abs/2504.03706)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
 |**2025-04-03**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
-|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|null|
+|**2025-04-07**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|null|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
-|**2025-04-03**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
+|**2025-04-07**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
 |**2025-04-02**|**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**|Mohan Zhang et.al.|[2504.01337](http://arxiv.org/abs/2504.01337)|null|
 |**2025-04-01**|**Mixture-of-Experts for Distributed Edge Computing with Channel-Aware Gating Function**|Qiuchen Song et.al.|[2504.00819](http://arxiv.org/abs/2504.00819)|null|
 |**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
@@ -1104,6 +1119,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-06**|**pc-COP: An Efficient and Configurable 2048-p-Bit Fully-Connected Probabilistic Computing Accelerator for Combinatorial Optimization**|Kiran Magar et.al.|[2504.04543](http://arxiv.org/abs/2504.04543)|null|
+|**2025-04-05**|**Representations of $p$ -adic groups and orbits with smooth closure in a variety of Langlands parameters**|Kristaps Balodis et.al.|[2504.04163](http://arxiv.org/abs/2504.04163)|null|
+|**2025-04-05**|**PipeDec: Low-Latency Pipeline-based Inference with Dynamic Speculative Decoding towards Large-scale Models**|Haofei Yin et.al.|[2504.04104](http://arxiv.org/abs/2504.04104)|null|
+|**2025-03-23**|**Agentic Business Process Management: The Past 30 Years And Practitioners' Future Perspectives**|Hoang Vu et.al.|[2504.03693](http://arxiv.org/abs/2504.03693)|null|
 |**2025-04-04**|**Ethics Readiness of Technology: The case for aligning ethical approaches with technological maturity**|Eline de Jong et.al.|[2504.03336](http://arxiv.org/abs/2504.03336)|null|
 |**2025-04-03**|**A Review of Prototyping in XR: Linking Extended Reality to Digital Fabrication**|Bixun Chen et.al.|[2504.02998](http://arxiv.org/abs/2504.02998)|null|
 |**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
