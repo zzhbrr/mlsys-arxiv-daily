@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -19,7 +19,7 @@ layout: default
 |**2025-04-05**|**PipeDec: Low-Latency Pipeline-based Inference with Dynamic Speculative Decoding towards Large-scale Models**|Haofei Yin et.al.|[2504.04104](http://arxiv.org/abs/2504.04104)|null|
 |**2025-04-03**|**FlowKV: A Disaggregated Inference Framework with Low-Latency KV Cache Transfer and Load-Aware Scheduling**|Weiqing Li et.al.|[2504.03775](http://arxiv.org/abs/2504.03775)|null|
 |**2025-03-30**|**VFlow: Discovering Optimal Agentic Workflows for Verilog Generation**|Yangbo Wei et.al.|[2504.03723](http://arxiv.org/abs/2504.03723)|null|
-|**2025-03-12**|**MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization**|Zongwu Wang et.al.|[2504.03661](http://arxiv.org/abs/2504.03661)|null|
+|**2025-04-08**|**MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization**|Zongwu Wang et.al.|[2504.03661](http://arxiv.org/abs/2504.03661)|null|
 |**2025-03-01**|**Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving**|Zhibin Wang et.al.|[2504.03651](http://arxiv.org/abs/2504.03651)|null|
 |**2025-02-22**|**AIBrix: Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure**|The AIBrix Team et.al.|[2504.03648](http://arxiv.org/abs/2504.03648)|null|
 |**2025-04-04**|**Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency**|Erik Johannes Husom et.al.|[2504.03360](http://arxiv.org/abs/2504.03360)|null|
@@ -145,7 +145,7 @@ layout: default
 |**2025-02-16**|**Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View**|Yanran Wu et.al.|[2502.11256](http://arxiv.org/abs/2502.11256)|null|
 |**2025-02-16**|**Diversified Sampling Improves Scaling LLM inference**|Tianchun Wang et.al.|[2502.11027](http://arxiv.org/abs/2502.11027)|null|
 |**2025-02-16**|**Leveraging Uncertainty Estimation for Efficient LLM Routing**|Tuo Zhang et.al.|[2502.11021](http://arxiv.org/abs/2502.11021)|null|
-|**2025-02-16**|**Local-Cloud Inference Offloading for LLMs in Multi-Modal, Multi-Task, Multi-Dialogue Settings**|Liangqi Yuan et.al.|[2502.11007](http://arxiv.org/abs/2502.11007)|**[link](https://github.com/liangqiyuan/LCIO)**|
+|**2025-04-07**|**Local-Cloud Inference Offloading for LLMs in Multi-Modal, Multi-Task, Multi-Dialogue Settings**|Liangqi Yuan et.al.|[2502.11007](http://arxiv.org/abs/2502.11007)|**[link](https://github.com/liangqiyuan/LCIO)**|
 |**2025-02-15**|**Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA**|Jindong Li et.al.|[2502.10659](http://arxiv.org/abs/2502.10659)|null|
 |**2025-02-05**|**QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache**|Rishabh Tiwari et.al.|[2502.10424](http://arxiv.org/abs/2502.10424)|null|
 |**2025-02-14**|**λScale: Enabling Fast Scaling for Serverless Large Language Model Inference**|Minchen Yu et.al.|[2502.09922](http://arxiv.org/abs/2502.09922)|null|
