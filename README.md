@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -552,7 +552,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -560,7 +560,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## MoE
 
@@ -571,7 +571,7 @@
 |**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426](http://arxiv.org/abs/2504.06426)|null|
 |**2025-04-08**|**HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2504.05897](http://arxiv.org/abs/2504.05897)|null|
 |**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844](http://arxiv.org/abs/2504.05844)|null|
-|**2025-04-08**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
+|**2025-04-10**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
 |**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
 |**2025-04-06**|**On the Spatial Structure of Mixture-of-Experts in Transformers**|Daniel Bershatsky et.al.|[2504.04444](http://arxiv.org/abs/2504.04444)|null|
 |**2025-04-05**|**Collaboration and Controversy Among Experts: Rumor Early Detection by Tuning a Comment Generator**|Bing Wang et.al.|[2504.04076](http://arxiv.org/abs/2504.04076)|null|
@@ -640,7 +640,7 @@
 |**2025-03-14**|**MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling**|Rachel S. Y. Teo et.al.|[2503.11144](http://arxiv.org/abs/2503.11144)|**[link](https://github.com/rachtsy/molex)**|
 |**2025-03-13**|**Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores**|Chenpeng Wu et.al.|[2503.10725](http://arxiv.org/abs/2503.10725)|**[link](https://github.com/guqiqi/Samoyeds)**|
 |**2025-03-19**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412](http://arxiv.org/abs/2503.10412)|null|
-|**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
+|**2025-04-10**|**Continual Text-to-Video Retrieval with Frame Fusion and Task-Aware Routing**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
 |**2025-03-12**|**MoE-Gen: High-Throughput MoE Inference on a Single GPU with Module-Based Batching**|Tairan Xu et.al.|[2503.09716](http://arxiv.org/abs/2503.09716)|null|
 |**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504](http://arxiv.org/abs/2503.09504)|null|
 |**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|**[link](https://github.com/nazaninmn/mosare)**|
@@ -1126,7 +1126,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1598,7 +1598,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1637,7 +1637,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

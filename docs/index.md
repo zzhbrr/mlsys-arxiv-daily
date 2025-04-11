@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -560,7 +560,7 @@ layout: default
 |**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426](http://arxiv.org/abs/2504.06426)|null|
 |**2025-04-08**|**HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2504.05897](http://arxiv.org/abs/2504.05897)|null|
 |**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844](http://arxiv.org/abs/2504.05844)|null|
-|**2025-04-08**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
+|**2025-04-10**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
 |**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
 |**2025-04-06**|**On the Spatial Structure of Mixture-of-Experts in Transformers**|Daniel Bershatsky et.al.|[2504.04444](http://arxiv.org/abs/2504.04444)|null|
 |**2025-04-05**|**Collaboration and Controversy Among Experts: Rumor Early Detection by Tuning a Comment Generator**|Bing Wang et.al.|[2504.04076](http://arxiv.org/abs/2504.04076)|null|
@@ -629,7 +629,7 @@ layout: default
 |**2025-03-14**|**MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling**|Rachel S. Y. Teo et.al.|[2503.11144](http://arxiv.org/abs/2503.11144)|**[link](https://github.com/rachtsy/molex)**|
 |**2025-03-13**|**Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse Tensor Cores**|Chenpeng Wu et.al.|[2503.10725](http://arxiv.org/abs/2503.10725)|**[link](https://github.com/guqiqi/Samoyeds)**|
 |**2025-03-19**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412](http://arxiv.org/abs/2503.10412)|null|
-|**2025-03-13**|**StableFusion: Continual Video Retrieval via Frame Adaptation**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
+|**2025-04-10**|**Continual Text-to-Video Retrieval with Frame Fusion and Task-Aware Routing**|Zecheng Zhao et.al.|[2503.10111](http://arxiv.org/abs/2503.10111)|**[link](https://github.com/jasoncodemaker/ctvr)**|
 |**2025-03-12**|**MoE-Gen: High-Throughput MoE Inference on a Single GPU with Module-Based Batching**|Tairan Xu et.al.|[2503.09716](http://arxiv.org/abs/2503.09716)|null|
 |**2025-03-12**|**Double-Stage Feature-Level Clustering-Based Mixture of Experts Framework**|Bakary Badjie et.al.|[2503.09504](http://arxiv.org/abs/2503.09504)|null|
 |**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|**[link](https://github.com/nazaninmn/mosare)**|
