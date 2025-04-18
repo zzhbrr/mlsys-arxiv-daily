@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**A Virtual Machine for Arbitrary Low-Precision GPGPU Computation in LLM Serving**|Yaoyao Ding et.al.|[2504.12984](http://arxiv.org/abs/2504.12984)|null|
+|**2025-04-17**|**Data-efficient LLM Fine-tuning for Code Generation**|Weijie Lv et.al.|[2504.12687](http://arxiv.org/abs/2504.12687)|null|
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|null|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
 |**2025-04-16**|**Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures**|Prabhu Vellaisamy et.al.|[2504.11750](http://arxiv.org/abs/2504.11750)|null|
@@ -581,6 +583,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/abs/2504.12463)|null|
+|**2025-04-16**|**Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models**|Yuanbo Tang et.al.|[2504.12359](http://arxiv.org/abs/2504.12359)|null|
 |**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287](http://arxiv.org/abs/2504.12287)|null|
 |**2025-04-16**|**The Discovery of Two Quadruple Star Systems with the Second and Third Shortest Outer Periods**|Brian P. Powell et.al.|[2504.12239](http://arxiv.org/abs/2504.12239)|null|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
@@ -1170,6 +1174,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**The Sky as a Killing Horizon**|Níckolas de Aguiar Alves et.al.|[2504.12514](http://arxiv.org/abs/2504.12514)|null|
+|**2025-04-12**|**Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time**|Wang Yang et.al.|[2504.12329](http://arxiv.org/abs/2504.12329)|null|
+|**2025-04-05**|**Large Language Model-Based Knowledge Graph System Construction for Sustainable Development Goals: An AI-Based Speculative Design Perspective**|Yi-De Lin et.al.|[2504.12309](http://arxiv.org/abs/2504.12309)|null|
 |**2025-04-16**|**Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models**|Kris Pilcher et.al.|[2504.12012](http://arxiv.org/abs/2504.12012)|null|
 |**2025-04-16**|**Who Said Only Military Officers Can Deal with Uncertainty? On the Importance of Uncertainty in EdTech Data Visualisations**|Felicitas Macgilchrist et.al.|[2504.11974](http://arxiv.org/abs/2504.11974)|null|
 |**2025-04-15**|**Five dimensional rotating and Quintessence black hole and their shadows**|Milko Estrada et.al.|[2504.11408](http://arxiv.org/abs/2504.11408)|null|
