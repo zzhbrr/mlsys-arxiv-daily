@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,12 +22,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-17**|**A Virtual Machine for Arbitrary Low-Precision GPGPU Computation in LLM Serving**|Yaoyao Ding et.al.|[2504.12984](http://arxiv.org/abs/2504.12984)|null|
-|**2025-04-17**|**Data-efficient LLM Fine-tuning for Code Generation**|Weijie Lv et.al.|[2504.12687](http://arxiv.org/abs/2504.12687)|null|
+|**2025-04-17**|**Data-efficient LLM Fine-tuning for Code Generation**|Weijie Lv et.al.|[2504.12687](http://arxiv.org/abs/2504.12687)|**[link](https://github.com/kyle-lyu/data-efficient-finetuning)**|
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|null|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
 |**2025-04-16**|**Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures**|Prabhu Vellaisamy et.al.|[2504.11750](http://arxiv.org/abs/2504.11750)|null|
 |**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703](http://arxiv.org/abs/2504.11703)|null|
-|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|null|
+|**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|**[link](https://github.com/microsoft/vidur)**|
 |**2025-04-14**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving**|Avinash Kumar et.al.|[2504.10724](http://arxiv.org/abs/2504.10724)|null|
 |**2025-04-14**|**Load Balancing with Network Latencies via Distributed Gradient Descent**|Santiago R. Balseiro et.al.|[2504.10693](http://arxiv.org/abs/2504.10693)|null|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
@@ -35,13 +35,13 @@
 |**2025-04-16**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
 |**2025-04-13**|**Integrating Large Language Models for Automated Structural Analysis**|Haoran Liang et.al.|[2504.09754](http://arxiv.org/abs/2504.09754)|null|
 |**2025-04-13**|**Efficient LLM Serving on Hybrid Real-time and Best-effort Requests**|Wan Borui et.al.|[2504.09590](http://arxiv.org/abs/2504.09590)|null|
-|**2025-04-13**|**LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference**|Jianing Zheng et.al.|[2504.09561](http://arxiv.org/abs/2504.09561)|null|
+|**2025-04-13**|**LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference**|Jianing Zheng et.al.|[2504.09561](http://arxiv.org/abs/2504.09561)|**[link](https://github.com/zjnyly/looplynx)**|
 |**2025-04-12**|**MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints**|Yichao Yuan et.al.|[2504.09345](http://arxiv.org/abs/2504.09345)|null|
 |**2025-04-12**|**DynaServe: Unified and Elastic Tandem-Style Execution for Dynamic Disaggregated LLM Serving**|Chaoyi Ruan et.al.|[2504.09285](http://arxiv.org/abs/2504.09285)|null|
 |**2025-04-11**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG Pipeline**|Junkyum Kim et.al.|[2504.08930](http://arxiv.org/abs/2504.08930)|null|
 |**2025-04-11**|**SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**|Jiaming Xu et.al.|[2504.08850](http://arxiv.org/abs/2504.08850)|null|
 |**2025-04-10**|**SD $^2$ : Self-Distilled Sparse Drafters**|Mike Lasby et.al.|[2504.08838](http://arxiv.org/abs/2504.08838)|null|
-|**2025-04-07**|**PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters**|Zonghang Li et.al.|[2504.08791](http://arxiv.org/abs/2504.08791)|null|
+|**2025-04-07**|**PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters**|Zonghang Li et.al.|[2504.08791](http://arxiv.org/abs/2504.08791)|**[link](https://github.com/lizonghang/prima.cpp)**|
 |**2025-04-11**|**Scaling Up On-Device LLMs via Active-Weight Swapping Between DRAM and Flash**|Fucheng Jia et.al.|[2504.08378](http://arxiv.org/abs/2504.08378)|null|
 |**2025-04-11**|**Jupiter: Fast and Resource-Efficient Collaborative Inference of Generative LLMs on Edge Devices**|Shengyuan Ye et.al.|[2504.08242](http://arxiv.org/abs/2504.08242)|null|
 |**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878](http://arxiv.org/abs/2504.07878)|null|
@@ -580,7 +580,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -588,19 +588,19 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/abs/2504.12463)|null|
+|**2025-04-16**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/abs/2504.12463)|**[link](https://github.com/vatsal0/default-moe)**|
 |**2025-04-16**|**Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models**|Yuanbo Tang et.al.|[2504.12359](http://arxiv.org/abs/2504.12359)|null|
 |**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287](http://arxiv.org/abs/2504.12287)|null|
 |**2025-04-16**|**The Discovery of Two Quadruple Star Systems with the Second and Third Shortest Outer Periods**|Brian P. Powell et.al.|[2504.12239](http://arxiv.org/abs/2504.12239)|null|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-13**|**Transmission of low energy electrons through a polyethylene terephthalate 800-nm diameter nanocapillary**|Li Pengfei et.al.|[2504.11479](http://arxiv.org/abs/2504.11479)|null|
-|**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279](http://arxiv.org/abs/2504.11279)|null|
+|**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279](http://arxiv.org/abs/2504.11279)|**[link](https://github.com/henhagg/semple_mem)**|
 |**2025-04-15**|**The Sword of Damocles in ViTs: Computational Redundancy Amplifies Adversarial Transferability**|Jiani Liu et.al.|[2504.10804](http://arxiv.org/abs/2504.10804)|null|
 |**2025-04-14**|**Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning**|LeiLei Ma et.al.|[2504.09990](http://arxiv.org/abs/2504.09990)|null|
 |**2025-04-14**|**DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training**|Masahiro Tanaka et.al.|[2504.09983](http://arxiv.org/abs/2504.09983)|null|
@@ -1181,7 +1181,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1672,7 +1672,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1712,7 +1712,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
