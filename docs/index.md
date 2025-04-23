@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -84,7 +84,7 @@ layout: default
 |**2025-03-24**|**LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment**|Varsha Embar et.al.|[2503.19090](http://arxiv.org/abs/2503.19090)|null|
 |**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|**[link](https://github.com/abdelfattah-lab/xkv)**|
-|**2025-03-27**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-04-21**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599](http://arxiv.org/abs/2503.18599)|null|
 |**2025-03-24**|**DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective**|Changlun Li et.al.|[2503.18313](http://arxiv.org/abs/2503.18313)|null|
 |**2025-03-24**|**Jenga: Effective Memory Management for Serving LLM with Heterogeneity**|Chen Zhang et.al.|[2503.18292](http://arxiv.org/abs/2503.18292)|null|
@@ -594,7 +594,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-21**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-20**|**Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning**|Jia Liu et.al.|[2504.14677](http://arxiv.org/abs/2504.14677)|null|
-|**2025-04-10**|**Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning**|ByteDance Seed et.al.|[2504.13914](http://arxiv.org/abs/2504.13914)|null|
+|**2025-04-22**|**Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning**|ByteDance Seed et.al.|[2504.13914](http://arxiv.org/abs/2504.13914)|null|
 |**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655](http://arxiv.org/abs/2504.13655)|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
 |**2025-04-18**|**Dense Backpropagation Improves Training for Sparse Mixture-of-Experts**|Ashwinee Panda et.al.|[2504.12463](http://arxiv.org/abs/2504.12463)|**[link](https://github.com/vatsal0/default-moe)**|
@@ -613,7 +613,7 @@ layout: default
 |**2025-04-12**|**MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints**|Yichao Yuan et.al.|[2504.09345](http://arxiv.org/abs/2504.09345)|null|
 |**2025-04-12**|**Mixture of Group Experts for Learning Invariant Representations**|Lei Kang et.al.|[2504.09265](http://arxiv.org/abs/2504.09265)|null|
 |**2025-04-12**|**Exploring Modality Disruption in Multimodal Fake News Detection**|Moyang Liu et.al.|[2504.09154](http://arxiv.org/abs/2504.09154)|null|
-|**2025-04-11**|**RouterKT: Mixture-of-Experts for Knowledge Tracing**|Han Liao et.al.|[2504.08989](http://arxiv.org/abs/2504.08989)|**[link](https://github.com/ringotc/RouterKT)**|
+|**2025-04-22**|**RouterKT: Mixture-of-Experts for Knowledge Tracing**|Han Liao et.al.|[2504.08989](http://arxiv.org/abs/2504.08989)|**[link](https://github.com/ringotc/RouterKT)**|
 |**2025-03-23**|**ExpertRAG: Efficient RAG with Mixture of Experts -- Optimizing Context Retrieval for Adaptive LLM Responses**|Esmail Gumaan et.al.|[2504.08744](http://arxiv.org/abs/2504.08744)|null|
 |**2025-04-11**|**Regularized infill criteria for multi-objective Bayesian optimization with application to aircraft design**|Robin Grapin et.al.|[2504.08671](http://arxiv.org/abs/2504.08671)|null|
 |**2025-04-11**|**Millions of States: Designing a Scalable MoE Architecture with RWKV-7 Meta-learner**|Liu Xiao et.al.|[2504.08247](http://arxiv.org/abs/2504.08247)|null|
@@ -668,7 +668,7 @@ layout: default
 |**2025-03-31**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
 |**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
-|**2025-03-27**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
+|**2025-04-21**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
 |**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
 |**2025-04-01**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|**[link](https://github.com/shenyedepisa/cm-mmoe)**|
