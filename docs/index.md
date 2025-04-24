@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-22**|**Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model**|Junwei Hu et.al.|[2504.15989](http://arxiv.org/abs/2504.15989)|null|
 |**2025-04-22**|**SeaLLM: Service-Aware and Latency-Optimized Resource Sharing for Large Language Model Inference**|Yihao Zhao et.al.|[2504.15720](http://arxiv.org/abs/2504.15720)|null|
-|**2025-04-22**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
+|**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
 |**2025-04-21**|**Speculative Sampling via Exponential Races**|Szymon Kobus et.al.|[2504.15475](http://arxiv.org/abs/2504.15475)|null|
 |**2025-04-21**|**KeDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-04-18**|**High-Throughput LLM inference on Heterogeneous Clusters**|Yi Xiong et.al.|[2504.15303](http://arxiv.org/abs/2504.15303)|null|
@@ -602,7 +602,7 @@ layout: default
 |**2025-04-22**|**Compass-V2 Technical Report**|Sophia Maria et.al.|[2504.15527](http://arxiv.org/abs/2504.15527)|null|
 |**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470](http://arxiv.org/abs/2504.15470)|null|
 |**2025-04-17**|**D $^{2}$ MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving**|Haodong Wang et.al.|[2504.15299](http://arxiv.org/abs/2504.15299)|null|
-|**2025-04-21**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
+|**2025-04-23**|**MoE Parallel Folding: Heterogeneous Parallelism Mappings for Efficient Large-Scale MoE Model Training with Megatron Core**|Dennis Liu et.al.|[2504.14960](http://arxiv.org/abs/2504.14960)|null|
 |**2025-04-20**|**Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning**|Jia Liu et.al.|[2504.14677](http://arxiv.org/abs/2504.14677)|null|
 |**2025-04-22**|**Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning**|ByteDance Seed et.al.|[2504.13914](http://arxiv.org/abs/2504.13914)|null|
 |**2025-04-18**|**Multi-Type Context-Aware Conversational Recommender Systems via Mixture-of-Experts**|Jie Zou et.al.|[2504.13655](http://arxiv.org/abs/2504.13655)|null|
@@ -651,7 +651,7 @@ layout: default
 |**2025-04-03**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
 |**2025-04-07**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|**[link](https://github.com/supercomputing-system-ai-lab/milo)**|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
-|**2025-04-07**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
+|**2025-04-23**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
 |**2025-04-20**|**Advancing MoE Efficiency: A Collaboration-Constrained Routing (C2R) Strategy for Better Expert Parallelism Design**|Mohan Zhang et.al.|[2504.01337](http://arxiv.org/abs/2504.01337)|null|
 |**2025-04-01**|**Mixture-of-Experts for Distributed Edge Computing with Channel-Aware Gating Function**|Qiuchen Song et.al.|[2504.00819](http://arxiv.org/abs/2504.00819)|null|
 |**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
@@ -1296,7 +1296,7 @@ layout: default
 |**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
 |**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-04-02**|**Linear Representations of Political Perspective Emerge in Large Language Models**|Junsol Kim et.al.|[2503.02080](http://arxiv.org/abs/2503.02080)|**[link](https://github.com/JunsolKim/RepresentationPoliticalLLM)**|
-|**2025-03-23**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
+|**2025-04-23**|**EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test**|Yuhui Li et.al.|[2503.01840](http://arxiv.org/abs/2503.01840)|**[link](https://github.com/safeailab/eagle)**|
 |**2025-03-03**|**Efficient Long-Term Structural Reliability Estimation with Non-Gaussian Stochastic Models: A Design of Experiments Approach**|Sebastian Winter et.al.|[2503.01566](http://arxiv.org/abs/2503.01566)|null|
 |**2025-03-17**|**MeshPad: Interactive Sketch-Conditioned Artist-Designed Mesh Generation and Editing**|Haoxuan Li et.al.|[2503.01425](http://arxiv.org/abs/2503.01425)|null|
 |**2025-03-24**|**Turbulence in virtual: II. Origin of skewness and dual fraction processes**|Xunchuan Liu et.al.|[2503.01160](http://arxiv.org/abs/2503.01160)|null|
