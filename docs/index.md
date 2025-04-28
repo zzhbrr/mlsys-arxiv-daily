@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -22,7 +22,7 @@ layout: default
 |**2025-04-18**|**HPU: High-Bandwidth Processing Unit for Scalable, Cost-effective LLM Inference via GPU Co-processing**|Myunghyun Rhee et.al.|[2504.16112](http://arxiv.org/abs/2504.16112)|null|
 |**2025-04-22**|**Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model**|Junwei Hu et.al.|[2504.15989](http://arxiv.org/abs/2504.15989)|null|
 |**2025-04-22**|**SeaLLM: Service-Aware and Latency-Optimized Resource Sharing for Large Language Model Inference**|Yihao Zhao et.al.|[2504.15720](http://arxiv.org/abs/2504.15720)|null|
-|**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
+|**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|**[link](https://github.com/codermillat/StudyAbroadGPT)**|
 |**2025-04-21**|**Speculative Sampling via Exponential Races**|Szymon Kobus et.al.|[2504.15475](http://arxiv.org/abs/2504.15475)|null|
 |**2025-04-23**|**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-04-18**|**High-Throughput LLM inference on Heterogeneous Clusters**|Yi Xiong et.al.|[2504.15303](http://arxiv.org/abs/2504.15303)|null|
@@ -1215,7 +1215,7 @@ layout: default
 |**2025-04-21**|**Note on Type $III_1$ Algebras in $ c= 1$ String Theory and Bulk Causal Diamonds**|T. Banks et.al.|[2504.15076](http://arxiv.org/abs/2504.15076)|null|
 |**2025-04-21**|**Exploring Collaborative GenAI Agents in Synchronous Group Settings: Eliciting Team Perceptions and Design Considerations for the Future of Work**|Janet G. Johnson et.al.|[2504.14779](http://arxiv.org/abs/2504.14779)|null|
 |**2025-04-20**|**BLACKOUT: Data-Oblivious Computation with Blinded Capabilities**|Hossam ElAtali et.al.|[2504.14654](http://arxiv.org/abs/2504.14654)|null|
-|**2025-04-20**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
+|**2025-04-25**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
 |**2025-04-20**|**An interstellar mission to test astrophysical black holes**|Cosimo Bambi et.al.|[2504.14576](http://arxiv.org/abs/2504.14576)|null|
 |**2025-04-19**|**Charge Densities in Crystals and Triply-Periodic Minimal Surfaces**|Mengdi Yin et.al.|[2504.14148](http://arxiv.org/abs/2504.14148)|null|
 |**2025-04-18**|**Going Whole Hog: A Philosophical Defense of AI Cognition**|Herman Cappelen et.al.|[2504.13988](http://arxiv.org/abs/2504.13988)|null|

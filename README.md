@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-04-18**|**HPU: High-Bandwidth Processing Unit for Scalable, Cost-effective LLM Inference via GPU Co-processing**|Myunghyun Rhee et.al.|[2504.16112](http://arxiv.org/abs/2504.16112)|null|
 |**2025-04-22**|**Token-Aware Coding Flow: A Study with Nano Surge in Reasoning Model**|Junwei Hu et.al.|[2504.15989](http://arxiv.org/abs/2504.15989)|null|
 |**2025-04-22**|**SeaLLM: Service-Aware and Latency-Optimized Resource Sharing for Large Language Model Inference**|Yihao Zhao et.al.|[2504.15720](http://arxiv.org/abs/2504.15720)|null|
-|**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|null|
+|**2025-04-23**|**A LoRA-Based Approach to Fine-Tuning LLMs for Educational Guidance in Resource-Constrained Settings**|Md Millat Hosen et.al.|[2504.15610](http://arxiv.org/abs/2504.15610)|**[link](https://github.com/codermillat/StudyAbroadGPT)**|
 |**2025-04-21**|**Speculative Sampling via Exponential Races**|Szymon Kobus et.al.|[2504.15475](http://arxiv.org/abs/2504.15475)|null|
 |**2025-04-23**|**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments**|Junyoung Park et.al.|[2504.15364](http://arxiv.org/abs/2504.15364)|null|
 |**2025-04-18**|**High-Throughput LLM inference on Heterogeneous Clusters**|Yi Xiong et.al.|[2504.15303](http://arxiv.org/abs/2504.15303)|null|
@@ -602,7 +602,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -610,7 +610,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## MoE
 
@@ -1211,7 +1211,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1228,7 +1228,7 @@
 |**2025-04-21**|**Note on Type $III_1$ Algebras in $ c= 1$ String Theory and Bulk Causal Diamonds**|T. Banks et.al.|[2504.15076](http://arxiv.org/abs/2504.15076)|null|
 |**2025-04-21**|**Exploring Collaborative GenAI Agents in Synchronous Group Settings: Eliciting Team Perceptions and Design Considerations for the Future of Work**|Janet G. Johnson et.al.|[2504.14779](http://arxiv.org/abs/2504.14779)|null|
 |**2025-04-20**|**BLACKOUT: Data-Oblivious Computation with Blinded Capabilities**|Hossam ElAtali et.al.|[2504.14654](http://arxiv.org/abs/2504.14654)|null|
-|**2025-04-20**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
+|**2025-04-25**|**UFO2: The Desktop AgentOS**|Chaoyun Zhang et.al.|[2504.14603](http://arxiv.org/abs/2504.14603)|**[link](https://github.com/microsoft/UFO)**|
 |**2025-04-20**|**An interstellar mission to test astrophysical black holes**|Cosimo Bambi et.al.|[2504.14576](http://arxiv.org/abs/2504.14576)|null|
 |**2025-04-19**|**Charge Densities in Crystals and Triply-Periodic Minimal Surfaces**|Mengdi Yin et.al.|[2504.14148](http://arxiv.org/abs/2504.14148)|null|
 |**2025-04-18**|**Going Whole Hog: A Philosophical Defense of AI Cognition**|Herman Cappelen et.al.|[2504.13988](http://arxiv.org/abs/2504.13988)|null|
@@ -1719,7 +1719,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1759,7 +1759,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
