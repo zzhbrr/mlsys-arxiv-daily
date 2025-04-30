@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-04-28**|**R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference**|Zhenyu Zhang et.al.|[2504.19449](http://arxiv.org/abs/2504.19449)|null|
 |**2025-04-28**|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**|Prateek Chhikara et.al.|[2504.19413](http://arxiv.org/abs/2504.19413)|null|
 |**2025-04-26**|**A Simple Ensemble Strategy for LLM Inference: Towards More Stable Text Classification**|Junichiro Niimi et.al.|[2504.18884](http://arxiv.org/abs/2504.18884)|**[link](https://github.com/jniimi/ensemble_inference)**|
-|**2025-04-23**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
+|**2025-04-29**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
 |**2025-04-25**|**EcoServe: Enabling Cost-effective LLM Serving with Proactive Intra- and Inter-Instance Orchestration**|Jiangsu Du et.al.|[2504.18154](http://arxiv.org/abs/2504.18154)|null|
 |**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|null|
 |**2025-04-25**|**Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving**|Chang Xiao et.al.|[2504.17999](http://arxiv.org/abs/2504.17999)|null|
@@ -613,7 +613,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -621,7 +621,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## MoE
 
@@ -631,8 +631,8 @@
 |**2025-04-28**|**DUETS: Setting expectations for asteroseismic binaries and binary products with synthetic populations**|A. Mazzi et.al.|[2504.19866](http://arxiv.org/abs/2504.19866)|null|
 |**2025-04-28**|**Decentralization of Generative AI via Mixture of Experts for Wireless Networks: A Comprehensive Survey**|Yunting Xu et.al.|[2504.19660](http://arxiv.org/abs/2504.19660)|null|
 |**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|null|
-|**2025-04-27**|**Versatile Framework for Song Generation with Prompt-based Control**|Yu Zhang et.al.|[2504.19062](http://arxiv.org/abs/2504.19062)|null|
-|**2025-04-24**|**BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts**|Qingyue Wang et.al.|[2504.18598](http://arxiv.org/abs/2504.18598)|null|
+|**2025-04-29**|**Versatile Framework for Song Generation with Prompt-based Control**|Yu Zhang et.al.|[2504.19062](http://arxiv.org/abs/2504.19062)|null|
+|**2025-04-29**|**BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts**|Qingyue Wang et.al.|[2504.18598](http://arxiv.org/abs/2504.18598)|null|
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
 |**2025-04-25**|**TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors**|Nooshin Yousefzadeh et.al.|[2504.18008](http://arxiv.org/abs/2504.18008)|null|
 |**2025-04-28**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|null|
@@ -702,7 +702,7 @@
 |**2025-03-29**|**Sparse Mixture of Experts as Unified Competitive Learning**|Giang Do et.al.|[2503.22996](http://arxiv.org/abs/2503.22996)|null|
 |**2025-03-26**|**Reasoning Beyond Limits: Advances and Open Problems for LLMs**|Mohamed Amine Ferrag et.al.|[2503.22732](http://arxiv.org/abs/2503.22732)|null|
 |**2025-04-01**|**Exploiting Mixture-of-Experts Redundancy Unlocks Multimodal Generative Abilities**|Raman Dutt et.al.|[2503.22517](http://arxiv.org/abs/2503.22517)|null|
-|**2025-03-27**|**RocketPPA: Ultra-Fast LLM-Based PPA Estimator at Code-Level Abstraction**|Armin Abdollahi et.al.|[2503.21971](http://arxiv.org/abs/2503.21971)|null|
+|**2025-04-29**|**RocketPPA: Ultra-Fast LLM-Based PPA Estimator at Code-Level Abstraction**|Armin Abdollahi et.al.|[2503.21971](http://arxiv.org/abs/2503.21971)|null|
 |**2025-04-09**|**Binarity at LOw Metallicity (BLOeM): Enhanced multiplicity of early B-type dwarfs and giants at $Z=0.2\,{\rm Z}_\odot$**|J. I. Villaseñor et.al.|[2503.21936](http://arxiv.org/abs/2503.21936)|null|
 |**2025-03-27**|**iMedImage Technical Report**|Ran Wei et.al.|[2503.21836](http://arxiv.org/abs/2503.21836)|null|
 |**2025-03-27**|**LLaVA-CMoE: Towards Continual Mixture of Experts for Large Vision-Language Models**|Hengyuan Zhao et.al.|[2503.21227](http://arxiv.org/abs/2503.21227)|null|
@@ -1231,7 +1231,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1241,7 +1241,7 @@
 |**2025-04-27**|**Detecting speculative data flow vulnerabilities using weakest precondition reasoning**|Graeme Smith et.al.|[2504.19128](http://arxiv.org/abs/2504.19128)|null|
 |**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|null|
 |**2025-04-26**|**Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport II. Locality of Gravitoturbulence, Clumpy Spirals, and Implications for Observable Substructure**|Wenrui Xu et.al.|[2504.18751](http://arxiv.org/abs/2504.18751)|null|
-|**2025-04-23**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
+|**2025-04-29**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
 |**2025-04-25**|**Generalizing the relativistic precession model of quasi-periodic oscillations through anharmonic corrections**|Roberto Giambò et.al.|[2504.18403](http://arxiv.org/abs/2504.18403)|null|
 |**2025-04-23**|**A Vision for AI-Driven Adaptation of Dynamic AR Content to Users and Environments**|Julian Rasch et.al.|[2504.16562](http://arxiv.org/abs/2504.16562)|null|
 |**2025-04-23**|**Hardness of Median and Center in the Ulam Metric**|Nick Fischer et.al.|[2504.16437](http://arxiv.org/abs/2504.16437)|null|
@@ -1745,7 +1745,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1785,7 +1785,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
