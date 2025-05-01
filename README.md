@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -173,7 +173,7 @@
 |**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|**[link](https://github.com/ancientshi/personax)**|
 |**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
-|**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
+|**2025-04-30**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
 |**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
 |**2025-03-15**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
@@ -616,7 +616,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -624,7 +624,7 @@
 |---|---|---|---|---|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## MoE
 
@@ -724,7 +724,7 @@
 |**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
 |**2025-04-21**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
-|**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
+|**2025-04-30**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
 |**2025-04-01**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|**[link](https://github.com/shenyedepisa/cm-mmoe)**|
 |**2025-03-22**|**Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM**|Codefuse et.al.|[2503.17793](http://arxiv.org/abs/2503.17793)|null|
@@ -1239,7 +1239,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1754,7 +1754,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1794,7 +1794,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -166,7 +166,7 @@ layout: default
 |**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|**[link](https://github.com/ancientshi/personax)**|
 |**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
-|**2025-03-03**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
+|**2025-04-30**|**SAGE: A Framework of Precise Retrieval for RAG**|Jintao Zhang et.al.|[2503.01713](http://arxiv.org/abs/2503.01713)|null|
 |**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**DILEMMA: Joint LLM Quantization and Distributed LLM Inference Over Edge Computing Systems**|Minoo Hosseinzadeh et.al.|[2503.01704](http://arxiv.org/abs/2503.01704)|null|
 |**2025-03-15**|**Towards An Efficient LLM Training Paradigm for CTR Prediction**|Allen Lin et.al.|[2503.01001](http://arxiv.org/abs/2503.01001)|null|
@@ -713,7 +713,7 @@ layout: default
 |**2025-03-25**|**BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts**|Suzhe Xu et.al.|[2503.19769](http://arxiv.org/abs/2503.19769)|null|
 |**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
 |**2025-04-21**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
-|**2025-03-24**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
+|**2025-04-30**|**Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding**|Tianyu Chen et.al.|[2503.18578](http://arxiv.org/abs/2503.18578)|null|
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
 |**2025-04-01**|**Challenging Dataset and Multi-modal Gated Mixture of Experts Model for Remote Sensing Copy-Move Forgery Understanding**|Ze Zhang et.al.|[2503.18104](http://arxiv.org/abs/2503.18104)|**[link](https://github.com/shenyedepisa/cm-mmoe)**|
 |**2025-03-22**|**Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM**|Codefuse et.al.|[2503.17793](http://arxiv.org/abs/2503.17793)|null|
