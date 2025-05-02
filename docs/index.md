@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -17,7 +17,7 @@ layout: default
 |**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
 |**2025-04-29**|**Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts**|Hanhua Hong et.al.|[2504.21117](http://arxiv.org/abs/2504.21117)|null|
 |**2025-04-30**|**Ascendra: Dynamic Request Prioritization for Efficient LLM Serving**|Azam Ikram et.al.|[2504.20828](http://arxiv.org/abs/2504.20828)|null|
-|**2025-04-27**|**GenTorrent: Scaling Large Language Model Serving with An Overley Network**|Fei Fang et.al.|[2504.20101](http://arxiv.org/abs/2504.20101)|null|
+|**2025-04-30**|**GenTorrent: Scaling Large Language Model Serving with An Overley Network**|Fei Fang et.al.|[2504.20101](http://arxiv.org/abs/2504.20101)|null|
 |**2025-04-24**|**Tempo: Application-aware LLM Serving with Mixed SLO Requirements**|Wei Zhang et.al.|[2504.20068](http://arxiv.org/abs/2504.20068)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
@@ -188,7 +188,7 @@ layout: default
 |**2025-03-01**|**CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter**|Yepeng Weng et.al.|[2502.16880](http://arxiv.org/abs/2502.16880)|null|
 |**2025-02-23**|**DISC: Dynamic Decomposition Improves LLM Inference Scaling**|Jonathan Light et.al.|[2502.16706](http://arxiv.org/abs/2502.16706)|null|
 |**2025-02-23**|**Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines**|Xinwei Long et.al.|[2502.16641](http://arxiv.org/abs/2502.16641)|null|
-|**2025-02-23**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
+|**2025-05-01**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
 |**2025-02-27**|**Dynamic Parallel Tree Search for Efficient LLM Reasoning**|Yifu Ding et.al.|[2502.16235](http://arxiv.org/abs/2502.16235)|null|
 |**2025-02-21**|**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse**|Jingbo Yang et.al.|[2502.16002](http://arxiv.org/abs/2502.16002)|**[link](https://github.com/UCSB-NLP-Chang/KVLink)**|
 |**2025-02-14**|**Hybrid Offline-online Scheduling Method for Large Language Model Inference Optimization**|Bowen Pang et.al.|[2502.15763](http://arxiv.org/abs/2502.15763)|null|
@@ -1295,7 +1295,7 @@ layout: default
 |**2025-03-23**|**Agentic Business Process Management: The Past 30 Years And Practitioners' Future Perspectives**|Hoang Vu et.al.|[2504.03693](http://arxiv.org/abs/2504.03693)|null|
 |**2025-04-04**|**Ethics Readiness of Technology: The case for aligning ethical approaches with technological maturity**|Eline de Jong et.al.|[2504.03336](http://arxiv.org/abs/2504.03336)|null|
 |**2025-04-03**|**A Review of Prototyping in XR: Linking Extended Reality to Digital Fabrication**|Bixun Chen et.al.|[2504.02998](http://arxiv.org/abs/2504.02998)|null|
-|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|**[link](https://github.com/picotrex/gpt-imgeval)**|
+|**2025-05-01**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|**[link](https://github.com/picotrex/gpt-imgeval)**|
 |**2025-04-03**|**Black Holes, Moduli Stabilisation and the Swampland**|Matilda Delgado et.al.|[2504.02645](http://arxiv.org/abs/2504.02645)|null|
 |**2025-04-08**|**Variational Online Mirror Descent for Robust Learning in Schrödinger Bridge**|Dong-Sig Han et.al.|[2504.02618](http://arxiv.org/abs/2504.02618)|null|
 |**2025-04-02**|**Graviton Scattering on Gravitational Atoms: Relic Graviton Shot Noise**|Benjamin Avila-Lopez et.al.|[2504.01286](http://arxiv.org/abs/2504.01286)|null|
