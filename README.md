@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
+|**2025-05-05**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
+|**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-05-06**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
 |**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
@@ -638,6 +641,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638](http://arxiv.org/abs/2505.03638)|null|
+|**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
+|**2025-05-06**|**STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation**|Maolin Wang et.al.|[2505.03484](http://arxiv.org/abs/2505.03484)|null|
+|**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481](http://arxiv.org/abs/2505.02481)|null|
 |**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381](http://arxiv.org/abs/2505.02381)|null|
 |**2025-05-05**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
@@ -1269,6 +1276,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**|Shuyao Cheng et.al.|[2505.03195](http://arxiv.org/abs/2505.03195)|null|
+|**2025-05-04**|**The quest for explosive bubbles in the Indonesian Rupiah/US exchange rate: Does the uncertainty trinity matter?**|Abdul Khaliq et.al.|[2505.02869](http://arxiv.org/abs/2505.02869)|null|
+|**2025-05-03**|**Accelerating Large Language Model Reasoning via Speculative Search**|Zhihai Wang et.al.|[2505.02865](http://arxiv.org/abs/2505.02865)|null|
 |**2025-05-03**|**Dirac Singleton as a Relativistic Field Beyond Standard Model**|M. A. Vasiliev et.al.|[2505.01915](http://arxiv.org/abs/2505.01915)|null|
 |**2025-05-03**|**Speculative Evolution Through 3D Cellular Automata**|Amir Hossein Khazaei et.al.|[2505.01692](http://arxiv.org/abs/2505.01692)|null|
 |**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
