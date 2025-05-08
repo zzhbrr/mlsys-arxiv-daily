@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving**|Shan Yu et.al.|[2505.04021](http://arxiv.org/abs/2505.04021)|null|
+|**2025-05-01**|**LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**|Xinyue Zeng et.al.|[2505.03793](http://arxiv.org/abs/2505.03793)|null|
+|**2025-04-21**|**Splitwiser: Efficient LM inference with constrained resources**|Asad Aali et.al.|[2505.03763](http://arxiv.org/abs/2505.03763)|null|
+|**2025-04-07**|**AccLLM: Accelerating Long-Context LLM Inference Via Algorithm-Hardware Co-Design**|Yanbiao Liang et.al.|[2505.03745](http://arxiv.org/abs/2505.03745)|null|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
 |**2025-05-05**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
 |**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
@@ -641,6 +645,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
+|**2025-05-07**|**SToLa: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios**|Ning Cheng et.al.|[2505.04201](http://arxiv.org/abs/2505.04201)|null|
+|**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075](http://arxiv.org/abs/2505.04075)|null|
+|**2025-05-07**|**Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications**|Yuanai Xie et.al.|[2505.04068](http://arxiv.org/abs/2505.04068)|null|
+|**2025-05-02**|**Perception-Informed Neural Networks: Beyond Physics-Informed Neural Networks**|Mehran Mazandarani et.al.|[2505.03806](http://arxiv.org/abs/2505.03806)|null|
+|**2025-05-02**|**MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance**|Xing Hu et.al.|[2505.03804](http://arxiv.org/abs/2505.03804)|null|
 |**2025-05-06**|**Towards Smart Point-and-Shoot Photography**|Jiawan Li et.al.|[2505.03638](http://arxiv.org/abs/2505.03638)|null|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
 |**2025-05-06**|**STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation**|Maolin Wang et.al.|[2505.03484](http://arxiv.org/abs/2505.03484)|null|
@@ -1276,6 +1286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Diffusion Models are Secretly Exchangeable: Parallelizing DDPMs via Autospeculation**|Hengyuan Hu et.al.|[2505.03983](http://arxiv.org/abs/2505.03983)|null|
 |**2025-05-06**|**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**|Shuyao Cheng et.al.|[2505.03195](http://arxiv.org/abs/2505.03195)|null|
 |**2025-05-04**|**The quest for explosive bubbles in the Indonesian Rupiah/US exchange rate: Does the uncertainty trinity matter?**|Abdul Khaliq et.al.|[2505.02869](http://arxiv.org/abs/2505.02869)|null|
 |**2025-05-03**|**Accelerating Large Language Model Reasoning via Speculative Search**|Zhihai Wang et.al.|[2505.02865](http://arxiv.org/abs/2505.02865)|null|
@@ -1432,7 +1443,7 @@
 |**2025-02-21**|**TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding**|Zhaoxuan Wu et.al.|[2502.15197](http://arxiv.org/abs/2502.15197)|null|
 |**2025-02-21**|**A Critical Examination of the Nested Leaky Box Model for Galactic Cosmic Ray Transport**|Benedikt Schroer et.al.|[2502.15115](http://arxiv.org/abs/2502.15115)|null|
 |**2025-03-11**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
-|**2025-03-18**|**Fusion rules and structure constants of E-series minimal models**|Rongvoram Nivesvivat et.al.|[2502.14295](http://arxiv.org/abs/2502.14295)|null|
+|**2025-05-07**|**Fusion rules and structure constants of E-series minimal models**|Rongvoram Nivesvivat et.al.|[2502.14295](http://arxiv.org/abs/2502.14295)|null|
 |**2025-02-19**|**Which Attention Heads Matter for In-Context Learning?**|Kayo Yin et.al.|[2502.14010](http://arxiv.org/abs/2502.14010)|**[link](https://github.com/kayoyin/icl-heads)**|
 |**2025-03-17**|**NVR: Vector Runahead on NPUs for Sparse Memory Access**|Hui Wang et.al.|[2502.13873](http://arxiv.org/abs/2502.13873)|null|
 |**2025-02-19**|**Hierarchical accretion flow from the G351 infrared dark filament to its central cores**|H. Beuther et.al.|[2502.13866](http://arxiv.org/abs/2502.13866)|null|
