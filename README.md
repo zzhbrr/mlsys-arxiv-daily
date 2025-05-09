@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
 |**2025-05-06**|**Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving**|Shan Yu et.al.|[2505.04021](http://arxiv.org/abs/2505.04021)|null|
 |**2025-05-01**|**LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**|Xinyue Zeng et.al.|[2505.03793](http://arxiv.org/abs/2505.03793)|null|
 |**2025-04-21**|**Splitwiser: Efficient LM inference with constrained resources**|Asad Aali et.al.|[2505.03763](http://arxiv.org/abs/2505.03763)|null|
@@ -31,7 +32,7 @@
 |**2025-05-06**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
 |**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
-|**2025-05-08**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|null|
+|**2025-05-08**|**A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency**|Sihyeong Park et.al.|[2505.01658](http://arxiv.org/abs/2505.01658)|**[link](https://github.com/sihyeong/awesome-llm-inference-engine)**|
 |**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
 |**2025-05-01**|**Spill The Beans: Exploiting CPU Cache Side-Channels to Leak Tokens from Large Language Models**|Andrew Adiletta et.al.|[2505.00817](http://arxiv.org/abs/2505.00817)|null|
 |**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
@@ -77,7 +78,7 @@
 |**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|**[link](https://github.com/lass-lab/InferSave)**|
 |**2025-04-16**|**Shared Disk KV Cache Management for Efficient Multi-Instance Inference in RAG-Powered LLMs**|Hyungwoo Lee et.al.|[2504.11765](http://arxiv.org/abs/2504.11765)|null|
 |**2025-04-16**|**Characterizing and Optimizing LLM Inference Workloads on CPU-GPU Coupled Architectures**|Prabhu Vellaisamy et.al.|[2504.11750](http://arxiv.org/abs/2504.11750)|null|
-|**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703](http://arxiv.org/abs/2504.11703)|null|
+|**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703](http://arxiv.org/abs/2504.11703)|**[link](https://github.com/sunblaze-ucb/progent)**|
 |**2025-04-15**|**Optimizing LLM Inference: Fluid-Guided Online Scheduling with Memory Constraints**|Ruicheng Ao et.al.|[2504.11320](http://arxiv.org/abs/2504.11320)|**[link](https://github.com/microsoft/vidur)**|
 |**2025-04-14**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving**|Avinash Kumar et.al.|[2504.10724](http://arxiv.org/abs/2504.10724)|null|
 |**2025-04-14**|**Load Balancing with Network Latencies via Distributed Gradient Descent**|Santiago R. Balseiro et.al.|[2504.10693](http://arxiv.org/abs/2504.10693)|null|
@@ -645,6 +646,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
+|**2025-05-08**|**Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts**|Ming Li et.al.|[2505.05035](http://arxiv.org/abs/2505.05035)|null|
 |**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
 |**2025-05-07**|**SToLa: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios**|Ning Cheng et.al.|[2505.04201](http://arxiv.org/abs/2505.04201)|null|
 |**2025-05-07**|**LLM-e Guess: Can LLMs Capabilities Advance Without Hardware Progress?**|Teddy Foley et.al.|[2505.04075](http://arxiv.org/abs/2505.04075)|null|
@@ -709,7 +712,7 @@
 |**2025-04-12**|**MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints**|Yichao Yuan et.al.|[2504.09345](http://arxiv.org/abs/2504.09345)|null|
 |**2025-04-12**|**Mixture of Group Experts for Learning Invariant Representations**|Lei Kang et.al.|[2504.09265](http://arxiv.org/abs/2504.09265)|null|
 |**2025-04-12**|**Exploring Modality Disruption in Multimodal Fake News Detection**|Moyang Liu et.al.|[2504.09154](http://arxiv.org/abs/2504.09154)|null|
-|**2025-05-08**|**RouterKT: Mixture-of-Experts for Knowledge Tracing**|Han Liao et.al.|[2504.08989](http://arxiv.org/abs/2504.08989)|**[link](https://github.com/ringotc/RouterKT)**|
+|**2025-05-08**|**RouterKT: Mixture-of-Experts for Knowledge Tracing**|Han Liao et.al.|[2504.08989](http://arxiv.org/abs/2504.08989)|null|
 |**2025-03-23**|**ExpertRAG: Efficient RAG with Mixture of Experts -- Optimizing Context Retrieval for Adaptive LLM Responses**|Esmail Gumaan et.al.|[2504.08744](http://arxiv.org/abs/2504.08744)|null|
 |**2025-04-11**|**Regularized infill criteria for multi-objective Bayesian optimization with application to aircraft design**|Robin Grapin et.al.|[2504.08671](http://arxiv.org/abs/2504.08671)|null|
 |**2025-04-11**|**Millions of States: Designing a Scalable MoE Architecture with RWKV-7 Meta-learner**|Liu Xiao et.al.|[2504.08247](http://arxiv.org/abs/2504.08247)|null|
@@ -723,7 +726,7 @@
 |**2025-04-09**|**Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot Demonstrations**|Zican Dong et.al.|[2504.06792](http://arxiv.org/abs/2504.06792)|null|
 |**2025-04-24**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
 |**2025-04-08**|**S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning**|Hanqing Zeng et.al.|[2504.06426](http://arxiv.org/abs/2504.06426)|null|
-|**2025-04-08**|**HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2504.05897](http://arxiv.org/abs/2504.05897)|null|
+|**2025-04-08**|**HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference**|Shuzhang Zhong et.al.|[2504.05897](http://arxiv.org/abs/2504.05897)|**[link](https://github.com/pku-sec-lab/hybrimoe)**|
 |**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844](http://arxiv.org/abs/2504.05844)|null|
 |**2025-04-10**|**Finding Fantastic Experts in MoEs: A Unified Study for Expert Dropping Strategies and Observations**|Ajay Jaiswal et.al.|[2504.05586](http://arxiv.org/abs/2504.05586)|null|
 |**2025-04-07**|**SUEDE:Shared Unified Experts for Physical-Digital Face Attack Detection Enhancement**|Zuying Xie et.al.|[2504.04818](http://arxiv.org/abs/2504.04818)|null|
@@ -1286,6 +1289,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Memory Under Siege: A Comprehensive Survey of Side-Channel Attacks on Memory**|MD Mahady Hassan et.al.|[2505.04896](http://arxiv.org/abs/2505.04896)|null|
+|**2025-05-08**|**Topological phase transition to a hidden charge density wave liquid**|Joshua S. H. Lee et.al.|[2505.04867](http://arxiv.org/abs/2505.04867)|null|
+|**2025-05-07**|**SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**|Jingyang Deng et.al.|[2505.04723](http://arxiv.org/abs/2505.04723)|null|
 |**2025-05-06**|**Diffusion Models are Secretly Exchangeable: Parallelizing DDPMs via Autospeculation**|Hengyuan Hu et.al.|[2505.03983](http://arxiv.org/abs/2505.03983)|null|
 |**2025-05-06**|**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**|Shuyao Cheng et.al.|[2505.03195](http://arxiv.org/abs/2505.03195)|null|
 |**2025-05-04**|**The quest for explosive bubbles in the Indonesian Rupiah/US exchange rate: Does the uncertainty trinity matter?**|Abdul Khaliq et.al.|[2505.02869](http://arxiv.org/abs/2505.02869)|null|
@@ -1300,7 +1306,7 @@
 |**2025-04-29**|**Reviving Any-Subset Autoregressive Models with Principled Parallel Sampling and Speculative Decoding**|Gabe Guo et.al.|[2504.20456](http://arxiv.org/abs/2504.20456)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
 |**2025-04-27**|**Detecting speculative data flow vulnerabilities using weakest precondition reasoning**|Graeme Smith et.al.|[2504.19128](http://arxiv.org/abs/2504.19128)|null|
-|**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|null|
+|**2025-04-27**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|**[link](https://github.com/jikai0wang/speculative_cot)**|
 |**2025-04-26**|**Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport II. Locality of Gravitoturbulence, Clumpy Spirals, and Implications for Observable Substructure**|Wenrui Xu et.al.|[2504.18751](http://arxiv.org/abs/2504.18751)|null|
 |**2025-04-29**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
 |**2025-04-25**|**Generalizing the relativistic precession model of quasi-periodic oscillations through anharmonic corrections**|Roberto Giambò et.al.|[2504.18403](http://arxiv.org/abs/2504.18403)|null|
