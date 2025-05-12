@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772](http://arxiv.org/abs/2505.05772)|null|
+|**2025-05-08**|**PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization**|Mohamed Salah Bouafif et.al.|[2505.05584](http://arxiv.org/abs/2505.05584)|null|
 |**2025-05-08**|**HEXGEN-TEXT2SQL: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL Workflow**|You Peng et.al.|[2505.05286](http://arxiv.org/abs/2505.05286)|null|
 |**2025-05-06**|**Prism: Unleashing GPU Sharing for Cost-Efficient Multi-LLM Serving**|Shan Yu et.al.|[2505.04021](http://arxiv.org/abs/2505.04021)|null|
 |**2025-05-01**|**LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**|Xinyue Zeng et.al.|[2505.03793](http://arxiv.org/abs/2505.03793)|null|
@@ -646,6 +648,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**FloE: On-the-Fly MoE Inference**|Yuxin Zhou et.al.|[2505.05950](http://arxiv.org/abs/2505.05950)|null|
+|**2025-05-09**|**MxMoE: Mixed-precision Quantization for MoE with Accuracy and Performance Co-Design**|Haojie Duanmu et.al.|[2505.05799](http://arxiv.org/abs/2505.05799)|null|
 |**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
 |**2025-05-08**|**Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts**|Ming Li et.al.|[2505.05035](http://arxiv.org/abs/2505.05035)|null|
 |**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
@@ -1289,6 +1293,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**FastDup: a scalable duplicate marking tool using speculation-and-test mechanism**|Zhonghai Zhang et.al.|[2505.06127](http://arxiv.org/abs/2505.06127)|null|
+|**2025-05-08**|**A Physics Model for Origin of Life**|Paul Howard Frampton et.al.|[2505.05634](http://arxiv.org/abs/2505.05634)|null|
 |**2025-05-08**|**Memory Under Siege: A Comprehensive Survey of Side-Channel Attacks on Memory**|MD Mahady Hassan et.al.|[2505.04896](http://arxiv.org/abs/2505.04896)|null|
 |**2025-05-08**|**Topological phase transition to a hidden charge density wave liquid**|Joshua S. H. Lee et.al.|[2505.04867](http://arxiv.org/abs/2505.04867)|null|
 |**2025-05-07**|**SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**|Jingyang Deng et.al.|[2505.04723](http://arxiv.org/abs/2505.04723)|null|
