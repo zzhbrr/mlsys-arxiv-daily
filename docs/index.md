@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-12**|**LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning**|Xiaotian Lin et.al.|[2505.07437](http://arxiv.org/abs/2505.07437)|**[link](https://github.com/HKUSTDial/LEAD)**|
 |**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
-|**2025-05-10**|**I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference**|Zibo Gao et.al.|[2505.06738](http://arxiv.org/abs/2505.06738)|null|
+|**2025-05-14**|**I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference**|Zibo Gao et.al.|[2505.06738](http://arxiv.org/abs/2505.06738)|null|
 |**2025-05-09**|**Challenging GPU Dominance: When CPUs Outperform for On-Device LLM Inference**|Haolin Zhang et.al.|[2505.06461](http://arxiv.org/abs/2505.06461)|null|
 |**2025-04-30**|**Towards Efficient LLM Storage Reduction via Tensor Deduplication and Delta Compression**|Zirui Wang et.al.|[2505.06252](http://arxiv.org/abs/2505.06252)|null|
 |**2025-05-09**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772](http://arxiv.org/abs/2505.05772)|null|
@@ -139,7 +139,7 @@ layout: default
 |**2025-03-23**|**SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices**|Jian Ma et.al.|[2503.18986](http://arxiv.org/abs/2503.18986)|null|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|**[link](https://github.com/abdelfattah-lab/xkv)**|
 |**2025-04-21**|**Reimagining Memory Access for LLM Inference: Compression-Aware Memory Controller Design**|Rui Xie et.al.|[2503.18869](http://arxiv.org/abs/2503.18869)|null|
-|**2025-03-24**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599](http://arxiv.org/abs/2503.18599)|null|
+|**2025-05-14**|**Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization**|Minsu Kim et.al.|[2503.18599](http://arxiv.org/abs/2503.18599)|null|
 |**2025-03-24**|**DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective**|Changlun Li et.al.|[2503.18313](http://arxiv.org/abs/2503.18313)|null|
 |**2025-03-24**|**Jenga: Effective Memory Management for Serving LLM with Heterogeneity**|Chen Zhang et.al.|[2503.18292](http://arxiv.org/abs/2503.18292)|null|
 |**2025-03-27**|**WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference**|Youhui Zuo et.al.|[2503.17922](http://arxiv.org/abs/2503.17922)|**[link](https://github.com/optim996/WindowKV)**|
@@ -1395,7 +1395,7 @@ layout: default
 |**2025-03-27**|**How to Constrain the Stochastic Gravitational Wave Background with Multi-Frequency Detections**|Eleanor Gleave et.al.|[2503.21508](http://arxiv.org/abs/2503.21508)|null|
 |**2025-03-26**|**Speculations on higher Fukaya categories**|James Pascaleff et.al.|[2503.20906](http://arxiv.org/abs/2503.20906)|null|
 |**2025-03-24**|**The Centers and Margins of Modeling Humans in Well-being Technologies: A Decentering Approach**|Jichen Zhu et.al.|[2503.19132](http://arxiv.org/abs/2503.19132)|null|
-|**2025-03-24**|**Spectropolarimetry of A Nuclear Transient AT2023clx: Revealing The Geometrical Alignment between The Transient Outflow and The Nuclear Dusty Region**|Kohki Uno et.al.|[2503.19024](http://arxiv.org/abs/2503.19024)|null|
+|**2025-05-14**|**Spectropolarimetry of A Nuclear Transient AT2023clx: Revealing The Geometrical Alignment between The Transient Outflow and The Nuclear Dusty Region**|Kohki Uno et.al.|[2503.19024](http://arxiv.org/abs/2503.19024)|null|
 |**2025-03-23**|**A Novel Hat-Shaped Device-Cloud Collaborative Inference Framework for Large Language Models**|Zuan Xie et.al.|[2503.18989](http://arxiv.org/abs/2503.18989)|null|
 |**2025-03-23**|**A Multi-Model Adaptation of Speculative Decoding for Classification**|Somnath Roy et.al.|[2503.18076](http://arxiv.org/abs/2503.18076)|null|
 |**2025-03-20**|**SpeCache: Speculative Key-Value Caching for Efficient Generation of LLMs**|Shibo Jie et.al.|[2503.16163](http://arxiv.org/abs/2503.16163)|null|
