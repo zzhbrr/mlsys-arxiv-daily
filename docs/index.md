@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -170,7 +170,7 @@ layout: default
 |**2025-03-14**|**D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning**|Jia Zhang et.al.|[2503.11441](http://arxiv.org/abs/2503.11441)|null|
 |**2025-03-14**|**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**|Jeong Hun Yeo et.al.|[2503.11315](http://arxiv.org/abs/2503.11315)|**[link](https://github.com/JeongHun0716/MMS-LLaMA)**|
 |**2025-04-08**|**Green Prompting**|Marta Adamska et.al.|[2503.10666](http://arxiv.org/abs/2503.10666)|null|
-|**2025-03-13**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325](http://arxiv.org/abs/2503.10325)|null|
+|**2025-05-15**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325](http://arxiv.org/abs/2503.10325)|null|
 |**2025-03-17**|**Exploiting Edited Large Language Models as General Scientific Optimizers**|Qitan Lv et.al.|[2503.09620](http://arxiv.org/abs/2503.09620)|null|
 |**2025-03-13**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|**[link](https://github.com/md-mohaiminul/BIMBA)**|
 |**2025-03-12**|**Prompt Inference Attack on Distributed Large Language Model Inference Frameworks**|Xinjian Luo et.al.|[2503.09291](http://arxiv.org/abs/2503.09291)|null|
@@ -708,7 +708,7 @@ layout: default
 |**2025-04-29**|**Versatile Framework for Song Generation with Prompt-based Control**|Yu Zhang et.al.|[2504.19062](http://arxiv.org/abs/2504.19062)|null|
 |**2025-04-29**|**BadMoE: Backdooring Mixture-of-Experts LLMs via Optimizing Routing Triggers and Infecting Dormant Experts**|Qingyue Wang et.al.|[2504.18598](http://arxiv.org/abs/2504.18598)|null|
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
-|**2025-04-25**|**TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors**|Nooshin Yousefzadeh et.al.|[2504.18008](http://arxiv.org/abs/2504.18008)|null|
+|**2025-05-15**|**TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors**|Nooshin Yousefzadeh et.al.|[2504.18008](http://arxiv.org/abs/2504.18008)|null|
 |**2025-04-28**|**Unveiling the Hidden: Movie Genre and User Bias in Spoiler Detection**|Haokai Zhang et.al.|[2504.17834](http://arxiv.org/abs/2504.17834)|**[link](https://github.com/ai-explorer-123/gusd)**|
 |**2025-04-22**|**Compass-V2 Technical Report**|Sophia Maria et.al.|[2504.15527](http://arxiv.org/abs/2504.15527)|null|
 |**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470](http://arxiv.org/abs/2504.15470)|null|
@@ -1319,7 +1319,7 @@ layout: default
 |**2025-05-08**|**Scaling Laws for Speculative Decoding**|Siyuan Yan et.al.|[2505.07858](http://arxiv.org/abs/2505.07858)|null|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
 |**2025-05-10**|**N-body simulations of the Self-Confinement of Viscous Self-Gravitating Narrow Eccentric Planetary Ringlets**|Joseph M. Hahn et.al.|[2505.06639](http://arxiv.org/abs/2505.06639)|null|
-|**2025-05-09**|**FastDup: a scalable duplicate marking tool using speculation-and-test mechanism**|Zhonghai Zhang et.al.|[2505.06127](http://arxiv.org/abs/2505.06127)|null|
+|**2025-05-09**|**FastDup: a scalable duplicate marking tool using speculation-and-test mechanism**|Zhonghai Zhang et.al.|[2505.06127](http://arxiv.org/abs/2505.06127)|**[link](https://github.com/zzhofict/fastdup)**|
 |**2025-05-08**|**A Physics Model for Origin of Life**|Paul Howard Frampton et.al.|[2505.05634](http://arxiv.org/abs/2505.05634)|null|
 |**2025-05-08**|**Memory Under Siege: A Comprehensive Survey of Side-Channel Attacks on Memory**|MD Mahady Hassan et.al.|[2505.04896](http://arxiv.org/abs/2505.04896)|null|
 |**2025-05-08**|**Topological phase transition to a hidden charge density wave liquid**|Joshua S. H. Lee et.al.|[2505.04867](http://arxiv.org/abs/2505.04867)|null|
@@ -1423,7 +1423,7 @@ layout: default
 |**2025-03-17**|**ML-SpecQD: Multi-Level Speculative Decoding with Quantized Drafts**|Evangelos Georganas et.al.|[2503.13565](http://arxiv.org/abs/2503.13565)|null|
 |**2025-03-17**|**Enhanced anomalous Hall effect in the topological Kagome metal Cs(V $_{1-x}$Mn$_x$)$_3$Sb$_5$**|Xinmin Wang et.al.|[2503.13351](http://arxiv.org/abs/2503.13351)|null|
 |**2025-03-28**|**WOW: Workflow-Aware Data Movement and Task Scheduling for Dynamic Scientific Workflows**|Fabian Lehmann et.al.|[2503.13072](http://arxiv.org/abs/2503.13072)|**[link](https://github.com/WOW-WorkflowScheduler/KubernetesScheduler)**|
-|**2025-03-13**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325](http://arxiv.org/abs/2503.10325)|null|
+|**2025-05-15**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325](http://arxiv.org/abs/2503.10325)|null|
 |**2025-03-13**|**Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding**|Jinze Li et.al.|[2503.10135](http://arxiv.org/abs/2503.10135)|null|
 |**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et.al.|[2503.09814](http://arxiv.org/abs/2503.09814)|null|
 |**2025-03-11**|**In Search of the Potentially Hazardous Asteroids in the Taurid Resonant Swarm**|Jasmine Li et.al.|[2503.08670](http://arxiv.org/abs/2503.08670)|null|
