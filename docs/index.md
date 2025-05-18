@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -655,8 +655,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|null|
-|**2025-05-14**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388](http://arxiv.org/abs/2505.09388)|null|
+|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|**[link](https://github.com/zongqianli/pt-moe)**|
+|**2025-05-14**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388](http://arxiv.org/abs/2505.09388)|**[link](https://github.com/qwenlm/qwen3)**|
 |**2025-05-14**|**Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures**|Chenggang Zhao et.al.|[2505.09343](http://arxiv.org/abs/2505.09343)|null|
 |**2025-05-13**|**Toward Cost-Efficient Serving of Mixture-of-Experts with Asynchrony**|Shaoyu Wang et.al.|[2505.08944](http://arxiv.org/abs/2505.08944)|null|
 |**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
@@ -1428,7 +1428,7 @@ layout: default
 |**2025-03-18**|**Growing a Twig to Accelerate Large Vision-Language Models**|Zhenwei Shao et.al.|[2503.14075](http://arxiv.org/abs/2503.14075)|null|
 |**2025-03-17**|**ML-SpecQD: Multi-Level Speculative Decoding with Quantized Drafts**|Evangelos Georganas et.al.|[2503.13565](http://arxiv.org/abs/2503.13565)|null|
 |**2025-03-17**|**Enhanced anomalous Hall effect in the topological Kagome metal Cs(V $_{1-x}$Mn$_x$)$_3$Sb$_5$**|Xinmin Wang et.al.|[2503.13351](http://arxiv.org/abs/2503.13351)|null|
-|**2025-03-28**|**WOW: Workflow-Aware Data Movement and Task Scheduling for Dynamic Scientific Workflows**|Fabian Lehmann et.al.|[2503.13072](http://arxiv.org/abs/2503.13072)|**[link](https://github.com/WOW-WorkflowScheduler/KubernetesScheduler)**|
+|**2025-03-28**|**WOW: Workflow-Aware Data Movement and Task Scheduling for Dynamic Scientific Workflows**|Fabian Lehmann et.al.|[2503.13072](http://arxiv.org/abs/2503.13072)|**[link](https://github.com/commonworkflowscheduler/nf-cws)**|
 |**2025-05-15**|**Collaborative Speculative Inference for Efficient LLM Inference Serving**|Luyao Gao et.al.|[2503.10325](http://arxiv.org/abs/2503.10325)|null|
 |**2025-03-13**|**Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding**|Jinze Li et.al.|[2503.10135](http://arxiv.org/abs/2503.10135)|null|
 |**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et.al.|[2503.09814](http://arxiv.org/abs/2503.09814)|null|
