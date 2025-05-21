@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -663,7 +663,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -672,21 +672,21 @@
 |**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|**[link](https://github.com/fsoft-aic/competesmoe)**|
 |**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192](http://arxiv.org/abs/2505.13192)|null|
 |**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052](http://arxiv.org/abs/2505.13052)|null|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[2505.12311](http://arxiv.org/abs/2505.12311)|null|
-|**2025-05-17**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
-|**2025-05-17**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-20**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
+|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
 |**2025-05-17**|**Improving Coverage in Combined Prediction Sets with Weighted p-values**|Gina Wong et.al.|[2505.11785](http://arxiv.org/abs/2505.11785)|null|
 |**2025-05-16**|**HessFormer: Hessians at Foundation Scale**|Diego Granziol et.al.|[2505.11564](http://arxiv.org/abs/2505.11564)|null|
@@ -1348,7 +1348,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1902,7 +1902,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -1942,7 +1942,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

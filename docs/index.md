@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -667,15 +667,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|**[link](https://github.com/fsoft-aic/competesmoe)**|
 |**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192](http://arxiv.org/abs/2505.13192)|null|
 |**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052](http://arxiv.org/abs/2505.13052)|null|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[2505.12311](http://arxiv.org/abs/2505.12311)|null|
-|**2025-05-17**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
-|**2025-05-17**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-20**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
+|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
 |**2025-05-17**|**Improving Coverage in Combined Prediction Sets with Weighted p-values**|Gina Wong et.al.|[2505.11785](http://arxiv.org/abs/2505.11785)|null|
 |**2025-05-16**|**HessFormer: Hessians at Foundation Scale**|Diego Granziol et.al.|[2505.11564](http://arxiv.org/abs/2505.11564)|null|
