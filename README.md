@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/abs/2505.16881)|null|
+|**2025-05-22**|**Recursive Offloading for LLM Serving in Multi-tier Networks**|Zhiyuan Wu et.al.|[2505.16502](http://arxiv.org/abs/2505.16502)|null|
+|**2025-05-22**|**Reading Between the Prompts: How Stereotypes Shape LLM's Implicit Personalization**|Vera Neplenbroek et.al.|[2505.16467](http://arxiv.org/abs/2505.16467)|null|
+|**2025-05-22**|**LightRouter: Towards Efficient LLM Collaboration with Minimal Overhead**|Yifan Zhang et.al.|[2505.16221](http://arxiv.org/abs/2505.16221)|null|
+|**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|null|
+|**2025-05-22**|**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**|Mingbo Song et.al.|[2505.16162](http://arxiv.org/abs/2505.16162)|null|
 |**2025-05-21**|**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**|Jinghui Lu et.al.|[2505.15154](http://arxiv.org/abs/2505.15154)|null|
 |**2025-05-21**|**BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**|Yunlong Hou et.al.|[2505.15141](http://arxiv.org/abs/2505.15141)|null|
 |**2025-05-20**|**Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity**|Susav Shrestha et.al.|[2505.14884](http://arxiv.org/abs/2505.14884)|**[link](https://github.com/susavlsh10/polar-sparsity)**|
@@ -129,7 +135,7 @@
 |**2025-04-13**|**Efficient LLM Serving on Hybrid Real-time and Best-effort Requests**|Wan Borui et.al.|[2504.09590](http://arxiv.org/abs/2504.09590)|null|
 |**2025-04-13**|**LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference**|Jianing Zheng et.al.|[2504.09561](http://arxiv.org/abs/2504.09561)|**[link](https://github.com/zjnyly/looplynx)**|
 |**2025-04-12**|**MoE-Lens: Towards the Hardware Limit of High-Throughput MoE LLM Serving Under Resource Constraints**|Yichao Yuan et.al.|[2504.09345](http://arxiv.org/abs/2504.09345)|null|
-|**2025-04-12**|**DynaServe: Unified and Elastic Tandem-Style Execution for Dynamic Disaggregated LLM Serving**|Chaoyi Ruan et.al.|[2504.09285](http://arxiv.org/abs/2504.09285)|null|
+|**2025-05-22**|**DynaServe: Unified and Elastic Execution for Dynamic Disaggregated LLM Serving**|Chaoyi Ruan et.al.|[2504.09285](http://arxiv.org/abs/2504.09285)|null|
 |**2025-04-11**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG Pipeline**|Junkyum Kim et.al.|[2504.08930](http://arxiv.org/abs/2504.08930)|null|
 |**2025-04-11**|**SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting**|Jiaming Xu et.al.|[2504.08850](http://arxiv.org/abs/2504.08850)|null|
 |**2025-04-10**|**SD $^2$ : Self-Distilled Sparse Drafters**|Mike Lasby et.al.|[2504.08838](http://arxiv.org/abs/2504.08838)|null|
@@ -672,7 +678,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -681,19 +687,23 @@
 |**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
+|**2025-05-22**|**DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor**|Yan Zhao et.al.|[2505.16256](http://arxiv.org/abs/2505.16256)|null|
+|**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056](http://arxiv.org/abs/2505.16056)|null|
+|**2025-05-21**|**MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding**|Yuxiang Wei et.al.|[2505.15946](http://arxiv.org/abs/2505.15946)|null|
 |**2025-05-21**|**Who "Controls" Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation**|Darja Smite et.al.|[2505.15743](http://arxiv.org/abs/2505.15743)|null|
 |**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|**[link](https://github.com/zyy-2001/cola)**|
-|**2025-05-21**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Ao Liu et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
+|**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
 |**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414](http://arxiv.org/abs/2505.15414)|null|
 |**2025-05-21**|**Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites**|Xintong Wang et.al.|[2505.15297](http://arxiv.org/abs/2505.15297)|null|
 |**2025-05-21**|**Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines**|Xiaohou Shi et.al.|[2505.15151](http://arxiv.org/abs/2505.15151)|null|
-|**2025-05-20**|**Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies**|Haoyi Qiu et.al.|[2505.14972](http://arxiv.org/abs/2505.14972)|null|
+|**2025-05-20**|**Multimodal Cultural Safety: Evaluation Frameworks and Alignment Strategies**|Haoyi Qiu et.al.|[2505.14972](http://arxiv.org/abs/2505.14972)|**[link](https://github.com/haoyiq114/CROSS)**|
 |**2025-05-20**|**TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis**|Yu Zhang et.al.|[2505.14910](http://arxiv.org/abs/2505.14910)|null|
 |**2025-05-20**|**Balanced and Elastic End-to-end Training of Dynamic LLMs**|Mohamed Wahib et.al.|[2505.14864](http://arxiv.org/abs/2505.14864)|null|
 |**2025-05-20**|**Solving MNIST with a globally trained Mixture of Quantum Experts**|Paolo Alessandro Xavier Tognini et.al.|[2505.14789](http://arxiv.org/abs/2505.14789)|null|
@@ -715,8 +725,8 @@
 |**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052](http://arxiv.org/abs/2505.13052)|null|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[2505.12311](http://arxiv.org/abs/2505.12311)|null|
-|**2025-05-20**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
-|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-22**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
+|**2025-05-22**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-17**|**MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging**|Zihuan Qiu et.al.|[2505.11883](http://arxiv.org/abs/2505.11883)|null|
 |**2025-05-17**|**Improving Coverage in Combined Prediction Sets with Weighted p-values**|Gina Wong et.al.|[2505.11785](http://arxiv.org/abs/2505.11785)|null|
 |**2025-05-16**|**HessFormer: Hessians at Foundation Scale**|Diego Granziol et.al.|[2505.11564](http://arxiv.org/abs/2505.11564)|null|
@@ -798,7 +808,7 @@
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-13**|**Transmission of low energy electrons through a polyethylene terephthalate 800-nm diameter nanocapillary**|Li Pengfei et.al.|[2504.11479](http://arxiv.org/abs/2504.11479)|null|
 |**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279](http://arxiv.org/abs/2504.11279)|**[link](https://github.com/henhagg/semple_mem)**|
-|**2025-04-15**|**The Sword of Damocles in ViTs: Computational Redundancy Amplifies Adversarial Transferability**|Jiani Liu et.al.|[2504.10804](http://arxiv.org/abs/2504.10804)|null|
+|**2025-05-22**|**Harnessing the Computation Redundancy in ViTs to Boost Adversarial Transferability**|Jiani Liu et.al.|[2504.10804](http://arxiv.org/abs/2504.10804)|null|
 |**2025-04-14**|**Correlative and Discriminative Label Grouping for Multi-Label Visual Prompt Tuning**|LeiLei Ma et.al.|[2504.09990](http://arxiv.org/abs/2504.09990)|null|
 |**2025-04-14**|**DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training**|Masahiro Tanaka et.al.|[2504.09983](http://arxiv.org/abs/2504.09983)|null|
 |**2025-04-14**|**Multi-objective Bayesian Optimization With Mixed-categorical Design Variables for Expensive-to-evaluate Aeronautical Applications**|Nathalie Bartoli et.al.|[2504.09930](http://arxiv.org/abs/2504.09930)|null|
@@ -882,7 +892,7 @@
 |**2025-03-17**|**Optimal Expert Selection for Distributed Mixture-of-Experts at the Wireless Edge**|Shengling Qin et.al.|[2503.13421](http://arxiv.org/abs/2503.13421)|null|
 |**2025-05-10**|**Channel Estimation for Pinching-Antenna Systems (PASS)**|Jian Xiao et.al.|[2503.13268](http://arxiv.org/abs/2503.13268)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
-|**2025-05-21**|**Fast filtering of non-Gaussian models using Amortized Optimal Transport Maps**|Mohammad Al-Jarrah et.al.|[2503.12633](http://arxiv.org/abs/2503.12633)|null|
+|**2025-05-21**|**Fast filtering of non-Gaussian models using Amortized Optimal Transport Maps**|Mohammad Al-Jarrah et.al.|[2503.12633](http://arxiv.org/abs/2503.12633)|**[link](https://github.com/Mohd9485/A-OTF)**|
 |**2025-03-16**|**MoECollab: Democratizing LLM Development Through Collaborative Mixture of Experts**|Harshit et.al.|[2503.12592](http://arxiv.org/abs/2503.12592)|null|
 |**2025-03-16**|**MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification**|Jianwei Zhao et.al.|[2503.12401](http://arxiv.org/abs/2503.12401)|null|
 |**2025-05-10**|**Adaptive Mixture of Low-Rank Experts for Robust Audio Spoofing Detection**|Qixian Chen et.al.|[2503.12010](http://arxiv.org/abs/2503.12010)|null|
@@ -1378,12 +1388,14 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**|Mingbo Song et.al.|[2505.16162](http://arxiv.org/abs/2505.16162)|null|
+|**2025-05-21**|**Strong Hilbert space fragmentation and fractons from subsystem and higher-form symmetries**|Charles Stahl et.al.|[2505.15889](http://arxiv.org/abs/2505.15889)|null|
 |**2025-05-21**|**Quasinormal Modes of Schwarzschild Black Holes in the Dehnen-(1, 4, 5/2) Type Dark Matter Halos**|Qi-Qi Liang et.al.|[2505.15540](http://arxiv.org/abs/2505.15540)|null|
 |**2025-05-21**|**Accelerating Autoregressive Speech Synthesis Inference With Speech Speculative Decoding**|Zijian Lin et.al.|[2505.15380](http://arxiv.org/abs/2505.15380)|null|
 |**2025-05-21**|**SSR: Speculative Parallel Scaling Reasoning in Test-time**|Yuanlin Chu et.al.|[2505.15340](http://arxiv.org/abs/2505.15340)|null|
@@ -1392,7 +1404,7 @@
 |**2025-05-20**|**On the Day They Experience: Awakening Self-Sovereign Experiential AI Agents**|Botao Amber Hu et.al.|[2505.14893](http://arxiv.org/abs/2505.14893)|null|
 |**2025-05-20**|**Unremarkable to Remarkable AI Agent: Exploring Boundaries of Agent Intervention for Adults With and Without Cognitive Impairment**|Mai Lee Chang et.al.|[2505.14872](http://arxiv.org/abs/2505.14872)|null|
 |**2025-05-20**|**X-ray properties of compact elliptical galaxies**|Orsolya E. Kovacs et.al.|[2505.14768](http://arxiv.org/abs/2505.14768)|null|
-|**2025-05-20**|**Speculative Decoding Reimagined for Multimodal Large Language Models**|Luxi Lin et.al.|[2505.14260](http://arxiv.org/abs/2505.14260)|null|
+|**2025-05-20**|**Speculative Decoding Reimagined for Multimodal Large Language Models**|Luxi Lin et.al.|[2505.14260](http://arxiv.org/abs/2505.14260)|**[link](https://github.com/lyn-lucy/msd)**|
 |**2025-05-19**|**Language and Thought: The View from LLMs**|Daniel Rothschild et.al.|[2505.13561](http://arxiv.org/abs/2505.13561)|null|
 |**2025-05-19**|**HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**|Siran Liu et.al.|[2505.13254](http://arxiv.org/abs/2505.13254)|null|
 |**2025-05-19**|**Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification**|Jikai Wang et.al.|[2505.13204](http://arxiv.org/abs/2505.13204)|null|
@@ -1426,7 +1438,7 @@
 |**2025-05-06**|**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**|Shuyao Cheng et.al.|[2505.03195](http://arxiv.org/abs/2505.03195)|null|
 |**2025-05-04**|**The quest for explosive bubbles in the Indonesian Rupiah/US exchange rate: Does the uncertainty trinity matter?**|Abdul Khaliq et.al.|[2505.02869](http://arxiv.org/abs/2505.02869)|null|
 |**2025-05-03**|**Accelerating Large Language Model Reasoning via Speculative Search**|Zhihai Wang et.al.|[2505.02865](http://arxiv.org/abs/2505.02865)|null|
-|**2025-05-03**|**Dirac Singleton as a Relativistic Field Beyond Standard Model**|M. A. Vasiliev et.al.|[2505.01915](http://arxiv.org/abs/2505.01915)|null|
+|**2025-05-21**|**Dirac Singleton as a Relativistic Field Beyond Standard Model**|M. A. Vasiliev et.al.|[2505.01915](http://arxiv.org/abs/2505.01915)|null|
 |**2025-05-03**|**Speculative Evolution Through 3D Cellular Automata**|Amir Hossein Khazaei et.al.|[2505.01692](http://arxiv.org/abs/2505.01692)|null|
 |**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
 |**2025-05-12**|**Emotions in Artificial Intelligence**|Hermann Borotschnig et.al.|[2505.01462](http://arxiv.org/abs/2505.01462)|null|
@@ -1942,12 +1954,13 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 ## Multimodal System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[2505.15925](http://arxiv.org/abs/2505.15925)|null|
 |**2025-05-20**|**Communication-Efficient Diffusion Denoising Parallelization via Reuse-then-Predict Mechanism**|Kunyun Wang et.al.|[2505.14741](http://arxiv.org/abs/2505.14741)|null|
 |**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Haiyong Yu et.al.|[2504.09927](http://arxiv.org/abs/2504.09927)|null|
 |**2025-03-17**|**VideoScan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers**|Ruanjun Li et.al.|[2503.09387](http://arxiv.org/abs/2503.09387)|null|
@@ -1983,7 +1996,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250523>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
