@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning**|Michael Hassid et.al.|[2505.17813](http://arxiv.org/abs/2505.17813)|null|
+|**2025-05-23**|**DASH: Input-Aware Dynamic Layer Skipping for Efficient LLM Inference with Markov Decision Policies**|Ning Yang et.al.|[2505.17420](http://arxiv.org/abs/2505.17420)|null|
+|**2025-05-22**|**RAP: Runtime-Adaptive Pruning for LLM Inference**|Huanrong Liu et.al.|[2505.17138](http://arxiv.org/abs/2505.17138)|null|
+|**2025-05-20**|**Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**|Ruixiao Li et.al.|[2505.17074](http://arxiv.org/abs/2505.17074)|null|
+|**2025-05-16**|**SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs**|Jinwoo Park et.al.|[2505.17052](http://arxiv.org/abs/2505.17052)|null|
 |**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881](http://arxiv.org/abs/2505.16881)|**[link](https://github.com/danielfperez/castillo)**|
 |**2025-05-22**|**Recursive Offloading for LLM Serving in Multi-tier Networks**|Zhiyuan Wu et.al.|[2505.16502](http://arxiv.org/abs/2505.16502)|**[link](https://github.com/wuzhiyuan2000/recserve)**|
 |**2025-05-22**|**Reading Between the Prompts: How Stereotypes Shape LLM's Implicit Personalization**|Vera Neplenbroek et.al.|[2505.16467](http://arxiv.org/abs/2505.16467)|**[link](https://github.com/veranep/implicit-personalization-stereotypes)**|
@@ -144,7 +149,7 @@ layout: default
 |**2025-04-08**|**SPIRe: Boosting LLM Inference Throughput with Speculative Decoding**|Sanjit Neelam et.al.|[2504.06419](http://arxiv.org/abs/2504.06419)|null|
 |**2025-04-08**|**Mosaic: Composite Projection Pruning for Resource-efficient LLMs**|Bailey J. Eccles et.al.|[2504.06323](http://arxiv.org/abs/2504.06323)|null|
 |**2025-04-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|null|
-|**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-05-23**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
 |**2025-05-22**|**User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2504.05522](http://arxiv.org/abs/2504.05522)|null|
 |**2025-04-07**|**REEF: Relevance-Aware and Efficient LLM Adapter for Video Understanding**|Sakib Reza et.al.|[2504.05491](http://arxiv.org/abs/2504.05491)|null|
 |**2025-04-07**|**Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness**|Dongzhuoran Zhou et.al.|[2504.05163](http://arxiv.org/abs/2504.05163)|null|
@@ -682,6 +687,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Enhancing CTR Prediction with De-correlated Expert Networks**|Jiancheng Wang et.al.|[2505.17925](http://arxiv.org/abs/2505.17925)|null|
+|**2025-05-23**|**PreMoe: Lightening MoEs on Constrained Memory by Expert Pruning and Retrieval**|Zehua Pei et.al.|[2505.17639](http://arxiv.org/abs/2505.17639)|null|
+|**2025-05-23**|**CoMoE: Contrastive Representation for Mixture-of-Experts in Parameter-Efficient Fine-tuning**|Jinyuan Feng et.al.|[2505.17553](http://arxiv.org/abs/2505.17553)|null|
+|**2025-05-23**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
+|**2025-05-22**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-22**|**DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor**|Yan Zhao et.al.|[2505.16256](http://arxiv.org/abs/2505.16256)|null|
 |**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056](http://arxiv.org/abs/2505.16056)|**[link](https://github.com/ljcleo/moe-lrc)**|
@@ -711,7 +721,7 @@ layout: default
 |**2025-05-19**|**Occult: Optimizing Collaborative Communication across Experts for Accelerated Parallel MoE Training and Inference**|Shuqing Luo et.al.|[2505.13345](http://arxiv.org/abs/2505.13345)|**[link](https://github.com/unites-lab/occult)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192](http://arxiv.org/abs/2505.13192)|null|
-|**2025-05-19**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052](http://arxiv.org/abs/2505.13052)|null|
+|**2025-05-23**|**Model Selection for Gaussian-gated Gaussian Mixture of Experts Using Dendrograms of Mixing Measures**|Tuan Thai et.al.|[2505.13052](http://arxiv.org/abs/2505.13052)|null|
 |**2025-05-19**|**TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability**|Tonglong Wei et.al.|[2505.12672](http://arxiv.org/abs/2505.12672)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[2505.12311](http://arxiv.org/abs/2505.12311)|null|
 |**2025-05-22**|**Model Merging in Pre-training of Large Language Models**|Yunshui Li et.al.|[2505.12082](http://arxiv.org/abs/2505.12082)|null|
@@ -1381,6 +1391,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**VeriThinker: Learning to Verify Makes Reasoning Model Efficient**|Zigeng Chen et.al.|[2505.17941](http://arxiv.org/abs/2505.17941)|null|
+|**2025-05-20**|**Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**|Ruixiao Li et.al.|[2505.17074](http://arxiv.org/abs/2505.17074)|null|
+|**2025-05-16**|**SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs**|Jinwoo Park et.al.|[2505.17052](http://arxiv.org/abs/2505.17052)|null|
 |**2025-05-22**|**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**|Mingbo Song et.al.|[2505.16162](http://arxiv.org/abs/2505.16162)|null|
 |**2025-05-21**|**Strong Hilbert space fragmentation and fractons from subsystem and higher-form symmetries**|Charles Stahl et.al.|[2505.15889](http://arxiv.org/abs/2505.15889)|null|
 |**2025-05-21**|**Quasinormal Modes of Schwarzschild Black Holes in the Dehnen-(1, 4, 5/2) Type Dark Matter Halos**|Qi-Qi Liang et.al.|[2505.15540](http://arxiv.org/abs/2505.15540)|null|
