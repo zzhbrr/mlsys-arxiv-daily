@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
+|**2025-05-27**|**LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models**|Jieyong Kim et.al.|[2505.21082](http://arxiv.org/abs/2505.21082)|null|
+|**2025-05-27**|**Efficient Large Language Model Inference with Neural Block Linearization**|Mete Erdogan et.al.|[2505.21077](http://arxiv.org/abs/2505.21077)|null|
+|**2025-05-27**|**FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration**|Daehyeon Baek et.al.|[2505.20839](http://arxiv.org/abs/2505.20839)|null|
+|**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
+|**2025-05-23**|**Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP**|Satya Narayana Cheetirala et.al.|[2505.20320](http://arxiv.org/abs/2505.20320)|null|
 |**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|null|
 |**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-26**|**VLMLight: Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning**|Maonan Wang et.al.|[2505.19486](http://arxiv.org/abs/2505.19486)|null|
@@ -701,6 +707,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
+|**2025-05-27**|**Unveiling Instruction-Specific Neurons & Experts: An Analytical Framework for LLM's Instruction-Following Capabilities**|Junyan Zhang et.al.|[2505.21191](http://arxiv.org/abs/2505.21191)|null|
+|**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079](http://arxiv.org/abs/2505.21079)|null|
+|**2025-05-27**|**Multi-objective Large Language Model Alignment with Hierarchical Experts**|Zhuo Li et.al.|[2505.20925](http://arxiv.org/abs/2505.20925)|null|
 |**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|null|
 |**2025-05-26**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001](http://arxiv.org/abs/2505.20001)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
@@ -1423,6 +1433,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487](http://arxiv.org/abs/2505.21487)|null|
+|**2025-05-27**|**Pair binding and Hund's rule breaking in high-symmetry fullerenes**|R. Rausch et.al.|[2505.21455](http://arxiv.org/abs/2505.21455)|null|
+|**2025-05-27**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
+|**2025-05-27**|**Repeated Auctions with Speculators: Arbitrage Incentives and Forks in DAOs**|Nicolas Eschenbaum et.al.|[2505.21296](http://arxiv.org/abs/2505.21296)|null|
+|**2025-05-27**|**SpecExtend: A Drop-in Enhancement for Speculative Decoding of Long Sequences**|Jungyoub Cha et.al.|[2505.20776](http://arxiv.org/abs/2505.20776)|null|
+|**2025-05-27**|**Replication of Reference-Dependent Preferences and the Risk-Return Trade-Off in the Chinese Market**|Penggan Xu et.al.|[2505.20608](http://arxiv.org/abs/2505.20608)|null|
+|**2025-05-26**|**Academic Research Output Derivatives: Structuring Futures and Options on Research Output Index**|Amarendra Sharma et.al.|[2505.20492](http://arxiv.org/abs/2505.20492)|null|
+|**2025-05-26**|**Bounded cohomology, quotient extensions, and hierarchical hyperbolicity**|Francesco Fournier-Facio et.al.|[2505.20462](http://arxiv.org/abs/2505.20462)|null|
+|**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
+|**2025-05-23**|**Reinforcement Speculative Decoding for Fast Ranking**|Yingpeng Du et.al.|[2505.20316](http://arxiv.org/abs/2505.20316)|null|
 |**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-27**|**Faster and Better LLMs via Latency-Aware Test-Time Scaling**|Zili Wang et.al.|[2505.19634](http://arxiv.org/abs/2505.19634)|null|
 |**2025-05-26**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
@@ -1996,6 +2016,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
 |**2025-05-23**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[2505.15925](http://arxiv.org/abs/2505.15925)|null|
 |**2025-05-20**|**Communication-Efficient Diffusion Denoising Parallelization via Reuse-then-Predict Mechanism**|Kunyun Wang et.al.|[2505.14741](http://arxiv.org/abs/2505.14741)|null|
