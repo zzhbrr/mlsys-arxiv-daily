@@ -51,7 +51,7 @@
 |**2025-05-25**|**DECA: A Near-Core LLM Decompression Accelerator Supporting Out-of-Order Invocation**|Gerasimos Gerogiannis et.al.|[2505.19349](http://arxiv.org/abs/2505.19349)|null|
 |**2025-05-25**|**Can Large Language Models Infer Causal Relationships from Real-World Text?**|Ryan Saklad et.al.|[2505.18931](http://arxiv.org/abs/2505.18931)|null|
 |**2025-05-30**|**ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models**|Hao Chen et.al.|[2505.18799](http://arxiv.org/abs/2505.18799)|null|
-|**2025-05-27**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|**[link](https://github.com/weaidb/awesome-data-llm)**|
+|**2025-06-01**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|**[link](https://github.com/weaidb/awsome-data-llm)**|
 |**2025-05-23**|**LatentLLM: Attention-Aware Joint Tensor Compression**|Toshiaki Koike-Akino et.al.|[2505.18413](http://arxiv.org/abs/2505.18413)|null|
 |**2025-05-23**|**An Attack to Break Permutation-Based Private Third-Party Inference Schemes for LLMs**|Rahul Thomas et.al.|[2505.18332](http://arxiv.org/abs/2505.18332)|null|
 |**2025-05-23**|**ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning**|Mingkuan Feng et.al.|[2505.18232](http://arxiv.org/abs/2505.18232)|null|
@@ -764,7 +764,7 @@
 |**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079](http://arxiv.org/abs/2505.21079)|null|
 |**2025-05-27**|**Multi-objective Large Language Model Alignment with Hierarchical Experts**|Zhuo Li et.al.|[2505.20925](http://arxiv.org/abs/2505.20925)|null|
 |**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
-|**2025-05-29**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001](http://arxiv.org/abs/2505.20001)|null|
+|**2025-06-01**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001](http://arxiv.org/abs/2505.20001)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
 |**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|**[link](https://github.com/icuraslw/official-repository-of-confsmoe)**|
@@ -786,6 +786,7 @@
 |**2025-05-23**|**CoMoE: Contrastive Representation for Mixture-of-Experts in Parameter-Efficient Fine-tuning**|Jinyuan Feng et.al.|[2505.17553](http://arxiv.org/abs/2505.17553)|null|
 |**2025-05-31**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
 |**2025-05-22**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
+|**2025-05-31**|**TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling**|Weizhe Lin et.al.|[2505.17155](http://arxiv.org/abs/2505.17155)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-22**|**DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor**|Yan Zhao et.al.|[2505.16256](http://arxiv.org/abs/2505.16256)|null|
 |**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056](http://arxiv.org/abs/2505.16056)|**[link](https://github.com/ljcleo/moe-lrc)**|
@@ -935,7 +936,7 @@
 |**2025-04-01**|**A Unified Virtual Mixture-of-Experts Framework:Enhanced Inference and Hallucination Mitigation in Single-Model System**|Mingyan Liu et.al.|[2504.03739](http://arxiv.org/abs/2504.03739)|null|
 |**2025-03-26**|**A multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based MLP**|Yuzhu Lei et.al.|[2504.03706](http://arxiv.org/abs/2504.03706)|**[link](https://github.com/leiyuzhu/capacitypredict)**|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
-|**2025-04-03**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
+|**2025-06-01**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
 |**2025-04-07**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658](http://arxiv.org/abs/2504.02658)|**[link](https://github.com/supercomputing-system-ai-lab/milo)**|
 |**2025-04-24**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-23**|**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**|Ruidong Zhu et.al.|[2504.02263](http://arxiv.org/abs/2504.02263)|null|
@@ -1541,6 +1542,7 @@
 |**2025-05-18**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
 |**2025-05-21**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|**[link](https://github.com/mobisense/specoffload-public)**|
 |**2025-05-14**|**Chandra Rules Out Super-Eddington Accretion For Little Red Dots**|Andrea Sacchi et.al.|[2505.09669](http://arxiv.org/abs/2505.09669)|null|
+|**2025-06-01**|**Folded State Dynamics -- A Geometric and Deterministic Origin of Irreversibility**|Patrick BarAvi et.al.|[2505.09650](http://arxiv.org/abs/2505.09650)|null|
 |**2025-05-14**|**Observational study of the formation of homologous confined circular-ribbon flares**|Shuhong Yang et.al.|[2505.09093](http://arxiv.org/abs/2505.09093)|null|
 |**2025-05-13**|**Long timescale numerical simulations of large, super-critical accretion discs**|P. Chris Fragile et.al.|[2505.08859](http://arxiv.org/abs/2505.08859)|null|
 |**2025-05-13**|**Kudzu: Fast and Simple High-Throughput BFT**|Victor Shoup et.al.|[2505.08771](http://arxiv.org/abs/2505.08771)|null|
@@ -1616,7 +1618,7 @@
 |**2025-04-08**|**Strong Evidence That Abiogenesis Is a Rapid Process on Earth Analogs**|David Kipping et.al.|[2504.05993](http://arxiv.org/abs/2504.05993)|null|
 |**2025-04-08**|**DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding**|Hossein Entezari Zarch et.al.|[2504.05598](http://arxiv.org/abs/2504.05598)|null|
 |**2025-04-06**|**pc-COP: An Efficient and Configurable 2048-p-Bit Fully-Connected Probabilistic Computing Accelerator for Combinatorial Optimization**|Kiran Magar et.al.|[2504.04543](http://arxiv.org/abs/2504.04543)|null|
-|**2025-04-11**|**Representations of $p$ -adic groups and orbits with smooth closure in a variety of Langlands parameters**|Kristaps Balodis et.al.|[2504.04163](http://arxiv.org/abs/2504.04163)|null|
+|**2025-06-02**|**Representations of $p$ -adic groups and orbits with smooth closure in a variety of Langlands parameters**|Kristaps Balodis et.al.|[2504.04163](http://arxiv.org/abs/2504.04163)|null|
 |**2025-04-05**|**PipeDec: Low-Latency Pipeline-based Inference with Dynamic Speculative Decoding towards Large-scale Models**|Haofei Yin et.al.|[2504.04104](http://arxiv.org/abs/2504.04104)|null|
 |**2025-03-23**|**Agentic Business Process Management: The Past 30 Years And Practitioners' Future Perspectives**|Hoang Vu et.al.|[2504.03693](http://arxiv.org/abs/2504.03693)|null|
 |**2025-04-04**|**Ethics Readiness of Technology: The case for aligning ethical approaches with technological maturity**|Eline de Jong et.al.|[2504.03336](http://arxiv.org/abs/2504.03336)|null|
