@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
+|**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
+|**2025-06-03**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|null|
+|**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|null|
+|**2025-06-03**|**Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective**|Shenghua He et.al.|[2506.02553](http://arxiv.org/abs/2506.02553)|null|
+|**2025-05-29**|**NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs**|Haeun Lee et.al.|[2506.02024](http://arxiv.org/abs/2506.02024)|null|
+|**2025-05-24**|**Efficient and Workload-Aware LLM Serving via Runtime Layer Swapping and KV Cache Resizing**|Zhaoyuan Su et.al.|[2506.02006](http://arxiv.org/abs/2506.02006)|null|
+|**2025-05-16**|**Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**|Yuhao Shen et.al.|[2506.01979](http://arxiv.org/abs/2506.01979)|null|
+|**2025-06-02**|**Memory Access Characterization of Large Language Models in CPU Environment and its Potential Impacts**|Spencer Banasik et.al.|[2506.01827](http://arxiv.org/abs/2506.01827)|null|
 |**2025-05-30**|**AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption**|Yajie Zhou et.al.|[2505.24773](http://arxiv.org/abs/2505.24773)|null|
 |**2025-05-30**|**SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training**|Yehonathan Refael et.al.|[2505.24749](http://arxiv.org/abs/2505.24749)|null|
 |**2025-05-30**|**Are Optimal Algorithms Still Optimal? Rethinking Sorting in LLM-Based Pairwise Ranking with Batching and Caching**|Juan Wisznia et.al.|[2505.24643](http://arxiv.org/abs/2505.24643)|null|
@@ -735,6 +744,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
+|**2025-06-03**|**Scaling Fine-Grained MoE Beyond 50B Parameters: Empirical Evaluation and Practical Insights**|Jakub Krajewski et.al.|[2506.02890](http://arxiv.org/abs/2506.02890)|null|
+|**2025-06-03**|**Brain-Like Processing Pathways Form in Models With Heterogeneous Experts**|Jack Cook et.al.|[2506.02813](http://arxiv.org/abs/2506.02813)|null|
+|**2025-06-03**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al.|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
+|**2025-06-03**|**MidPO: Dual Preference Optimization for Safety and Helpfulness in Large Language Models via a Mixture of Experts Framework**|Yupeng Qi et.al.|[2506.02460](http://arxiv.org/abs/2506.02460)|null|
+|**2025-05-31**|**Enhancing Multimodal Continual Instruction Tuning with BranchLoRA**|Duzhen Zhang et.al.|[2506.02041](http://arxiv.org/abs/2506.02041)|null|
+|**2025-06-02**|**SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model**|Zhao Yang et.al.|[2506.01833](http://arxiv.org/abs/2506.01833)|null|
+|**2025-06-02**|**Mixture of Experts Provably Detect and Learn the Latent Cluster Structure in Gradient-Based Learning**|Ryotaro Kawata et.al.|[2506.01656](http://arxiv.org/abs/2506.01656)|null|
+|**2025-06-02**|**DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models**|Jiancheng Ye et.al.|[2506.01257](http://arxiv.org/abs/2506.01257)|null|
+|**2025-06-01**|**Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts**|Fan Liu et.al.|[2506.00965](http://arxiv.org/abs/2506.00965)|null|
+|**2025-05-31**|**FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts**|Xinyi Wang et.al.|[2506.00495](http://arxiv.org/abs/2506.00495)|null|
 |**2025-05-30**|**Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction**|Shuai Liu et.al.|[2505.24597](http://arxiv.org/abs/2505.24597)|null|
 |**2025-05-30**|**Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis**|Junzhuo Li et.al.|[2505.24593](http://arxiv.org/abs/2505.24593)|null|
 |**2025-05-30**|**Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer**|Yilun Kong et.al.|[2505.24378](http://arxiv.org/abs/2505.24378)|null|
@@ -1488,6 +1508,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Feedstack: Layering Structured Representations over Unstructured Feedback to Scaffold Human AI Conversation**|Hannah Vy Nguyen et.al.|[2506.03052](http://arxiv.org/abs/2506.03052)|null|
+|**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780](http://arxiv.org/abs/2506.02780)|null|
+|**2025-06-03**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
+|**2025-06-03**|**Consultant Decoding: Yet Another Synergistic Mechanism**|Chuanghao Ding et.al.|[2506.02391](http://arxiv.org/abs/2506.02391)|null|
+|**2025-06-02**|**Radiation GRMHD Models of Accretion onto Stellar-Mass Black Holes: I. Survey of Eddington Ratios**|Lizhong Zhang et.al.|[2506.02289](http://arxiv.org/abs/2506.02289)|null|
+|**2025-05-16**|**SpecMemo: Speculative Decoding is in Your Pocket**|Selin Yildirim et.al.|[2506.01986](http://arxiv.org/abs/2506.01986)|null|
+|**2025-05-16**|**Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**|Yuhao Shen et.al.|[2506.01979](http://arxiv.org/abs/2506.01979)|null|
+|**2025-06-02**|**Synchronic Web Digital Identity: Speculations on the Art of the Possible**|Thien-Nam Dinh et.al.|[2506.01856](http://arxiv.org/abs/2506.01856)|null|
+|**2025-06-02**|**Playing with Transformer at 30+ FPS via Next-Frame Diffusion**|Xinle Cheng et.al.|[2506.01380](http://arxiv.org/abs/2506.01380)|null|
+|**2025-06-02**|**Shape Shifting Light Dark Matter Solitons**|Dor Ben-Amotz et.al.|[2506.01282](http://arxiv.org/abs/2506.01282)|null|
+|**2025-06-01**|**The $M_{\rm BH}-M_\star$ Relation of the hyperluminous Dust-obscured Quasars up to $z \sim 4$**|Yibin Luo et.al.|[2506.01218](http://arxiv.org/abs/2506.01218)|null|
+|**2025-06-01**|**Mamba Drafters for Speculative Decoding**|Daewon Choi et.al.|[2506.01206](http://arxiv.org/abs/2506.01206)|null|
+|**2025-06-01**|**The Inverse Scaling Effect of Pre-Trained Language Model Surprisal Is Not Due to Data Leakage**|Byung-Doh Oh et.al.|[2506.01172](http://arxiv.org/abs/2506.01172)|null|
+|**2025-05-31**|**Accelerating Diffusion LLMs via Adaptive Parallel Decoding**|Daniel Israel et.al.|[2506.00413](http://arxiv.org/abs/2506.00413)|null|
+|**2025-05-31**|**Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively**|Jiawei Gu et.al.|[2506.00396](http://arxiv.org/abs/2506.00396)|null|
 |**2025-05-30**|**Cross-Attention Speculative Decoding**|Wei Zhong et.al.|[2505.24544](http://arxiv.org/abs/2505.24544)|null|
 |**2025-05-30**|**CLaSp: In-Context Layer Skip for Self-Speculative Decoding**|Longze Chen et.al.|[2505.24196](http://arxiv.org/abs/2505.24196)|null|
 |**2025-05-29**|**Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism**|Jinhui Wei et.al.|[2505.23219](http://arxiv.org/abs/2505.23219)|null|
@@ -1617,6 +1652,7 @@
 |**2025-04-08**|**Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques**|E. Kushwaha et.al.|[2504.06113](http://arxiv.org/abs/2504.06113)|null|
 |**2025-04-08**|**Strong Evidence That Abiogenesis Is a Rapid Process on Earth Analogs**|David Kipping et.al.|[2504.05993](http://arxiv.org/abs/2504.05993)|null|
 |**2025-04-08**|**DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding**|Hossein Entezari Zarch et.al.|[2504.05598](http://arxiv.org/abs/2504.05598)|null|
+|**2025-06-03**|**Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution**|Raffi Khatchadourian et.al.|[2504.05424](http://arxiv.org/abs/2504.05424)|null|
 |**2025-04-06**|**pc-COP: An Efficient and Configurable 2048-p-Bit Fully-Connected Probabilistic Computing Accelerator for Combinatorial Optimization**|Kiran Magar et.al.|[2504.04543](http://arxiv.org/abs/2504.04543)|null|
 |**2025-06-02**|**Representations of $p$ -adic groups and orbits with smooth closure in a variety of Langlands parameters**|Kristaps Balodis et.al.|[2504.04163](http://arxiv.org/abs/2504.04163)|null|
 |**2025-04-05**|**PipeDec: Low-Latency Pipeline-based Inference with Dynamic Speculative Decoding towards Large-scale Models**|Haofei Yin et.al.|[2504.04104](http://arxiv.org/abs/2504.04104)|null|
