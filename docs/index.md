@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -730,7 +730,7 @@ layout: default
 |**2025-05-30**|**GradPower: Powering Gradients for Faster Language Model Pre-Training**|Mingze Wang et.al.|[2505.24275](http://arxiv.org/abs/2505.24275)|null|
 |**2025-05-30**|**On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks**|Mingze Wang et.al.|[2505.24205](http://arxiv.org/abs/2505.24205)|null|
 |**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
-|**2025-05-29**|**Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert**|Zhaokun Wang et.al.|[2505.23868](http://arxiv.org/abs/2505.23868)|null|
+|**2025-06-03**|**Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert**|Zhaokun Wang et.al.|[2505.23868](http://arxiv.org/abs/2505.23868)|null|
 |**2025-05-29**|**Revisiting Uncertainty Estimation and Calibration of Large Language Models**|Linwei Tao et.al.|[2505.23854](http://arxiv.org/abs/2505.23854)|null|
 |**2025-05-28**|**EvoMoE: Expert Evolution in Mixture of Experts for Multimodal Large Language Models**|Linglin Jing et.al.|[2505.23830](http://arxiv.org/abs/2505.23830)|null|
 |**2025-05-27**|**LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions**|Hadi Askari et.al.|[2505.23811](http://arxiv.org/abs/2505.23811)|null|
@@ -774,7 +774,7 @@ layout: default
 |**2025-05-23**|**PreMoe: Lightening MoEs on Constrained Memory by Expert Pruning and Retrieval**|Zehua Pei et.al.|[2505.17639](http://arxiv.org/abs/2505.17639)|null|
 |**2025-05-23**|**CoMoE: Contrastive Representation for Mixture-of-Experts in Parameter-Efficient Fine-tuning**|Jinyuan Feng et.al.|[2505.17553](http://arxiv.org/abs/2505.17553)|null|
 |**2025-05-31**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
-|**2025-05-22**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
+|**2025-06-02**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
 |**2025-05-31**|**TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling**|Weizhe Lin et.al.|[2505.17155](http://arxiv.org/abs/2505.17155)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-22**|**DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor**|Yan Zhao et.al.|[2505.16256](http://arxiv.org/abs/2505.16256)|null|
@@ -1507,7 +1507,7 @@ layout: default
 |**2025-05-22**|**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**|Mingbo Song et.al.|[2505.16162](http://arxiv.org/abs/2505.16162)|null|
 |**2025-05-21**|**Strong Hilbert space fragmentation and fractons from subsystem and higher-form symmetries**|Charles Stahl et.al.|[2505.15889](http://arxiv.org/abs/2505.15889)|null|
 |**2025-05-21**|**Quasinormal Modes of Schwarzschild Black Holes in the Dehnen-(1, 4, 5/2) Type Dark Matter Halos**|Qi-Qi Liang et.al.|[2505.15540](http://arxiv.org/abs/2505.15540)|null|
-|**2025-05-21**|**Accelerating Autoregressive Speech Synthesis Inference With Speech Speculative Decoding**|Zijian Lin et.al.|[2505.15380](http://arxiv.org/abs/2505.15380)|null|
+|**2025-06-03**|**Accelerating Autoregressive Speech Synthesis Inference With Speech Speculative Decoding**|Zijian Lin et.al.|[2505.15380](http://arxiv.org/abs/2505.15380)|null|
 |**2025-05-21**|**SSR: Speculative Parallel Scaling Reasoning in Test-time**|Yuanlin Chu et.al.|[2505.15340](http://arxiv.org/abs/2505.15340)|null|
 |**2025-05-21**|**BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**|Yunlong Hou et.al.|[2505.15141](http://arxiv.org/abs/2505.15141)|null|
 |**2025-05-20**|**STree: Speculative Tree Decoding for Hybrid State-Space Models**|Yangchao Wu et.al.|[2505.14969](http://arxiv.org/abs/2505.14969)|null|
