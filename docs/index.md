@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -40,7 +40,7 @@ layout: default
 |**2025-05-28**|**Towards Efficient Key-Value Cache Management for Prefix Prefilling in LLM Inference**|Yue Zhu et.al.|[2505.21919](http://arxiv.org/abs/2505.21919)|null|
 |**2025-05-29**|**EFIM: Efficient Serving of LLMs for Infilling Tasks with Improved KV Cache Reuse**|Tianyu Guo et.al.|[2505.21889](http://arxiv.org/abs/2505.21889)|**[link](https://github.com/gty111/efim)**|
 |**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
-|**2025-05-28**|**LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models**|Jieyong Kim et.al.|[2505.21082](http://arxiv.org/abs/2505.21082)|null|
+|**2025-06-04**|**LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models**|Jieyong Kim et.al.|[2505.21082](http://arxiv.org/abs/2505.21082)|null|
 |**2025-05-27**|**Efficient Large Language Model Inference with Neural Block Linearization**|Mete Erdogan et.al.|[2505.21077](http://arxiv.org/abs/2505.21077)|null|
 |**2025-05-28**|**FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration**|Daehyeon Baek et.al.|[2505.20839](http://arxiv.org/abs/2505.20839)|null|
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
@@ -72,7 +72,7 @@ layout: default
 |**2025-05-22**|**KNN-SSD: Enabling Dynamic Self-Speculative Decoding via Nearest Neighbor Layer Set Optimization**|Mingbo Song et.al.|[2505.16162](http://arxiv.org/abs/2505.16162)|null|
 |**2025-05-21**|**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**|Jinghui Lu et.al.|[2505.15154](http://arxiv.org/abs/2505.15154)|null|
 |**2025-05-21**|**BanditSpec: Adaptive Speculative Decoding via Bandit Algorithms**|Yunlong Hou et.al.|[2505.15141](http://arxiv.org/abs/2505.15141)|null|
-|**2025-05-20**|**Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity**|Susav Shrestha et.al.|[2505.14884](http://arxiv.org/abs/2505.14884)|**[link](https://github.com/susavlsh10/polar-sparsity)**|
+|**2025-06-04**|**Polar Sparsity: High Throughput Batched LLM Inferencing with Scalable Contextual Sparsity**|Susav Shrestha et.al.|[2505.14884](http://arxiv.org/abs/2505.14884)|**[link](https://github.com/susavlsh10/polar-sparsity)**|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
 |**2025-05-20**|**ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs**|Yifan Sui et.al.|[2505.14468](http://arxiv.org/abs/2505.14468)|null|
 |**2025-05-20**|**Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning**|Jiwon Song et.al.|[2505.13866](http://arxiv.org/abs/2505.13866)|**[link](https://github.com/jiwonsong-dev/reasoningpathcompression)**|
@@ -209,7 +209,7 @@ layout: default
 |**2025-04-04**|**Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation**|Weitao Li et.al.|[2504.03165](http://arxiv.org/abs/2504.03165)|**[link](https://github.com/tsinghua-dhy/edc-2-rag)**|
 |**2025-04-03**|**Narrative Studio: Visual narrative exploration using LLMs and Monte Carlo Tree Search**|Parsa Ghaffari et.al.|[2504.02426](http://arxiv.org/abs/2504.02426)|**[link](https://github.com/parsaghaffari/narrative-studio)**|
 |**2025-04-01**|**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching**|Yuxuan Zhu et.al.|[2504.00970](http://arxiv.org/abs/2504.00970)|null|
-|**2025-04-03**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
+|**2025-06-04**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
 |**2025-04-06**|**ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance**|Tong Xie et.al.|[2503.24053](http://arxiv.org/abs/2503.24053)|**[link](https://github.com/pku-sec-lab/realm_dac25)**|
 |**2025-03-31**|**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving**|Wei Gao et.al.|[2503.24000](http://arxiv.org/abs/2503.24000)|**[link](https://github.com/llmkvsys/rethink-kv-compression)**|
@@ -733,10 +733,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-03**|**Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
+|**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
 |**2025-06-03**|**Scaling Fine-Grained MoE Beyond 50B Parameters: Empirical Evaluation and Practical Insights**|Jakub Krajewski et.al.|[2506.02890](http://arxiv.org/abs/2506.02890)|null|
 |**2025-06-03**|**Brain-Like Processing Pathways Form in Models With Heterogeneous Experts**|Jack Cook et.al.|[2506.02813](http://arxiv.org/abs/2506.02813)|null|
-|**2025-06-03**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al.|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
+|**2025-06-04**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al.|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
 |**2025-06-03**|**MidPO: Dual Preference Optimization for Safety and Helpfulness in Large Language Models via a Mixture of Experts Framework**|Yupeng Qi et.al.|[2506.02460](http://arxiv.org/abs/2506.02460)|null|
 |**2025-05-31**|**Enhancing Multimodal Continual Instruction Tuning with BranchLoRA**|Duzhen Zhang et.al.|[2506.02041](http://arxiv.org/abs/2506.02041)|null|
 |**2025-06-02**|**SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model**|Zhao Yang et.al.|[2506.01833](http://arxiv.org/abs/2506.01833)|null|
@@ -753,7 +753,7 @@ layout: default
 |**2025-06-03**|**Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert**|Zhaokun Wang et.al.|[2505.23868](http://arxiv.org/abs/2505.23868)|null|
 |**2025-05-29**|**Revisiting Uncertainty Estimation and Calibration of Large Language Models**|Linwei Tao et.al.|[2505.23854](http://arxiv.org/abs/2505.23854)|null|
 |**2025-05-28**|**EvoMoE: Expert Evolution in Mixture of Experts for Multimodal Large Language Models**|Linglin Jing et.al.|[2505.23830](http://arxiv.org/abs/2505.23830)|null|
-|**2025-05-27**|**LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions**|Hadi Askari et.al.|[2505.23811](http://arxiv.org/abs/2505.23811)|null|
+|**2025-06-03**|**LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions**|Hadi Askari et.al.|[2505.23811](http://arxiv.org/abs/2505.23811)|null|
 |**2025-05-29**|**From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents**|Tobias Lindenbauer et.al.|[2505.23422](http://arxiv.org/abs/2505.23422)|**[link](https://github.com/liqs-v2/ctim-rover)**|
 |**2025-05-29**|**Context-Aware Semantic Communication for the Wireless Networks**|Guangyuan Liu et.al.|[2505.23249](http://arxiv.org/abs/2505.23249)|null|
 |**2025-05-29**|**Two Is Better Than One: Rotations Scale LoRAs**|Hongcan Guo et.al.|[2505.23184](http://arxiv.org/abs/2505.23184)|null|
@@ -1497,7 +1497,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-03**|**Feedstack: Layering Structured Representations over Unstructured Feedback to Scaffold Human AI Conversation**|Hannah Vy Nguyen et.al.|[2506.03052](http://arxiv.org/abs/2506.03052)|null|
 |**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780](http://arxiv.org/abs/2506.02780)|null|
-|**2025-06-03**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
+|**2025-06-04**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
 |**2025-06-03**|**Consultant Decoding: Yet Another Synergistic Mechanism**|Chuanghao Ding et.al.|[2506.02391](http://arxiv.org/abs/2506.02391)|null|
 |**2025-06-02**|**Radiation GRMHD Models of Accretion onto Stellar-Mass Black Holes: I. Survey of Eddington Ratios**|Lizhong Zhang et.al.|[2506.02289](http://arxiv.org/abs/2506.02289)|null|
 |**2025-05-16**|**SpecMemo: Speculative Decoding is in Your Pocket**|Selin Yildirim et.al.|[2506.01986](http://arxiv.org/abs/2506.01986)|null|
@@ -1653,7 +1653,7 @@ layout: default
 |**2025-04-01**|**Reminiscences about Steven Weinberg (This Time it's Personal)**|C. P. Burgess et.al.|[2504.01118](http://arxiv.org/abs/2504.01118)|null|
 |**2025-04-01**|**Mesoscale Eddy -- Internal Wave Coupling. III. The End of the Enstrophy Cascade and Maintenance of Gyre Scale Potential Vorticity Gradients**|Kurt L. Polzin et.al.|[2504.00486](http://arxiv.org/abs/2504.00486)|null|
 |**2025-04-01**|**The Impact of Triangular-Toothed Gears on the Functionality of the Antikythera Mechanism**|Esteban Guillermo Szigety y Gustavo Francisco Arenas et.al.|[2504.00327](http://arxiv.org/abs/2504.00327)|null|
-|**2025-04-03**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
+|**2025-06-04**|**Token-Driven GammaTune: Adaptive Calibration for Enhanced Speculative Decoding**|Aayush Gautam et.al.|[2504.00030](http://arxiv.org/abs/2504.00030)|null|
 |**2025-03-31**|**What the F*ck Is Artificial General Intelligence?**|Michael Timothy Bennett et.al.|[2503.23923](http://arxiv.org/abs/2503.23923)|null|
 |**2025-03-31**|**A search for the three isomers of cyano-1,3-butadiene in TMC-1: Implications for bottom-up routes involving 1,3-butadiene**|M. Agundez et.al.|[2503.23841](http://arxiv.org/abs/2503.23841)|null|
 |**2025-03-30**|**Credit, Land Speculation, and Low-Interest-Rate Policy**|Tomohiro Hirano et.al.|[2503.23552](http://arxiv.org/abs/2503.23552)|null|
