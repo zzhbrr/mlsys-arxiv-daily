@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
+|**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
+|**2025-06-04**|**GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems**|Tiehua Mei et.al.|[2506.04015](http://arxiv.org/abs/2506.04015)|null|
+|**2025-06-04**|**Pre $^3$ : Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation**|Junyi Chen et.al.|[2506.03887](http://arxiv.org/abs/2506.03887)|null|
+|**2025-06-04**|**Client-Side Zero-Shot LLM Inference for Comprehensive In-Browser URL Analysis**|Avihay Cohen et.al.|[2506.03656](http://arxiv.org/abs/2506.03656)|null|
+|**2025-06-04**|**POSS: Position Specialist Generates Better Draft for Speculative Decoding**|Langlin Huang et.al.|[2506.03566](http://arxiv.org/abs/2506.03566)|null|
+|**2025-06-03**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
 |**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
 |**2025-06-03**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|null|
@@ -744,6 +751,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Out-of-Distribution Graph Models Merging**|Yidi Wang et.al.|[2506.03674](http://arxiv.org/abs/2506.03674)|null|
+|**2025-06-04**|**Resolving Task Objective Conflicts in Unified Multimodal Understanding and Generation via Task-Aware Mixture-of-Experts**|Jiaxing Zhang et.al.|[2506.03591](http://arxiv.org/abs/2506.03591)|null|
 |**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
 |**2025-06-03**|**Scaling Fine-Grained MoE Beyond 50B Parameters: Empirical Evaluation and Practical Insights**|Jakub Krajewski et.al.|[2506.02890](http://arxiv.org/abs/2506.02890)|null|
 |**2025-06-03**|**Brain-Like Processing Pathways Form in Models With Heterogeneous Experts**|Jack Cook et.al.|[2506.02813](http://arxiv.org/abs/2506.02813)|null|
@@ -1508,6 +1517,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**|Jonathan Geuter et.al.|[2506.04118](http://arxiv.org/abs/2506.04118)|null|
+|**2025-06-04**|**The Causal-Noncausal Tail Processes: An Introduction**|Christian Gouriéroux et.al.|[2506.04046](http://arxiv.org/abs/2506.04046)|null|
+|**2025-06-04**|**AdaDecode: Accelerating LLM Decoding with Adaptive Layer Parallelism**|Zhepei Wei et.al.|[2506.03700](http://arxiv.org/abs/2506.03700)|null|
+|**2025-06-04**|**POSS: Position Specialist Generates Better Draft for Speculative Decoding**|Langlin Huang et.al.|[2506.03566](http://arxiv.org/abs/2506.03566)|null|
+|**2025-06-02**|**Out-of-Vocabulary Sampling Boosts Speculative Decoding**|Nadav Timor et.al.|[2506.03206](http://arxiv.org/abs/2506.03206)|null|
 |**2025-06-03**|**Feedstack: Layering Structured Representations over Unstructured Feedback to Scaffold Human AI Conversation**|Hannah Vy Nguyen et.al.|[2506.03052](http://arxiv.org/abs/2506.03052)|null|
 |**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780](http://arxiv.org/abs/2506.02780)|null|
 |**2025-06-04**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
