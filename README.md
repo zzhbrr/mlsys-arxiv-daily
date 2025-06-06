@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models**|Yanzhao Zhang et.al.|[2506.05176](http://arxiv.org/abs/2506.05176)|null|
+|**2025-06-05**|**Are LLMs Reliable Translators of Logical Reasoning Across Lexically Diversified Contexts?**|Qingchuan Li et.al.|[2506.04575](http://arxiv.org/abs/2506.04575)|null|
 |**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
 |**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
 |**2025-06-04**|**GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems**|Tiehua Mei et.al.|[2506.04015](http://arxiv.org/abs/2506.04015)|null|
@@ -751,6 +753,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Kinetics: Rethinking Test-Time Scaling Laws**|Ranajoy Sadhukhan et.al.|[2506.05333](http://arxiv.org/abs/2506.05333)|null|
+|**2025-06-05**|**Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection**|Ziyi Zhou et.al.|[2506.04739](http://arxiv.org/abs/2506.04739)|null|
+|**2025-06-05**|**FlashDMoE: Fast Distributed MoE in a Single Kernel**|Osayamen Jonathan Aimuyo et.al.|[2506.04667](http://arxiv.org/abs/2506.04667)|null|
 |**2025-06-04**|**Out-of-Distribution Graph Models Merging**|Yidi Wang et.al.|[2506.03674](http://arxiv.org/abs/2506.03674)|null|
 |**2025-06-04**|**Resolving Task Objective Conflicts in Unified Multimodal Understanding and Generation via Task-Aware Mixture-of-Experts**|Jiaxing Zhang et.al.|[2506.03591](http://arxiv.org/abs/2506.03591)|null|
 |**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
@@ -1517,6 +1522,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Accelerated Test-Time Scaling with Model-Free Speculative Sampling**|Woomin Song et.al.|[2506.04708](http://arxiv.org/abs/2506.04708)|null|
 |**2025-06-04**|**Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**|Jonathan Geuter et.al.|[2506.04118](http://arxiv.org/abs/2506.04118)|null|
 |**2025-06-04**|**The Causal-Noncausal Tail Processes: An Introduction**|Christian Gouriéroux et.al.|[2506.04046](http://arxiv.org/abs/2506.04046)|null|
 |**2025-06-04**|**AdaDecode: Accelerating LLM Decoding with Adaptive Layer Parallelism**|Zhepei Wei et.al.|[2506.03700](http://arxiv.org/abs/2506.03700)|null|
