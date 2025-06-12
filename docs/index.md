@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -27,7 +27,7 @@ layout: default
 |**2025-05-21**|**Reward Is Enough: LLMs Are In-Context Reinforcement Learners**|Kefan Song et.al.|[2506.06303](http://arxiv.org/abs/2506.06303)|null|
 |**2025-06-06**|**AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search**|Yu Li et.al.|[2506.06017](http://arxiv.org/abs/2506.06017)|null|
 |**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
-|**2025-06-10**|**Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models**|Yanzhao Zhang et.al.|[2506.05176](http://arxiv.org/abs/2506.05176)|null|
+|**2025-06-11**|**Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models**|Yanzhao Zhang et.al.|[2506.05176](http://arxiv.org/abs/2506.05176)|null|
 |**2025-06-05**|**Are LLMs Reliable Translators of Logical Reasoning Across Lexically Diversified Contexts?**|Qingchuan Li et.al.|[2506.04575](http://arxiv.org/abs/2506.04575)|null|
 |**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
 |**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
@@ -760,14 +760,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks**|Yixuan Li et.al.|[2506.08931](http://arxiv.org/abs/2506.08931)|null|
 |**2025-06-10**|**CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA**|Jiale Dong et.al.|[2506.08496](http://arxiv.org/abs/2506.08496)|null|
-|**2025-06-10**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra et.al.|[2506.08356](http://arxiv.org/abs/2506.08356)|null|
+|**2025-06-11**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra et.al.|[2506.08356](http://arxiv.org/abs/2506.08356)|null|
 |**2025-06-09**|**Benchmarking Pre-Trained Time Series Models for Electricity Price Forecasting**|Timothée Hornek Amir Sartipi et.al.|[2506.08113](http://arxiv.org/abs/2506.08113)|null|
-|**2025-06-09**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|null|
+|**2025-06-11**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|null|
 |**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969](http://arxiv.org/abs/2506.07969)|null|
 |**2025-06-09**|**New Insights into the T Tauri Binary Separation Distribution**|Caleb Eastlund et.al.|[2506.07938](http://arxiv.org/abs/2506.07938)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
-|**2025-06-09**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584](http://arxiv.org/abs/2506.07584)|null|
-|**2025-06-10**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yaggel et.al.|[2506.07563](http://arxiv.org/abs/2506.07563)|null|
+|**2025-06-11**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584](http://arxiv.org/abs/2506.07584)|null|
+|**2025-06-11**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yaggel et.al.|[2506.07563](http://arxiv.org/abs/2506.07563)|null|
 |**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
 |**2025-06-09**|**Graph-of-Causal Evolution: Challenging Chain-of-Model for Reasoning**|Libo Wang et.al.|[2506.07501](http://arxiv.org/abs/2506.07501)|null|
 |**2025-06-09**|**MoE-GPS: Guidlines for Prediction Strategy for Dynamic Expert Duplication in MoE Load Balancing**|Haiyue Ma et.al.|[2506.07366](http://arxiv.org/abs/2506.07366)|null|
@@ -797,7 +797,7 @@ layout: default
 |**2025-06-01**|**Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts**|Fan Liu et.al.|[2506.00965](http://arxiv.org/abs/2506.00965)|null|
 |**2025-05-31**|**FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts**|Xinyi Wang et.al.|[2506.00495](http://arxiv.org/abs/2506.00495)|null|
 |**2025-05-30**|**Mixture-of-Experts for Personalized and Semantic-Aware Next Location Prediction**|Shuai Liu et.al.|[2505.24597](http://arxiv.org/abs/2505.24597)|null|
-|**2025-05-30**|**Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis**|Junzhuo Li et.al.|[2505.24593](http://arxiv.org/abs/2505.24593)|null|
+|**2025-06-11**|**Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis**|Junzhuo Li et.al.|[2505.24593](http://arxiv.org/abs/2505.24593)|null|
 |**2025-05-30**|**Mastering Massive Multi-Task Reinforcement Learning via Mixture-of-Expert Decision Transformer**|Yilun Kong et.al.|[2505.24378](http://arxiv.org/abs/2505.24378)|**[link](https://github.com/kongyilun/m3dt)**|
 |**2025-05-30**|**GradPower: Powering Gradients for Faster Language Model Pre-Training**|Mingze Wang et.al.|[2505.24275](http://arxiv.org/abs/2505.24275)|null|
 |**2025-05-30**|**On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks**|Mingze Wang et.al.|[2505.24205](http://arxiv.org/abs/2505.24205)|null|
