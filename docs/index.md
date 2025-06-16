@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -76,7 +76,7 @@ layout: default
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
 |**2025-05-23**|**Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP**|Satya Narayana Cheetirala et.al.|[2505.20320](http://arxiv.org/abs/2505.20320)|null|
 |**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|**[link](https://github.com/Javihaus/APE-A-Data-Centric-Benchmark-for-Efficient-LLM-Adaptation-in-Text-Summarization)**|
-|**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
+|**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-26**|**VLMLight: Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning**|Maonan Wang et.al.|[2505.19486](http://arxiv.org/abs/2505.19486)|null|
 |**2025-05-26**|**BizFinBench: A Business-Driven Real-World Financial Benchmark for Evaluating LLMs**|Guilong Lu et.al.|[2505.19457](http://arxiv.org/abs/2505.19457)|**[link](https://github.com/hithink-research/bizfinbench)**|
 |**2025-05-26**|**WINA: Weight Informed Neuron Activation for Accelerating Large Language Model Inference**|Sihan Chen et.al.|[2505.19427](http://arxiv.org/abs/2505.19427)|**[link](https://github.com/microsoft/wina)**|
@@ -839,7 +839,7 @@ layout: default
 |**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
 |**2025-06-01**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001](http://arxiv.org/abs/2505.20001)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
-|**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
+|**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|**[link](https://github.com/icuraslw/official-repository-of-confsmoe)**|
 |**2025-05-26**|**WINA: Weight Informed Neuron Activation for Accelerating Large Language Model Inference**|Sihan Chen et.al.|[2505.19427](http://arxiv.org/abs/2505.19427)|**[link](https://github.com/microsoft/wina)**|
 |**2025-05-25**|**RankLLM: A Python Package for Reranking with LLMs**|Sahel Sharifymoghaddam et.al.|[2505.19284](http://arxiv.org/abs/2505.19284)|null|
@@ -1615,7 +1615,7 @@ layout: default
 |**2025-05-26**|**Bounded cohomology, quotient extensions, and hierarchical hyperbolicity**|Francesco Fournier-Facio et.al.|[2505.20462](http://arxiv.org/abs/2505.20462)|null|
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
 |**2025-05-23**|**Reinforcement Speculative Decoding for Fast Ranking**|Yingpeng Du et.al.|[2505.20316](http://arxiv.org/abs/2505.20316)|null|
-|**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
+|**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-28**|**Faster and Better LLMs via Latency-Aware Test-Time Scaling**|Zili Wang et.al.|[2505.19634](http://arxiv.org/abs/2505.19634)|null|
 |**2025-05-30**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
 |**2025-05-29**|**DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding**|Yunhai Hu et.al.|[2505.19201](http://arxiv.org/abs/2505.19201)|**[link](https://github.com/sai-lab-nyu/dream)**|

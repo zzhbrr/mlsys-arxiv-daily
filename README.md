@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -83,7 +83,7 @@
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
 |**2025-05-23**|**Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP**|Satya Narayana Cheetirala et.al.|[2505.20320](http://arxiv.org/abs/2505.20320)|null|
 |**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|**[link](https://github.com/Javihaus/APE-A-Data-Centric-Benchmark-for-Efficient-LLM-Adaptation-in-Text-Summarization)**|
-|**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
+|**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-26**|**VLMLight: Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning**|Maonan Wang et.al.|[2505.19486](http://arxiv.org/abs/2505.19486)|null|
 |**2025-05-26**|**BizFinBench: A Business-Driven Real-World Financial Benchmark for Evaluating LLMs**|Guilong Lu et.al.|[2505.19457](http://arxiv.org/abs/2505.19457)|**[link](https://github.com/hithink-research/bizfinbench)**|
 |**2025-05-26**|**WINA: Weight Informed Neuron Activation for Accelerating Large Language Model Inference**|Sihan Chen et.al.|[2505.19427](http://arxiv.org/abs/2505.19427)|**[link](https://github.com/microsoft/wina)**|
@@ -758,7 +758,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -769,7 +769,7 @@
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## MoE
 
@@ -850,7 +850,7 @@
 |**2025-05-26**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|**[link](https://github.com/cmu-flame/flame-moe)**|
 |**2025-06-01**|**NEXT: Multi-Grained Mixture of Experts via Text-Modulation for Multi-Modal Object Re-ID**|Shihao Li et.al.|[2505.20001](http://arxiv.org/abs/2505.20001)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
-|**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
+|**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|**[link](https://github.com/icuraslw/official-repository-of-confsmoe)**|
 |**2025-05-26**|**WINA: Weight Informed Neuron Activation for Accelerating Large Language Model Inference**|Sihan Chen et.al.|[2505.19427](http://arxiv.org/abs/2505.19427)|**[link](https://github.com/microsoft/wina)**|
 |**2025-05-25**|**RankLLM: A Python Package for Reranking with LLMs**|Sahel Sharifymoghaddam et.al.|[2505.19284](http://arxiv.org/abs/2505.19284)|null|
@@ -1566,7 +1566,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1628,7 +1628,7 @@
 |**2025-05-26**|**Bounded cohomology, quotient extensions, and hierarchical hyperbolicity**|Francesco Fournier-Facio et.al.|[2505.20462](http://arxiv.org/abs/2505.20462)|null|
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
 |**2025-05-23**|**Reinforcement Speculative Decoding for Fast Ranking**|Yingpeng Du et.al.|[2505.20316](http://arxiv.org/abs/2505.20316)|null|
-|**2025-05-26**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
+|**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-28**|**Faster and Better LLMs via Latency-Aware Test-Time Scaling**|Zili Wang et.al.|[2505.19634](http://arxiv.org/abs/2505.19634)|null|
 |**2025-05-30**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
 |**2025-05-29**|**DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding**|Yunhai Hu et.al.|[2505.19201](http://arxiv.org/abs/2505.19201)|**[link](https://github.com/sai-lab-nyu/dream)**|
@@ -2199,7 +2199,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -2246,7 +2246,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
