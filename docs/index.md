@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -28,9 +28,9 @@ layout: default
 |**2025-06-12**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
 |**2025-06-11**|**Give Me FP32 or Give Me Death? Challenges and Solutions for Reproducible Reasoning**|Jiayi Yuan et.al.|[2506.09501](http://arxiv.org/abs/2506.09501)|null|
 |**2025-06-10**|**Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive- $k$**|Chihiro Taguchi et.al.|[2506.08479](http://arxiv.org/abs/2506.08479)|null|
-|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|null|
+|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
 |**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|**[link](https://github.com/openbmb/minicpm)**|
-|**2025-06-09**|**How Benchmark Prediction from Fewer Data Misses the Mark**|Guanhua Zhang et.al.|[2506.07673](http://arxiv.org/abs/2506.07673)|null|
+|**2025-06-09**|**How Benchmark Prediction from Fewer Data Misses the Mark**|Guanhua Zhang et.al.|[2506.07673](http://arxiv.org/abs/2506.07673)|**[link](https://github.com/socialfoundations/benchmark-prediction)**|
 |**2025-06-09**|**TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review**|Yuan Chang et.al.|[2506.07642](http://arxiv.org/abs/2506.07642)|null|
 |**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
 |**2025-06-07**|**Containerized In-Storage Processing and Computing-Enabled SSD Disaggregation**|Miryeong Kwon et.al.|[2506.06769](http://arxiv.org/abs/2506.06769)|null|
@@ -51,8 +51,8 @@ layout: default
 |**2025-06-07**|**Parallel CPU-GPU Execution for LLM Inference on Constrained GPUs**|Jiakun Fan et.al.|[2506.03296](http://arxiv.org/abs/2506.03296)|null|
 |**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
 |**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
-|**2025-06-10**|**TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**|Zhong-Zhi Li et.al.|[2506.02678](http://arxiv.org/abs/2506.02678)|**[link](https://github.com/zzli2022/tldr)**|
-|**2025-06-03**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|**[link](https://github.com/alibaba-edu/qwen-bailian-usagetraces-anon)**|
+|**2025-06-14**|**TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**|Zhong-Zhi Li et.al.|[2506.02678](http://arxiv.org/abs/2506.02678)|**[link](https://github.com/zzli2022/tldr)**|
+|**2025-06-14**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|**[link](https://github.com/alibaba-edu/qwen-bailian-usagetraces-anon)**|
 |**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|**[link](https://github.com/gpzlx1/hata)**|
 |**2025-06-03**|**Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective**|Shenghua He et.al.|[2506.02553](http://arxiv.org/abs/2506.02553)|null|
 |**2025-05-29**|**NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs**|Haeun Lee et.al.|[2506.02024](http://arxiv.org/abs/2506.02024)|null|
@@ -141,7 +141,7 @@ layout: default
 |**2025-05-12**|**LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning**|Xiaotian Lin et.al.|[2505.07437](http://arxiv.org/abs/2505.07437)|**[link](https://github.com/HKUSTDial/LEAD)**|
 |**2025-05-12**|**Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity**|Guang Yan et.al.|[2505.07239](http://arxiv.org/abs/2505.07239)|null|
 |**2025-05-12**|**PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications**|Kuntai Du et.al.|[2505.07203](http://arxiv.org/abs/2505.07203)|null|
-|**2025-05-14**|**I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference**|Zibo Gao et.al.|[2505.06738](http://arxiv.org/abs/2505.06738)|null|
+|**2025-06-15**|**I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference**|Zibo Gao et.al.|[2505.06738](http://arxiv.org/abs/2505.06738)|null|
 |**2025-05-09**|**Challenging GPU Dominance: When CPUs Outperform for On-Device LLM Inference**|Haolin Zhang et.al.|[2505.06461](http://arxiv.org/abs/2505.06461)|null|
 |**2025-04-30**|**Towards Efficient LLM Storage Reduction via Tensor Deduplication and Delta Compression**|Zirui Wang et.al.|[2505.06252](http://arxiv.org/abs/2505.06252)|null|
 |**2025-05-09**|**Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM**|Zehao Fan et.al.|[2505.05772](http://arxiv.org/abs/2505.05772)|null|
@@ -173,7 +173,7 @@ layout: default
 |**2025-04-28**|**R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference**|Zhenyu Zhang et.al.|[2504.19449](http://arxiv.org/abs/2504.19449)|null|
 |**2025-04-28**|**Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**|Prateek Chhikara et.al.|[2504.19413](http://arxiv.org/abs/2504.19413)|null|
 |**2025-05-07**|**A Simple Ensemble Strategy for LLM Inference: Towards More Stable Text Classification**|Junichiro Niimi et.al.|[2504.18884](http://arxiv.org/abs/2504.18884)|**[link](https://github.com/jniimi/ensemble_inference)**|
-|**2025-04-29**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
+|**2025-06-15**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
 |**2025-04-25**|**EcoServe: Enabling Cost-effective LLM Serving with Proactive Intra- and Inter-Instance Orchestration**|Jiangsu Du et.al.|[2504.18154](http://arxiv.org/abs/2504.18154)|null|
 |**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|null|
 |**2025-04-25**|**Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving**|Chang Xiao et.al.|[2504.17999](http://arxiv.org/abs/2504.17999)|null|
@@ -776,7 +776,7 @@ layout: default
 |**2025-04-23**|**Test code generation at Ericsson using Program Analysis Augmented Fine Tuned LLMs**|Sai Krishna et.al.|[2506.11006](http://arxiv.org/abs/2506.11006)|null|
 |**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
 |**2025-06-12**|**Technical Report with Proofs for A Full Picture in Conformance Checking: Efficiently Summarizing All Optimal Alignments**|Philipp Bär et.al.|[2506.10345](http://arxiv.org/abs/2506.10345)|null|
-|**2025-05-29**|**Multimodal Large Language Models: A Survey**|Longzhen Han et.al.|[2506.10016](http://arxiv.org/abs/2506.10016)|null|
+|**2025-06-13**|**A Survey of Generative Categories and Techniques in Multimodal Large Language Models**|Longzhen Han et.al.|[2506.10016](http://arxiv.org/abs/2506.10016)|null|
 |**2025-06-11**|**GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture**|GigaChat team et.al.|[2506.09440](http://arxiv.org/abs/2506.09440)|null|
 |**2025-06-11**|**DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**|Yuchen Feng et.al.|[2506.09351](http://arxiv.org/abs/2506.09351)|null|
 |**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|**[link](https://github.com/inclusionai/ming)**|
@@ -784,7 +784,7 @@ layout: default
 |**2025-06-10**|**CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA**|Jiale Dong et.al.|[2506.08496](http://arxiv.org/abs/2506.08496)|null|
 |**2025-06-11**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra et.al.|[2506.08356](http://arxiv.org/abs/2506.08356)|null|
 |**2025-06-09**|**Benchmarking Pre-Trained Time Series Models for Electricity Price Forecasting**|Timothée Hornek Amir Sartipi et.al.|[2506.08113](http://arxiv.org/abs/2506.08113)|null|
-|**2025-06-11**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|null|
+|**2025-06-11**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|**[link](https://github.com/ringbdstack/stamimupter)**|
 |**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969](http://arxiv.org/abs/2506.07969)|**[link](https://github.com/divelab/AIRS)**|
 |**2025-06-09**|**New Insights into the T Tauri Binary Separation Distribution**|Caleb Eastlund et.al.|[2506.07938](http://arxiv.org/abs/2506.07938)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
@@ -813,7 +813,7 @@ layout: default
 |**2025-06-04**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Juntong Li et.al.|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
 |**2025-06-03**|**MidPO: Dual Preference Optimization for Safety and Helpfulness in Large Language Models via a Mixture of Experts Framework**|Yupeng Qi et.al.|[2506.02460](http://arxiv.org/abs/2506.02460)|null|
 |**2025-05-31**|**Enhancing Multimodal Continual Instruction Tuning with BranchLoRA**|Duzhen Zhang et.al.|[2506.02041](http://arxiv.org/abs/2506.02041)|null|
-|**2025-06-02**|**SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model**|Zhao Yang et.al.|[2506.01833](http://arxiv.org/abs/2506.01833)|null|
+|**2025-06-02**|**SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model**|Zhao Yang et.al.|[2506.01833](http://arxiv.org/abs/2506.01833)|**[link](https://github.com/zhujiwei111/space)**|
 |**2025-06-02**|**Mixture of Experts Provably Detect and Learn the Latent Cluster Structure in Gradient-Based Learning**|Ryotaro Kawata et.al.|[2506.01656](http://arxiv.org/abs/2506.01656)|null|
 |**2025-06-02**|**DeepSeek in Healthcare: A Survey of Capabilities, Risks, and Clinical Applications of Open-Source Large Language Models**|Jiancheng Ye et.al.|[2506.01257](http://arxiv.org/abs/2506.01257)|null|
 |**2025-06-01**|**Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts**|Fan Liu et.al.|[2506.00965](http://arxiv.org/abs/2506.00965)|null|
@@ -1575,10 +1575,10 @@ layout: default
 |**2025-06-11**|**Patterns of Patterns III**|Joseph Corneli et.al.|[2506.09696](http://arxiv.org/abs/2506.09696)|null|
 |**2025-06-11**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/abs/2506.09397)|null|
 |**2025-06-11**|**A collection of results relating the geometry of plane domains and the exit time of planar Brownian motion, II**|Greg Markowsky et.al.|[2506.09364](http://arxiv.org/abs/2506.09364)|null|
-|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|null|
+|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
 |**2025-06-10**|**Solving Convex-Concave Problems with $\tilde{\mathcal{O}}(ε^{-4/7})$ Second-Order Oracle Complexity**|Lesi Chen et.al.|[2506.08362](http://arxiv.org/abs/2506.08362)|null|
 |**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|**[link](https://github.com/openbmb/minicpm)**|
-|**2025-06-09**|**FREESS: An Educational Simulator of a RISC-V-Inspired Superscalar Processor Based on Tomasulo's Algorithm**|Roberto Giorgi et.al.|[2506.07665](http://arxiv.org/abs/2506.07665)|null|
+|**2025-06-09**|**FREESS: An Educational Simulator of a RISC-V-Inspired Superscalar Processor Based on Tomasulo's Algorithm**|Roberto Giorgi et.al.|[2506.07665](http://arxiv.org/abs/2506.07665)|**[link](https://github.com/robgiorgi/freess)**|
 |**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[2506.07416](http://arxiv.org/abs/2506.07416)|null|
 |**2025-06-08**|**Exploiting Inaccurate Branch History in Side-Channel Attacks**|Yuhui Zhu et.al.|[2506.07263](http://arxiv.org/abs/2506.07263)|null|
 |**2025-06-07**|**Training-Free Tokenizer Transplantation via Orthogonal Matching Pursuit**|Charles Goddard et.al.|[2506.06607](http://arxiv.org/abs/2506.06607)|null|
@@ -1692,7 +1692,7 @@ layout: default
 |**2025-04-27**|**Detecting speculative data flow vulnerabilities using weakest precondition reasoning**|Graeme Smith et.al.|[2504.19128](http://arxiv.org/abs/2504.19128)|null|
 |**2025-05-25**|**Efficient Reasoning for LLMs through Speculative Chain-of-Thought**|Jikai Wang et.al.|[2504.19095](http://arxiv.org/abs/2504.19095)|**[link](https://github.com/jikai0wang/speculative_cot)**|
 |**2025-04-26**|**Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport II. Locality of Gravitoturbulence, Clumpy Spirals, and Implications for Observable Substructure**|Wenrui Xu et.al.|[2504.18751](http://arxiv.org/abs/2504.18751)|null|
-|**2025-04-29**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
+|**2025-06-15**|**PARD: Accelerating LLM Inference with Low-Cost PARallel Draft Model Adaptation**|Zihao An et.al.|[2504.18583](http://arxiv.org/abs/2504.18583)|null|
 |**2025-04-25**|**Generalizing the relativistic precession model of quasi-periodic oscillations through anharmonic corrections**|Roberto Giambò et.al.|[2504.18403](http://arxiv.org/abs/2504.18403)|null|
 |**2025-04-23**|**A Vision for AI-Driven Adaptation of Dynamic AR Content to Users and Environments**|Julian Rasch et.al.|[2504.16562](http://arxiv.org/abs/2504.16562)|null|
 |**2025-04-23**|**Hardness of Median and Center in the Ulam Metric**|Nick Fischer et.al.|[2504.16437](http://arxiv.org/abs/2504.16437)|null|
