@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
+|**2025-06-16**|**Empirical Evaluation of Large Language Models in Automated Program Repair**|Jiajun Sun et.al.|[2506.13186](http://arxiv.org/abs/2506.13186)|null|
+|**2025-06-15**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
+|**2025-06-13**|**Semantic Scheduling for LLM Inference**|Wenyue Hua et.al.|[2506.12204](http://arxiv.org/abs/2506.12204)|null|
+|**2025-05-21**|**FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization**|Fangxin Liu et.al.|[2506.12024](http://arxiv.org/abs/2506.12024)|null|
 |**2025-06-13**|**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**|Xiaoran Liu et.al.|[2506.11886](http://arxiv.org/abs/2506.11886)|null|
 |**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600](http://arxiv.org/abs/2506.11600)|null|
 |**2025-06-13**|**Collaborative LLM Inference via Planning for Efficient Reasoning**|Byeongchan Lee et.al.|[2506.11578](http://arxiv.org/abs/2506.11578)|null|
@@ -771,6 +777,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/abs/2506.13585)|null|
+|**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
+|**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|null|
+|**2025-06-16**|**Breaking Thought Patterns: A Multi-Dimensional Reasoning Framework for LLMs**|Xintong Tang et.al.|[2506.13192](http://arxiv.org/abs/2506.13192)|null|
+|**2025-06-15**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
+|**2025-06-14**|**Automatic Expert Discovery in LLM Upcycling via Sparse Interpolated Mixture-of-Experts**|Shengzhuang Chen et.al.|[2506.12597](http://arxiv.org/abs/2506.12597)|null|
+|**2025-06-14**|**Topology-Assisted Spatio-Temporal Pattern Disentangling for Scalable MARL in Large-scale Autonomous Traffic Control**|Rongpeng Li et.al.|[2506.12453](http://arxiv.org/abs/2506.12453)|null|
+|**2025-06-14**|**HarMoEny: Efficient Multi-GPU Inference of MoE Models**|Zachary Douchet et.al.|[2506.12417](http://arxiv.org/abs/2506.12417)|null|
+|**2025-06-14**|**Group then Scale: Dynamic Mixture-of-Experts Multilingual Language Model**|Chong Li et.al.|[2506.12388](http://arxiv.org/abs/2506.12388)|null|
+|**2025-06-13**|**Can Mixture-of-Experts Surpass Dense LLMs Under Strictly Equal Resources?**|Houyi Li et.al.|[2506.12119](http://arxiv.org/abs/2506.12119)|null|
 |**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
 |**2025-05-21**|**MoTE: Mixture of Task-specific Experts for Pre-Trained ModelBased Class-incremental Learning**|Linjie Li et.al.|[2506.11038](http://arxiv.org/abs/2506.11038)|null|
 |**2025-04-23**|**Test code generation at Ericsson using Program Analysis Augmented Fine Tuned LLMs**|Sai Krishna et.al.|[2506.11006](http://arxiv.org/abs/2506.11006)|null|
@@ -1569,6 +1585,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Stimulus Motion Perception Studies Imply Specific Neural Computations in Human Visual Stabilization**|David W Arathorn et.al.|[2506.13506](http://arxiv.org/abs/2506.13506)|null|
+|**2025-06-14**|**Exploring the Secondary Risks of Large Language Models**|Jiawei Chen et.al.|[2506.12382](http://arxiv.org/abs/2506.12382)|null|
+|**2025-06-14**|**Quantum Machine Learning**|Muhammad Usman et.al.|[2506.12292](http://arxiv.org/abs/2506.12292)|null|
+|**2025-06-13**|**Fluid-induced snap-through instability of spherical shells**|Pier Giuseppe Ledda et.al.|[2506.12247](http://arxiv.org/abs/2506.12247)|null|
+|**2025-06-13**|**Eliciting Reasoning in Language Models with Cognitive Tools**|Brown Ebouky et.al.|[2506.12115](http://arxiv.org/abs/2506.12115)|null|
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
 |**2025-06-11**|**Speculative Design in Spiraling Time: Methods and Indigenous HCI**|James Eschrich et.al.|[2506.10229](http://arxiv.org/abs/2506.10229)|null|
 |**2025-06-11**|**V455 Car: an oscillating eclipsing Algol-type binary in triple star system**|Zhao-Long Deng et.al.|[2506.10124](http://arxiv.org/abs/2506.10124)|null|
@@ -1745,7 +1766,7 @@ layout: default
 |**2025-05-02**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|**[link](https://github.com/picotrex/gpt-imgeval)**|
 |**2025-04-03**|**Black Holes, Moduli Stabilisation and the Swampland**|Matilda Delgado et.al.|[2504.02645](http://arxiv.org/abs/2504.02645)|null|
 |**2025-04-08**|**Variational Online Mirror Descent for Robust Learning in Schrödinger Bridge**|Dong-Sig Han et.al.|[2504.02618](http://arxiv.org/abs/2504.02618)|null|
-|**2025-04-02**|**Graviton Scattering on Gravitational Atoms: Relic Graviton Shot Noise**|Benjamin Avila-Lopez et.al.|[2504.01286](http://arxiv.org/abs/2504.01286)|null|
+|**2025-06-16**|**Graviton Scattering on Gravitational Atoms: Relic Graviton Shot Noise**|Benjamin Avila-Lopez et.al.|[2504.01286](http://arxiv.org/abs/2504.01286)|null|
 |**2025-04-01**|**Reminiscences about Steven Weinberg (This Time it's Personal)**|C. P. Burgess et.al.|[2504.01118](http://arxiv.org/abs/2504.01118)|null|
 |**2025-04-01**|**Mesoscale Eddy -- Internal Wave Coupling. III. The End of the Enstrophy Cascade and Maintenance of Gyre Scale Potential Vorticity Gradients**|Kurt L. Polzin et.al.|[2504.00486](http://arxiv.org/abs/2504.00486)|null|
 |**2025-04-01**|**The Impact of Triangular-Toothed Gears on the Functionality of the Antikythera Mechanism**|Esteban Guillermo Szigety y Gustavo Francisco Arenas et.al.|[2504.00327](http://arxiv.org/abs/2504.00327)|null|
@@ -2202,7 +2223,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
-|**2025-06-11**|**RNE: a plug-and-play framework for diffusion density estimation and inference-time control**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
+|**2025-06-15**|**RNE: a plug-and-play framework for diffusion density estimation and inference-time control**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
 |**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
 |**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
