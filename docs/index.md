@@ -30,7 +30,7 @@ layout: default
 |**2025-06-13**|**Efficient Long-Context LLM Inference via KV Cache Clustering**|Jie Hu et.al.|[2506.11418](http://arxiv.org/abs/2506.11418)|null|
 |**2025-06-12**|**From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review**|Yaohui Zhang et.al.|[2506.11343](http://arxiv.org/abs/2506.11343)|null|
 |**2025-06-12**|**SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding**|Ziyi Zhang et.al.|[2506.11309](http://arxiv.org/abs/2506.11309)|null|
-|**2025-06-06**|**DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration**|Hanzhi Zhang et.al.|[2506.11104](http://arxiv.org/abs/2506.11104)|null|
+|**2025-06-06**|**DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration**|Hanzhi Zhang et.al.|[2506.11104](http://arxiv.org/abs/2506.11104)|**[link](https://github.com/hanzhizhang-ulrica/dam)**|
 |**2025-06-12**|**Slimming Down LLMs Without Losing Their Minds**|Qingda et.al.|[2506.10885](http://arxiv.org/abs/2506.10885)|null|
 |**2025-06-12**|**AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length**|Junhang Cheng et.al.|[2506.10525](http://arxiv.org/abs/2506.10525)|**[link](https://github.com/cjhcoder7/adaptivellm)**|
 |**2025-06-12**|**TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference**|Hongbin Zhang et.al.|[2506.10470](http://arxiv.org/abs/2506.10470)|null|
@@ -796,7 +796,7 @@ layout: default
 |**2025-06-17**|**Less is More: Undertraining Experts Improves Model Upcycling**|Stefan Horoi et.al.|[2506.14126](http://arxiv.org/abs/2506.14126)|null|
 |**2025-06-16**|**Load Balancing Mixture of Experts with Similarity Preserving Routers**|Nabil Omi et.al.|[2506.14038](http://arxiv.org/abs/2506.14038)|null|
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
-|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/abs/2506.13585)|null|
+|**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/abs/2506.13585)|**[link](https://github.com/minimax-ai/minimax-m1)**|
 |**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
 |**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|**[link](https://github.com/darren-fzq/eaquant)**|
 |**2025-06-16**|**Breaking Thought Patterns: A Multi-Dimensional Reasoning Framework for LLMs**|Xintong Tang et.al.|[2506.13192](http://arxiv.org/abs/2506.13192)|null|
@@ -806,7 +806,7 @@ layout: default
 |**2025-06-17**|**HarMoEny: Efficient Multi-GPU Inference of MoE Models**|Zachary Doucet et.al.|[2506.12417](http://arxiv.org/abs/2506.12417)|null|
 |**2025-06-14**|**Group then Scale: Dynamic Mixture-of-Experts Multilingual Language Model**|Chong Li et.al.|[2506.12388](http://arxiv.org/abs/2506.12388)|null|
 |**2025-06-13**|**Can Mixture-of-Experts Surpass Dense LLMs Under Strictly Equal Resources?**|Houyi Li et.al.|[2506.12119](http://arxiv.org/abs/2506.12119)|null|
-|**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|null|
+|**2025-06-13**|**Structural Similarity-Inspired Unfolding for Lightweight Image Super-Resolution**|Zhangkai Ni et.al.|[2506.11823](http://arxiv.org/abs/2506.11823)|**[link](https://github.com/eezkni/ssiu)**|
 |**2025-05-21**|**MoTE: Mixture of Task-specific Experts for Pre-Trained ModelBased Class-incremental Learning**|Linjie Li et.al.|[2506.11038](http://arxiv.org/abs/2506.11038)|null|
 |**2025-04-23**|**Test code generation at Ericsson using Program Analysis Augmented Fine Tuned LLMs**|Sai Krishna et.al.|[2506.11006](http://arxiv.org/abs/2506.11006)|null|
 |**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
@@ -816,7 +816,7 @@ layout: default
 |**2025-06-11**|**DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**|Yuchen Feng et.al.|[2506.09351](http://arxiv.org/abs/2506.09351)|null|
 |**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|**[link](https://github.com/inclusionai/ming)**|
 |**2025-06-10**|**CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks**|Yixuan Li et.al.|[2506.08931](http://arxiv.org/abs/2506.08931)|null|
-|**2025-06-10**|**CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA**|Jiale Dong et.al.|[2506.08496](http://arxiv.org/abs/2506.08496)|null|
+|**2025-06-10**|**CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA**|Jiale Dong et.al.|[2506.08496](http://arxiv.org/abs/2506.08496)|**[link](https://github.com/dj000011/coqmoe)**|
 |**2025-06-11**|**MedMoE: Modality-Specialized Mixture of Experts for Medical Vision-Language Understanding**|Shivang Chopra et.al.|[2506.08356](http://arxiv.org/abs/2506.08356)|null|
 |**2025-06-09**|**Benchmarking Pre-Trained Time Series Models for Electricity Price Forecasting**|Timothée Hornek Amir Sartipi et.al.|[2506.08113](http://arxiv.org/abs/2506.08113)|null|
 |**2025-06-11**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|**[link](https://github.com/ringbdstack/stamimupter)**|
@@ -2245,7 +2245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
 |**2025-06-15**|**RNE: a plug-and-play framework for diffusion density estimation and inference-time control**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
 |**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
