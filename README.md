@@ -21,8 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
+|**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
+|**2025-06-22**|**LLMs for Customized Marketing Content Generation and Evaluation at Scale**|Haoran Liu et.al.|[2506.17863](http://arxiv.org/abs/2506.17863)|null|
+|**2025-06-21**|**LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning**|Haoxuan Che et.al.|[2506.17562](http://arxiv.org/abs/2506.17562)|null|
+|**2025-06-08**|**Training-free LLM Verification via Recycling Few-shot Examples**|Dongseok Lee et.al.|[2506.17251](http://arxiv.org/abs/2506.17251)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
-|**2025-06-18**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
+|**2025-06-23**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
 |**2025-05-30**|**Learn from the Past: Fast Sparse Indexing for Large Language Model Decoding**|Feiyu Yao et.al.|[2506.15704](http://arxiv.org/abs/2506.15704)|null|
 |**2025-06-18**|**eLLM: Elastic Memory Management Framework for Efficient LLM Serving**|Jiale Xu et.al.|[2506.15155](http://arxiv.org/abs/2506.15155)|null|
 |**2025-06-17**|**CrEst: Credibility Estimation for Contexts in LLMs via Weak Supervision**|Dyah Adila et.al.|[2506.14912](http://arxiv.org/abs/2506.14912)|null|
@@ -795,6 +801,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
+|**2025-06-23**|**An Audio-centric Multi-task Learning Framework for Streaming Ads Targeting on Spotify**|Shivam Verma et.al.|[2506.18735](http://arxiv.org/abs/2506.18735)|null|
+|**2025-06-23**|**Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks**|Xiaodong Wu et.al.|[2506.18543](http://arxiv.org/abs/2506.18543)|null|
+|**2025-06-23**|**SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation**|Zichong Li et.al.|[2506.18349](http://arxiv.org/abs/2506.18349)|null|
+|**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2506.18304](http://arxiv.org/abs/2506.18304)|null|
+|**2025-06-22**|**Routing Mamba: Scaling State Space Models with Mixture-of-Experts Projection**|Zheng Zhan et.al.|[2506.18145](http://arxiv.org/abs/2506.18145)|null|
+|**2025-06-21**|**Incorporating Rather Than Eliminating: Achieving Fairness for Skin Disease Diagnosis Through Group-Specific Expert**|Gelei Xu et.al.|[2506.17787](http://arxiv.org/abs/2506.17787)|null|
+|**2025-06-21**|**Physics-informed mixture of experts network for interpretable battery degradation trajectory computation amid second-life complexities**|Xinghao Huang et.al.|[2506.17755](http://arxiv.org/abs/2506.17755)|null|
+|**2025-06-21**|**PDC-Net: Pattern Divide-and-Conquer Network for Pelvic Radiation Injury Segmentation**|Xinyu Xiong et.al.|[2506.17712](http://arxiv.org/abs/2506.17712)|null|
+|**2025-06-20**|**SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification**|Zhenglin Lai et.al.|[2506.17368](http://arxiv.org/abs/2506.17368)|null|
 |**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600](http://arxiv.org/abs/2506.16600)|null|
 |**2025-06-19**|**Optimizing MoE Routers: Design, Implementation, and Evaluation in Transformer Models**|Daniel Fidel Harvey et.al.|[2506.16419](http://arxiv.org/abs/2506.16419)|null|
 |**2025-06-19**|**DCFNet: Doppler Correction Filter Network for Integrated Sensing and Communication in Multi-User MIMO-OFDM Systems**|Hyeonho Noh et.al.|[2506.16191](http://arxiv.org/abs/2506.16191)|null|
@@ -1623,6 +1639,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**The Full Nonlinear Vortex Tube-Vorton Method: the post-stall condition**|Pimentel-Garcia Jesus Carlos et.al.|[2506.18719](http://arxiv.org/abs/2506.18719)|null|
+|**2025-06-17**|**Semantic uncertainty in advanced decoding methods for LLM generation**|Darius Foodeei et.al.|[2506.17296](http://arxiv.org/abs/2506.17296)|null|
 |**2025-06-20**|**Capturing Misalignment**|Pierfrancesco Guarino et.al.|[2506.17176](http://arxiv.org/abs/2506.17176)|null|
 |**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
 |**2025-06-18**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
