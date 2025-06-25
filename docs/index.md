@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -811,7 +811,7 @@ layout: default
 |**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Zixuan Chen et.al.|[2506.14770](http://arxiv.org/abs/2506.14770)|null|
 |**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750](http://arxiv.org/abs/2506.14750)|null|
 |**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
-|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|null|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|**[link](https://github.com/liar406/gui-lomo)**|
 |**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563](http://arxiv.org/abs/2506.14563)|null|
 |**2025-06-21**|**MoORE: SVD-based Model MoE-ization for Conflict- and Oblivion-Resistant Multi-Task Adaptation**|Shen Yuan et.al.|[2506.14436](http://arxiv.org/abs/2506.14436)|**[link](https://github.com/dashenzi721/moore)**|
 |**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|
@@ -2273,7 +2273,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
+|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|**[link](https://github.com/noegroup/scoremd)**|
 |**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|

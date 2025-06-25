@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -784,7 +784,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -795,7 +795,7 @@
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## MoE
 
@@ -822,7 +822,7 @@
 |**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Zixuan Chen et.al.|[2506.14770](http://arxiv.org/abs/2506.14770)|null|
 |**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750](http://arxiv.org/abs/2506.14750)|null|
 |**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
-|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|null|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|**[link](https://github.com/liar406/gui-lomo)**|
 |**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563](http://arxiv.org/abs/2506.14563)|null|
 |**2025-06-21**|**MoORE: SVD-based Model MoE-ization for Conflict- and Oblivion-Resistant Multi-Task Adaptation**|Shen Yuan et.al.|[2506.14436](http://arxiv.org/abs/2506.14436)|**[link](https://github.com/dashenzi721/moore)**|
 |**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|
@@ -1633,7 +1633,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -2282,13 +2282,13 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Multimodal System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
+|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|**[link](https://github.com/noegroup/scoremd)**|
 |**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
@@ -2332,7 +2332,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
