@@ -7,15 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**DipSVD: Dual-importance Protected SVD for Efficient LLM Compression**|Xuan Ding et.al.|[2506.20353](http://arxiv.org/abs/2506.20353)|null|
+|**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
+|**2025-06-24**|**MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection**|Zhengxiang Huang et.al.|[2506.19884](http://arxiv.org/abs/2506.19884)|null|
 |**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697](http://arxiv.org/abs/2506.19697)|null|
-|**2025-06-24**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
+|**2025-06-25**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
 |**2025-06-23**|**Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation**|Ahmadreza Saboor Yaraghi et.al.|[2506.19045](http://arxiv.org/abs/2506.19045)|null|
 |**2025-06-23**|**WiLLM: An Open Wireless LLM Communication System**|Boyi Liu et.al.|[2506.19030](http://arxiv.org/abs/2506.19030)|null|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
@@ -149,7 +152,7 @@ layout: default
 |**2025-05-17**|**Enhancing Complex Instruction Following for Large Language Models with Mixture-of-Contexts Fine-tuning**|Yuheng Lu et.al.|[2505.11922](http://arxiv.org/abs/2505.11922)|null|
 |**2025-05-17**|**Arrow: Adaptive Scheduling Mechanisms for Disaggregated LLM Inference Architecture**|Yu Wu et.al.|[2505.11916](http://arxiv.org/abs/2505.11916)|null|
 |**2025-05-25**|**Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning**|Yansong Ning et.al.|[2505.11827](http://arxiv.org/abs/2505.11827)|null|
-|**2025-05-16**|**TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference**|Raja Gond et.al.|[2505.11329](http://arxiv.org/abs/2505.11329)|null|
+|**2025-05-16**|**TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference**|Raja Gond et.al.|[2505.11329](http://arxiv.org/abs/2505.11329)|**[link](https://github.com/microsoft/tokenweave)**|
 |**2025-05-23**|**SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning**|Zheng Li et.al.|[2505.11274](http://arxiv.org/abs/2505.11274)|null|
 |**2025-05-16**|**Vaiage: A Multi-Agent Solution to Personalized Travel Planning**|Binwen Liu et.al.|[2505.10922](http://arxiv.org/abs/2505.10922)|null|
 |**2025-05-21**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|**[link](https://github.com/mobisense/specoffload-public)**|
@@ -795,6 +798,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration**|Jiaxing Huang et.al.|[2506.20282](http://arxiv.org/abs/2506.20282)|null|
 |**2025-06-24**|**Integrating Pair Programming as a Work Practice**|Nina Haugland Andersen et.al.|[2506.19511](http://arxiv.org/abs/2506.19511)|null|
 |**2025-06-24**|**The H $α$ line as a probe of chromospheric magnetic fields**|Harsh Mathur et.al.|[2506.19510](http://arxiv.org/abs/2506.19510)|null|
 |**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
@@ -862,7 +866,7 @@ layout: default
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-07**|**High-Fidelity Scientific Simulation Surrogates via Adaptive Implicit Neural Representations**|Ziwei Li et.al.|[2506.06858](http://arxiv.org/abs/2506.06858)|null|
 |**2025-06-07**|**Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning**|Yuan Yuan et.al.|[2506.06694](http://arxiv.org/abs/2506.06694)|null|
-|**2025-06-06**|**SMAR: Soft Modality-Aware Routing Strategy for MoE-based Multimodal Large Language Models Preserving Language Capabilities**|Guoyang Xia et.al.|[2506.06406](http://arxiv.org/abs/2506.06406)|null|
+|**2025-06-25**|**SMAR: Soft Modality-Aware Routing Strategy for MoE-based Multimodal Large Language Models Preserving Language Capabilities**|Guoyang Xia et.al.|[2506.06406](http://arxiv.org/abs/2506.06406)|null|
 |**2025-05-27**|**MoE-Gyro: Self-Supervised Over-Range Reconstruction and Denoising for MEMS Gyroscopes**|Feiyang Pan et.al.|[2506.06318](http://arxiv.org/abs/2506.06318)|null|
 |**2025-06-06**|**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**|Jonathan Yang et.al.|[2506.06196](http://arxiv.org/abs/2506.06196)|null|
 |**2025-06-06**|**MoA: Heterogeneous Mixture of Adapters for Parameter-Efficient Fine-Tuning of Large Language Models**|Jie Cao et.al.|[2506.05928](http://arxiv.org/abs/2506.05928)|null|
@@ -1635,9 +1639,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Charged rotating quantum black holes**|Dyuman Bhattacharya et.al.|[2506.19941](http://arxiv.org/abs/2506.19941)|null|
+|**2025-06-23**|**Entangled Quantum Negative Energy Teleportation as a Probe of Semiclassical Gravity**|Daniel S. Zachary et.al.|[2506.19878](http://arxiv.org/abs/2506.19878)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
-|**2025-06-23**|**The Full Nonlinear Vortex Tube-Vorton Method: the post-stall condition**|Pimentel-Garcia Jesus Carlos et.al.|[2506.18719](http://arxiv.org/abs/2506.18719)|null|
+|**2025-06-23**|**The Full Nonlinear Vortex Tube-Vorton Method: the post-stall condition**|Jesus Carlos Pimentel-Garcia et.al.|[2506.18719](http://arxiv.org/abs/2506.18719)|null|
 |**2025-06-17**|**Semantic uncertainty in advanced decoding methods for LLM generation**|Darius Foodeei et.al.|[2506.17296](http://arxiv.org/abs/2506.17296)|null|
 |**2025-06-20**|**Capturing Misalignment**|Pierfrancesco Guarino et.al.|[2506.17176](http://arxiv.org/abs/2506.17176)|null|
 |**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
@@ -1711,7 +1717,7 @@ layout: default
 |**2025-05-23**|**Reinforcement Speculative Decoding for Fast Ranking**|Yingpeng Du et.al.|[2505.20316](http://arxiv.org/abs/2505.20316)|null|
 |**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-28**|**Faster and Better LLMs via Latency-Aware Test-Time Scaling**|Zili Wang et.al.|[2505.19634](http://arxiv.org/abs/2505.19634)|null|
-|**2025-05-30**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
+|**2025-06-25**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
 |**2025-05-29**|**DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding**|Yunhai Hu et.al.|[2505.19201](http://arxiv.org/abs/2505.19201)|**[link](https://github.com/sai-lab-nyu/dream)**|
 |**2025-05-25**|**Sparse-to-Dense: A Free Lunch for Lossless Acceleration of Video Understanding in LLMs**|Xuan Zhang et.al.|[2505.19155](http://arxiv.org/abs/2505.19155)|null|
 |**2025-05-24**|**Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding**|Yixuan Wang et.al.|[2505.18629](http://arxiv.org/abs/2505.18629)|null|
