@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces**|Michael Johnston et.al.|[2506.21467](http://arxiv.org/abs/2506.21467)|null|
+|**2025-06-26**|**BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services**|Zhaojiacheng Zhou et.al.|[2506.21033](http://arxiv.org/abs/2506.21033)|null|
+|**2025-06-17**|**Utility-Driven Speculative Decoding for Mixture-of-Experts**|Anish Saxena et.al.|[2506.20675](http://arxiv.org/abs/2506.20675)|null|
 |**2025-06-25**|**DipSVD: Dual-importance Protected SVD for Efficient LLM Compression**|Xuan Ding et.al.|[2506.20353](http://arxiv.org/abs/2506.20353)|null|
 |**2025-06-25**|**Breaking the Boundaries of Long-Context LLM Inference: Adaptive KV Management on a Single Commodity GPU**|He Sun et.al.|[2506.20187](http://arxiv.org/abs/2506.20187)|null|
 |**2025-06-24**|**MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection**|Zhengxiang Huang et.al.|[2506.19884](http://arxiv.org/abs/2506.19884)|null|
@@ -23,7 +26,7 @@ layout: default
 |**2025-06-23**|**WiLLM: An Open Wireless LLM Communication System**|Boyi Liu et.al.|[2506.19030](http://arxiv.org/abs/2506.19030)|null|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
 |**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
-|**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
+|**2025-06-26**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
 |**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-22**|**LLMs for Customized Marketing Content Generation and Evaluation at Scale**|Haoran Liu et.al.|[2506.17863](http://arxiv.org/abs/2506.17863)|null|
 |**2025-06-21**|**LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning**|Haoxuan Che et.al.|[2506.17562](http://arxiv.org/abs/2506.17562)|null|
@@ -798,6 +801,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts**|Jiajie Yang et.al.|[2506.21328](http://arxiv.org/abs/2506.21328)|null|
+|**2025-06-26**|**Learning to Skip the Middle Layers of Transformers**|Tim Lawson et.al.|[2506.21103](http://arxiv.org/abs/2506.21103)|null|
+|**2025-06-26**|**Little By Little: Continual Learning via Self-Activated Sparse Mixture-of-Rank Adaptive Learning**|Haodong Lu et.al.|[2506.21035](http://arxiv.org/abs/2506.21035)|null|
+|**2025-06-26**|**EVA: Mixture-of-Experts Semantic Variant Alignment for Compositional Zero-Shot Learning**|Xiao Zhang et.al.|[2506.20986](http://arxiv.org/abs/2506.20986)|null|
+|**2025-06-25**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
+|**2025-06-17**|**Utility-Driven Speculative Decoding for Mixture-of-Experts**|Anish Saxena et.al.|[2506.20675](http://arxiv.org/abs/2506.20675)|null|
 |**2025-06-25**|**Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration**|Jiaxing Huang et.al.|[2506.20282](http://arxiv.org/abs/2506.20282)|null|
 |**2025-06-24**|**Integrating Pair Programming as a Work Practice**|Nina Haugland Andersen et.al.|[2506.19511](http://arxiv.org/abs/2506.19511)|null|
 |**2025-06-24**|**The H $α$ line as a probe of chromospheric magnetic fields**|Harsh Mathur et.al.|[2506.19510](http://arxiv.org/abs/2506.19510)|null|
@@ -1639,7 +1648,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-24**|**Charged rotating quantum black holes**|Dyuman Bhattacharya et.al.|[2506.19941](http://arxiv.org/abs/2506.19941)|null|
+|**2025-06-26**|**Small Encoders Can Rival Large Decoders in Detecting Groundedness**|Istabrak Abbes et.al.|[2506.21288](http://arxiv.org/abs/2506.21288)|null|
+|**2025-06-26**|**You never have enough J/ $ψ$ events: the case for a J/$ψ$ factory**|Stephen Lars Olsen et.al.|[2506.20975](http://arxiv.org/abs/2506.20975)|null|
+|**2025-06-17**|**Utility-Driven Speculative Decoding for Mixture-of-Experts**|Anish Saxena et.al.|[2506.20675](http://arxiv.org/abs/2506.20675)|null|
+|**2025-06-26**|**Charged rotating quantum black holes**|Dyuman Bhattacharya et.al.|[2506.19941](http://arxiv.org/abs/2506.19941)|null|
 |**2025-06-23**|**Entangled Quantum Negative Energy Teleportation as a Probe of Semiclassical Gravity**|Daniel S. Zachary et.al.|[2506.19878](http://arxiv.org/abs/2506.19878)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
@@ -1647,7 +1659,7 @@ layout: default
 |**2025-06-17**|**Semantic uncertainty in advanced decoding methods for LLM generation**|Darius Foodeei et.al.|[2506.17296](http://arxiv.org/abs/2506.17296)|null|
 |**2025-06-20**|**Capturing Misalignment**|Pierfrancesco Guarino et.al.|[2506.17176](http://arxiv.org/abs/2506.17176)|null|
 |**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
-|**2025-06-18**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
+|**2025-06-26**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
 |**2025-06-15**|**$\texttt{SPECS}$ : Faster Test-Time Scaling through Speculative Drafts**|Mert Cemri et.al.|[2506.15733](http://arxiv.org/abs/2506.15733)|null|
 |**2025-06-18**|**CXL-GPU: Pushing GPU Memory Boundaries with the Integration of CXL Technologies**|Donghyun Gouk et.al.|[2506.15601](http://arxiv.org/abs/2506.15601)|null|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
