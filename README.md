@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -799,7 +799,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -810,7 +810,7 @@
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## MoE
 
@@ -1664,7 +1664,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1698,7 +1698,7 @@
 |**2025-06-11**|**Speculative Design in Spiraling Time: Methods and Indigenous HCI**|James Eschrich et.al.|[2506.10229](http://arxiv.org/abs/2506.10229)|null|
 |**2025-06-11**|**V455 Car: an oscillating eclipsing Algol-type binary in triple star system**|Zhao-Long Deng et.al.|[2506.10124](http://arxiv.org/abs/2506.10124)|null|
 |**2025-06-11**|**Patterns of Patterns III**|Joseph Corneli et.al.|[2506.09696](http://arxiv.org/abs/2506.09696)|null|
-|**2025-06-20**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/abs/2506.09397)|null|
+|**2025-06-27**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/abs/2506.09397)|null|
 |**2025-06-11**|**A collection of results relating the geometry of plane domains and the exit time of planar Brownian motion, II**|Greg Markowsky et.al.|[2506.09364](http://arxiv.org/abs/2506.09364)|null|
 |**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
 |**2025-06-10**|**Solving Convex-Concave Problems with $\tilde{\mathcal{O}}(ε^{-4/7})$ Second-Order Oracle Complexity**|Lesi Chen et.al.|[2506.08362](http://arxiv.org/abs/2506.08362)|null|
@@ -1718,7 +1718,7 @@
 |**2025-06-02**|**Out-of-Vocabulary Sampling Boosts Speculative Decoding**|Nadav Timor et.al.|[2506.03206](http://arxiv.org/abs/2506.03206)|null|
 |**2025-06-03**|**Feedstack: Layering Structured Representations over Unstructured Feedback to Scaffold Human AI Conversation**|Hannah Vy Nguyen et.al.|[2506.03052](http://arxiv.org/abs/2506.03052)|null|
 |**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780](http://arxiv.org/abs/2506.02780)|null|
-|**2025-06-04**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
+|**2025-06-28**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
 |**2025-06-03**|**Consultant Decoding: Yet Another Synergistic Mechanism**|Chuanghao Ding et.al.|[2506.02391](http://arxiv.org/abs/2506.02391)|null|
 |**2025-06-02**|**Radiation GRMHD Models of Accretion onto Stellar-Mass Black Holes: I. Survey of Eddington Ratios**|Lizhong Zhang et.al.|[2506.02289](http://arxiv.org/abs/2506.02289)|null|
 |**2025-05-16**|**SpecMemo: Speculative Decoding is in Your Pocket**|Selin Yildirim et.al.|[2506.01986](http://arxiv.org/abs/2506.01986)|null|
@@ -1785,7 +1785,7 @@
 |**2025-05-18**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
 |**2025-05-21**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|**[link](https://github.com/mobisense/specoffload-public)**|
 |**2025-05-14**|**Chandra Rules Out Super-Eddington Accretion For Little Red Dots**|Andrea Sacchi et.al.|[2505.09669](http://arxiv.org/abs/2505.09669)|null|
-|**2025-06-01**|**Folded State Dynamics -- A Geometric and Deterministic Origin of Irreversibility**|Patrick BarAvi et.al.|[2505.09650](http://arxiv.org/abs/2505.09650)|null|
+|**2025-06-28**|**Extended Structural Dynamics -- Emergent Irreversibility from Reversible Dynamics**|Patrick BarAvi et.al.|[2505.09650](http://arxiv.org/abs/2505.09650)|null|
 |**2025-05-14**|**Observational study of the formation of homologous confined circular-ribbon flares**|Shuhong Yang et.al.|[2505.09093](http://arxiv.org/abs/2505.09093)|null|
 |**2025-05-13**|**Long timescale numerical simulations of large, super-critical accretion discs**|P. Chris Fragile et.al.|[2505.08859](http://arxiv.org/abs/2505.08859)|null|
 |**2025-05-13**|**Kudzu: Fast and Simple High-Throughput BFT**|Victor Shoup et.al.|[2505.08771](http://arxiv.org/abs/2505.08771)|null|
@@ -2322,7 +2322,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -2372,7 +2372,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -1685,7 +1685,7 @@ layout: default
 |**2025-06-11**|**Speculative Design in Spiraling Time: Methods and Indigenous HCI**|James Eschrich et.al.|[2506.10229](http://arxiv.org/abs/2506.10229)|null|
 |**2025-06-11**|**V455 Car: an oscillating eclipsing Algol-type binary in triple star system**|Zhao-Long Deng et.al.|[2506.10124](http://arxiv.org/abs/2506.10124)|null|
 |**2025-06-11**|**Patterns of Patterns III**|Joseph Corneli et.al.|[2506.09696](http://arxiv.org/abs/2506.09696)|null|
-|**2025-06-20**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/abs/2506.09397)|null|
+|**2025-06-27**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/abs/2506.09397)|null|
 |**2025-06-11**|**A collection of results relating the geometry of plane domains and the exit time of planar Brownian motion, II**|Greg Markowsky et.al.|[2506.09364](http://arxiv.org/abs/2506.09364)|null|
 |**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
 |**2025-06-10**|**Solving Convex-Concave Problems with $\tilde{\mathcal{O}}(ε^{-4/7})$ Second-Order Oracle Complexity**|Lesi Chen et.al.|[2506.08362](http://arxiv.org/abs/2506.08362)|null|
@@ -1705,7 +1705,7 @@ layout: default
 |**2025-06-02**|**Out-of-Vocabulary Sampling Boosts Speculative Decoding**|Nadav Timor et.al.|[2506.03206](http://arxiv.org/abs/2506.03206)|null|
 |**2025-06-03**|**Feedstack: Layering Structured Representations over Unstructured Feedback to Scaffold Human AI Conversation**|Hannah Vy Nguyen et.al.|[2506.03052](http://arxiv.org/abs/2506.03052)|null|
 |**2025-06-03**|**Reuse or Generate? Accelerating Code Editing via Edit-Oriented Speculative Decoding**|Peiding Wang et.al.|[2506.02780](http://arxiv.org/abs/2506.02780)|null|
-|**2025-06-04**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
+|**2025-06-28**|**Multi Layered Autonomy and AI Ecologies in Robotic Art Installations**|Baoyang Chen et.al.|[2506.02606](http://arxiv.org/abs/2506.02606)|null|
 |**2025-06-03**|**Consultant Decoding: Yet Another Synergistic Mechanism**|Chuanghao Ding et.al.|[2506.02391](http://arxiv.org/abs/2506.02391)|null|
 |**2025-06-02**|**Radiation GRMHD Models of Accretion onto Stellar-Mass Black Holes: I. Survey of Eddington Ratios**|Lizhong Zhang et.al.|[2506.02289](http://arxiv.org/abs/2506.02289)|null|
 |**2025-05-16**|**SpecMemo: Speculative Decoding is in Your Pocket**|Selin Yildirim et.al.|[2506.01986](http://arxiv.org/abs/2506.01986)|null|
@@ -1772,7 +1772,7 @@ layout: default
 |**2025-05-18**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
 |**2025-05-21**|**SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices**|Xiangwen Zhuge et.al.|[2505.10259](http://arxiv.org/abs/2505.10259)|**[link](https://github.com/mobisense/specoffload-public)**|
 |**2025-05-14**|**Chandra Rules Out Super-Eddington Accretion For Little Red Dots**|Andrea Sacchi et.al.|[2505.09669](http://arxiv.org/abs/2505.09669)|null|
-|**2025-06-01**|**Folded State Dynamics -- A Geometric and Deterministic Origin of Irreversibility**|Patrick BarAvi et.al.|[2505.09650](http://arxiv.org/abs/2505.09650)|null|
+|**2025-06-28**|**Extended Structural Dynamics -- Emergent Irreversibility from Reversible Dynamics**|Patrick BarAvi et.al.|[2505.09650](http://arxiv.org/abs/2505.09650)|null|
 |**2025-05-14**|**Observational study of the formation of homologous confined circular-ribbon flares**|Shuhong Yang et.al.|[2505.09093](http://arxiv.org/abs/2505.09093)|null|
 |**2025-05-13**|**Long timescale numerical simulations of large, super-critical accretion discs**|P. Chris Fragile et.al.|[2505.08859](http://arxiv.org/abs/2505.08859)|null|
 |**2025-05-13**|**Kudzu: Fast and Simple High-Throughput BFT**|Victor Shoup et.al.|[2505.08771](http://arxiv.org/abs/2505.08771)|null|
