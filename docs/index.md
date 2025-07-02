@@ -18,7 +18,7 @@ layout: default
 |**2025-06-30**|**A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications**|Boyang Yang et.al.|[2506.23749](http://arxiv.org/abs/2506.23749)|null|
 |**2025-06-28**|**Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models**|Tejas Vaidhya et.al.|[2506.23025](http://arxiv.org/abs/2506.23025)|null|
 |**2025-06-28**|**Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation**|Sen Fang et.al.|[2506.22776](http://arxiv.org/abs/2506.22776)|null|
-|**2025-06-28**|**Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing**|Yanran Wu et.al.|[2506.22773](http://arxiv.org/abs/2506.22773)|null|
+|**2025-07-01**|**Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing**|Yanran Wu et.al.|[2506.22773](http://arxiv.org/abs/2506.22773)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267](http://arxiv.org/abs/2506.22267)|null|
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
