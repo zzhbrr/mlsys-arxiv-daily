@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
+|**2025-06-30**|**A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications**|Boyang Yang et.al.|[2506.23749](http://arxiv.org/abs/2506.23749)|null|
+|**2025-06-28**|**Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models**|Tejas Vaidhya et.al.|[2506.23025](http://arxiv.org/abs/2506.23025)|null|
+|**2025-06-28**|**Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation**|Sen Fang et.al.|[2506.22776](http://arxiv.org/abs/2506.22776)|null|
+|**2025-06-28**|**Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing**|Yanran Wu et.al.|[2506.22773](http://arxiv.org/abs/2506.22773)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267](http://arxiv.org/abs/2506.22267)|null|
 |**2025-06-27**|**SiPipe: Bridging the CPU-GPU Utilization Gap for Efficient Pipeline-Parallel LLM Inference**|Yongchao He et.al.|[2506.22033](http://arxiv.org/abs/2506.22033)|null|
@@ -127,7 +132,7 @@ layout: default
 |**2025-06-01**|**A Survey of LLM $\times$ DATA**|Xuanhe Zhou et.al.|[2505.18458](http://arxiv.org/abs/2505.18458)|**[link](https://github.com/weaidb/awsome-data-llm)**|
 |**2025-05-23**|**LatentLLM: Attention-Aware Joint Tensor Compression**|Toshiaki Koike-Akino et.al.|[2505.18413](http://arxiv.org/abs/2505.18413)|null|
 |**2025-05-23**|**An Attack to Break Permutation-Based Private Third-Party Inference Schemes for LLMs**|Rahul Thomas et.al.|[2505.18332](http://arxiv.org/abs/2505.18332)|null|
-|**2025-05-23**|**ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning**|Mingkuan Feng et.al.|[2505.18232](http://arxiv.org/abs/2505.18232)|null|
+|**2025-07-01**|**Two-Stage Regularization-Based Structured Pruning for LLMs**|Mingkuan Feng et.al.|[2505.18232](http://arxiv.org/abs/2505.18232)|null|
 |**2025-05-23**|**NSNQuant: A Double Normalization Approach for Calibration-Free Low-Bit Vector Quantization of KV Cache**|Donghyun Son et.al.|[2505.18231](http://arxiv.org/abs/2505.18231)|null|
 |**2025-05-23**|**Navigating Pitfalls: Evaluating LLMs in Machine Learning Programming Education**|Smitha Kumar et.al.|[2505.18220](http://arxiv.org/abs/2505.18220)|null|
 |**2025-05-23**|**Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning**|Michael Hassid et.al.|[2505.17813](http://arxiv.org/abs/2505.17813)|null|
@@ -168,7 +173,7 @@ layout: default
 |**2025-05-14**|**Statistical Modeling and Uncertainty Estimation of LLM Inference Systems**|Kaustabha Ray et.al.|[2505.09319](http://arxiv.org/abs/2505.09319)|null|
 |**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
 |**2025-05-13**|**ITERA-LLM: Boosting Sub-8-Bit Large Language Model Inference via Iterative Tensor Decomposition**|Keran Zheng et.al.|[2505.08981](http://arxiv.org/abs/2505.08981)|null|
-|**2025-05-13**|**LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries**|Zekun Wu et.al.|[2505.08842](http://arxiv.org/abs/2505.08842)|null|
+|**2025-06-30**|**LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-Source AI Libraries**|Zekun Wu et.al.|[2505.08842](http://arxiv.org/abs/2505.08842)|null|
 |**2025-05-13**|**Automatic Task Detection and Heterogeneous LLM Speculative Decoding**|Danying Ge et.al.|[2505.08600](http://arxiv.org/abs/2505.08600)|null|
 |**2025-05-08**|**Scaling Laws for Speculative Decoding**|Siyuan Yan et.al.|[2505.07858](http://arxiv.org/abs/2505.07858)|null|
 |**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
@@ -188,7 +193,7 @@ layout: default
 |**2025-04-07**|**AccLLM: Accelerating Long-Context LLM Inference Via Algorithm-Hardware Co-Design**|Yanbiao Liang et.al.|[2505.03745](http://arxiv.org/abs/2505.03745)|null|
 |**2025-05-06**|**Faster MoE LLM Inference for Extremely Large Models**|Haoqi Yang et.al.|[2505.03531](http://arxiv.org/abs/2505.03531)|null|
 |**2025-05-16**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
-|**2025-05-05**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
+|**2025-06-30**|**RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference**|Yaoqi Chen et.al.|[2505.02922](http://arxiv.org/abs/2505.02922)|null|
 |**2025-05-06**|**EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices**|Arnab Sanyal et.al.|[2505.02380](http://arxiv.org/abs/2505.02380)|null|
 |**2025-05-03**|**Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients**|Yezhen Wang et.al.|[2505.01744](http://arxiv.org/abs/2505.01744)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
@@ -805,6 +810,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
+|**2025-06-30**|**MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis**|Zhe Liu et.al.|[2506.23648](http://arxiv.org/abs/2506.23648)|null|
+|**2025-06-30**|**Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model**|Mu-Chi Chen et.al.|[2506.23635](http://arxiv.org/abs/2506.23635)|null|
+|**2025-06-29**|**Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging**|Lujun Li et.al.|[2506.23266](http://arxiv.org/abs/2506.23266)|null|
+|**2025-06-29**|**External Data-Enhanced Meta-Representation for Adaptive Probabilistic Load Forecasting**|Haoran Li et.al.|[2506.23201](http://arxiv.org/abs/2506.23201)|null|
+|**2025-06-29**|**Hierarchical Corpus-View-Category Refinement for Carotid Plaque Risk Grading in Ultrasound**|Zhiyuan Zhu et.al.|[2506.23108](http://arxiv.org/abs/2506.23108)|null|
+|**2025-07-01**|**Hecto: Modular Sparse Experts for Adaptive and Interpretable Reasoning**|Sanskar Pandey et.al.|[2506.22919](http://arxiv.org/abs/2506.22919)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389](http://arxiv.org/abs/2506.22389)|null|
 |**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175](http://arxiv.org/abs/2506.22175)|null|
@@ -814,7 +826,7 @@ layout: default
 |**2025-06-26**|**Learning to Skip the Middle Layers of Transformers**|Tim Lawson et.al.|[2506.21103](http://arxiv.org/abs/2506.21103)|null|
 |**2025-06-26**|**Little By Little: Continual Learning via Self-Activated Sparse Mixture-of-Rank Adaptive Learning**|Haodong Lu et.al.|[2506.21035](http://arxiv.org/abs/2506.21035)|null|
 |**2025-06-26**|**EVA: Mixture-of-Experts Semantic Variant Alignment for Compositional Zero-Shot Learning**|Xiao Zhang et.al.|[2506.20986](http://arxiv.org/abs/2506.20986)|null|
-|**2025-06-25**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
+|**2025-06-30**|**The Singapore Consensus on Global AI Safety Research Priorities**|Yoshua Bengio et.al.|[2506.20702](http://arxiv.org/abs/2506.20702)|null|
 |**2025-06-17**|**Utility-Driven Speculative Decoding for Mixture-of-Experts**|Anish Saxena et.al.|[2506.20675](http://arxiv.org/abs/2506.20675)|null|
 |**2025-06-25**|**Opportunistic Osteoporosis Diagnosis via Texture-Preserving Self-Supervision, Mixture of Experts and Multi-Task Integration**|Jiaxing Huang et.al.|[2506.20282](http://arxiv.org/abs/2506.20282)|null|
 |**2025-06-24**|**Integrating Pair Programming as a Work Practice**|Nina Haugland Andersen et.al.|[2506.19511](http://arxiv.org/abs/2506.19511)|null|
@@ -844,7 +856,7 @@ layout: default
 |**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
 |**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|**[link](https://github.com/liar406/gui-lomo)**|
 |**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563](http://arxiv.org/abs/2506.14563)|null|
-|**2025-06-21**|**MoORE: SVD-based Model MoE-ization for Conflict- and Oblivion-Resistant Multi-Task Adaptation**|Shen Yuan et.al.|[2506.14436](http://arxiv.org/abs/2506.14436)|**[link](https://github.com/dashenzi721/moore)**|
+|**2025-06-30**|**MoORE: SVD-based Model MoE-ization for Conflict- and Oblivion-Resistant Multi-Task Adaptation**|Shen Yuan et.al.|[2506.14436](http://arxiv.org/abs/2506.14436)|**[link](https://github.com/dashenzi721/moore)**|
 |**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|
 |**2025-06-17**|**Less is More: Undertraining Experts Improves Model Upcycling**|Stefan Horoi et.al.|[2506.14126](http://arxiv.org/abs/2506.14126)|null|
 |**2025-06-16**|**Load Balancing Mixture of Experts with Similarity Preserving Routers**|Nabil Omi et.al.|[2506.14038](http://arxiv.org/abs/2506.14038)|null|
@@ -1657,6 +1669,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906](http://arxiv.org/abs/2506.23906)|null|
+|**2025-06-29**|**From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows**|Mohamed Amine Ferrag et.al.|[2506.23260](http://arxiv.org/abs/2506.23260)|null|
+|**2025-06-28**|**Polar alignment of a circumbinary disc around a brown dwarf binary**|Jeremy L. Smallwood et.al.|[2506.22747](http://arxiv.org/abs/2506.22747)|null|
+|**2025-06-28**|**VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**|Raghavv Goel et.al.|[2506.22694](http://arxiv.org/abs/2506.22694)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Cool Gas in the Circumgalactic Medium of Massive Post Starburst Galaxies**|Zoe Harvey et.al.|[2506.22287](http://arxiv.org/abs/2506.22287)|null|
 |**2025-06-26**|**Small Encoders Can Rival Large Decoders in Detecting Groundedness**|Istabrak Abbes et.al.|[2506.21288](http://arxiv.org/abs/2506.21288)|null|
@@ -2330,7 +2346,7 @@ layout: default
 |**2025-01-16**|**PATCHEDSERVE: A Patch Management Framework for SLO-Optimized Hybrid Resolution Diffusion Serving**|Desen Sun et.al.|[2501.09253](http://arxiv.org/abs/2501.09253)|null|
 |**2025-01-16**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777](http://arxiv.org/abs/2501.05777)|**[link](https://github.com/lycexe/structsr)**|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
-|**2024-12-06**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Xiyao Wang et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
+|**2025-06-30**|**Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension**|Xiyao Wang et.al.|[2412.03704](http://arxiv.org/abs/2412.03704)|**[link](https://github.com/si0wang/visvm)**|
 |**2024-12-05**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for Accelerating Large VLMs**|Wangbo Zhao et.al.|[2412.03324](http://arxiv.org/abs/2412.03324)|**[link](https://github.com/NUS-HPC-AI-Lab/SGL)**|
 |**2024-12-02**|**[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster**|Qizhe Zhang et.al.|[2412.01818](http://arxiv.org/abs/2412.01818)|**[link](https://github.com/theia-4869/fastervlm)**|
 |**2025-03-30**|**Staleness-Centric Optimizations for Parallel Diffusion MoE Inference**|Jiajun Luo et.al.|[2411.16786](http://arxiv.org/abs/2411.16786)|null|
