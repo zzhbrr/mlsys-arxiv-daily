@@ -7,13 +7,30 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**On the Convergence of Large Language Model Optimizer for Black-Box Network Management**|Hoon Lee et.al.|[2507.02689](http://arxiv.org/abs/2507.02689)|null|
+|**2025-07-03**|**Breaking the HBM Bit Cost Barrier: Domain-Specific ECC for AI Inference Infrastructure**|Rui Xie et.al.|[2507.02654](http://arxiv.org/abs/2507.02654)|null|
+|**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
+|**2025-07-02**|**Dissecting the Impact of Mobile DVFS Governors on LLM Inference Performance and Energy Efficiency**|Zongpu Zhang et.al.|[2507.02135](http://arxiv.org/abs/2507.02135)|null|
+|**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
+|**2025-07-02**|**Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities**|Yingqiang Gao et.al.|[2507.01479](http://arxiv.org/abs/2507.01479)|null|
+|**2025-07-02**|**LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**|Tianyu Liu et.al.|[2507.01449](http://arxiv.org/abs/2507.01449)|null|
+|**2025-07-02**|**EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices**|Zheyu Shen et.al.|[2507.01438](http://arxiv.org/abs/2507.01438)|null|
+|**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
+|**2025-07-02**|**La RoSA: Enhancing LLM Efficiency via Layerwise Rotated Sparse Activation**|Kai Liu et.al.|[2507.01299](http://arxiv.org/abs/2507.01299)|null|
+|**2025-07-01**|**PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning**|Xingke Yang et.al.|[2507.01216](http://arxiv.org/abs/2507.01216)|null|
+|**2025-06-28**|**A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval**|Puspendu Banerjee et.al.|[2507.01058](http://arxiv.org/abs/2507.01058)|null|
+|**2025-07-01**|**VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator**|Zhican Wang et.al.|[2507.00797](http://arxiv.org/abs/2507.00797)|null|
+|**2025-07-01**|**Cognitive Load-Aware Inference: A Neuro-Symbolic Framework for Optimizing the Token Economy of Large Language Models**|Yilun Zhang et.al.|[2507.00653](http://arxiv.org/abs/2507.00653)|null|
+|**2025-07-01**|**LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference**|Chuhao Xu et.al.|[2507.00507](http://arxiv.org/abs/2507.00507)|null|
+|**2025-07-01**|**Serving LLMs in HPC Clusters: A Comparative Study of Qualcomm Cloud AI 100 Ultra and High-Performance GPUs**|Mohammad Firas Sada et.al.|[2507.00418](http://arxiv.org/abs/2507.00418)|null|
+|**2025-06-30**|**Federated Learning-Enabled Hybrid Language Models for Communication-Efficient Token Transmission**|Faranaksadat Solat et.al.|[2507.00082](http://arxiv.org/abs/2507.00082)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications**|Boyang Yang et.al.|[2506.23749](http://arxiv.org/abs/2506.23749)|null|
 |**2025-06-28**|**Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models**|Tejas Vaidhya et.al.|[2506.23025](http://arxiv.org/abs/2506.23025)|null|
@@ -810,6 +827,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**System-performance and cost modeling of Large Language Model training and inference**|Wenzhe Guo et.al.|[2507.02456](http://arxiv.org/abs/2507.02456)|null|
+|**2025-07-03**|**NLP4Neuro: Sequence-to-sequence learning for neural population decoding**|Jacob J. Morra et.al.|[2507.02264](http://arxiv.org/abs/2507.02264)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**GradMetaNet: An Equivariant Architecture for Learning on Gradients**|Yoav Gelberg et.al.|[2507.01649](http://arxiv.org/abs/2507.01649)|null|
+|**2025-07-02**|**Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data**|Ethan Pawl et.al.|[2507.01375](http://arxiv.org/abs/2507.01375)|null|
+|**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
+|**2025-07-02**|**Dynamical Multimodal Fusion with Mixture-of-Experts for Localizations**|Bohao Wang et.al.|[2507.01337](http://arxiv.org/abs/2507.01337)|null|
+|**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
+|**2025-07-01**|**MoNE: Replacing Redundant Experts with Lightweight Novices for Structured Pruning of MoE**|Geng Zhang et.al.|[2507.00390](http://arxiv.org/abs/2507.00390)|null|
+|**2025-06-30**|**Engineering NV Centers via Hydrogen-Driven Defect Chemistry in CVD Diamonds for Quantum Applications: NVHx Dissociations into NV, Origin of 468nm Center, and Cause of Brown Coloration**|Mubashir Mansoor et.al.|[2507.00300](http://arxiv.org/abs/2507.00300)|null|
+|**2025-06-17**|**LoRA-Mixer: Coordinate Modular LoRA Experts Through Serial Attention Routing**|Wenbing Li et.al.|[2507.00029](http://arxiv.org/abs/2507.00029)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-30**|**MReg: A Novel Regression Model with MoE-based Video Feature Mining for Mitral Regurgitation Diagnosis**|Zhe Liu et.al.|[2506.23648](http://arxiv.org/abs/2506.23648)|null|
 |**2025-06-30**|**Towards Building Private LLMs: Exploring Multi-Node Expert Parallelism on Apple Silicon for Mixture-of-Experts Large Language Model**|Mu-Chi Chen et.al.|[2506.23635](http://arxiv.org/abs/2506.23635)|null|
@@ -1669,6 +1697,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**NVIDIA GPU Confidential Computing Demystified**|Zhongshu Gu et.al.|[2507.02770](http://arxiv.org/abs/2507.02770)|null|
+|**2025-07-03**|**OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device Speculative Decoding**|Ramchalam Kinattinkara Ramakrishnan et.al.|[2507.02659](http://arxiv.org/abs/2507.02659)|null|
+|**2025-07-03**|**High-Order Deep Meta-Learning with Category-Theoretic Interpretation**|David H. Mguni et.al.|[2507.02634](http://arxiv.org/abs/2507.02634)|null|
+|**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
+|**2025-07-02**|**H.E.S.S. programme searching for VHE gamma rays associated with FRBs**|F. Aharonian et.al.|[2507.02143](http://arxiv.org/abs/2507.02143)|null|
+|**2025-07-02**|**Handling out-of-order input arrival in CEP engines on the edge combining optimistic, pessimistic and lazy evaluation**|Styliani Kyrama et.al.|[2507.01461](http://arxiv.org/abs/2507.01461)|null|
+|**2025-07-02**|**LogitSpec: Accelerating Retrieval-based Speculative Decoding via Next Next Token Speculation**|Tianyu Liu et.al.|[2507.01449](http://arxiv.org/abs/2507.01449)|null|
+|**2025-07-01**|**Quantize-Sample-and-Verify: LLM Acceleration via Adaptive Edge-Cloud Speculative Decoding**|Guangyi Zhang et.al.|[2507.00605](http://arxiv.org/abs/2507.00605)|null|
+|**2025-06-30**|**User Concerns Regarding Social Robots for Mood Regulation: A Case Study on the "Sunday Blues"**|Zhuochao Peng et.al.|[2507.00271](http://arxiv.org/abs/2507.00271)|null|
+|**2025-06-30**|**Fully Parallelized BP Decoding for Quantum LDPC Codes Can Outperform BP-OSD**|Ming Wang et.al.|[2507.00254](http://arxiv.org/abs/2507.00254)|null|
+|**2025-06-30**|**Metal-poor single Wolf-Rayet stars: the interplay of optically thick winds and rotation**|Lumen Boco et.al.|[2507.00137](http://arxiv.org/abs/2507.00137)|null|
 |**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906](http://arxiv.org/abs/2506.23906)|null|
 |**2025-06-29**|**From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows**|Mohamed Amine Ferrag et.al.|[2506.23260](http://arxiv.org/abs/2506.23260)|null|
 |**2025-06-28**|**Polar alignment of a circumbinary disc around a brown dwarf binary**|Jeremy L. Smallwood et.al.|[2506.22747](http://arxiv.org/abs/2506.22747)|null|
@@ -1686,7 +1725,7 @@ layout: default
 |**2025-06-17**|**Semantic uncertainty in advanced decoding methods for LLM generation**|Darius Foodeei et.al.|[2506.17296](http://arxiv.org/abs/2506.17296)|null|
 |**2025-06-20**|**Capturing Misalignment**|Pierfrancesco Guarino et.al.|[2506.17176](http://arxiv.org/abs/2506.17176)|null|
 |**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
-|**2025-06-26**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
+|**2025-07-02**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
 |**2025-06-15**|**$\texttt{SPECS}$ : Faster Test-Time Scaling through Speculative Drafts**|Mert Cemri et.al.|[2506.15733](http://arxiv.org/abs/2506.15733)|null|
 |**2025-06-18**|**CXL-GPU: Pushing GPU Memory Boundaries with the Integration of CXL Technologies**|Donghyun Gouk et.al.|[2506.15601](http://arxiv.org/abs/2506.15601)|null|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
@@ -1813,7 +1852,7 @@ layout: default
 |**2025-05-02**|**PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding**|Bradley McDanel et.al.|[2505.01572](http://arxiv.org/abs/2505.01572)|null|
 |**2025-05-12**|**Emotions in Artificial Intelligence**|Hermann Borotschnig et.al.|[2505.01462](http://arxiv.org/abs/2505.01462)|null|
 |**2025-04-29**|**X-ray Spectroscopy via Temporal Decomposition**|William Setterberg et.al.|[2504.21169](http://arxiv.org/abs/2504.21169)|null|
-|**2025-04-29**|**Ground to Dust: Collisional Cascades and the Fate of Kardashev II Megaswarms**|Brian C. Lacki et.al.|[2504.21151](http://arxiv.org/abs/2504.21151)|null|
+|**2025-07-02**|**Ground to Dust: Collisional Cascades and the Fate of Kardashev II Megaswarms**|Brian C. Lacki et.al.|[2504.21151](http://arxiv.org/abs/2504.21151)|null|
 |**2025-06-10**|**EvoPort: An Evolutionary Framework for Portfolio Optimization via Randomized Alpha Discovery and Ensemble-Based Allocation**|Nguyen Van Thanh et.al.|[2504.21095](http://arxiv.org/abs/2504.21095)|null|
 |**2025-04-29**|**Reviving Any-Subset Autoregressive Models with Principled Parallel Sampling and Speculative Decoding**|Gabe Guo et.al.|[2504.20456](http://arxiv.org/abs/2504.20456)|**[link](https://github.com/gabeguo/any-order-speculative-decoding)**|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
