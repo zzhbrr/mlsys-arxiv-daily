@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -891,7 +891,7 @@ layout: default
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/abs/2506.13585)|**[link](https://github.com/minimax-ai/minimax-m1)**|
 |**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
-|**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|**[link](https://github.com/darren-fzq/eaquant)**|
+|**2025-07-04**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329](http://arxiv.org/abs/2506.13329)|**[link](https://github.com/darren-fzq/eaquant)**|
 |**2025-06-16**|**Breaking Thought Patterns: A Multi-Dimensional Reasoning Framework for LLMs**|Xintong Tang et.al.|[2506.13192](http://arxiv.org/abs/2506.13192)|null|
 |**2025-06-19**|**Serving Large Language Models on Huawei CloudMatrix384**|Pengfei Zuo et.al.|[2506.12708](http://arxiv.org/abs/2506.12708)|null|
 |**2025-06-14**|**Automatic Expert Discovery in LLM Upcycling via Sparse Interpolated Mixture-of-Experts**|Shengzhuang Chen et.al.|[2506.12597](http://arxiv.org/abs/2506.12597)|null|
@@ -996,7 +996,7 @@ layout: default
 |**2025-05-23**|**PreMoe: Lightening MoEs on Constrained Memory by Expert Pruning and Retrieval**|Zehua Pei et.al.|[2505.17639](http://arxiv.org/abs/2505.17639)|null|
 |**2025-05-23**|**CoMoE: Contrastive Representation for Mixture-of-Experts in Parameter-Efficient Fine-tuning**|Jinyuan Feng et.al.|[2505.17553](http://arxiv.org/abs/2505.17553)|null|
 |**2025-05-31**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
-|**2025-06-02**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
+|**2025-07-04**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
 |**2025-05-31**|**TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling**|Weizhe Lin et.al.|[2505.17155](http://arxiv.org/abs/2505.17155)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-22**|**DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor**|Yan Zhao et.al.|[2505.16256](http://arxiv.org/abs/2505.16256)|null|
@@ -1004,7 +1004,7 @@ layout: default
 |**2025-05-26**|**MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding**|Yuxiang Wei et.al.|[2505.15946](http://arxiv.org/abs/2505.15946)|null|
 |**2025-05-21**|**Who "Controls" Where Work Shall be Done? State-of-Practice in Post-Pandemic Remote Work Regulation**|Darja Smite et.al.|[2505.15743](http://arxiv.org/abs/2505.15743)|null|
 |**2025-05-21**|**CoLA: Collaborative Low-Rank Adaptation**|Yiyun Zhou et.al.|[2505.15471](http://arxiv.org/abs/2505.15471)|**[link](https://github.com/zyy-2001/cola)**|
-|**2025-05-22**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
+|**2025-07-04**|**Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought**|Tencent Hunyuan Team et.al.|[2505.15431](http://arxiv.org/abs/2505.15431)|null|
 |**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414](http://arxiv.org/abs/2505.15414)|null|
 |**2025-05-21**|**Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites**|Xintong Wang et.al.|[2505.15297](http://arxiv.org/abs/2505.15297)|null|
 |**2025-05-21**|**Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines**|Xiaohou Shi et.al.|[2505.15151](http://arxiv.org/abs/2505.15151)|null|
@@ -1711,7 +1711,7 @@ layout: default
 |**2025-06-30**|**Segmented Operations using Matrix Multiplications**|Aleksandros Sobczyk et.al.|[2506.23906](http://arxiv.org/abs/2506.23906)|null|
 |**2025-06-29**|**From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows**|Mohamed Amine Ferrag et.al.|[2506.23260](http://arxiv.org/abs/2506.23260)|null|
 |**2025-06-28**|**Polar alignment of a circumbinary disc around a brown dwarf binary**|Jeremy L. Smallwood et.al.|[2506.22747](http://arxiv.org/abs/2506.22747)|null|
-|**2025-06-28**|**VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**|Raghavv Goel et.al.|[2506.22694](http://arxiv.org/abs/2506.22694)|null|
+|**2025-07-03**|**VOCABTRIM: Vocabulary Pruning for Efficient Speculative Decoding in LLMs**|Raghavv Goel et.al.|[2506.22694](http://arxiv.org/abs/2506.22694)|null|
 |**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396](http://arxiv.org/abs/2506.22396)|null|
 |**2025-06-27**|**Cool Gas in the Circumgalactic Medium of Massive Post Starburst Galaxies**|Zoe Harvey et.al.|[2506.22287](http://arxiv.org/abs/2506.22287)|null|
 |**2025-06-26**|**Small Encoders Can Rival Large Decoders in Detecting Groundedness**|Istabrak Abbes et.al.|[2506.21288](http://arxiv.org/abs/2506.21288)|null|
@@ -1766,7 +1766,7 @@ layout: default
 |**2025-05-16**|**SpecMemo: Speculative Decoding is in Your Pocket**|Selin Yildirim et.al.|[2506.01986](http://arxiv.org/abs/2506.01986)|null|
 |**2025-05-16**|**Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**|Yuhao Shen et.al.|[2506.01979](http://arxiv.org/abs/2506.01979)|null|
 |**2025-06-02**|**Synchronic Web Digital Identity: Speculations on the Art of the Possible**|Thien-Nam Dinh et.al.|[2506.01856](http://arxiv.org/abs/2506.01856)|null|
-|**2025-06-02**|**Playing with Transformer at 30+ FPS via Next-Frame Diffusion**|Xinle Cheng et.al.|[2506.01380](http://arxiv.org/abs/2506.01380)|null|
+|**2025-07-04**|**Playing with Transformer at 30+ FPS via Next-Frame Diffusion**|Xinle Cheng et.al.|[2506.01380](http://arxiv.org/abs/2506.01380)|null|
 |**2025-06-02**|**Shape Shifting Light Dark Matter Solitons**|Dor Ben-Amotz et.al.|[2506.01282](http://arxiv.org/abs/2506.01282)|null|
 |**2025-06-01**|**The $M_{\rm BH}-M_\star$ Relation of the hyperluminous Dust-obscured Quasars up to $z \sim 4$**|Yibin Luo et.al.|[2506.01218](http://arxiv.org/abs/2506.01218)|null|
 |**2025-06-01**|**Mamba Drafters for Speculative Decoding**|Daewon Choi et.al.|[2506.01206](http://arxiv.org/abs/2506.01206)|null|
