@@ -7,16 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**|Varin Sikka et.al.|[2507.07505](http://arxiv.org/abs/2507.07505)|null|
+|**2025-07-11**|**Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**|Varin Sikka et.al.|[2507.07505](http://arxiv.org/abs/2507.07505)|null|
 |**2025-07-10**|**Nexus: Taming Throughput-Latency Tradeoff in LLM Serving via Efficient GPU Sharing**|Xiaoxiang Shi et.al.|[2507.06608](http://arxiv.org/abs/2507.06608)|null|
-|**2025-07-09**|**QUEST: Query Optimization in Unstructured Document Analysis**|Zhaoze Sun et.al.|[2507.06515](http://arxiv.org/abs/2507.06515)|null|
+|**2025-07-11**|**QUEST: Query Optimization in Unstructured Document Analysis**|Zhaoze Sun et.al.|[2507.06515](http://arxiv.org/abs/2507.06515)|null|
 |**2025-07-08**|**Voltage Regulation in Distribution Systems with Data Center Loads**|Yize Chen et.al.|[2507.06416](http://arxiv.org/abs/2507.06416)|null|
 |**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822](http://arxiv.org/abs/2507.05822)|null|
 |**2025-07-07**|**Cascade: Token-Sharded Private LLM Inference**|Rahul Thomas et.al.|[2507.05228](http://arxiv.org/abs/2507.05228)|null|
@@ -1776,7 +1776,7 @@ layout: default
 |**2025-06-23**|**Entangled Quantum Negative Energy Teleportation as a Probe of Semiclassical Gravity**|Daniel S. Zachary et.al.|[2506.19878](http://arxiv.org/abs/2506.19878)|null|
 |**2025-06-24**|**Scaling Speculative Decoding with Lookahead Reasoning**|Yichao Fu et.al.|[2506.19830](http://arxiv.org/abs/2506.19830)|null|
 |**2025-06-23**|**LLMs on a Budget? Say HOLA**|Zohaib Hasan Siddiqui et.al.|[2506.18952](http://arxiv.org/abs/2506.18952)|null|
-|**2025-06-23**|**The Full Nonlinear Vortex Tube-Vorton Method: the post-stall condition**|Jesus Carlos Pimentel-Garcia et.al.|[2506.18719](http://arxiv.org/abs/2506.18719)|null|
+|**2025-07-10**|**The Full Nonlinear Vortex Tube-Vorton Method: the post-stall condition**|Jesus Carlos Pimentel-Garcia et.al.|[2506.18719](http://arxiv.org/abs/2506.18719)|null|
 |**2025-06-17**|**Semantic uncertainty in advanced decoding methods for LLM generation**|Darius Foodeei et.al.|[2506.17296](http://arxiv.org/abs/2506.17296)|null|
 |**2025-07-08**|**Capturing Misalignment**|Pierfrancesco Guarino et.al.|[2506.17176](http://arxiv.org/abs/2506.17176)|null|
 |**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
