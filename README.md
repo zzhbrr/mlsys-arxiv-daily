@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage**|Junqing Lin et.al.|[2507.12205](http://arxiv.org/abs/2507.12205)|null|
 |**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
 |**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
 |**2025-07-15**|**KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding**|Luohe Shi et.al.|[2507.11273](http://arxiv.org/abs/2507.11273)|null|
@@ -854,7 +855,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -867,12 +868,18 @@
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**R^2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning**|Xiaohan Guo et.al.|[2507.13107](http://arxiv.org/abs/2507.13107)|null|
+|**2025-07-16**|**Astro-MoE: Mixture of Experts for Multiband Astronomical Time Series**|Martina Cádiz-Leyton et.al.|[2507.12611](http://arxiv.org/abs/2507.12611)|null|
+|**2025-07-16**|**Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models**|Gen Luo et.al.|[2507.12566](http://arxiv.org/abs/2507.12566)|null|
+|**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419](http://arxiv.org/abs/2507.12419)|null|
+|**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
+|**2025-07-09**|**The AI Shadow War: SaaS vs. Edge Computing Architectures**|Rhea Pritham Marpu et.al.|[2507.11545](http://arxiv.org/abs/2507.11545)|null|
 |**2025-07-15**|**Mixture of Experts in Large Language Models**|Danyang Zhang et.al.|[2507.11181](http://arxiv.org/abs/2507.11181)|null|
 |**2025-07-15**|**Atmos-Bench: 3D Atmospheric Structures for Climate Insight**|Tianchi Xu et.al.|[2507.11085](http://arxiv.org/abs/2507.11085)|null|
 |**2025-07-14**|**DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models**|Luolin Xiong et.al.|[2507.09955](http://arxiv.org/abs/2507.09955)|null|
@@ -1784,12 +1791,17 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
+|**2025-07-16**|**Efficient Control Flow Attestation by Speculating on Control Flow Path Representations**|Liam Tyler et.al.|[2507.12345](http://arxiv.org/abs/2507.12345)|null|
+|**2025-07-17**|**DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|
+|**2025-07-16**|**Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential**|Mohammad Samragh et.al.|[2507.11851](http://arxiv.org/abs/2507.11851)|null|
+|**2025-07-16**|**Arctic Inference with Shift Parallelism: Fast and Efficient Open Source Inference System for Enterprise AI**|Samyam Rajbhandari et.al.|[2507.11830](http://arxiv.org/abs/2507.11830)|null|
 |**2025-07-14**|**Exploring ultra-high energy neutrino experiments through the lens of the transport equation**|Stefano Palmisano et.al.|[2507.10665](http://arxiv.org/abs/2507.10665)|null|
 |**2025-07-14**|**Large Interconnected Thermodynamic Systems Nearly Minimize Entropy Production**|Kyle J. Ray et.al.|[2507.10476](http://arxiv.org/abs/2507.10476)|null|
 |**2025-07-14**|**Supernova-induced binary-interaction-powered supernovae: a model for SN2022jli**|Ryosuke Hirai et.al.|[2507.09974](http://arxiv.org/abs/2507.09974)|null|
@@ -2474,7 +2486,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -2525,7 +2537,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
