@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Photonic Fabric Platform for AI Accelerators**|Jing Ding et.al.|[2507.14000](http://arxiv.org/abs/2507.14000)|null|
+|**2025-07-18**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833](http://arxiv.org/abs/2507.13833)|null|
+|**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
+|**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
+|**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525](http://arxiv.org/abs/2507.13525)|null|
 |**2025-07-16**|**Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage**|Junqing Lin et.al.|[2507.12205](http://arxiv.org/abs/2507.12205)|null|
 |**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
 |**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
@@ -89,7 +94,7 @@ layout: default
 |**2025-06-26**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
 |**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-22**|**LLMs for Customized Marketing Content Generation and Evaluation at Scale**|Haoran Liu et.al.|[2506.17863](http://arxiv.org/abs/2506.17863)|null|
-|**2025-06-21**|**LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning**|Haoxuan Che et.al.|[2506.17562](http://arxiv.org/abs/2506.17562)|null|
+|**2025-07-18**|**LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning**|Haoxuan Che et.al.|[2506.17562](http://arxiv.org/abs/2506.17562)|null|
 |**2025-06-08**|**Training-free LLM Verification via Recycling Few-shot Examples**|Dongseok Lee et.al.|[2506.17251](http://arxiv.org/abs/2506.17251)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-23**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
@@ -169,7 +174,7 @@ layout: default
 |**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|**[link](https://github.com/cokeshao/holitom)**|
 |**2025-06-04**|**LLMs Think, But Not In Your Flow: Reasoning-Level Personalization for Black-Box Large Language Models**|Jieyong Kim et.al.|[2505.21082](http://arxiv.org/abs/2505.21082)|null|
 |**2025-05-27**|**Efficient Large Language Model Inference with Neural Block Linearization**|Mete Erdogan et.al.|[2505.21077](http://arxiv.org/abs/2505.21077)|null|
-|**2025-05-28**|**FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration**|Daehyeon Baek et.al.|[2505.20839](http://arxiv.org/abs/2505.20839)|null|
+|**2025-07-18**|**FireQ: Fast INT4-FP8 Kernel and RoPE-aware Quantization for LLM Inference Acceleration**|Daehyeon Baek et.al.|[2505.20839](http://arxiv.org/abs/2505.20839)|null|
 |**2025-05-26**|**HAMburger: Accelerating LLM Inference via Token Smashing**|Jingyu Liu et.al.|[2505.20438](http://arxiv.org/abs/2505.20438)|null|
 |**2025-05-23**|**Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP**|Satya Narayana Cheetirala et.al.|[2505.20320](http://arxiv.org/abs/2505.20320)|null|
 |**2025-05-26**|**APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization**|Javier Marín et.al.|[2505.19912](http://arxiv.org/abs/2505.19912)|**[link](https://github.com/Javihaus/APE-A-Data-Centric-Benchmark-for-Efficient-LLM-Adaptation-in-Text-Summarization)**|
@@ -863,6 +868,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing**|Yingying Zhang et.al.|[2507.13812](http://arxiv.org/abs/2507.13812)|null|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-17**|**R^2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning**|Xiaohan Guo et.al.|[2507.13107](http://arxiv.org/abs/2507.13107)|null|
 |**2025-07-16**|**Astro-MoE: Mixture of Experts for Multiband Astronomical Time Series**|Martina Cádiz-Leyton et.al.|[2507.12611](http://arxiv.org/abs/2507.12611)|null|
 |**2025-07-16**|**Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models**|Gen Luo et.al.|[2507.12566](http://arxiv.org/abs/2507.12566)|null|
@@ -874,7 +881,7 @@ layout: default
 |**2025-07-14**|**DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models**|Luolin Xiong et.al.|[2507.09955](http://arxiv.org/abs/2507.09955)|null|
 |**2025-07-14**|**ESG-Net: Event-Aware Semantic Guided Network for Dense Audio-Visual Event Localization**|Huilai Li et.al.|[2507.09945](http://arxiv.org/abs/2507.09945)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[2507.09836](http://arxiv.org/abs/2507.09836)|null|
-|**2025-07-13**|**Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts**|Aakash Tripathi et.al.|[2507.09754](http://arxiv.org/abs/2507.09754)|null|
+|**2025-07-18**|**Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts**|Aakash Tripathi et.al.|[2507.09754](http://arxiv.org/abs/2507.09754)|null|
 |**2025-07-13**|**Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive**|You Huang et.al.|[2507.09612](http://arxiv.org/abs/2507.09612)|null|
 |**2025-07-12**|**PPJudge: Towards Human-Aligned Assessment of Artistic Painting Process**|Shiqi Jiang et.al.|[2507.09242](http://arxiv.org/abs/2507.09242)|null|
 |**2025-07-11**|**SSH-Passkeys: Leveraging Web Authentication for Passwordless SSH**|Moe Kayali et.al.|[2507.09022](http://arxiv.org/abs/2507.09022)|null|
@@ -1784,6 +1791,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**On the asymptotic equidistribution of word values in symmetric groups**|Vadim Alekseev et.al.|[2507.13928](http://arxiv.org/abs/2507.13928)|null|
+|**2025-07-18**|**Gravity and the Higgs boson mass**|Carlo Branchina et.al.|[2507.13832](http://arxiv.org/abs/2507.13832)|null|
 |**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
 |**2025-07-16**|**Efficient Control Flow Attestation by Speculating on Control Flow Path Representations**|Liam Tyler et.al.|[2507.12345](http://arxiv.org/abs/2507.12345)|null|
 |**2025-07-17**|**DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|
