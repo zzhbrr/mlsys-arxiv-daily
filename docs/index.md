@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -123,7 +123,7 @@ layout: default
 |**2025-06-12**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
 |**2025-06-11**|**Give Me FP32 or Give Me Death? Challenges and Solutions for Reproducible Reasoning**|Jiayi Yuan et.al.|[2506.09501](http://arxiv.org/abs/2506.09501)|null|
 |**2025-06-10**|**Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive- $k$**|Chihiro Taguchi et.al.|[2506.08479](http://arxiv.org/abs/2506.08479)|null|
-|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
+|**2025-07-19**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
 |**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|**[link](https://github.com/openbmb/minicpm)**|
 |**2025-06-09**|**How Benchmark Prediction from Fewer Data Misses the Mark**|Guanhua Zhang et.al.|[2506.07673](http://arxiv.org/abs/2506.07673)|**[link](https://github.com/socialfoundations/benchmark-prediction)**|
 |**2025-06-09**|**TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review**|Yuan Chang et.al.|[2506.07642](http://arxiv.org/abs/2506.07642)|null|
@@ -1859,7 +1859,7 @@ layout: default
 |**2025-06-11**|**Patterns of Patterns III**|Joseph Corneli et.al.|[2506.09696](http://arxiv.org/abs/2506.09696)|null|
 |**2025-07-13**|**SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving**|Xiangchen Li et.al.|[2506.09397](http://arxiv.org/abs/2506.09397)|null|
 |**2025-06-11**|**A collection of results relating the geometry of plane domains and the exit time of planar Brownian motion, II**|Greg Markowsky et.al.|[2506.09364](http://arxiv.org/abs/2506.09364)|null|
-|**2025-06-10**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
+|**2025-07-19**|**Draft-based Approximate Inference for LLMs**|Kevin Galim et.al.|[2506.08373](http://arxiv.org/abs/2506.08373)|**[link](https://github.com/furiosa-ai/draft-based-approx-llm)**|
 |**2025-06-10**|**Solving Convex-Concave Problems with $\tilde{\mathcal{O}}(ε^{-4/7})$ Second-Order Oracle Complexity**|Lesi Chen et.al.|[2506.08362](http://arxiv.org/abs/2506.08362)|null|
 |**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|**[link](https://github.com/openbmb/minicpm)**|
 |**2025-06-09**|**FREESS: An Educational Simulator of a RISC-V-Inspired Superscalar Processor Based on Tomasulo's Algorithm**|Roberto Giorgi et.al.|[2506.07665](http://arxiv.org/abs/2506.07665)|**[link](https://github.com/robgiorgi/freess)**|
