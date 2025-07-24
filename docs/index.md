@@ -7,15 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-18**|**Photonic Fabric Platform for AI Accelerators**|Jing Ding et.al.|[2507.14000](http://arxiv.org/abs/2507.14000)|null|
-|**2025-07-18**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833](http://arxiv.org/abs/2507.13833)|null|
+|**2025-07-22**|**Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework**|Hongyi Tang et.al.|[2507.16414](http://arxiv.org/abs/2507.16414)|null|
+|**2025-07-21**|**Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing**|Shibo Yu et.al.|[2507.15553](http://arxiv.org/abs/2507.15553)|null|
+|**2025-07-18**|**Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need**|Michael Davies et.al.|[2507.14397](http://arxiv.org/abs/2507.14397)|null|
+|**2025-07-18**|**Characterizing Communication Patterns in Distributed Large Language Model Inference**|Lang Xu et.al.|[2507.14392](http://arxiv.org/abs/2507.14392)|null|
+|**2025-07-18**|**Can LLMs Infer Personality from Real World Conversations?**|Jianfeng Zhu et.al.|[2507.14355](http://arxiv.org/abs/2507.14355)|null|
+|**2025-07-14**|**PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training**|Pengfei Du et.al.|[2507.14202](http://arxiv.org/abs/2507.14202)|null|
+|**2025-07-23**|**Photonic Fabric Platform for AI Accelerators**|Jing Ding et.al.|[2507.14000](http://arxiv.org/abs/2507.14000)|null|
+|**2025-07-23**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833](http://arxiv.org/abs/2507.13833)|null|
 |**2025-07-18**|**Team of One: Cracking Complex Video QA with Model Synergy**|Jun Xie et.al.|[2507.13820](http://arxiv.org/abs/2507.13820)|null|
 |**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
 |**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525](http://arxiv.org/abs/2507.13525)|null|
@@ -46,7 +52,7 @@ layout: default
 |**2025-07-07**|**MoLink: Distributed and Efficient Serving Framework for Large Models**|Lewei Jin et.al.|[2507.05043](http://arxiv.org/abs/2507.05043)|null|
 |**2025-07-16**|**Can Prompt Difficulty be Online Predicted for Accelerating RL Finetuning of Reasoning Models?**|Yun Qu et.al.|[2507.04632](http://arxiv.org/abs/2507.04632)|null|
 |**2025-07-09**|**Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking**|Tim Beyer et.al.|[2507.04446](http://arxiv.org/abs/2507.04446)|null|
-|**2025-07-06**|**Fairness Evaluation of Large Language Models in Academic Library Reference Services**|Haining Wang et.al.|[2507.04224](http://arxiv.org/abs/2507.04224)|null|
+|**2025-07-23**|**Fairness Evaluation of Large Language Models in Academic Library Reference Services**|Haining Wang et.al.|[2507.04224](http://arxiv.org/abs/2507.04224)|null|
 |**2025-07-05**|**Enhancing Adaptive Behavioral Interventions with LLM Inference from Participant-Described States**|Karine Karine et.al.|[2507.03871](http://arxiv.org/abs/2507.03871)|null|
 |**2025-07-05**|**OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference**|Seungjun Shin et.al.|[2507.03865](http://arxiv.org/abs/2507.03865)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
@@ -147,7 +153,7 @@ layout: default
 |**2025-06-03**|**QKV Projections Require a Fraction of Their Memory**|Malik Khalaf et.al.|[2506.02939](http://arxiv.org/abs/2506.02939)|null|
 |**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
 |**2025-06-14**|**TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**|Zhong-Zhi Li et.al.|[2506.02678](http://arxiv.org/abs/2506.02678)|**[link](https://github.com/zzli2022/tldr)**|
-|**2025-06-19**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|**[link](https://github.com/alibaba-edu/qwen-bailian-usagetraces-anon)**|
+|**2025-07-23**|**KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider**|Jiahao Wang et.al.|[2506.02634](http://arxiv.org/abs/2506.02634)|**[link](https://github.com/alibaba-edu/qwen-bailian-usagetraces-anon)**|
 |**2025-06-03**|**HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference**|Ping Gong et.al.|[2506.02572](http://arxiv.org/abs/2506.02572)|**[link](https://github.com/gpzlx1/hata)**|
 |**2025-06-03**|**Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective**|Shenghua He et.al.|[2506.02553](http://arxiv.org/abs/2506.02553)|null|
 |**2025-05-29**|**NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs**|Haeun Lee et.al.|[2506.02024](http://arxiv.org/abs/2506.02024)|null|
@@ -868,6 +874,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817](http://arxiv.org/abs/2507.16817)|null|
+|**2025-07-22**|**Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training**|Zixiao Huang et.al.|[2507.16274](http://arxiv.org/abs/2507.16274)|null|
+|**2025-07-21**|**Applying multimodal learning to Classify transient Detections Early (AppleCiDEr) I: Data set, methods, and infrastructure**|Alexandra Junell et.al.|[2507.16088](http://arxiv.org/abs/2507.16088)|null|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
+|**2025-07-21**|**The New LLM Bottleneck: A Systems Perspective on Latent Attention and Mixture-of-Experts**|Sungmin Yun et.al.|[2507.15465](http://arxiv.org/abs/2507.15465)|null|
+|**2025-07-21**|**Universal crystal material property prediction via multi-view geometric fusion in graph transformers**|Liang Zhang et.al.|[2507.15303](http://arxiv.org/abs/2507.15303)|null|
+|**2025-07-20**|**CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**|Pan Hu et.al.|[2507.14903](http://arxiv.org/abs/2507.14903)|null|
+|**2025-07-23**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[2507.14456](http://arxiv.org/abs/2507.14456)|null|
 |**2025-07-18**|**SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing**|Yingying Zhang et.al.|[2507.13812](http://arxiv.org/abs/2507.13812)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-17**|**R^2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning**|Xiaohan Guo et.al.|[2507.13107](http://arxiv.org/abs/2507.13107)|null|
@@ -888,7 +903,7 @@ layout: default
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
 |**2025-07-11**|**CircFormerMoE: An End-to-End Deep Learning Framework for Circular RNA Splice Site Detection and Pairing in Plant Genomes**|Tianyou Jiang et.al.|[2507.08542](http://arxiv.org/abs/2507.08542)|null|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
-|**2025-07-15**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
+|**2025-07-21**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 |**2025-07-11**|**Data-Driven Dimensional Synthesis of Diverse Planar Four-bar Function Generation Mechanisms via Direct Parameterization**|Woon Ryong Kim et.al.|[2507.08269](http://arxiv.org/abs/2507.08269)|null|
 |**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818](http://arxiv.org/abs/2507.07818)|null|
 |**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748](http://arxiv.org/abs/2507.07748)|null|
@@ -906,7 +921,7 @@ layout: default
 |**2025-07-09**|**A Survey on Prompt Tuning**|Zongqian Li et.al.|[2507.06085](http://arxiv.org/abs/2507.06085)|null|
 |**2025-07-08**|**Remember Past, Anticipate Future: Learning Continual Multimodal Misinformation Detectors**|Bing Wang et.al.|[2507.05939](http://arxiv.org/abs/2507.05939)|null|
 |**2025-07-08**|**What You Have is What You Track: Adaptive and Robust Multimodal Tracking**|Yuedong Tan et.al.|[2507.05899](http://arxiv.org/abs/2507.05899)|null|
-|**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
+|**2025-07-21**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
 |**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685](http://arxiv.org/abs/2507.05685)|null|
 |**2025-07-08**|**City-Level Foreign Direct Investment Prediction with Tabular Learning on Judicial Data**|Tianxing Wu et.al.|[2507.05651](http://arxiv.org/abs/2507.05651)|null|
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
@@ -916,7 +931,7 @@ layout: default
 |**2025-07-08**|**UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification**|Xixi Wan et.al.|[2507.04638](http://arxiv.org/abs/2507.04638)|null|
 |**2025-07-07**|**Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**|Yun Wang et.al.|[2507.04631](http://arxiv.org/abs/2507.04631)|null|
 |**2025-07-06**|**Nile-Chat: Egyptian Language Models for Arabic and Latin Scripts**|Guokan Shang et.al.|[2507.04569](http://arxiv.org/abs/2507.04569)|null|
-|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
+|**2025-07-22**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-04**|**Decoupled Relative Learning Rate Schedules**|Jan Ludziejewski et.al.|[2507.03526](http://arxiv.org/abs/2507.03526)|null|
 |**2025-07-03**|**Neural Inhibition Improves Dynamic Routing and Mixture of Experts**|Will Y. Zou et.al.|[2507.03221](http://arxiv.org/abs/2507.03221)|null|
@@ -1010,7 +1025,7 @@ layout: default
 |**2025-06-09**|**A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling**|Jacob Helwig et.al.|[2506.07969](http://arxiv.org/abs/2506.07969)|**[link](https://github.com/divelab/AIRS)**|
 |**2025-06-09**|**New Insights into the T Tauri Binary Separation Distribution**|Caleb Eastlund et.al.|[2506.07938](http://arxiv.org/abs/2506.07938)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
-|**2025-06-11**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584](http://arxiv.org/abs/2506.07584)|null|
+|**2025-07-23**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584](http://arxiv.org/abs/2506.07584)|null|
 |**2025-06-11**|**MoE-MLoRA for Multi-Domain CTR Prediction: Efficient Adaptation with Expert Specialization**|Ken Yaggel et.al.|[2506.07563](http://arxiv.org/abs/2506.07563)|**[link](https://github.com/Kenyaggel/MLoRA)**|
 |**2025-06-09**|**MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts**|Wei Tao et.al.|[2506.07533](http://arxiv.org/abs/2506.07533)|null|
 |**2025-06-09**|**Graph-of-Causal Evolution: Challenging Chain-of-Model for Reasoning**|Libo Wang et.al.|[2506.07501](http://arxiv.org/abs/2506.07501)|null|
@@ -1791,8 +1806,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
+|**2025-07-22**|**Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs**|Xuran Cai et.al.|[2507.16660](http://arxiv.org/abs/2507.16660)|null|
+|**2025-07-22**|**Ly $α$ Emission from [OIII] Emitters Near Reionization: The role of environment in galaxy Ly$α$ detection**|Seyedazim Hashemi et.al.|[2507.16231](http://arxiv.org/abs/2507.16231)|null|
+|**2025-07-20**|**Designing Robots with, not for: A Co-Design Framework for Empowering Interactions in Forensic Psychiatry**|Qiaoqiao Ren et.al.|[2507.14931](http://arxiv.org/abs/2507.14931)|null|
 |**2025-07-18**|**On the asymptotic equidistribution of word values in symmetric groups**|Vadim Alekseev et.al.|[2507.13928](http://arxiv.org/abs/2507.13928)|null|
-|**2025-07-18**|**Gravity and the Higgs boson mass**|Carlo Branchina et.al.|[2507.13832](http://arxiv.org/abs/2507.13832)|null|
+|**2025-07-22**|**Gravity and the Higgs boson mass**|Carlo Branchina et.al.|[2507.13832](http://arxiv.org/abs/2507.13832)|null|
 |**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
 |**2025-07-16**|**Efficient Control Flow Attestation by Speculating on Control Flow Path Representations**|Liam Tyler et.al.|[2507.12345](http://arxiv.org/abs/2507.12345)|null|
 |**2025-07-17**|**DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|
@@ -1802,7 +1821,7 @@ layout: default
 |**2025-07-14**|**Large Interconnected Thermodynamic Systems Nearly Minimize Entropy Production**|Kyle J. Ray et.al.|[2507.10476](http://arxiv.org/abs/2507.10476)|null|
 |**2025-07-14**|**Supernova-induced binary-interaction-powered supernovae: a model for SN2022jli**|Ryosuke Hirai et.al.|[2507.09974](http://arxiv.org/abs/2507.09974)|null|
 |**2025-07-12**|**TPP-SD: Accelerating Transformer Point Process Sampling with Speculative Decoding**|Shukai Gong et.al.|[2507.09252](http://arxiv.org/abs/2507.09252)|null|
-|**2025-07-11**|**Bringing the Norma Dark Cloud to Light in X-rays**|Stephen L. Skinner et.al.|[2507.09047](http://arxiv.org/abs/2507.09047)|null|
+|**2025-07-21**|**Bringing the Norma Dark Cloud to Light in X-rays**|Stephen L. Skinner et.al.|[2507.09047](http://arxiv.org/abs/2507.09047)|null|
 |**2025-07-11**|**On Evaluating Performance of LLM Inference Serving Systems**|Amey Agrawal et.al.|[2507.09019](http://arxiv.org/abs/2507.09019)|null|
 |**2025-07-10**|**Greening Schoolyards and the Spatial Distribution of Property Values in Denver, Colorado**|Mahshid Gorjian et.al.|[2507.08894](http://arxiv.org/abs/2507.08894)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
@@ -1913,7 +1932,7 @@ layout: default
 |**2025-05-23**|**Reinforcement Speculative Decoding for Fast Ranking**|Yingpeng Du et.al.|[2505.20316](http://arxiv.org/abs/2505.20316)|null|
 |**2025-06-13**|**MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE**|Zongle Huang et.al.|[2505.19645](http://arxiv.org/abs/2505.19645)|null|
 |**2025-05-28**|**Faster and Better LLMs via Latency-Aware Test-Time Scaling**|Zili Wang et.al.|[2505.19634](http://arxiv.org/abs/2505.19634)|null|
-|**2025-06-25**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
+|**2025-07-23**|**Turing Test 2.0: The General Intelligence Threshold**|Georgios Mappouras et.al.|[2505.19550](http://arxiv.org/abs/2505.19550)|null|
 |**2025-05-29**|**DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding**|Yunhai Hu et.al.|[2505.19201](http://arxiv.org/abs/2505.19201)|**[link](https://github.com/sai-lab-nyu/dream)**|
 |**2025-05-25**|**Sparse-to-Dense: A Free Lunch for Lossless Acceleration of Video Understanding in LLMs**|Xuan Zhang et.al.|[2505.19155](http://arxiv.org/abs/2505.19155)|null|
 |**2025-05-24**|**Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding**|Yixuan Wang et.al.|[2505.18629](http://arxiv.org/abs/2505.18629)|null|
