@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
+|**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
+|**2025-10-01**|**Generalized Parallel Scaling with Interdependent Generations**|Harry Dong et.al.|[2510.01143](http://arxiv.org/abs/2510.01143)|null|
+|**2025-10-01**|**Prompt Curriculum Learning for Efficient LLM Post-Training**|Zhaolin Gao et.al.|[2510.01135](http://arxiv.org/abs/2510.01135)|null|
+|**2025-10-01**|**Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese**|Jenny Kunz et.al.|[2510.00810](http://arxiv.org/abs/2510.00810)|null|
+|**2025-10-01**|**Expected Attention: KV Cache Compression by Estimating Attention from Future Queries Distribution**|Alessio Devoto et.al.|[2510.00636](http://arxiv.org/abs/2510.00636)|null|
+|**2025-10-01**|**Spectral Scaling Laws in Language Models: How Effectively Do Feed-Forward Networks Use Their Latent Space?**|Nandan Kumar Jha et.al.|[2510.00537](http://arxiv.org/abs/2510.00537)|null|
+|**2025-10-01**|**Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs**|Kairun Zhang et.al.|[2510.00419](http://arxiv.org/abs/2510.00419)|null|
+|**2025-10-02**|**Large Language Models Inference Engines based on Spiking Neural Networks**|Adarsha Balaji et.al.|[2510.00133](http://arxiv.org/abs/2510.00133)|null|
+|**2025-10-01**|**AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size**|Guanxi Lu et.al.|[2509.26432](http://arxiv.org/abs/2509.26432)|null|
+|**2025-09-30**|**Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management**|Hatim Chergui et.al.|[2509.26200](http://arxiv.org/abs/2509.26200)|null|
+|**2025-09-30**|**Parallax: Efficient LLM Inference Service over Decentralized Environment**|Chris Tong et.al.|[2509.26182](http://arxiv.org/abs/2509.26182)|null|
+|**2025-09-30**|**Accelerating LLM Inference with Precomputed Query Storage**|Jay H. Park et.al.|[2509.25919](http://arxiv.org/abs/2509.25919)|null|
+|**2025-09-30**|**SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV**|Jingyao Zhang et.al.|[2509.25853](http://arxiv.org/abs/2509.25853)|null|
+|**2025-09-29**|**Scaling with Collapse: Efficient and Predictable Training of LLM Families**|Shane Bergsma et.al.|[2509.25087](http://arxiv.org/abs/2509.25087)|null|
+|**2025-09-29**|**Intra-request branch orchestration for efficient LLM reasoning**|Weifan Jiang et.al.|[2509.24957](http://arxiv.org/abs/2509.24957)|null|
+|**2025-09-29**|**SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching**|Xinye Zhao et.al.|[2509.24832](http://arxiv.org/abs/2509.24832)|null|
+|**2025-09-29**|**SparseServe: Unlocking Parallelism for Dynamic Sparse Attention in Long-Context LLM Serving**|Qihui Zhou et.al.|[2509.24626](http://arxiv.org/abs/2509.24626)|null|
+|**2025-09-29**|**Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding**|Sungkyun Kim et.al.|[2509.24328](http://arxiv.org/abs/2509.24328)|null|
 |**2025-07-22**|**Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework**|Hongyi Tang et.al.|[2507.16414](http://arxiv.org/abs/2507.16414)|null|
 |**2025-07-21**|**Efficient Routing of Inference Requests across LLM Instances in Cloud-Edge Computing**|Shibo Yu et.al.|[2507.15553](http://arxiv.org/abs/2507.15553)|null|
 |**2025-07-18**|**Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need**|Michael Davies et.al.|[2507.14397](http://arxiv.org/abs/2507.14397)|null|
@@ -863,17 +883,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-11**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523](http://arxiv.org/abs/2507.08523)|null|
+|**2025-09-16**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523](http://arxiv.org/abs/2507.08523)|null|
 |**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|null|
 |**2025-05-29**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554](http://arxiv.org/abs/2505.23554)|null|
 |**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
-|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
+|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
 
 ## MoE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
+|**2025-10-02**|**LadderMoE: Ladder-Side Mixture of Experts Adapters for Bronze Inscription Recognition**|Rixin Zhou et.al.|[2510.01651](http://arxiv.org/abs/2510.01651)|null|
+|**2025-10-01**|**Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs**|Leyla Mirvakhabova et.al.|[2510.01185](http://arxiv.org/abs/2510.01185)|null|
+|**2025-10-01**|**Learning Compact Representations of LLM Abilities via Item Response Theory**|Jianhao Chen et.al.|[2510.00844](http://arxiv.org/abs/2510.00844)|null|
+|**2025-10-01**|**Graph Integrated Multimodal Concept Bottleneck Model**|Jiakai Lin et.al.|[2510.00701](http://arxiv.org/abs/2510.00701)|null|
+|**2025-10-01**|**FAME: Adaptive Functional Attention with Expert Routing for Function-on-Function Regression**|Yifei Gao et.al.|[2510.00621](http://arxiv.org/abs/2510.00621)|null|
+|**2025-10-01**|**Adaptive Shared Experts with LoRA-Based Mixture of Experts for Multi-Task Learning**|Minghao Yang et.al.|[2510.00570](http://arxiv.org/abs/2510.00570)|null|
+|**2025-09-30**|**FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training**|Yunqi Gao et.al.|[2510.00207](http://arxiv.org/abs/2510.00207)|null|
+|**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
+|**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
+|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
+|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|null|
+|**2025-09-30**|**Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel**|Chuanyang Zheng et.al.|[2509.25913](http://arxiv.org/abs/2509.25913)|null|
+|**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
+|**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
+|**2025-09-30**|**LD-MoLE: Learnable Dynamic Routing for Mixture of LoRA Experts**|Yuan Zhuang et.al.|[2509.25684](http://arxiv.org/abs/2509.25684)|null|
+|**2025-09-30**|**Guiding Mixture-of-Experts with Temporal Multimodal Interactions**|Xing Han et.al.|[2509.25678](http://arxiv.org/abs/2509.25678)|null|
+|**2025-09-29**|**K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**|Bangwei Guo et.al.|[2509.25594](http://arxiv.org/abs/2509.25594)|null|
+|**2025-09-29**|**GRACE-MoE: Grouping and Replication with Locality-Aware Routing for Efficient Distributed MoE Inference**|Yu Han et.al.|[2509.25041](http://arxiv.org/abs/2509.25041)|null|
+|**2025-09-29**|**LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection**|Bao-Ngoc Dao et.al.|[2509.24547](http://arxiv.org/abs/2509.24547)|null|
 |**2025-07-22**|**Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data**|Yunyi Shen et.al.|[2507.16817](http://arxiv.org/abs/2507.16817)|null|
 |**2025-07-22**|**Reducing GPU Memory Fragmentation via Spatio-Temporal Planning for Efficient Large-Scale Model Training**|Zixiao Huang et.al.|[2507.16274](http://arxiv.org/abs/2507.16274)|null|
 |**2025-07-21**|**Applying multimodal learning to Classify transient Detections Early (AppleCiDEr) I: Data set, methods, and infrastructure**|Alexandra Junell et.al.|[2507.16088](http://arxiv.org/abs/2507.16088)|null|
@@ -1806,6 +1846,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**The Disparate Impacts of Speculative Decoding**|Jameson Sandler et.al.|[2510.02128](http://arxiv.org/abs/2510.02128)|null|
+|**2025-10-02**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
+|**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|null|
+|**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
+|**2025-10-01**|**Combining complex Langevin dynamics with score-based and energy-based diffusion models**|Gert Aarts et.al.|[2510.01328](http://arxiv.org/abs/2510.01328)|null|
+|**2025-09-30**|**Chiral effects and Joule heating in hot and dense matter**|Srimoyee Sen et.al.|[2510.00114](http://arxiv.org/abs/2510.00114)|null|
+|**2025-09-29**|**A(I)nimism: Re-enchanting the World Through AI-Mediated Object Interaction**|Diana Mykhaylychenko et.al.|[2509.25558](http://arxiv.org/abs/2509.25558)|null|
+|**2025-09-29**|**The Stellar Content of NGC~3603 Revisited: Is the IMF Top Heavy?**|Philip Massey et.al.|[2509.25099](http://arxiv.org/abs/2509.25099)|null|
+|**2025-09-29**|**Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding**|Sungkyun Kim et.al.|[2509.24328](http://arxiv.org/abs/2509.24328)|null|
+|**2025-09-29**|**SpecExit: Accelerating Large Reasoning Model via Speculative Exit**|Rubing Yang et.al.|[2509.24248](http://arxiv.org/abs/2509.24248)|null|
+|**2025-09-28**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al.|[2509.23928](http://arxiv.org/abs/2509.23928)|null|
+|**2025-09-27**|**SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts**|Bingshuai Liu et.al.|[2509.23232](http://arxiv.org/abs/2509.23232)|null|
+|**2025-09-29**|**SAHM: State-Aware Heterogeneous Multicore for Single-Thread Performance**|Shayne Wadle et.al.|[2509.22405](http://arxiv.org/abs/2509.22405)|null|
+|**2025-09-26**|**In Their Own Words: Reasoning Traces Tailored for Small Models Make Them Better Reasoners**|Jaehoon Kim et.al.|[2509.22230](http://arxiv.org/abs/2509.22230)|null|
+|**2025-09-26**|**Bridging Draft Policy Misalignment: Group Tree Optimization for Speculative Decoding**|Shijing Hu et.al.|[2509.22134](http://arxiv.org/abs/2509.22134)|null|
+|**2025-09-26**|**FastGRPO: Accelerating Policy Optimization via Concurrency-aware Speculative Decoding and Online Draft Learning**|Yizhou Zhang et.al.|[2509.21792](http://arxiv.org/abs/2509.21792)|null|
+|**2025-09-26**|**Self-Speculative Biased Decoding for Faster Live Translation**|Linxiao Zeng et.al.|[2509.21740](http://arxiv.org/abs/2509.21740)|null|
+|**2025-09-25**|**SpecMER: Fast Protein Generation with K-mer Guided Speculative Decoding**|Thomas Walton et.al.|[2509.21689](http://arxiv.org/abs/2509.21689)|null|
+|**2025-09-25**|**SuperOffload: Unleashing the Power of Large-Scale LLM Training on Superchips**|Xinyu Lian et.al.|[2509.21271](http://arxiv.org/abs/2509.21271)|null|
+|**2025-09-24**|**The interstellar heritage of comets**|Karen Willacy et.al.|[2509.20530](http://arxiv.org/abs/2509.20530)|null|
 |**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
 |**2025-07-22**|**Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs**|Xuran Cai et.al.|[2507.16660](http://arxiv.org/abs/2507.16660)|null|
 |**2025-07-22**|**Ly $α$ Emission from [OIII] Emitters Near Reionization: The role of environment in galaxy Ly$α$ detection**|Seyedazim Hashemi et.al.|[2507.16231](http://arxiv.org/abs/2507.16231)|null|
@@ -2505,12 +2565,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/abs/2509.26096)|null|
+|**2025-09-28**|**Sequential Diffusion Language Models**|Yangzhou Liu et.al.|[2509.24007](http://arxiv.org/abs/2509.24007)|null|
+|**2025-09-28**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al.|[2509.23928](http://arxiv.org/abs/2509.23928)|null|
+|**2025-09-20**|**Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs**|Qinyu Chen et.al.|[2509.16476](http://arxiv.org/abs/2509.16476)|null|
+|**2025-09-21**|**SpecVLM: Fast Speculative Decoding in Vision-Language Models**|Haiduo Huang et.al.|[2509.11815](http://arxiv.org/abs/2509.11815)|null|
+|**2025-09-15**|**STADI: Fine-Grained Step-Patch Diffusion Parallelism for Heterogeneous GPUs**|Han Liang et.al.|[2509.04719](http://arxiv.org/abs/2509.04719)|null|
+|**2025-08-20**|**GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models**|Lianming Huang et.al.|[2508.18227](http://arxiv.org/abs/2508.18227)|null|
+|**2025-08-21**|**Pretrained Diffusion Models Are Inherently Skipped-Step Samplers**|Wenju Xu et.al.|[2508.15233](http://arxiv.org/abs/2508.15233)|null|
+|**2025-08-07**|**Real-Time Iteration Scheme for Diffusion Policy**|Yufei Duan et.al.|[2508.05396](http://arxiv.org/abs/2508.05396)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
 |**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Tharun Adithya Srikrishnan et.al.|[2507.09071](http://arxiv.org/abs/2507.09071)|null|
-|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|**[link](https://github.com/noegroup/scoremd)**|
+|**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
 |**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
-|**2025-07-01**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
+|**2025-07-01**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
-|**2025-06-15**|**RNE: a plug-and-play framework for diffusion density estimation and inference-time control**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
+|**2025-09-03**|**RNE: plug-and-play diffusion inference-time control and energy-based training**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
 |**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
 |**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
