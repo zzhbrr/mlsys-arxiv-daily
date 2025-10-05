@@ -2577,11 +2577,11 @@ layout: default
 |**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
 |**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Tharun Adithya Srikrishnan et.al.|[2507.09071](http://arxiv.org/abs/2507.09071)|null|
 |**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
-|**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|**[link](https://github.com/wangdaha1/VLMInferSlow)**|
-|**2025-07-01**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/AniAggarwal/ecad)**|
+|**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
+|**2025-07-01**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
 |**2025-09-03**|**RNE: plug-and-play diffusion inference-time control and energy-based training**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
-|**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|**[link](https://github.com/XiangchengZhang/Diffusion-inference-scaling)**|
+|**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
 |**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
 |**2025-05-23**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[2505.15925](http://arxiv.org/abs/2505.15925)|null|
