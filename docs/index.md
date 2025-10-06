@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Best-of-Majority: Minimax-Optimal Strategy for Pass@ $k$ Inference Scaling**|Qiwei Di et.al.|[2510.03199](http://arxiv.org/abs/2510.03199)|null|
+|**2025-10-03**|**Dissecting Transformers: A CLEAR Perspective towards Green AI**|Hemang Jain et.al.|[2510.02810](http://arxiv.org/abs/2510.02810)|null|
+|**2025-10-03**|**TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling**|Junyi Chen et.al.|[2510.02758](http://arxiv.org/abs/2510.02758)|null|
+|**2025-10-03**|**HALO: Memory-Centric Heterogeneous Accelerator with 2.5D Integration for Low-Batch LLM Inference**|Shubham Negi et.al.|[2510.02675](http://arxiv.org/abs/2510.02675)|null|
+|**2025-10-02**|**Litespark Technical Report: High-Throughput, Energy-Efficient LLM Training Framework**|Nii Osae Osae Dade et.al.|[2510.02483](http://arxiv.org/abs/2510.02483)|null|
+|**2025-10-01**|**PolyLink: A Blockchain Based Decentralized Edge AI Platform for LLM Inference**|Hongbo Liu et.al.|[2510.02395](http://arxiv.org/abs/2510.02395)|null|
 |**2025-10-03**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
 |**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
@@ -894,6 +900,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Mixture of Many Zero-Compute Experts: A High-Rate Quantization Theory Perspective**|Yehuda Dar et.al.|[2510.03151](http://arxiv.org/abs/2510.03151)|null|
+|**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613](http://arxiv.org/abs/2510.02613)|null|
 |**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
 |**2025-10-02**|**LadderMoE: Ladder-Side Mixture of Experts Adapters for Bronze Inscription Recognition**|Rixin Zhou et.al.|[2510.01651](http://arxiv.org/abs/2510.01651)|null|
 |**2025-10-01**|**Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs**|Leyla Mirvakhabova et.al.|[2510.01185](http://arxiv.org/abs/2510.01185)|null|
@@ -905,7 +913,7 @@ layout: default
 |**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
 |**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
-|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|null|
+|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|**[link](https://github.com/yuanzhao-CVLAB/UniMMAD)**|
 |**2025-09-30**|**Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel**|Chuanyang Zheng et.al.|[2509.25913](http://arxiv.org/abs/2509.25913)|null|
 |**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
@@ -1846,6 +1854,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Jeyoung Park et.al.|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
+|**2025-10-03**|**A Concept of Possibility for Real-World Events**|Daniel G. Schwartz et.al.|[2510.02655](http://arxiv.org/abs/2510.02655)|null|
+|**2025-10-02**|**Dispersion in Analogue Gravity**|Eren Erberk Erkul et.al.|[2510.02542](http://arxiv.org/abs/2510.02542)|null|
+|**2025-10-02**|**Impact of AGN and nuclear star formation on the ISM turbulence of galaxies: Insights from JWST/MIRI spectroscopy**|Rogemar A. Riffel et.al.|[2510.02517](http://arxiv.org/abs/2510.02517)|null|
+|**2025-09-28**|**DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding**|Guanghao Li et.al.|[2510.02358](http://arxiv.org/abs/2510.02358)|null|
 |**2025-10-02**|**The Disparate Impacts of Speculative Decoding**|Jameson Sandler et.al.|[2510.02128](http://arxiv.org/abs/2510.02128)|null|
 |**2025-10-03**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
 |**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|null|
@@ -2565,6 +2578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**TridentServe: A Stage-level Serving System for Diffusion Pipelines**|Yifei Xia et.al.|[2510.02838](http://arxiv.org/abs/2510.02838)|null|
 |**2025-09-30**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/abs/2509.26096)|null|
 |**2025-09-28**|**Sequential Diffusion Language Models**|Yangzhou Liu et.al.|[2509.24007](http://arxiv.org/abs/2509.24007)|null|
 |**2025-09-28**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al.|[2509.23928](http://arxiv.org/abs/2509.23928)|null|
