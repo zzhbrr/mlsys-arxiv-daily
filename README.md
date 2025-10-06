@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-03**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
 |**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Generalized Parallel Scaling with Interdependent Generations**|Harry Dong et.al.|[2510.01143](http://arxiv.org/abs/2510.01143)|null|
@@ -886,7 +886,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -899,7 +899,7 @@
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## MoE
 
@@ -1853,14 +1853,14 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-02**|**The Disparate Impacts of Speculative Decoding**|Jameson Sandler et.al.|[2510.02128](http://arxiv.org/abs/2510.02128)|null|
-|**2025-10-02**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
+|**2025-10-03**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
 |**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Combining complex Langevin dynamics with score-based and energy-based diffusion models**|Gert Aarts et.al.|[2510.01328](http://arxiv.org/abs/2510.01328)|null|
@@ -2574,7 +2574,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -2635,7 +2635,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20251005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

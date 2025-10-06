@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-02**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
+|**2025-10-03**|**Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey**|Qiyuan Liu et.al.|[2510.01925](http://arxiv.org/abs/2510.01925)|null|
 |**2025-10-02**|**SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning**|Shicheng Liu et.al.|[2510.01832](http://arxiv.org/abs/2510.01832)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Generalized Parallel Scaling with Interdependent Generations**|Harry Dong et.al.|[2510.01143](http://arxiv.org/abs/2510.01143)|null|
@@ -1847,7 +1847,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-02**|**The Disparate Impacts of Speculative Decoding**|Jameson Sandler et.al.|[2510.02128](http://arxiv.org/abs/2510.02128)|null|
-|**2025-10-02**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
+|**2025-10-03**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
 |**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Combining complex Langevin dynamics with score-based and energy-based diffusion models**|Gert Aarts et.al.|[2510.01328](http://arxiv.org/abs/2510.01328)|null|
