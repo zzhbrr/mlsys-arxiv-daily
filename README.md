@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**RevMine: An LLM-Assisted Tool for Code Review Mining and Analysis Across Git Platforms**|Samah Kansab et.al.|[2510.04796](http://arxiv.org/abs/2510.04796)|null|
+|**2025-10-06**|**SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba**|Yulong Huang et.al.|[2510.04595](http://arxiv.org/abs/2510.04595)|null|
+|**2025-10-05**|**Speculative Actions: A Lossless Framework for Faster Agentic Systems**|Naimeng Ye et.al.|[2510.04371](http://arxiv.org/abs/2510.04371)|null|
+|**2025-10-05**|**Toward a unified framework for data-efficient evaluation of large language models**|Lele Liao et.al.|[2510.04051](http://arxiv.org/abs/2510.04051)|null|
+|**2025-10-02**|**KVComm: Enabling Efficient LLM Communication through Selective KV Sharing**|Xiangyu Shi et.al.|[2510.03346](http://arxiv.org/abs/2510.03346)|null|
 |**2025-10-03**|**Best-of-Majority: Minimax-Optimal Strategy for Pass@ $k$ Inference Scaling**|Qiwei Di et.al.|[2510.03199](http://arxiv.org/abs/2510.03199)|null|
 |**2025-10-03**|**Dissecting Transformers: A CLEAR Perspective towards Green AI**|Hemang Jain et.al.|[2510.02810](http://arxiv.org/abs/2510.02810)|null|
 |**2025-10-03**|**TokenFlow: Responsive LLM Text Streaming Serving under Request Burst via Preemptive Scheduling**|Junyi Chen et.al.|[2510.02758](http://arxiv.org/abs/2510.02758)|null|
@@ -911,6 +916,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**REN: Anatomically-Informed Mixture-of-Experts for Interstitial Lung Disease Diagnosis**|Alec K. Peltekian et.al.|[2510.04923](http://arxiv.org/abs/2510.04923)|null|
+|**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
+|**2025-10-06**|**Multilingual Routing in Mixture-of-Experts**|Lucas Bandarkar et.al.|[2510.04694](http://arxiv.org/abs/2510.04694)|null|
+|**2025-10-06**|**Improving Multimodal Brain Encoding Model with Dynamic Subject-awareness Routing**|Xuanhua Yin et.al.|[2510.04670](http://arxiv.org/abs/2510.04670)|null|
+|**2025-10-06**|**Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space**|Tomas Figliolia et.al.|[2510.04476](http://arxiv.org/abs/2510.04476)|null|
+|**2025-10-05**|**HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks**|Nghiem T. Diep et.al.|[2510.04295](http://arxiv.org/abs/2510.04295)|null|
+|**2025-10-05**|**SliceMoE: Routing Embedding Slices Instead of Tokens for Fine-Grained and Balanced Transformer Scaling**|Harshil Vejendla et.al.|[2510.04286](http://arxiv.org/abs/2510.04286)|null|
+|**2025-10-05**|**MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2510.04136](http://arxiv.org/abs/2510.04136)|null|
 |**2025-10-03**|**Mixture of Many Zero-Compute Experts: A High-Rate Quantization Theory Perspective**|Yehuda Dar et.al.|[2510.03151](http://arxiv.org/abs/2510.03151)|null|
 |**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613](http://arxiv.org/abs/2510.02613)|null|
 |**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
@@ -1867,6 +1880,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**Gromov-Witten theory, degenerations, and the tautological ring**|Davesh Maulik et.al.|[2510.04779](http://arxiv.org/abs/2510.04779)|null|
+|**2025-10-05**|**Speculative Actions: A Lossless Framework for Faster Agentic Systems**|Naimeng Ye et.al.|[2510.04371](http://arxiv.org/abs/2510.04371)|null|
+|**2025-10-05**|**Self Speculative Decoding for Diffusion Large Language Models**|Yifeng Gao et.al.|[2510.04147](http://arxiv.org/abs/2510.04147)|null|
+|**2025-10-04**|**Self-Speculative Masked Diffusions**|Andrew Campbell et.al.|[2510.03929](http://arxiv.org/abs/2510.03929)|null|
+|**2025-10-04**|**Security Analysis of Ponzi Schemes in Ethereum Smart Contracts**|Chunyi Zhang et.al.|[2510.03819](http://arxiv.org/abs/2510.03819)|null|
+|**2025-10-03**|**PrivacyMotiv: Speculative Persona Journeys for Empathic and Motivating Privacy Reviews in UX Design**|Zeya Chen et.al.|[2510.03559](http://arxiv.org/abs/2510.03559)|null|
 |**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Jeyoung Park et.al.|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
 |**2025-10-03**|**A Concept of Possibility for Real-World Events**|Daniel G. Schwartz et.al.|[2510.02655](http://arxiv.org/abs/2510.02655)|null|
 |**2025-10-02**|**Dispersion in Analogue Gravity**|Eren Erberk Erkul et.al.|[2510.02542](http://arxiv.org/abs/2510.02542)|null|
@@ -2593,6 +2612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
 |**2025-10-03**|**TridentServe: A Stage-level Serving System for Diffusion Pipelines**|Yifei Xia et.al.|[2510.02838](http://arxiv.org/abs/2510.02838)|null|
 |**2025-09-30**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/abs/2509.26096)|null|
 |**2025-09-28**|**Sequential Diffusion Language Models**|Yangzhou Liu et.al.|[2509.24007](http://arxiv.org/abs/2509.24007)|null|
@@ -2610,7 +2630,7 @@
 |**2025-07-01**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
 |**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Haotong Qin et.al.|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
 |**2025-09-03**|**RNE: plug-and-play diffusion inference-time control and energy-based training**|Jiajun He et.al.|[2506.05668](http://arxiv.org/abs/2506.05668)|null|
-|**2025-05-29**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
+|**2025-10-05**|**Inference-time Scaling of Diffusion Models through Classical Search**|Xiangcheng Zhang et.al.|[2505.23614](http://arxiv.org/abs/2505.23614)|null|
 |**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
 |**2025-05-23**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[2505.15925](http://arxiv.org/abs/2505.15925)|null|
