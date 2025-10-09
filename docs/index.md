@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.08
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -913,7 +913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-07**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
+|**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
 |**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
 |**2025-10-07**|**Mixture of Neuron Experts**|Runxi Cheng et.al.|[2510.05781](http://arxiv.org/abs/2510.05781)|null|
