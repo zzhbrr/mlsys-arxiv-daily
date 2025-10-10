@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -918,7 +918,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-08**|**Guided by the Experts: Provable Feature Learning Dynamic of Soft-Routed Mixture-of-Experts**|Fangshuo Liao et.al.|[2510.07205](http://arxiv.org/abs/2510.07205)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
-|**2025-10-07**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
+|**2025-10-09**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
 |**2025-10-06**|**Reproducibility Study of "XRec: Large Language Models for Explainable Recommendation"**|Ranjan Mishra et.al.|[2510.06275](http://arxiv.org/abs/2510.06275)|null|
 |**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
@@ -1908,7 +1908,7 @@ layout: default
 |**2025-09-28**|**DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding**|Guanghao Li et.al.|[2510.02358](http://arxiv.org/abs/2510.02358)|null|
 |**2025-10-02**|**The Disparate Impacts of Speculative Decoding**|Jameson Sandler et.al.|[2510.02128](http://arxiv.org/abs/2510.02128)|null|
 |**2025-10-03**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
-|**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|**[link](https://github.com/rprokap/pset-9)**|
+|**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Combining complex Langevin dynamics with score-based and energy-based diffusion models**|Gert Aarts et.al.|[2510.01328](http://arxiv.org/abs/2510.01328)|null|
 |**2025-09-30**|**Chiral effects and Joule heating in hot and dense matter**|Srimoyee Sen et.al.|[2510.00114](http://arxiv.org/abs/2510.00114)|null|

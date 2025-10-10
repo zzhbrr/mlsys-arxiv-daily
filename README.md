@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -908,7 +908,7 @@
 |**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-11-11**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|**[link](https://github.com/Kthyeon/Multilingual-SpecBench)**|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -921,7 +921,7 @@
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
 |**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## MoE
 
@@ -929,7 +929,7 @@
 |---|---|---|---|---|
 |**2025-10-08**|**Guided by the Experts: Provable Feature Learning Dynamic of Soft-Routed Mixture-of-Experts**|Fangshuo Liao et.al.|[2510.07205](http://arxiv.org/abs/2510.07205)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
-|**2025-10-07**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
+|**2025-10-09**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
 |**2025-10-06**|**Reproducibility Study of "XRec: Large Language Models for Explainable Recommendation"**|Ranjan Mishra et.al.|[2510.06275](http://arxiv.org/abs/2510.06275)|null|
 |**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
@@ -1896,7 +1896,7 @@
 |**2024-08-16**|**Integrating Multi-view Analysis: Multi-view Mixture-of-Expert for Textual Personality Detection**|Haohao Zhu et.al.|[2408.08551](http://arxiv.org/abs/2408.08551)|null|
 |**2024-08-17**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -1921,7 +1921,7 @@
 |**2025-09-28**|**DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding**|Guanghao Li et.al.|[2510.02358](http://arxiv.org/abs/2510.02358)|null|
 |**2025-10-02**|**The Disparate Impacts of Speculative Decoding**|Jameson Sandler et.al.|[2510.02128](http://arxiv.org/abs/2510.02128)|null|
 |**2025-10-03**|**Virtual fibring of manifolds and groups**|Dawid Kielak et.al.|[2510.01805](http://arxiv.org/abs/2510.01805)|null|
-|**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|**[link](https://github.com/rprokap/pset-9)**|
+|**2025-10-01**|**Theory is Shapes**|Matthew Varona et.al.|[2510.01382](http://arxiv.org/abs/2510.01382)|null|
 |**2025-10-01**|**HiSpec: Hierarchical Speculative Decoding for LLMs**|Avinash Kumar et.al.|[2510.01336](http://arxiv.org/abs/2510.01336)|null|
 |**2025-10-01**|**Combining complex Langevin dynamics with score-based and energy-based diffusion models**|Gert Aarts et.al.|[2510.01328](http://arxiv.org/abs/2510.01328)|null|
 |**2025-09-30**|**Chiral effects and Joule heating in hot and dense matter**|Srimoyee Sen et.al.|[2510.00114](http://arxiv.org/abs/2510.00114)|null|
@@ -2634,7 +2634,7 @@
 |**2024-07-01**|**Universal properties of residual moments in heavy-fermion metals**|Ewan Scott et.al.|[2407.01218](http://arxiv.org/abs/2407.01218)|null|
 |**2024-07-01**|**Staying vigilant in the Age of AI: From content generation to content authentication**|Yufan Li et.al.|[2407.00922](http://arxiv.org/abs/2407.00922)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -2697,7 +2697,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
