@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.10
+## Updated on 2025.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -17,9 +17,9 @@ layout: default
 |**2025-10-09**|**SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference**|Hengrui Zhang et.al.|[2510.08544](http://arxiv.org/abs/2510.08544)|null|
 |**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
 |**2025-10-09**|**Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models**|Zhiqing Cui et.al.|[2510.07858](http://arxiv.org/abs/2510.07858)|null|
-|**2025-10-09**|**OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference**|Yuzhe Gu et.al.|[2510.07651](http://arxiv.org/abs/2510.07651)|null|
+|**2025-10-09**|**OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference**|Yuzhe Gu et.al.|[2510.07651](http://arxiv.org/abs/2510.07651)|**[link](https://github.com/DreamSoul-AI/OBCache)**|
 |**2025-10-08**|**AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**|Shuqing Luo et.al.|[2510.07486](http://arxiv.org/abs/2510.07486)|null|
-|**2025-10-08**|**Accelerating Diffusion LLM Inference via Local Determinism Propagation**|Fanheng Kong et.al.|[2510.07081](http://arxiv.org/abs/2510.07081)|null|
+|**2025-10-08**|**Accelerating Diffusion LLM Inference via Local Determinism Propagation**|Fanheng Kong et.al.|[2510.07081](http://arxiv.org/abs/2510.07081)|**[link](https://github.com/friedrichor/LocalLeap)**|
 |**2025-10-08**|**Accelerating Sparse Ternary GEMM for Quantized LLM inference on Apple Silicon**|Baraq Lipshitz et.al.|[2510.06957](http://arxiv.org/abs/2510.06957)|null|
 |**2025-10-08**|**PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs**|Manuel Frank et.al.|[2510.06730](http://arxiv.org/abs/2510.06730)|null|
 |**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|null|
