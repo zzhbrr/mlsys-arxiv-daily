@@ -948,7 +948,7 @@
 |**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
 |**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
-|**2025-10-07**|**Mixture of Neuron Experts**|Runxi Cheng et.al.|[2510.05781](http://arxiv.org/abs/2510.05781)|**[link](https://github.com/RoyZry98/MoASE-Pytorch)**|
+|**2025-10-07**|**Mixture of Neuron Experts**|Runxi Cheng et.al.|[2510.05781](http://arxiv.org/abs/2510.05781)|null|
 |**2025-10-07**|**MSF-SER: Enriching Acoustic Modeling with Multi-Granularity Semantics for Speech Emotion Recognition**|Haoxun Li et.al.|[2510.05749](http://arxiv.org/abs/2510.05749)|null|
 |**2025-10-07**|**Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting**|Zhongkai Yu et.al.|[2510.05497](http://arxiv.org/abs/2510.05497)|null|
 |**2025-10-06**|**Stratum: System-Hardware Co-Design with Tiered Monolithic 3D-Stackable DRAM for Efficient MoE Serving**|Yue Pan et.al.|[2510.05245](http://arxiv.org/abs/2510.05245)|null|
