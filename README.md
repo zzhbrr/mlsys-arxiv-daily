@@ -21,12 +21,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference**|Yu-Chen Lu et.al.|[2510.09332](http://arxiv.org/abs/2510.09332)|null|
+|**2025-10-10**|**Semantic-Condition Tuning: Fusing Graph Context with Large Language Models for Knowledge Graph Completion**|Ruitong Liu et.al.|[2510.08966](http://arxiv.org/abs/2510.08966)|null|
+|**2025-10-10**|**Autoencoding-Free Context Compression for LLMs via Contextual Semantic Anchors**|Xin Liu et.al.|[2510.08907](http://arxiv.org/abs/2510.08907)|null|
+|**2025-10-10**|**Mozart: A Chiplet Ecosystem-Accelerator Codesign Framework for Composable Bespoke Application Specific Integrated Circuits**|Haoran Jin et.al.|[2510.08873](http://arxiv.org/abs/2510.08873)|null|
+|**2025-10-09**|**When to Reason: Semantic Router for vLLM**|Chen Wang et.al.|[2510.08731](http://arxiv.org/abs/2510.08731)|null|
 |**2025-10-09**|**SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference**|Hengrui Zhang et.al.|[2510.08544](http://arxiv.org/abs/2510.08544)|null|
 |**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
 |**2025-10-09**|**Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models**|Zhiqing Cui et.al.|[2510.07858](http://arxiv.org/abs/2510.07858)|null|
-|**2025-10-09**|**OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference**|Yuzhe Gu et.al.|[2510.07651](http://arxiv.org/abs/2510.07651)|**[link](https://github.com/DreamSoul-AI/OBCache)**|
+|**2025-10-09**|**OBCache: Optimal Brain KV Cache Pruning for Efficient Long-Context LLM Inference**|Yuzhe Gu et.al.|[2510.07651](http://arxiv.org/abs/2510.07651)|null|
 |**2025-10-08**|**AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**|Shuqing Luo et.al.|[2510.07486](http://arxiv.org/abs/2510.07486)|null|
-|**2025-10-08**|**Accelerating Diffusion LLM Inference via Local Determinism Propagation**|Fanheng Kong et.al.|[2510.07081](http://arxiv.org/abs/2510.07081)|**[link](https://github.com/friedrichor/LocalLeap)**|
+|**2025-10-08**|**Accelerating Diffusion LLM Inference via Local Determinism Propagation**|Fanheng Kong et.al.|[2510.07081](http://arxiv.org/abs/2510.07081)|null|
 |**2025-10-08**|**Accelerating Sparse Ternary GEMM for Quantized LLM inference on Apple Silicon**|Baraq Lipshitz et.al.|[2510.06957](http://arxiv.org/abs/2510.06957)|null|
 |**2025-10-08**|**PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs**|Manuel Frank et.al.|[2510.06730](http://arxiv.org/abs/2510.06730)|null|
 |**2025-10-07**|**VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization**|Dingyu Yao et.al.|[2510.06175](http://arxiv.org/abs/2510.06175)|null|
@@ -932,6 +937,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Dense2MoE: Restructuring Diffusion Transformer to MoE for Efficient Text-to-Image Generation**|Youwei Zheng et.al.|[2510.09094](http://arxiv.org/abs/2510.09094)|null|
+|**2025-10-09**|**LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution**|Xiaohui Li et.al.|[2510.08771](http://arxiv.org/abs/2510.08771)|null|
+|**2025-10-09**|**dInfer: An Efficient Inference Framework for Diffusion Language Models**|Yuxin Ma et.al.|[2510.08666](http://arxiv.org/abs/2510.08666)|null|
+|**2025-10-08**|**Dynamic Mixture-of-Experts for Visual Autoregressive Model**|Jort Vincenti et.al.|[2510.08629](http://arxiv.org/abs/2510.08629)|null|
 |**2025-10-09**|**FlyLoRA: Boosting Task Decoupling and Parameter Efficiency via Implicit Rank-Wise Mixture-of-Experts**|Heming Zou et.al.|[2510.08396](http://arxiv.org/abs/2510.08396)|null|
 |**2025-10-09**|**Mix- and MoE-DPO: A Variational Inference Approach to Direct Preference Optimization**|Jason Bohne et.al.|[2510.08256](http://arxiv.org/abs/2510.08256)|null|
 |**2025-10-09**|**From Tokens to Layers: Redefining Stall-Free Scheduling for LLM Serving with Layered Prefill**|Gunjun Lee et.al.|[2510.08055](http://arxiv.org/abs/2510.08055)|null|
@@ -945,7 +954,7 @@
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
 |**2025-10-09**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
 |**2025-10-06**|**Reproducibility Study of "XRec: Large Language Models for Explainable Recommendation"**|Ranjan Mishra et.al.|[2510.06275](http://arxiv.org/abs/2510.06275)|null|
-|**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
+|**2025-10-10**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
 |**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
 |**2025-10-07**|**Mixture of Neuron Experts**|Runxi Cheng et.al.|[2510.05781](http://arxiv.org/abs/2510.05781)|null|
@@ -1916,6 +1925,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy**|Xiaoxiao Ma et.al.|[2510.09012](http://arxiv.org/abs/2510.09012)|null|
+|**2025-10-10**|**Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation**|Yao Teng et.al.|[2510.08994](http://arxiv.org/abs/2510.08994)|null|
+|**2025-10-10**|**Mozart: A Chiplet Ecosystem-Accelerator Codesign Framework for Composable Bespoke Application Specific Integrated Circuits**|Haoran Jin et.al.|[2510.08873](http://arxiv.org/abs/2510.08873)|null|
 |**2025-10-09**|**Atomically resolved electron reflectivity at a metal/semiconductor interface**|Ding-Ming Huang et.al.|[2510.07970](http://arxiv.org/abs/2510.07970)|null|
 |**2025-10-08**|**OWL: Overcoming Window Length-Dependence in Speculative Decoding for Long-Context Inputs**|Jaeseong Lee et.al.|[2510.07535](http://arxiv.org/abs/2510.07535)|null|
 |**2025-10-08**|**Lectures on entanglement, von Neumann algebras, and emergence of spacetime**|Hong Liu et.al.|[2510.07017](http://arxiv.org/abs/2510.07017)|null|
