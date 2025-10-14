@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -2653,7 +2653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-06**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
+|**2025-10-11**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
 |**2025-10-03**|**TridentServe: A Stage-level Serving System for Diffusion Pipelines**|Yifei Xia et.al.|[2510.02838](http://arxiv.org/abs/2510.02838)|null|
 |**2025-09-30**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/abs/2509.26096)|null|
 |**2025-09-28**|**Sequential Diffusion Language Models**|Yangzhou Liu et.al.|[2509.24007](http://arxiv.org/abs/2509.24007)|null|
