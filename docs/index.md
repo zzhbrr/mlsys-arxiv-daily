@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?**|Cedric Richter et.al.|[2510.12702](http://arxiv.org/abs/2510.12702)|null|
+|**2025-10-14**|**Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models**|Donghwan Rho et.al.|[2510.12343](http://arxiv.org/abs/2510.12343)|null|
+|**2025-10-13**|**FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters**|Yanying Lin et.al.|[2510.11938](http://arxiv.org/abs/2510.11938)|null|
 |**2025-10-13**|**Efficient LLM Inference over Heterogeneous Edge Networks with Speculative Decoding**|Bingjie Zhu et.al.|[2510.11331](http://arxiv.org/abs/2510.11331)|null|
 |**2025-10-13**|**An Explorative Study on Distributed Computing Techniques in Training and Inference of Large Language Models**|Sheikh Azizul Hakim et.al.|[2510.11211](http://arxiv.org/abs/2510.11211)|null|
 |**2025-10-13**|**Efficient In-Memory Acceleration of Sparse Block Diagonal LLMs**|João Paulo Cardoso de Lima et.al.|[2510.11192](http://arxiv.org/abs/2510.11192)|null|
@@ -935,6 +938,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Dendrograms of Mixing Measures for Softmax-Gated Gaussian Mixture of Experts: Consistency without Model Sweeps**|Do Tien Hai et.al.|[2510.12744](http://arxiv.org/abs/2510.12744)|null|
+|**2025-10-14**|**Proof of Cloud: Data Center Execution Assurance for Confidential VMs**|Filip Rezabek et.al.|[2510.12469](http://arxiv.org/abs/2510.12469)|null|
+|**2025-10-14**|**MoBiLE: Efficient Mixture-of-Experts Inference on Consumer GPU with Mixture of Big Little Experts**|Yushu Zhao et.al.|[2510.12357](http://arxiv.org/abs/2510.12357)|null|
+|**2025-10-14**|**DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification**|Tao Xie et.al.|[2510.12214](http://arxiv.org/abs/2510.12214)|null|
+|**2025-10-13**|**Enhancing the Quality of 3D Lunar Maps Using JAXA's Kaguya Imagery**|Yumi Iwashita et.al.|[2510.11817](http://arxiv.org/abs/2510.11817)|null|
 |**2025-10-13**|**Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View**|Jinyu Zhang et.al.|[2510.11687](http://arxiv.org/abs/2510.11687)|null|
 |**2025-10-13**|**Robust Ego-Exo Correspondence with Long-Term Memory**|Yijun Hu et.al.|[2510.11417](http://arxiv.org/abs/2510.11417)|null|
 |**2025-10-13**|**Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers**|Wenhan Ma et.al.|[2510.11370](http://arxiv.org/abs/2510.11370)|null|
@@ -1933,8 +1941,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Language Models Model Language**|Łukasz Borchmann et.al.|[2510.12766](http://arxiv.org/abs/2510.12766)|null|
+|**2025-10-14**|**Notes on false vacuum decay in quantum Ising models**|Ian G. Moss et.al.|[2510.12592](http://arxiv.org/abs/2510.12592)|null|
+|**2025-10-14**|**A Direct Memory Access Controller (DMAC) for Irregular Data Transfers on RISC-V Linux Systems**|Thomas Benz et.al.|[2510.12277](http://arxiv.org/abs/2510.12277)|null|
+|**2025-10-14**|**How Far I'll Go: Imagining Futures of Conversational AI with People with Visual Impairments Through Design Fiction**|Jeanne Choi et.al.|[2510.12268](http://arxiv.org/abs/2510.12268)|null|
+|**2025-10-13**|**Direct Multi-Token Decoding**|Xuan Luo et.al.|[2510.11958](http://arxiv.org/abs/2510.11958)|null|
+|**2025-10-13**|**New Tests of Low-Scale Quantum Gravity with Cosmic-Ray Collisions**|Manuel Ettengruber et.al.|[2510.11879](http://arxiv.org/abs/2510.11879)|null|
+|**2025-10-13**|**General real-valued theories with the Schröder-Bernstein property are stable**|Alexander Berenstein et.al.|[2510.11858](http://arxiv.org/abs/2510.11858)|null|
 |**2025-10-13**|**The Magic Barrier before Thermalization**|Lukas Ebner et.al.|[2510.11681](http://arxiv.org/abs/2510.11681)|null|
 |**2025-10-13**|**(Dis)Proving Spectre Security with Speculation-Passing Style**|Santiago Arranz-Olmos et.al.|[2510.11573](http://arxiv.org/abs/2510.11573)|null|
+|**2025-10-14**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|Zhiwei Jin et.al.|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
 |**2025-10-13**|**Efficient LLM Inference over Heterogeneous Edge Networks with Speculative Decoding**|Bingjie Zhu et.al.|[2510.11331](http://arxiv.org/abs/2510.11331)|null|
 |**2025-10-11**|**SP-MoE: Speculative Decoding and Prefetching for Accelerating MoE-based Model Inference**|Liangkun Chen et.al.|[2510.10302](http://arxiv.org/abs/2510.10302)|null|
 |**2025-10-11**|**Exploration of Embodied Space Experience through Umbilical Interaction: A Grounded Theory Approach**|Shuai Guo et.al.|[2510.10258](http://arxiv.org/abs/2510.10258)|null|
