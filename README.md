@@ -21,6 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Adaptive Rescheduling in Prefill-Decode Disaggregated LLM Inference**|Zhibin Wang et.al.|[2510.13668](http://arxiv.org/abs/2510.13668)|null|
+|**2025-10-15**|**F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs**|Jude Haris et.al.|[2510.13401](http://arxiv.org/abs/2510.13401)|null|
+|**2025-10-15**|**Taming the Fragility of KV Cache Eviction in LLM Inference**|Yuan Feng et.al.|[2510.13334](http://arxiv.org/abs/2510.13334)|null|
+|**2025-10-15**|**BanaServe: Unified KV Cache and Dynamic Module Migration for Balancing Disaggregated LLM Serving in AI Infrastructure**|Yiyuan He et.al.|[2510.13223](http://arxiv.org/abs/2510.13223)|null|
+|**2025-10-15**|**Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference**|Nikhil Bhendawade et.al.|[2510.13161](http://arxiv.org/abs/2510.13161)|null|
+|**2025-10-15**|**Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval**|Yingchen zhang et.al.|[2510.13095](http://arxiv.org/abs/2510.13095)|null|
+|**2025-10-14**|**On the Role of Preference Variance in Preference Optimization**|Jiacheng Guo et.al.|[2510.13022](http://arxiv.org/abs/2510.13022)|null|
+|**2025-10-14**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872](http://arxiv.org/abs/2510.12872)|null|
 |**2025-10-14**|**Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?**|Cedric Richter et.al.|[2510.12702](http://arxiv.org/abs/2510.12702)|null|
 |**2025-10-14**|**Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models**|Donghwan Rho et.al.|[2510.12343](http://arxiv.org/abs/2510.12343)|null|
 |**2025-10-13**|**FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters**|Yanying Lin et.al.|[2510.11938](http://arxiv.org/abs/2510.11938)|null|
@@ -949,6 +957,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|Ruitao Feng et.al.|[2510.13558](http://arxiv.org/abs/2510.13558)|null|
+|**2025-10-15**|**ExpressNet-MoE: A Hybrid Deep Neural Network for Emotion Recognition**|Deeptimaan Banerjee et.al.|[2510.13493](http://arxiv.org/abs/2510.13493)|null|
+|**2025-10-15**|**Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers**|Xin Zhao et.al.|[2510.13462](http://arxiv.org/abs/2510.13462)|null|
+|**2025-10-15**|**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**|Li Bai et.al.|[2510.13451](http://arxiv.org/abs/2510.13451)|null|
+|**2025-10-15**|**UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE**|Zhenyu Liu et.al.|[2510.13344](http://arxiv.org/abs/2510.13344)|null|
+|**2025-10-15**|**GatePro: Parameter-Free Expert Selection Optimization for Mixture-of-Experts Models**|Chen Zheng et.al.|[2510.13079](http://arxiv.org/abs/2510.13079)|null|
+|**2025-10-14**|**Scope: Selective Cross-modal Orchestration of Visual Perception Experts**|Tianyu Zhang et.al.|[2510.12974](http://arxiv.org/abs/2510.12974)|null|
 |**2025-10-14**|**Dendrograms of Mixing Measures for Softmax-Gated Gaussian Mixture of Experts: Consistency without Model Sweeps**|Do Tien Hai et.al.|[2510.12744](http://arxiv.org/abs/2510.12744)|null|
 |**2025-10-14**|**Proof of Cloud: Data Center Execution Assurance for Confidential VMs**|Filip Rezabek et.al.|[2510.12469](http://arxiv.org/abs/2510.12469)|null|
 |**2025-10-14**|**MoBiLE: Efficient Mixture-of-Experts Inference on Consumer GPU with Mixture of Big Little Experts**|Yushu Zhao et.al.|[2510.12357](http://arxiv.org/abs/2510.12357)|null|
@@ -1954,6 +1969,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**Are Randomized Quantum Linear Systems Solvers Practical?**|Siddharth Hariprakash et.al.|[2510.13766](http://arxiv.org/abs/2510.13766)|null|
+|**2025-10-15**|**Speculating a Tactile Grammar: Toward Task-Aligned Chart Design for Non-Visual Perception**|Areen Khalaila et.al.|[2510.13731](http://arxiv.org/abs/2510.13731)|null|
+|**2025-10-15**|**Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference**|Nikhil Bhendawade et.al.|[2510.13161](http://arxiv.org/abs/2510.13161)|null|
+|**2025-10-14**|**3-Model Speculative Decoding**|Sanghyun Byun et.al.|[2510.12966](http://arxiv.org/abs/2510.12966)|null|
 |**2025-10-14**|**Language Models Model Language**|Łukasz Borchmann et.al.|[2510.12766](http://arxiv.org/abs/2510.12766)|null|
 |**2025-10-14**|**Notes on false vacuum decay in quantum Ising models**|Ian G. Moss et.al.|[2510.12592](http://arxiv.org/abs/2510.12592)|null|
 |**2025-10-14**|**A Direct Memory Access Controller (DMAC) for Irregular Data Transfers on RISC-V Linux Systems**|Thomas Benz et.al.|[2510.12277](http://arxiv.org/abs/2510.12277)|null|
