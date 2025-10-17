@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Identity-Link IRT for Label-Free LLM Evaluation: Preserving Additivity in TVD-MI Scores**|Zachary Robertson et.al.|[2510.14966](http://arxiv.org/abs/2510.14966)|null|
+|**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
+|**2025-10-16**|**MX+: Pushing the Limits of Microscaling Formats for Efficient Large Language Model Serving**|Jungi Lee et.al.|[2510.14557](http://arxiv.org/abs/2510.14557)|null|
+|**2025-10-16**|**FairBatching: Fairness-Aware Batch Formation for LLM Inference**|Hongtao Lyu et.al.|[2510.14392](http://arxiv.org/abs/2510.14392)|null|
+|**2025-10-16**|**Qwen3Guard Technical Report**|Haiquan Zhao et.al.|[2510.14276](http://arxiv.org/abs/2510.14276)|null|
+|**2025-10-15**|**Efficiently Executing High-throughput Lightweight LLM Inference Applications on Heterogeneous Opportunistic GPU Clusters with Pervasive Context Management**|Thanh Son Phung et.al.|[2510.14024](http://arxiv.org/abs/2510.14024)|null|
 |**2025-10-15**|**Adaptive Rescheduling in Prefill-Decode Disaggregated LLM Inference**|Zhibin Wang et.al.|[2510.13668](http://arxiv.org/abs/2510.13668)|null|
 |**2025-10-15**|**F-BFQ: Flexible Block Floating-Point Quantization Accelerator for LLMs**|Jude Haris et.al.|[2510.13401](http://arxiv.org/abs/2510.13401)|null|
 |**2025-10-15**|**Taming the Fragility of KV Cache Eviction in LLM Inference**|Yuan Feng et.al.|[2510.13334](http://arxiv.org/abs/2510.13334)|null|
@@ -946,6 +952,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert models**|Guinan Su et.al.|[2510.14853](http://arxiv.org/abs/2510.14853)|null|
+|**2025-10-16**|**MergeMoE: Efficient Compression of MoE Models via Expert Output Merging**|Ruijie Miao et.al.|[2510.14436](http://arxiv.org/abs/2510.14436)|null|
+|**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen et.al.|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
+|**2025-10-16**|**MACE: Mixture-of-Experts Accelerated Coordinate Encoding for Large-Scale Scene Localization and Rendering**|Mingkai Liu et.al.|[2510.14251](http://arxiv.org/abs/2510.14251)|null|
+|**2025-10-16**|**Demonstrating Exoplanet Transit Photometry from Space with a 15-mm Aperture Optical Navigation Camera on Hayabusa2**|Koki Yumoto et.al.|[2510.14229](http://arxiv.org/abs/2510.14229)|null|
+|**2025-10-15**|**REAP the Experts: Why Pruning Prevails for One-Shot MoE compression**|Mike Lasby et.al.|[2510.13999](http://arxiv.org/abs/2510.13999)|null|
 |**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|Ruitao Feng et.al.|[2510.13558](http://arxiv.org/abs/2510.13558)|null|
 |**2025-10-15**|**ExpressNet-MoE: A Hybrid Deep Neural Network for Emotion Recognition**|Deeptimaan Banerjee et.al.|[2510.13493](http://arxiv.org/abs/2510.13493)|null|
 |**2025-10-15**|**Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers**|Xin Zhao et.al.|[2510.13462](http://arxiv.org/abs/2510.13462)|null|
@@ -1956,6 +1968,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Speculative Model Risk in Healthcare AI: Using Storytelling to Surface Unintended Harms**|Xingmeng Zhao et.al.|[2510.14718](http://arxiv.org/abs/2510.14718)|null|
+|**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
+|**2025-10-15**|**Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving**|Nikos Pagonas et.al.|[2510.14126](http://arxiv.org/abs/2510.14126)|null|
+|**2025-10-15**|**Tests of restricted Quantum Focusing and a universal CFT bound**|Victor Franken et.al.|[2510.13961](http://arxiv.org/abs/2510.13961)|null|
+|**2025-10-13**|**What Layers When: Learning to Skip Compute in LLMs with Residual Gates**|Filipe Laitenberger et.al.|[2510.13876](http://arxiv.org/abs/2510.13876)|null|
 |**2025-10-15**|**Are Randomized Quantum Linear Systems Solvers Practical?**|Siddharth Hariprakash et.al.|[2510.13766](http://arxiv.org/abs/2510.13766)|null|
 |**2025-10-15**|**Speculating a Tactile Grammar: Toward Task-Aligned Chart Design for Non-Visual Perception**|Areen Khalaila et.al.|[2510.13731](http://arxiv.org/abs/2510.13731)|null|
 |**2025-10-15**|**Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference**|Nikhil Bhendawade et.al.|[2510.13161](http://arxiv.org/abs/2510.13161)|null|
@@ -2716,6 +2733,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference**|Natan Bagrov et.al.|[2510.14624](http://arxiv.org/abs/2510.14624)|null|
 |**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Maggie Wang et.al.|[2510.11689](http://arxiv.org/abs/2510.11689)|null|
 |**2025-10-13**|**When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models**|Samer Al-Hamadani et.al.|[2510.11302](http://arxiv.org/abs/2510.11302)|null|
 |**2025-10-11**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
