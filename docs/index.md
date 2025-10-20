@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.19
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -964,7 +964,7 @@ layout: default
 |**2025-10-15**|**Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts**|Li Bai et.al.|[2510.13451](http://arxiv.org/abs/2510.13451)|null|
 |**2025-10-15**|**UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE**|Zhenyu Liu et.al.|[2510.13344](http://arxiv.org/abs/2510.13344)|null|
 |**2025-10-15**|**GatePro: Parameter-Free Expert Selection Optimization for Mixture-of-Experts Models**|Chen Zheng et.al.|[2510.13079](http://arxiv.org/abs/2510.13079)|null|
-|**2025-10-14**|**Scope: Selective Cross-modal Orchestration of Visual Perception Experts**|Tianyu Zhang et.al.|[2510.12974](http://arxiv.org/abs/2510.12974)|null|
+|**2025-10-17**|**Scope: Selective Cross-modal Orchestration of Visual Perception Experts**|Tianyu Zhang et.al.|[2510.12974](http://arxiv.org/abs/2510.12974)|null|
 |**2025-10-14**|**Dendrograms of Mixing Measures for Softmax-Gated Gaussian Mixture of Experts: Consistency without Model Sweeps**|Do Tien Hai et.al.|[2510.12744](http://arxiv.org/abs/2510.12744)|null|
 |**2025-10-14**|**Proof of Cloud: Data Center Execution Assurance for Confidential VMs**|Filip Rezabek et.al.|[2510.12469](http://arxiv.org/abs/2510.12469)|null|
 |**2025-10-14**|**MoBiLE: Efficient Mixture-of-Experts Inference on Consumer GPU with Mixture of Big Little Experts**|Yushu Zhao et.al.|[2510.12357](http://arxiv.org/abs/2510.12357)|null|
@@ -1972,7 +1972,7 @@ layout: default
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
 |**2025-10-15**|**Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving**|Nikos Pagonas et.al.|[2510.14126](http://arxiv.org/abs/2510.14126)|null|
 |**2025-10-15**|**Tests of restricted Quantum Focusing and a universal CFT bound**|Victor Franken et.al.|[2510.13961](http://arxiv.org/abs/2510.13961)|null|
-|**2025-10-13**|**What Layers When: Learning to Skip Compute in LLMs with Residual Gates**|Filipe Laitenberger et.al.|[2510.13876](http://arxiv.org/abs/2510.13876)|null|
+|**2025-10-17**|**What Layers When: Learning to Skip Compute in LLMs with Residual Gates**|Filipe Laitenberger et.al.|[2510.13876](http://arxiv.org/abs/2510.13876)|null|
 |**2025-10-15**|**Are Randomized Quantum Linear Systems Solvers Practical?**|Siddharth Hariprakash et.al.|[2510.13766](http://arxiv.org/abs/2510.13766)|null|
 |**2025-10-15**|**Speculating a Tactile Grammar: Toward Task-Aligned Chart Design for Non-Visual Perception**|Areen Khalaila et.al.|[2510.13731](http://arxiv.org/abs/2510.13731)|null|
 |**2025-10-15**|**Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference**|Nikhil Bhendawade et.al.|[2510.13161](http://arxiv.org/abs/2510.13161)|null|
