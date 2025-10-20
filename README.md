@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
+|**2025-10-16**|**Tail-Optimized Caching for LLM Inference**|Wenxin Zhang et.al.|[2510.15152](http://arxiv.org/abs/2510.15152)|null|
 |**2025-10-16**|**Identity-Link IRT for Label-Free LLM Evaluation: Preserving Additivity in TVD-MI Scores**|Zachary Robertson et.al.|[2510.14966](http://arxiv.org/abs/2510.14966)|null|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
 |**2025-10-16**|**MX+: Pushing the Limits of Microscaling Formats for Efficient Large Language Model Serving**|Jungi Lee et.al.|[2510.14557](http://arxiv.org/abs/2510.14557)|null|
@@ -963,6 +965,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Mixture of Experts Approaches in Dense Retrieval Tasks**|Effrosyni Sokli et.al.|[2510.15683](http://arxiv.org/abs/2510.15683)|null|
+|**2025-10-17**|**FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification**|Zhen Sun et.al.|[2510.15595](http://arxiv.org/abs/2510.15595)|null|
+|**2025-10-17**|**Backdoor or Manipulation? Graph Mixture of Experts Can Defend Against Various Graph Adversarial Attacks**|Yuyuan Feng et.al.|[2510.15333](http://arxiv.org/abs/2510.15333)|null|
+|**2025-10-17**|**MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation**|Xianyang Qi et.al.|[2510.15286](http://arxiv.org/abs/2510.15286)|null|
+|**2025-10-17**|**Adaptive Individual Uncertainty under Out-Of-Distribution Shift with Expert-Routed Conformal Prediction**|Amitesh Badkul et.al.|[2510.15233](http://arxiv.org/abs/2510.15233)|null|
 |**2025-10-16**|**Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert models**|Guinan Su et.al.|[2510.14853](http://arxiv.org/abs/2510.14853)|null|
 |**2025-10-16**|**MergeMoE: Efficient Compression of MoE Models via Expert Output Merging**|Ruijie Miao et.al.|[2510.14436](http://arxiv.org/abs/2510.14436)|null|
 |**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen et.al.|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
@@ -1981,6 +1988,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
+|**2025-10-17**|**Accelerating Mobile Language Model Generation via Hybrid Context and Hardware Coordination**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|null|
 |**2025-10-16**|**Speculative Model Risk in Healthcare AI: Using Storytelling to Surface Unintended Harms**|Xingmeng Zhao et.al.|[2510.14718](http://arxiv.org/abs/2510.14718)|null|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
 |**2025-10-15**|**Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving**|Nikos Pagonas et.al.|[2510.14126](http://arxiv.org/abs/2510.14126)|null|
@@ -2762,7 +2771,7 @@
 |**2025-08-20**|**GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models**|Lianming Huang et.al.|[2508.18227](http://arxiv.org/abs/2508.18227)|null|
 |**2025-08-21**|**Pretrained Diffusion Models Are Inherently Skipped-Step Samplers**|Wenju Xu et.al.|[2508.15233](http://arxiv.org/abs/2508.15233)|null|
 |**2025-08-07**|**Real-Time Iteration Scheme for Diffusion Policy**|Yufei Duan et.al.|[2508.05396](http://arxiv.org/abs/2508.05396)|null|
-|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|**[link](https://github.com/Cobalt-27/CompactFusion)**|
 |**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Tharun Adithya Srikrishnan et.al.|[2507.09071](http://arxiv.org/abs/2507.09071)|null|
 |**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
 |**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
