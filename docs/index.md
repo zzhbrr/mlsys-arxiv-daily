@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -2756,7 +2756,7 @@ layout: default
 |**2025-08-20**|**GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models**|Lianming Huang et.al.|[2508.18227](http://arxiv.org/abs/2508.18227)|null|
 |**2025-08-21**|**Pretrained Diffusion Models Are Inherently Skipped-Step Samplers**|Wenju Xu et.al.|[2508.15233](http://arxiv.org/abs/2508.15233)|null|
 |**2025-08-07**|**Real-Time Iteration Scheme for Diffusion Policy**|Yufei Duan et.al.|[2508.05396](http://arxiv.org/abs/2508.05396)|null|
-|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|**[link](https://github.com/Cobalt-27/CompactFusion)**|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
 |**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Tharun Adithya Srikrishnan et.al.|[2507.09071](http://arxiv.org/abs/2507.09071)|null|
 |**2025-06-20**|**Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models**|Michael Plainer et.al.|[2506.17139](http://arxiv.org/abs/2506.17139)|null|
 |**2025-06-18**|**VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service**|Xiasi Wang et.al.|[2506.15755](http://arxiv.org/abs/2506.15755)|null|
