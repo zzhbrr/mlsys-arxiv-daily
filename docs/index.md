@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546](http://arxiv.org/abs/2510.18546)|null|
+|**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou et.al.|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
+|**2025-10-21**|**Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs**|Song Bian et.al.|[2510.18245](http://arxiv.org/abs/2510.18245)|null|
+|**2025-10-20**|**Planned Diffusion**|Daniel Israel et.al.|[2510.18087](http://arxiv.org/abs/2510.18087)|**[link](https://github.com/YangLing0818/RPG-DiffusionMaster)**|
+|**2025-10-20**|**Language Models as Semantic Augmenters for Sequential Recommenders**|Mahsa Valizadeh et.al.|[2510.18046](http://arxiv.org/abs/2510.18046)|null|
 |**2025-10-19**|**Justitia: Fair and Efficient Scheduling for LLM Applications**|Mingyan Yang et.al.|[2510.17015](http://arxiv.org/abs/2510.17015)|null|
 |**2025-10-18**|**FourierCompress: Layer-Aware Spectral Activation Compression for Efficient and Accurate Collaborative LLM Inference**|Jian Ma et.al.|[2510.16418](http://arxiv.org/abs/2510.16418)|null|
 |**2025-10-16**|**AMS-QUANT: Adaptive Mantissa Sharing for Floating-point Quantization**|Mengtao Lv et.al.|[2510.16045](http://arxiv.org/abs/2510.16045)|null|
@@ -959,6 +964,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model**|Ling Team et.al.|[2510.18855](http://arxiv.org/abs/2510.18855)|null|
+|**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|null|
+|**2025-10-21**|**Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification**|Bin Gu et.al.|[2510.18533](http://arxiv.org/abs/2510.18533)|null|
+|**2025-10-21**|**Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study**|Gangda Deng et.al.|[2510.18370](http://arxiv.org/abs/2510.18370)|null|
+|**2025-10-21**|**DeepSeek-OCR: Contexts Optical Compression**|Haoran Wei et.al.|[2510.18234](http://arxiv.org/abs/2510.18234)|null|
+|**2025-10-19**|**L-MoE: End-to-End Training of a Lightweight Mixture of Low-Rank Adaptation Experts**|Shihao Ji et.al.|[2510.17898](http://arxiv.org/abs/2510.17898)|null|
 |**2025-10-20**|**Towards 3D Objectness Learning in an Open World**|Taichi Liu et.al.|[2510.17686](http://arxiv.org/abs/2510.17686)|null|
 |**2025-10-20**|**Intelligent Communication Mixture-of-Experts Boosted-Medical Image Segmentation Foundation Model**|Xinwei Zhang et.al.|[2510.17684](http://arxiv.org/abs/2510.17684)|null|
 |**2025-10-20**|**Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm**|Hao Qiao et.al.|[2510.17604](http://arxiv.org/abs/2510.17604)|null|
@@ -1991,6 +2002,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Reasoning Language Model Inference Serving Unveiled: An Empirical Study**|Qi Li et.al.|[2510.18672](http://arxiv.org/abs/2510.18672)|null|
+|**2025-10-21**|**From Quarter to All: Accelerating Speculative LLM Decoding via Floating-Point Exponent Remapping and Parameter Sharing**|Yushu Zhao et.al.|[2510.18525](http://arxiv.org/abs/2510.18525)|null|
+|**2025-10-20**|**Annotating the Chain-of-Thought: A Behavior-Labeled Dataset for AI Safety**|Antonio-Gabriel Chacón Menke et.al.|[2510.18154](http://arxiv.org/abs/2510.18154)|null|
+|**2025-10-20**|**A Hall viscosity for skyrmion via magnon interaction**|Bom Soo Kim et.al.|[2510.18092](http://arxiv.org/abs/2510.18092)|null|
+|**2025-10-20**|**SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion**|George Ma et.al.|[2510.17925](http://arxiv.org/abs/2510.17925)|null|
+|**2025-10-18**|**Does GenAI Rewrite How We Write? An Empirical Study on Two-Million Preprints**|Minfeng Qi et.al.|[2510.17882](http://arxiv.org/abs/2510.17882)|null|
 |**2025-10-18**|**$ρ$ Hammer: Reviving RowHammer Attacks on New Architectures via Prefetching**|Weijie Chen et.al.|[2510.16544](http://arxiv.org/abs/2510.16544)|null|
 |**2025-10-18**|**What Limits Agentic Systems Efficiency?**|Song Bian et.al.|[2510.16276](http://arxiv.org/abs/2510.16276)|null|
 |**2025-10-17**|**Interpretable RNA-Seq Clustering with an LLM-Based Agentic Evidence-Grounded Framework**|Elias Hossain et.al.|[2510.16082](http://arxiv.org/abs/2510.16082)|null|
