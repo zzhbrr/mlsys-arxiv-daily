@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.21
+## Updated on 2025.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -31,7 +31,7 @@ layout: default
 |**2025-10-15**|**Taming the Fragility of KV Cache Eviction in LLM Inference**|Yuan Feng et.al.|[2510.13334](http://arxiv.org/abs/2510.13334)|null|
 |**2025-10-15**|**BanaServe: Unified KV Cache and Dynamic Module Migration for Balancing Disaggregated LLM Serving in AI Infrastructure**|Yiyuan He et.al.|[2510.13223](http://arxiv.org/abs/2510.13223)|null|
 |**2025-10-15**|**Mirror Speculative Decoding: Breaking the Serial Barrier in LLM Inference**|Nikhil Bhendawade et.al.|[2510.13161](http://arxiv.org/abs/2510.13161)|null|
-|**2025-10-15**|**Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval**|Yingchen zhang et.al.|[2510.13095](http://arxiv.org/abs/2510.13095)|null|
+|**2025-10-21**|**Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval**|Yingchen Zhang et.al.|[2510.13095](http://arxiv.org/abs/2510.13095)|null|
 |**2025-10-14**|**On the Role of Preference Variance in Preference Optimization**|Jiacheng Guo et.al.|[2510.13022](http://arxiv.org/abs/2510.13022)|null|
 |**2025-10-14**|**KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems**|Hancheng Ye et.al.|[2510.12872](http://arxiv.org/abs/2510.12872)|null|
 |**2025-10-14**|**Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?**|Cedric Richter et.al.|[2510.12702](http://arxiv.org/abs/2510.12702)|null|
