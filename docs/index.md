@@ -14,10 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders**|Yuezhou Hu et.al.|[2510.19779](http://arxiv.org/abs/2510.19779)|null|
+|**2025-10-22**|**Are Large Language Models Sensitive to the Motives Behind Communication?**|Addison J. Wu et.al.|[2510.19687](http://arxiv.org/abs/2510.19687)|null|
+|**2025-10-22**|**DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference**|Xiang Liu et.al.|[2510.19669](http://arxiv.org/abs/2510.19669)|null|
+|**2025-10-22**|**Energy-Efficient and Dequantization-Free Q-LLMs: A Spiking Neural Network Approach to Salient Value Mitigation**|Chenyu Wang et.al.|[2510.19498](http://arxiv.org/abs/2510.19498)|null|
 |**2025-10-21**|**EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval**|Zebin Yang et.al.|[2510.18546](http://arxiv.org/abs/2510.18546)|null|
 |**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou et.al.|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
 |**2025-10-21**|**Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs**|Song Bian et.al.|[2510.18245](http://arxiv.org/abs/2510.18245)|null|
-|**2025-10-20**|**Planned Diffusion**|Daniel Israel et.al.|[2510.18087](http://arxiv.org/abs/2510.18087)|**[link](https://github.com/YangLing0818/RPG-DiffusionMaster)**|
+|**2025-10-20**|**Planned Diffusion**|Daniel Israel et.al.|[2510.18087](http://arxiv.org/abs/2510.18087)|null|
 |**2025-10-20**|**Language Models as Semantic Augmenters for Sequential Recommenders**|Mahsa Valizadeh et.al.|[2510.18046](http://arxiv.org/abs/2510.18046)|null|
 |**2025-10-19**|**Justitia: Fair and Efficient Scheduling for LLM Applications**|Mingyan Yang et.al.|[2510.17015](http://arxiv.org/abs/2510.17015)|null|
 |**2025-10-18**|**FourierCompress: Layer-Aware Spectral Activation Compression for Efficient and Accurate Collaborative LLM Inference**|Jian Ma et.al.|[2510.16418](http://arxiv.org/abs/2510.16418)|null|
@@ -964,6 +968,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**HybridEP: Scaling Expert Parallelism to Cross-Datacenter Scenario via Hybrid Expert/Data Transmission**|Weihao Yang et.al.|[2510.19470](http://arxiv.org/abs/2510.19470)|null|
+|**2025-10-22**|**MoE-Prism: Disentangling Monolithic Experts for Elastic MoE Services via Model-System Co-Designs**|Xinfeng Xia et.al.|[2510.19366](http://arxiv.org/abs/2510.19366)|null|
+|**2025-10-22**|**Modeling Turn-Taking with Semantically Informed Gestures**|Varsha Suresh et.al.|[2510.19350](http://arxiv.org/abs/2510.19350)|null|
+|**2025-10-22**|**RailS: Load Balancing for All-to-All Communication in Distributed Mixture-of-Experts Training**|Heng Xu et.al.|[2510.19262](http://arxiv.org/abs/2510.19262)|null|
+|**2025-10-22**|**A Design Science Blueprint for an Orchestrated AI Assistant in Doctoral Supervision**|Teo Susnjak et.al.|[2510.19227](http://arxiv.org/abs/2510.19227)|null|
+|**2025-10-22**|**MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2510.19210](http://arxiv.org/abs/2510.19210)|null|
 |**2025-10-21**|**Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model**|Ling Team et.al.|[2510.18855](http://arxiv.org/abs/2510.18855)|null|
 |**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|null|
 |**2025-10-21**|**Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification**|Bin Gu et.al.|[2510.18533](http://arxiv.org/abs/2510.18533)|null|
@@ -2002,6 +2012,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders**|Yuezhou Hu et.al.|[2510.19779](http://arxiv.org/abs/2510.19779)|null|
+|**2025-10-22**|**Fast Inference via Hierarchical Speculative Decoding**|Amir Globerson et.al.|[2510.19705](http://arxiv.org/abs/2510.19705)|null|
+|**2025-10-22**|**CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation**|Hasan Akgul et.al.|[2510.19670](http://arxiv.org/abs/2510.19670)|null|
+|**2025-10-22**|**Fermionic fields of higher spin in de Sitter space**|Dionysios Anninos et.al.|[2510.19652](http://arxiv.org/abs/2510.19652)|null|
 |**2025-10-21**|**Reasoning Language Model Inference Serving Unveiled: An Empirical Study**|Qi Li et.al.|[2510.18672](http://arxiv.org/abs/2510.18672)|null|
 |**2025-10-21**|**From Quarter to All: Accelerating Speculative LLM Decoding via Floating-Point Exponent Remapping and Parameter Sharing**|Yushu Zhao et.al.|[2510.18525](http://arxiv.org/abs/2510.18525)|null|
 |**2025-10-20**|**Annotating the Chain-of-Thought: A Behavior-Labeled Dataset for AI Safety**|Antonio-Gabriel Chacón Menke et.al.|[2510.18154](http://arxiv.org/abs/2510.18154)|null|
