@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -986,7 +986,7 @@ layout: default
 |**2025-10-20**|**ReXMoE: Reusing Experts with Minimal Overhead in Mixture-of-Experts**|Zheyue Tan et.al.|[2510.17483](http://arxiv.org/abs/2510.17483)|null|
 |**2025-10-19**|**Leave It to the Experts: Detecting Knowledge Distillation via MoE Expert Signatures**|Pingzhi Li et.al.|[2510.16968](http://arxiv.org/abs/2510.16968)|null|
 |**2025-10-19**|**End-to-end Listen, Look, Speak and Act**|Siyin Wang et.al.|[2510.16756](http://arxiv.org/abs/2510.16756)|null|
-|**2025-10-18**|**NeurIPT: Foundation Model for Neural Interfaces**|Zitao Fang et.al.|[2510.16548](http://arxiv.org/abs/2510.16548)|null|
+|**2025-10-18**|**NeurIPT: Foundation Model for Neural Interfaces**|Zitao Fang et.al.|[2510.16548](http://arxiv.org/abs/2510.16548)|**[link](https://github.com/ZzzitaoFang/NeurIPT)**|
 |**2025-10-18**|**Input Domain Aware MoE: Decoupling Routing Decisions from Task Optimization in Mixture of Experts**|Yongxiang Hua et.al.|[2510.16448](http://arxiv.org/abs/2510.16448)|null|
 |**2025-10-18**|**Modeling Expert Interactions in Sparse Mixture of Experts via Graph Structures**|Minh-Khoi Nguyen-Nhat et.al.|[2510.16411](http://arxiv.org/abs/2510.16411)|null|
 |**2025-10-17**|**Expert Merging in Sparse Mixture of Experts with Nash Bargaining**|Dung V. Nguyen et.al.|[2510.16138](http://arxiv.org/abs/2510.16138)|null|
@@ -2026,7 +2026,7 @@ layout: default
 |**2025-10-18**|**What Limits Agentic Systems Efficiency?**|Song Bian et.al.|[2510.16276](http://arxiv.org/abs/2510.16276)|null|
 |**2025-10-17**|**Interpretable RNA-Seq Clustering with an LLM-Based Agentic Evidence-Grounded Framework**|Elias Hossain et.al.|[2510.16082](http://arxiv.org/abs/2510.16082)|null|
 |**2025-10-17**|**TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs**|Sibo Xiao et.al.|[2510.15545](http://arxiv.org/abs/2510.15545)|null|
-|**2025-10-20**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|null|
+|**2025-10-23**|**Accelerating Mobile Language Model via Speculative Decoding and NPU-Coordinated Execution**|Zhiyang Chen et.al.|[2510.15312](http://arxiv.org/abs/2510.15312)|null|
 |**2025-10-16**|**Speculative Model Risk in Healthcare AI: Using Storytelling to Surface Unintended Harms**|Xingmeng Zhao et.al.|[2510.14718](http://arxiv.org/abs/2510.14718)|null|
 |**2025-10-16**|**xLLM Technical Report**|Tongxuan Liu et.al.|[2510.14686](http://arxiv.org/abs/2510.14686)|null|
 |**2025-10-15**|**Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving**|Nikos Pagonas et.al.|[2510.14126](http://arxiv.org/abs/2510.14126)|null|
