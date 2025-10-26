@@ -986,7 +986,7 @@ layout: default
 |**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|null|
 |**2025-10-21**|**Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification**|Bin Gu et.al.|[2510.18533](http://arxiv.org/abs/2510.18533)|null|
 |**2025-10-21**|**Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study**|Gangda Deng et.al.|[2510.18370](http://arxiv.org/abs/2510.18370)|null|
-|**2025-10-21**|**DeepSeek-OCR: Contexts Optical Compression**|Haoran Wei et.al.|[2510.18234](http://arxiv.org/abs/2510.18234)|null|
+|**2025-10-21**|**DeepSeek-OCR: Contexts Optical Compression**|Haoran Wei et.al.|[2510.18234](http://arxiv.org/abs/2510.18234)|**[link](https://github.com/inuwamobarak/DeepSeek-OCR)**|
 |**2025-10-19**|**L-MoE: End-to-End Training of a Lightweight Mixture of Low-Rank Adaptation Experts**|Shihao Ji et.al.|[2510.17898](http://arxiv.org/abs/2510.17898)|null|
 |**2025-10-20**|**Towards 3D Objectness Learning in an Open World**|Taichi Liu et.al.|[2510.17686](http://arxiv.org/abs/2510.17686)|null|
 |**2025-10-20**|**Intelligent Communication Mixture-of-Experts Boosted-Medical Image Segmentation Foundation Model**|Xinwei Zhang et.al.|[2510.17684](http://arxiv.org/abs/2510.17684)|null|
@@ -2021,7 +2021,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu et.al.|[2510.20812](http://arxiv.org/abs/2510.20812)|null|
+|**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu et.al.|[2510.20812](http://arxiv.org/abs/2510.20812)|**[link](https://github.com/Tinaliu0123/speculative-verdict)**|
 |**2025-10-22**|**Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs**|Hongyi Liu et.al.|[2510.20064](http://arxiv.org/abs/2510.20064)|null|
 |**2025-10-22**|**Speculative Sampling for Parametric Temporal Point Processes**|Marin Biloš et.al.|[2510.20031](http://arxiv.org/abs/2510.20031)|null|
 |**2025-10-22**|**New Recursions for the Canonical Scalar-Scaffolded Yang-Mills Amplitude**|Jeffrey V. Backus et.al.|[2510.19901](http://arxiv.org/abs/2510.19901)|null|
