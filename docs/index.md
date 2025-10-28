@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
+|**2025-10-26**|**TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination**|Omar Naim et.al.|[2510.22767](http://arxiv.org/abs/2510.22767)|null|
+|**2025-10-26**|**Do Stop Me Now: Detecting Boilerplate Responses with a Single Iteration**|Yuval Kainan et.al.|[2510.22679](http://arxiv.org/abs/2510.22679)|null|
+|**2025-10-26**|**SABlock: Semantic-Aware KV Cache Eviction with Adaptive Compression Block Size**|Jinhan Chen et.al.|[2510.22556](http://arxiv.org/abs/2510.22556)|null|
 |**2025-10-23**|**Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples**|Shiva Sreeram et.al.|[2510.20800](http://arxiv.org/abs/2510.20800)|null|
 |**2025-10-23**|**RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging**|Bowen Wang et.al.|[2510.20479](http://arxiv.org/abs/2510.20479)|null|
 |**2025-10-22**|**Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs**|Hongyi Liu et.al.|[2510.20064](http://arxiv.org/abs/2510.20064)|null|
@@ -971,6 +975,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**EMTSF:Extraordinary Mixture of SOTA Models for Time Series Forecasting**|Musleh Alharthi et.al.|[2510.23396](http://arxiv.org/abs/2510.23396)|null|
+|**2025-10-27**|**Rethinking GSPO: The Perplexity-Entropy Equivalence**|Chi Liu et.al.|[2510.23142](http://arxiv.org/abs/2510.23142)|null|
+|**2025-10-27**|**Knocking-Heads Attention**|Zhanchao Zhou et.al.|[2510.23052](http://arxiv.org/abs/2510.23052)|null|
+|**2025-10-27**|**Towards Stable and Effective Reinforcement Learning for Mixture-of-Experts**|Di Zhang et.al.|[2510.23027](http://arxiv.org/abs/2510.23027)|null|
+|**2025-10-27**|**MoEMeta: Mixture-of-Experts Meta Learning for Few-Shot Relational Learning**|Han Wu et.al.|[2510.23013](http://arxiv.org/abs/2510.23013)|null|
+|**2025-10-25**|**Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation**|Ling-Team et.al.|[2510.22115](http://arxiv.org/abs/2510.22115)|null|
+|**2025-10-23**|**Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs**|Haicheng Liao et.al.|[2510.21867](http://arxiv.org/abs/2510.21867)|null|
 |**2025-10-24**|**PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling**|Andrea Bonfanti et.al.|[2510.21262](http://arxiv.org/abs/2510.21262)|null|
 |**2025-10-24**|**Adaptive Graph Mixture of Residual Experts: Unsupervised Learning on Diverse Graphs with Heterogeneous Specialization**|Yunlong Chu et.al.|[2510.21207](http://arxiv.org/abs/2510.21207)|null|
 |**2025-10-24**|**Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts**|Yanguang Sun et.al.|[2510.21114](http://arxiv.org/abs/2510.21114)|null|
@@ -2025,6 +2036,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Financial markets as a Le Bonian crowd during boom-and-bust episodes: A complementary theoretical framework in behavioural finance**|Claire Barraud et.al.|[2510.23175](http://arxiv.org/abs/2510.23175)|null|
+|**2025-10-27**|**Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures**|Shenran Wang et.al.|[2510.23006](http://arxiv.org/abs/2510.23006)|null|
+|**2025-10-27**|**Exploring Structures of Inferential Mechanisms through Simplistic Digital Circuits**|Giovanni Sileno et.al.|[2510.22883](http://arxiv.org/abs/2510.22883)|null|
+|**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
+|**2025-10-26**|**FastVLM: Self-Speculative Decoding for Fast Vision-Language Model Inference**|Divya Jyoti Bajpai et.al.|[2510.22641](http://arxiv.org/abs/2510.22641)|null|
+|**2025-10-24**|**Unravelling the oxygen influence in cubic bixbyite In $_2$O$_3$ on Raman active phonon modes by isotope studies**|Johannes Feldl et.al.|[2510.22018](http://arxiv.org/abs/2510.22018)|null|
+|**2025-10-24**|**Butterfly: glo-cal effects of data, energy and industry, New Media and Performance Exhibition Catalogue**|Rebekah Rousi et.al.|[2510.21893](http://arxiv.org/abs/2510.21893)|null|
 |**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu et.al.|[2510.20812](http://arxiv.org/abs/2510.20812)|null|
 |**2025-10-22**|**Not-a-Bandit: Provably No-Regret Drafter Selection in Speculative Decoding for LLMs**|Hongyi Liu et.al.|[2510.20064](http://arxiv.org/abs/2510.20064)|null|
 |**2025-10-22**|**Speculative Sampling for Parametric Temporal Point Processes**|Marin Biloš et.al.|[2510.20031](http://arxiv.org/abs/2510.20031)|null|
@@ -2809,13 +2827,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-26**|**Encoder-Decoder Diffusion Language Models for Efficient Training and Inference**|Marianne Arriola et.al.|[2510.22852](http://arxiv.org/abs/2510.22852)|null|
 |**2025-10-20**|**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference**|Samir Khaki et.al.|[2510.17777](http://arxiv.org/abs/2510.17777)|null|
 |**2025-10-16**|**Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference**|Natan Bagrov et.al.|[2510.14624](http://arxiv.org/abs/2510.14624)|null|
 |**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Maggie Wang et.al.|[2510.11689](http://arxiv.org/abs/2510.11689)|null|
 |**2025-10-13**|**When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models**|Samer Al-Hamadani et.al.|[2510.11302](http://arxiv.org/abs/2510.11302)|null|
 |**2025-10-11**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz et.al.|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
 |**2025-10-03**|**TridentServe: A Stage-level Serving System for Diffusion Pipelines**|Yifei Xia et.al.|[2510.02838](http://arxiv.org/abs/2510.02838)|null|
-|**2025-09-30**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/abs/2509.26096)|null|
+|**2025-10-26**|**EVODiff: Entropy-aware Variance Optimized Diffusion Inference**|Shigui Li et.al.|[2509.26096](http://arxiv.org/abs/2509.26096)|null|
 |**2025-09-28**|**Sequential Diffusion Language Models**|Yangzhou Liu et.al.|[2509.24007](http://arxiv.org/abs/2509.24007)|null|
 |**2025-09-28**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al.|[2509.23928](http://arxiv.org/abs/2509.23928)|null|
 |**2025-09-20**|**Eye Gaze Tells You Where to Compute: Gaze-Driven Efficient VLMs**|Qinyu Chen et.al.|[2509.16476](http://arxiv.org/abs/2509.16476)|null|
