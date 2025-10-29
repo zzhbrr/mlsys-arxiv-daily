@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning**|Ziyou Hu et.al.|[2510.24636](http://arxiv.org/abs/2510.24636)|null|
+|**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051](http://arxiv.org/abs/2510.24051)|null|
+|**2025-10-28**|**Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts**|Maruf Ahmed Mridul et.al.|[2510.23990](http://arxiv.org/abs/2510.23990)|null|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
 |**2025-10-26**|**TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination**|Omar Naim et.al.|[2510.22767](http://arxiv.org/abs/2510.22767)|null|
 |**2025-10-26**|**Do Stop Me Now: Detecting Boilerplate Responses with a Single Iteration**|Yuval Kainan et.al.|[2510.22679](http://arxiv.org/abs/2510.22679)|null|
@@ -986,6 +989,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance**|Yujie Wei et.al.|[2510.24711](http://arxiv.org/abs/2510.24711)|null|
+|**2025-10-28**|**Language-Conditioned Representations and Mixture-of-Experts Policy for Robust Multi-Task Robotic Manipulation**|Xiucheng Zhang et.al.|[2510.24055](http://arxiv.org/abs/2510.24055)|null|
+|**2025-10-26**|**Sparsity and Superposition in Mixture of Experts**|Marmik Chaudhari et.al.|[2510.23671](http://arxiv.org/abs/2510.23671)|null|
 |**2025-10-27**|**EMTSF:Extraordinary Mixture of SOTA Models for Time Series Forecasting**|Musleh Alharthi et.al.|[2510.23396](http://arxiv.org/abs/2510.23396)|null|
 |**2025-10-27**|**Rethinking GSPO: The Perplexity-Entropy Equivalence**|Chi Liu et.al.|[2510.23142](http://arxiv.org/abs/2510.23142)|null|
 |**2025-10-27**|**Knocking-Heads Attention**|Zhanchao Zhou et.al.|[2510.23052](http://arxiv.org/abs/2510.23052)|null|
@@ -2049,6 +2055,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**On the Field Excursion Bound**|Tom Rudelius et.al.|[2510.24715](http://arxiv.org/abs/2510.24715)|null|
+|**2025-10-28**|**MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration**|Junhyuk So et.al.|[2510.24211](http://arxiv.org/abs/2510.24211)|null|
+|**2025-10-28**|**SpecKD: Speculative Decoding for Effective Knowledge Distillation of LLMs**|Haiduo Huang et.al.|[2510.24021](http://arxiv.org/abs/2510.24021)|null|
 |**2025-10-27**|**Financial markets as a Le Bonian crowd during boom-and-bust episodes: A complementary theoretical framework in behavioural finance**|Claire Barraud et.al.|[2510.23175](http://arxiv.org/abs/2510.23175)|null|
 |**2025-10-27**|**Understanding In-Context Learning Beyond Transformers: An Investigation of State Space and Hybrid Architectures**|Shenran Wang et.al.|[2510.23006](http://arxiv.org/abs/2510.23006)|null|
 |**2025-10-27**|**Exploring Structures of Inferential Mechanisms through Simplistic Digital Circuits**|Giovanni Sileno et.al.|[2510.22883](http://arxiv.org/abs/2510.22883)|null|
