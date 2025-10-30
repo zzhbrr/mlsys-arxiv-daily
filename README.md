@@ -21,7 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-28**|**OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning**|Ziyou Hu et.al.|[2510.24636](http://arxiv.org/abs/2510.24636)|null|
+|**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
+|**2025-10-29**|**GPTOpt: Towards Efficient LLM-Based Black-Box Optimization**|Jamison Meindl et.al.|[2510.25404](http://arxiv.org/abs/2510.25404)|null|
+|**2025-10-29**|**OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning**|Ziyou Hu et.al.|[2510.24636](http://arxiv.org/abs/2510.24636)|null|
 |**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051](http://arxiv.org/abs/2510.24051)|null|
 |**2025-10-28**|**Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts**|Maruf Ahmed Mridul et.al.|[2510.23990](http://arxiv.org/abs/2510.23990)|null|
 |**2025-10-26**|**Batch Speculative Decoding Done Right**|Ranran Haoran Zhang et.al.|[2510.22876](http://arxiv.org/abs/2510.22876)|null|
@@ -989,6 +991,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Revisiting scalable sequential recommendation with Multi-Embedding Approach and Mixture-of-Experts**|Qiushi Pan et.al.|[2510.25285](http://arxiv.org/abs/2510.25285)|null|
+|**2025-10-29**|**MoEntwine: Unleashing the Potential of Wafer-scale Chips for Large-scale Expert Parallel Inference**|Xinru Tang et.al.|[2510.25258](http://arxiv.org/abs/2510.25258)|null|
+|**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|Peilin Tan et.al.|[2510.25091](http://arxiv.org/abs/2510.25091)|null|
+|**2025-10-28**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
 |**2025-10-28**|**Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance**|Yujie Wei et.al.|[2510.24711](http://arxiv.org/abs/2510.24711)|null|
 |**2025-10-28**|**Language-Conditioned Representations and Mixture-of-Experts Policy for Robust Multi-Task Robotic Manipulation**|Xiucheng Zhang et.al.|[2510.24055](http://arxiv.org/abs/2510.24055)|null|
 |**2025-10-26**|**Sparsity and Superposition in Mixture of Experts**|Marmik Chaudhari et.al.|[2510.23671](http://arxiv.org/abs/2510.23671)|null|
@@ -2055,6 +2061,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation**|Zhi-Kai Chen et.al.|[2510.25739](http://arxiv.org/abs/2510.25739)|null|
+|**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|
+|**2025-10-29**|**Detuning Choice for solving MIS and MWIS**|Sem Saada Khelkhal et.al.|[2510.25473](http://arxiv.org/abs/2510.25473)|null|
+|**2025-10-29**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
+|**2025-10-29**|**Studies for : A Human-AI Co-Creative Sound Artwork Using a Real-time Multi-channel Sound Generation Model**|Chihiro Nagashima et.al.|[2510.25228](http://arxiv.org/abs/2510.25228)|null|
+|**2025-10-29**|**Prospects for a fourth generation of leptons in a 13 TeV p-p collider**|Ramkrishna Joshi et.al.|[2510.25190](http://arxiv.org/abs/2510.25190)|null|
 |**2025-10-28**|**On the Field Excursion Bound**|Tom Rudelius et.al.|[2510.24715](http://arxiv.org/abs/2510.24715)|null|
 |**2025-10-28**|**MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration**|Junhyuk So et.al.|[2510.24211](http://arxiv.org/abs/2510.24211)|null|
 |**2025-10-28**|**SpecKD: Speculative Decoding for Effective Knowledge Distillation of LLMs**|Haiduo Huang et.al.|[2510.24021](http://arxiv.org/abs/2510.24021)|null|
