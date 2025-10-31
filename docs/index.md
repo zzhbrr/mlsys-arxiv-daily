@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -2051,7 +2051,7 @@ layout: default
 |**2025-10-29**|**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation**|Zhi-Kai Chen et.al.|[2510.25739](http://arxiv.org/abs/2510.25739)|null|
 |**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|
 |**2025-10-29**|**Detuning Choice for solving MIS and MWIS**|Sem Saada Khelkhal et.al.|[2510.25473](http://arxiv.org/abs/2510.25473)|null|
-|**2025-10-29**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
+|**2025-10-30**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
 |**2025-10-29**|**Studies for : A Human-AI Co-Creative Sound Artwork Using a Real-time Multi-channel Sound Generation Model**|Chihiro Nagashima et.al.|[2510.25228](http://arxiv.org/abs/2510.25228)|null|
 |**2025-10-29**|**Prospects for a fourth generation of leptons in a 13 TeV p-p collider**|Ramkrishna Joshi et.al.|[2510.25190](http://arxiv.org/abs/2510.25190)|null|
 |**2025-10-28**|**On the Field Excursion Bound**|Tom Rudelius et.al.|[2510.24715](http://arxiv.org/abs/2510.24715)|null|
