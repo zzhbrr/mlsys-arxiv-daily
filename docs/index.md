@@ -14,7 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
+|**2025-10-30**|**Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model**|Biao Zhang et.al.|[2510.26622](http://arxiv.org/abs/2510.26622)|null|
+|**2025-10-30**|**1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models**|Zeliang Zong et.al.|[2510.26446](http://arxiv.org/abs/2510.26446)|null|
+|**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
+|**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|**[link](https://github.com/dinghongsong/AttnCache)**|
+|**2025-10-29**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
+|**2025-10-29**|**A Survey on Efficient Large Language Model Training: From Data-centric Perspectives**|Junyu Luo et.al.|[2510.25817](http://arxiv.org/abs/2510.25817)|null|
+|**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|null|
 |**2025-10-29**|**GPTOpt: Towards Efficient LLM-Based Black-Box Optimization**|Jamison Meindl et.al.|[2510.25404](http://arxiv.org/abs/2510.25404)|null|
 |**2025-10-29**|**OpenReward: Learning to Reward Long-form Agentic Tasks via Reinforcement Learning**|Ziyou Hu et.al.|[2510.24636](http://arxiv.org/abs/2510.24636)|null|
 |**2025-10-28**|**Pie: A Programmable Serving System for Emerging LLM Applications**|In Gim et.al.|[2510.24051](http://arxiv.org/abs/2510.24051)|null|
@@ -980,6 +986,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**ExpertFlow: Adaptive Expert Scheduling and Memory Coordination for Efficient MoE Inference**|Zixu Shen et.al.|[2510.26730](http://arxiv.org/abs/2510.26730)|null|
+|**2025-10-30**|**Low-Altitude UAV-Carried Movable Antenna for Joint Wireless Power Transfer and Covert Communications**|Chuang Zhang et.al.|[2510.26628](http://arxiv.org/abs/2510.26628)|null|
+|**2025-10-30**|**Asymptotic meshes from $r$ -variational adaptation methods for static problems in one dimension**|Darith Hun et.al.|[2510.26375](http://arxiv.org/abs/2510.26375)|null|
+|**2025-10-30**|**MossNet: Mixture of State-Space Experts is a Multi-Head Attention**|Shikhar Tuli et.al.|[2510.26182](http://arxiv.org/abs/2510.26182)|null|
+|**2025-10-29**|**Dual Mixture-of-Experts Framework for Discrete-Time Survival Analysis**|Hyeonjun Lee et.al.|[2510.26014](http://arxiv.org/abs/2510.26014)|null|
+|**2025-10-29**|**Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training**|Hong Wang et.al.|[2510.25803](http://arxiv.org/abs/2510.25803)|null|
 |**2025-10-29**|**Revisiting scalable sequential recommendation with Multi-Embedding Approach and Mixture-of-Experts**|Qiushi Pan et.al.|[2510.25285](http://arxiv.org/abs/2510.25285)|null|
 |**2025-10-29**|**MoEntwine: Unleashing the Potential of Wafer-scale Chips for Large-scale Expert Parallel Inference**|Xinru Tang et.al.|[2510.25258](http://arxiv.org/abs/2510.25258)|null|
 |**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|Peilin Tan et.al.|[2510.25091](http://arxiv.org/abs/2510.25091)|null|
@@ -2048,6 +2060,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Inference-Cost-Aware Dynamic Tree Construction for Efficient Inference in Large Language Models**|Yinrong Hong et.al.|[2510.26577](http://arxiv.org/abs/2510.26577)|null|
+|**2025-10-30**|**Polybasic Speculative Decoding Through a Theoretical Perspective**|Ruilin Wang et.al.|[2510.26527](http://arxiv.org/abs/2510.26527)|null|
+|**2025-10-30**|**In space there will be no need to scream -- Limits to the presence of giant planets in the $ζ^2$ Ret system**|A. Suárez Mascareño et.al.|[2510.26483](http://arxiv.org/abs/2510.26483)|null|
+|**2025-10-30**|**ReSpec: Towards Optimizing Speculative Decoding in Reinforcement Learning Systems**|Qiaoling Chen et.al.|[2510.26475](http://arxiv.org/abs/2510.26475)|null|
+|**2025-10-29**|**Foundations of Fiat-Denominated Loans Collateralized by Cryptocurrencies**|Pavel Hubáček et.al.|[2510.25878](http://arxiv.org/abs/2510.25878)|null|
 |**2025-10-29**|**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation**|Zhi-Kai Chen et.al.|[2510.25739](http://arxiv.org/abs/2510.25739)|null|
 |**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|
 |**2025-10-29**|**Detuning Choice for solving MIS and MWIS**|Sem Saada Khelkhal et.al.|[2510.25473](http://arxiv.org/abs/2510.25473)|null|
