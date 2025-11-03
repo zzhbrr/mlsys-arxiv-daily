@@ -14,11 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**AMD MI300X GPU Performance Analysis**|Chandrish Ambati et.al.|[2510.27583](http://arxiv.org/abs/2510.27583)|**[link](https://github.com/cmontemuino/amd-mi300x-ml-benchmarks)**|
+|**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|null|
+|**2025-10-29**|**Category-Aware Semantic Caching for Heterogeneous LLM Workloads**|Chen Wang et.al.|[2510.26835](http://arxiv.org/abs/2510.26835)|null|
 |**2025-10-30**|**Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model**|Biao Zhang et.al.|[2510.26622](http://arxiv.org/abs/2510.26622)|null|
 |**2025-10-30**|**1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models**|Zeliang Zong et.al.|[2510.26446](http://arxiv.org/abs/2510.26446)|null|
 |**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
 |**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|**[link](https://github.com/dinghongsong/AttnCache)**|
-|**2025-10-29**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
+|**2025-10-31**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
 |**2025-10-29**|**A Survey on Efficient Large Language Model Training: From Data-centric Perspectives**|Junyu Luo et.al.|[2510.25817](http://arxiv.org/abs/2510.25817)|null|
 |**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|null|
 |**2025-10-29**|**GPTOpt: Towards Efficient LLM-Based Black-Box Optimization**|Jamison Meindl et.al.|[2510.25404](http://arxiv.org/abs/2510.25404)|null|
@@ -986,12 +989,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals**|Xiangyu Fan et.al.|[2510.27684](http://arxiv.org/abs/2510.27684)|null|
+|**2025-10-31**|**RDMA Point-to-Point Communication for LLM Systems**|Nandor Licker et.al.|[2510.27656](http://arxiv.org/abs/2510.27656)|null|
+|**2025-10-31**|**MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts**|Jingnan Gao et.al.|[2510.27234](http://arxiv.org/abs/2510.27234)|null|
+|**2025-10-31**|**AFM-Net: Advanced Fusing Hierarchical CNN Visual Priors with Global Sequence Modeling for Remote Sensing Image Scene Classification**|Yuanhao Tang et.al.|[2510.27155](http://arxiv.org/abs/2510.27155)|null|
+|**2025-10-30**|**Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement**|Aaditya Shukla et.al.|[2510.27051](http://arxiv.org/abs/2510.27051)|null|
+|**2025-10-30**|**Mixture-of-Transformers Learn Faster: A Theoretical Study on Classification Problems**|Hongbo Li et.al.|[2510.27004](http://arxiv.org/abs/2510.27004)|null|
+|**2025-10-30**|**MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation**|Arghavan Rezvani et.al.|[2510.26996](http://arxiv.org/abs/2510.26996)|null|
 |**2025-10-30**|**ExpertFlow: Adaptive Expert Scheduling and Memory Coordination for Efficient MoE Inference**|Zixu Shen et.al.|[2510.26730](http://arxiv.org/abs/2510.26730)|null|
 |**2025-10-30**|**Low-Altitude UAV-Carried Movable Antenna for Joint Wireless Power Transfer and Covert Communications**|Chuang Zhang et.al.|[2510.26628](http://arxiv.org/abs/2510.26628)|null|
 |**2025-10-30**|**Asymptotic meshes from $r$ -variational adaptation methods for static problems in one dimension**|Darith Hun et.al.|[2510.26375](http://arxiv.org/abs/2510.26375)|null|
 |**2025-10-30**|**MossNet: Mixture of State-Space Experts is a Multi-Head Attention**|Shikhar Tuli et.al.|[2510.26182](http://arxiv.org/abs/2510.26182)|null|
 |**2025-10-29**|**Dual Mixture-of-Experts Framework for Discrete-Time Survival Analysis**|Hyeonjun Lee et.al.|[2510.26014](http://arxiv.org/abs/2510.26014)|null|
-|**2025-10-29**|**Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training**|Hong Wang et.al.|[2510.25803](http://arxiv.org/abs/2510.25803)|null|
+|**2025-10-31**|**Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training**|Hong Wang et.al.|[2510.25803](http://arxiv.org/abs/2510.25803)|null|
 |**2025-10-29**|**Revisiting scalable sequential recommendation with Multi-Embedding Approach and Mixture-of-Experts**|Qiushi Pan et.al.|[2510.25285](http://arxiv.org/abs/2510.25285)|null|
 |**2025-10-29**|**MoEntwine: Unleashing the Potential of Wafer-scale Chips for Large-scale Expert Parallel Inference**|Xinru Tang et.al.|[2510.25258](http://arxiv.org/abs/2510.25258)|null|
 |**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|Peilin Tan et.al.|[2510.25091](http://arxiv.org/abs/2510.25091)|null|
@@ -2060,6 +2070,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**SpecAttn: Speculating Sparse Attention**|Harsh Shah et.al.|[2510.27641](http://arxiv.org/abs/2510.27641)|null|
+|**2025-10-30**|**Kad: A Framework for Proxy-based Test-time Alignment with Knapsack Approximation Deferral**|Ayoub Hammal et.al.|[2510.27017](http://arxiv.org/abs/2510.27017)|null|
+|**2025-10-30**|**CAS-Spec: Cascade Adaptive Self-Speculative Decoding for On-the-Fly Lossless Inference Acceleration of LLMs**|Zhiyuan Ning et.al.|[2510.26843](http://arxiv.org/abs/2510.26843)|null|
 |**2025-10-30**|**Inference-Cost-Aware Dynamic Tree Construction for Efficient Inference in Large Language Models**|Yinrong Hong et.al.|[2510.26577](http://arxiv.org/abs/2510.26577)|null|
 |**2025-10-30**|**Polybasic Speculative Decoding Through a Theoretical Perspective**|Ruilin Wang et.al.|[2510.26527](http://arxiv.org/abs/2510.26527)|null|
 |**2025-10-30**|**In space there will be no need to scream -- Limits to the presence of giant planets in the $ζ^2$ Ret system**|A. Suárez Mascareño et.al.|[2510.26483](http://arxiv.org/abs/2510.26483)|null|
@@ -2068,8 +2081,8 @@ layout: default
 |**2025-10-29**|**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation**|Zhi-Kai Chen et.al.|[2510.25739](http://arxiv.org/abs/2510.25739)|null|
 |**2025-10-29**|**Accurate Leakage Speculation for Quantum Error Correction**|Chaithanya Naik Mude et.al.|[2510.25661](http://arxiv.org/abs/2510.25661)|null|
 |**2025-10-29**|**Detuning Choice for solving MIS and MWIS**|Sem Saada Khelkhal et.al.|[2510.25473](http://arxiv.org/abs/2510.25473)|null|
-|**2025-10-30**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
-|**2025-10-29**|**Studies for : A Human-AI Co-Creative Sound Artwork Using a Real-time Multi-channel Sound Generation Model**|Chihiro Nagashima et.al.|[2510.25228](http://arxiv.org/abs/2510.25228)|null|
+|**2025-10-31**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
+|**2025-10-31**|**'Studies for': A Human-AI Co-Creative Sound Artwork Using a Real-time Multi-channel Sound Generation Model**|Chihiro Nagashima et.al.|[2510.25228](http://arxiv.org/abs/2510.25228)|null|
 |**2025-10-29**|**Prospects for a fourth generation of leptons in a 13 TeV p-p collider**|Ramkrishna Joshi et.al.|[2510.25190](http://arxiv.org/abs/2510.25190)|null|
 |**2025-10-28**|**On the Field Excursion Bound**|Tom Rudelius et.al.|[2510.24715](http://arxiv.org/abs/2510.24715)|null|
 |**2025-10-28**|**MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration**|Junhyuk So et.al.|[2510.24211](http://arxiv.org/abs/2510.24211)|null|
