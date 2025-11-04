@@ -27,7 +27,7 @@
 |**2025-10-30**|**Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model**|Biao Zhang et.al.|[2510.26622](http://arxiv.org/abs/2510.26622)|null|
 |**2025-10-30**|**1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models**|Zeliang Zong et.al.|[2510.26446](http://arxiv.org/abs/2510.26446)|null|
 |**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
-|**2025-10-29**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|**[link](https://github.com/dinghongsong/AttnCache)**|
+|**2025-10-31**|**AttnCache: Accelerating Self-Attention Inference for LLM Prefill via Attention Cache**|Dinghong Song et.al.|[2510.25979](http://arxiv.org/abs/2510.25979)|**[link](https://github.com/dinghongsong/AttnCache)**|
 |**2025-10-31**|**NeuronMM: High-Performance Matrix Multiplication for LLM Inference on AWS Trainium**|Dinghong Song et.al.|[2510.25977](http://arxiv.org/abs/2510.25977)|null|
 |**2025-10-29**|**A Survey on Efficient Large Language Model Training: From Data-centric Perspectives**|Junyu Luo et.al.|[2510.25817](http://arxiv.org/abs/2510.25817)|null|
 |**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|null|
