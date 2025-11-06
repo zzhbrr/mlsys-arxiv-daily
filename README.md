@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|null|
+|**2025-11-05**|**UMDAM: A Unified Data Layout and DRAM Address Mapping for Heterogenous NPU-PIM**|Hai Huang et.al.|[2511.03293](http://arxiv.org/abs/2511.03293)|null|
 |**2025-11-04**|**Optimal Singular Damage: Efficient LLM Inference in Low Storage Regimes**|Mohammadsajad Alipour et.al.|[2511.02681](http://arxiv.org/abs/2511.02681)|null|
 |**2025-11-04**|**Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks**|Xiumei Deng et.al.|[2511.02647](http://arxiv.org/abs/2511.02647)|null|
 |**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
@@ -30,12 +32,12 @@
 |**2025-11-03**|**When, What, and How: Rethinking Retrieval-Enhanced Speculative Decoding**|Min Fang et.al.|[2511.01282](http://arxiv.org/abs/2511.01282)|null|
 |**2025-11-04**|**CryptoMoE: Privacy-Preserving and Scalable Mixture of Experts Inference via Balanced Expert Routing**|Yifan Zhou et.al.|[2511.01197](http://arxiv.org/abs/2511.01197)|null|
 |**2025-11-02**|**FlexiCache: Leveraging Temporal Stability of Attention Heads for Efficient KV Cache Management**|Nazmul Takbir et.al.|[2511.00868](http://arxiv.org/abs/2511.00868)|null|
-|**2025-11-02**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807](http://arxiv.org/abs/2511.00807)|null|
+|**2025-11-05**|**FREESH: Fair, Resource- and Energy-Efficient Scheduling for LLM Serving on Heterogeneous GPUs**|Xuan He et.al.|[2511.00807](http://arxiv.org/abs/2511.00807)|null|
 |**2025-11-04**|**SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding**|Jameson Sandler et.al.|[2511.00606](http://arxiv.org/abs/2511.00606)|null|
 |**2025-11-01**|**FlashEVA: Accelerating LLM inference via Efficient Attention**|Juan Gabriel Kostelec et.al.|[2511.00576](http://arxiv.org/abs/2511.00576)|null|
 |**2025-11-01**|**Proactive DDoS Detection and Mitigation in Decentralized Software-Defined Networking via Port-Level Monitoring and Zero-Training Large Language Models**|Mohammed N. Swileh et.al.|[2511.00460](http://arxiv.org/abs/2511.00460)|null|
 |**2025-10-31**|**Scalable Processing-Near-Memory for 1M-Token LLM Inference: CXL-Enabled KV-Cache Management Beyond GPU Limits**|Dowon Kim et.al.|[2511.00321](http://arxiv.org/abs/2511.00321)|null|
-|**2025-10-31**|**PDE-SHARP: PDE Solver Hybrids Through Analysis & Refinement Passes**|Shaghayegh Fazliani et.al.|[2511.00183](http://arxiv.org/abs/2511.00183)|null|
+|**2025-11-05**|**PDE-SHARP: PDE Solver Hybrids through Analysis and Refinement Passes**|Shaghayegh Fazliani et.al.|[2511.00183](http://arxiv.org/abs/2511.00183)|null|
 |**2025-10-31**|**AMD MI300X GPU Performance Analysis**|Chandrish Ambati et.al.|[2510.27583](http://arxiv.org/abs/2510.27583)|null|
 |**2025-10-31**|**Glia: A Human-Inspired AI for Automated Systems Design and Optimization**|Pouya Hamadanian et.al.|[2510.27176](http://arxiv.org/abs/2510.27176)|null|
 |**2025-10-29**|**Category-Aware Semantic Caching for Heterogeneous LLM Workloads**|Chen Wang et.al.|[2510.26835](http://arxiv.org/abs/2510.26835)|null|
@@ -1015,6 +1017,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-05**|**GMoPE:A Prompt-Expert Mixture Framework for Graph Foundation Models**|Zhibin Wang et.al.|[2511.03251](http://arxiv.org/abs/2511.03251)|null|
 |**2025-11-04**|**From Solo to Symphony: Orchestrating Multi-Agent Collaboration with Single-Agent Demos**|Xun Wang et.al.|[2511.02762](http://arxiv.org/abs/2511.02762)|null|
 |**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
 |**2025-11-04**|**RoME: Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains**|Tianle Pu et.al.|[2511.02331](http://arxiv.org/abs/2511.02331)|null|
