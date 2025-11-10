@@ -14,12 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing**|Lei Gao et.al.|[2511.04791](http://arxiv.org/abs/2511.04791)|null|
 |**2025-11-06**|**Enabling Dynamic Sparsity in Quantized LLM Inference**|Rongxiang Wang et.al.|[2511.04477](http://arxiv.org/abs/2511.04477)|null|
 |**2025-11-06**|**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**|Ge Zhang et.al.|[2511.04087](http://arxiv.org/abs/2511.04087)|null|
 |**2025-11-06**|**PICNIC: Silicon Photonic Interconnected Chiplets with Computational Network and In-memory Computing for LLM Inference Acceleration**|Yue Jiet Chong et.al.|[2511.04036](http://arxiv.org/abs/2511.04036)|null|
 |**2025-11-06**|**LLM-Driven Adaptive Source-Sink Identification and False Positive Mitigation for Static Analysis**|Shiyin Lin et.al.|[2511.04023](http://arxiv.org/abs/2511.04023)|null|
 |**2025-11-05**|**RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse**|Yinsicheng Jiang et.al.|[2511.03475](http://arxiv.org/abs/2511.03475)|null|
-|**2025-11-05**|**UMDAM: A Unified Data Layout and DRAM Address Mapping for Heterogenous NPU-PIM**|Hai Huang et.al.|[2511.03293](http://arxiv.org/abs/2511.03293)|null|
+|**2025-11-07**|**UMDAM: A Unified Data Layout and DRAM Address Mapping for Heterogenous NPU-PIM**|Hai Huang et.al.|[2511.03293](http://arxiv.org/abs/2511.03293)|null|
 |**2025-11-04**|**Optimal Singular Damage: Efficient LLM Inference in Low Storage Regimes**|Mohammadsajad Alipour et.al.|[2511.02681](http://arxiv.org/abs/2511.02681)|null|
 |**2025-11-04**|**Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks**|Xiumei Deng et.al.|[2511.02647](http://arxiv.org/abs/2511.02647)|null|
 |**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
@@ -1010,6 +1011,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Quantum-Uncertainty-Governed Spin Dynamics in s-d Coupled Systems**|Jie Zheng et.al.|[2511.05388](http://arxiv.org/abs/2511.05388)|null|
+|**2025-11-07**|**OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data**|Dongjin Park et.al.|[2511.05028](http://arxiv.org/abs/2511.05028)|null|
+|**2025-11-07**|**MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery**|Baiye Cheng et.al.|[2511.05007](http://arxiv.org/abs/2511.05007)|null|
+|**2025-11-06**|**PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference**|Yushu Zhao et.al.|[2511.04805](http://arxiv.org/abs/2511.04805)|null|
 |**2025-11-06**|**GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization**|Mahmoud Soliman et.al.|[2511.04008](http://arxiv.org/abs/2511.04008)|null|
 |**2025-11-05**|**GMoPE:A Prompt-Expert Mixture Framework for Graph Foundation Models**|Zhibin Wang et.al.|[2511.03251](http://arxiv.org/abs/2511.03251)|null|
 |**2025-11-04**|**From Solo to Symphony: Orchestrating Multi-Agent Collaboration with Single-Agent Demos**|Xun Wang et.al.|[2511.02762](http://arxiv.org/abs/2511.02762)|null|
