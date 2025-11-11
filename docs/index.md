@@ -14,6 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models**|Tianrui Song et.al.|[2511.07295](http://arxiv.org/abs/2511.07295)|**[link](https://github.com/TianRui-Song717/LLMHNI)**|
+|**2025-11-10**|**LLMServingSim2.0: A Unified Simulator for Heterogeneous Hardware and Serving Techniques in LLM Infrastructure**|Jaehong Cho et.al.|[2511.07229](http://arxiv.org/abs/2511.07229)|null|
+|**2025-11-10**|**Importance-Aware Data Selection for Efficient LLM Instruction Tuning**|Tingyu Jiang et.al.|[2511.07074](http://arxiv.org/abs/2511.07074)|null|
+|**2025-11-10**|**GoCkpt: Gradient-Assisted Multi-Step overlapped Checkpointing for Efficient LLM Training**|Keyao Zhang et.al.|[2511.07035](http://arxiv.org/abs/2511.07035)|null|
+|**2025-11-10**|**P3-LLM: An Integrated NPU-PIM Accelerator for LLM Inference Using Hybrid Numerical Formats**|Yuzong Chen et.al.|[2511.06838](http://arxiv.org/abs/2511.06838)|null|
+|**2025-11-09**|**Efficient LLM Safety Evaluation through Multi-Agent Debate**|Dachuan Lin et.al.|[2511.06396](http://arxiv.org/abs/2511.06396)|null|
+|**2025-11-09**|**ELEGANCE: Efficient LLM Guidance for Audio-Visual Target Speech Extraction**|Wenxuan Wu et.al.|[2511.06288](http://arxiv.org/abs/2511.06288)|null|
+|**2025-11-09**|**Optimizing Long-context LLM Serving via Fine-grained Sequence Parallelism**|Cong Li et.al.|[2511.06247](http://arxiv.org/abs/2511.06247)|null|
+|**2025-11-09**|**Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning**|Sangmook Lee et.al.|[2511.06190](http://arxiv.org/abs/2511.06190)|null|
+|**2025-11-09**|**LUT-LLM: Efficient Large Language Model Inference with Memory-based Computations on FPGAs**|Zifan He et.al.|[2511.06174](http://arxiv.org/abs/2511.06174)|null|
+|**2025-11-08**|**Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving**|Hui Zeng et.al.|[2511.06029](http://arxiv.org/abs/2511.06029)|null|
+|**2025-11-08**|**MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference**|Myunghyun Rhee et.al.|[2511.06010](http://arxiv.org/abs/2511.06010)|null|
+|**2025-11-08**|**MCP-RiskCue: Can LLM infer risk information from MCP server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
+|**2025-11-05**|**From Prompts to Power: Measuring the Energy Footprint of LLM Inference**|Francisco Caravaca et.al.|[2511.05597](http://arxiv.org/abs/2511.05597)|null|
 |**2025-11-06**|**DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing**|Lei Gao et.al.|[2511.04791](http://arxiv.org/abs/2511.04791)|null|
 |**2025-11-06**|**Enabling Dynamic Sparsity in Quantized LLM Inference**|Rongxiang Wang et.al.|[2511.04477](http://arxiv.org/abs/2511.04477)|null|
 |**2025-11-06**|**E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce**|Ge Zhang et.al.|[2511.04087](http://arxiv.org/abs/2511.04087)|null|
@@ -1011,6 +1025,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Routing Manifold Alignment Improves Generalization of Mixture-of-Experts LLMs**|Zhongyang Li et.al.|[2511.07419](http://arxiv.org/abs/2511.07419)|null|
+|**2025-11-10**|**AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery in Scientific Machine Learning**|Qile Jiang et.al.|[2511.07262](http://arxiv.org/abs/2511.07262)|null|
+|**2025-11-10**|**Two Heads are Better than One: Distilling Large Language Model Features Into Small Models with Feature Decomposition and Mixture**|Tianhao Fu et.al.|[2511.07110](http://arxiv.org/abs/2511.07110)|null|
+|**2025-11-10**|**CLiFT-ASR: A Cross-Lingual Fine-Tuning Framework for Low-Resource Taiwanese Hokkien Speech Recognition**|Hung-Yang Sung et.al.|[2511.06860](http://arxiv.org/abs/2511.06860)|null|
+|**2025-11-10**|**S-DAG: A Subject-Based Directed Acyclic Graph for Multi-Agent Heterogeneous Reasoning**|Jiangwen Dong et.al.|[2511.06727](http://arxiv.org/abs/2511.06727)|null|
+|**2025-11-10**|**Multi-Modal Continual Learning via Cross-Modality Adapters and Representation Alignment with Knowledge Preservation**|Evelyn Chee et.al.|[2511.06723](http://arxiv.org/abs/2511.06723)|null|
+|**2025-11-09**|**Route Experts by Sequence, not by Token**|Tiansheng Wen et.al.|[2511.06494](http://arxiv.org/abs/2511.06494)|null|
+|**2025-11-09**|**HyMoERec: Hybrid Mixture-of-Experts for Sequential Recommendation**|Kunrong Li et.al.|[2511.06388](http://arxiv.org/abs/2511.06388)|null|
+|**2025-11-09**|**DRIVE: Data Curation Best Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation**|Speed Zhu et.al.|[2511.06307](http://arxiv.org/abs/2511.06307)|null|
+|**2025-11-09**|**A Mixture-of-Experts Framework with Log-Logistic Components for Survival Analysis on Histopathology Images**|Ardhendu Sekhar et.al.|[2511.06266](http://arxiv.org/abs/2511.06266)|null|
+|**2025-11-08**|**MoSKA: Mixture of Shared KV Attention for Efficient Long-Sequence LLM Inference**|Myunghyun Rhee et.al.|[2511.06010](http://arxiv.org/abs/2511.06010)|null|
+|**2025-11-08**|**DiA-gnostic VLVAE: Disentangled Alignment-Constrained Vision Language Variational AutoEncoder for Robust Radiology Reporting with Missing Modalities**|Nagur Shareef Shaik et.al.|[2511.05968](http://arxiv.org/abs/2511.05968)|null|
+|**2025-11-08**|**MoEGCL: Mixture of Ego-Graphs Contrastive Representation Learning for Multi-View Clustering**|Jian Zhu et.al.|[2511.05876](http://arxiv.org/abs/2511.05876)|null|
+|**2025-11-08**|**In-depth Analysis on Caching and Pre-fetching in Mixture of Experts Offloading**|Shuning Lin et.al.|[2511.05814](http://arxiv.org/abs/2511.05814)|null|
+|**2025-11-07**|**Beyond Redundancy: Diverse and Specialized Multi-Expert Sparse Autoencoder**|Zhen Xu et.al.|[2511.05745](http://arxiv.org/abs/2511.05745)|null|
+|**2025-11-07**|**BrainCSD: A Hierarchical Consistency-Driven MoE Foundation Model for Unified Connectome Synthesis and Multitask Brain Trait Prediction**|Xiongri Shen et.al.|[2511.05630](http://arxiv.org/abs/2511.05630)|null|
 |**2025-11-07**|**Quantum-Uncertainty-Governed Spin Dynamics in s-d Coupled Systems**|Jie Zheng et.al.|[2511.05388](http://arxiv.org/abs/2511.05388)|null|
 |**2025-11-07**|**OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data**|Dongjin Park et.al.|[2511.05028](http://arxiv.org/abs/2511.05028)|null|
 |**2025-11-07**|**MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery**|Baiye Cheng et.al.|[2511.05007](http://arxiv.org/abs/2511.05007)|null|
@@ -2109,6 +2139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-08**|**In-depth Analysis on Caching and Pre-fetching in Mixture of Experts Offloading**|Shuning Lin et.al.|[2511.05814](http://arxiv.org/abs/2511.05814)|null|
 |**2025-11-06**|**The TeV emission of 3C273: inverse Compton radiation from shear-accelerated high-energy electrons in the large-scale jet?**|F. Tavecchio et.al.|[2511.04433](http://arxiv.org/abs/2511.04433)|null|
 |**2025-11-03**|**TapOut: A Bandit-Based Approach to Dynamic Speculative Decoding**|Aditya Sridhar et.al.|[2511.02017](http://arxiv.org/abs/2511.02017)|null|
 |**2025-11-04**|**Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding**|Jungyeon Koh et.al.|[2511.01695](http://arxiv.org/abs/2511.01695)|null|
