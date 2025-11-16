@@ -17,7 +17,7 @@ layout: default
 |**2025-11-13**|**ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**|Yesheng Liang et.al.|[2511.10645](http://arxiv.org/abs/2511.10645)|null|
 |**2025-11-13**|**Textual understanding boost in the WikiRace**|Raman Ebrahimi et.al.|[2511.10585](http://arxiv.org/abs/2511.10585)|null|
 |**2025-11-13**|**URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding**|Yongxin Shi et.al.|[2511.10552](http://arxiv.org/abs/2511.10552)|**[link](https://github.com/shi-yx/URaG)**|
-|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
+|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|**[link](https://github.com/zhykoties/Multi-Head-Recommendation-with-Human-Priors)**|
 |**2025-11-13**|**Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs**|Changhai Man et.al.|[2511.10480](http://arxiv.org/abs/2511.10480)|null|
 |**2025-11-13**|**AgentEvolver: Towards Efficient Self-Evolving Agent System**|Yunpeng Zhai et.al.|[2511.10395](http://arxiv.org/abs/2511.10395)|**[link](https://github.com/modelscope/AgentEvolver)**|
 |**2025-11-13**|**SITA: A Framework for Structure-to-Instance Theorem Autoformalization**|Chenyi Li et.al.|[2511.10356](http://arxiv.org/abs/2511.10356)|null|
