@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.17
+## Updated on 2025.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-14**|**Optimizing Mixture of Block Attention**|Guangxuan Xiao et.al.|[2511.11571](http://arxiv.org/abs/2511.11571)|null|
 |**2025-11-14**|**Experience-Guided Adaptation of Inference-Time Reasoning Strategies**|Adam Stein et.al.|[2511.11519](http://arxiv.org/abs/2511.11519)|null|
-|**2025-11-14**|**W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search**|Zhenyu Ding et.al.|[2511.11518](http://arxiv.org/abs/2511.11518)|null|
+|**2025-11-14**|**W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search**|Zhenyu Ding et.al.|[2511.11518](http://arxiv.org/abs/2511.11518)|**[link](https://github.com/alexzdy/W2S-AlignTree)**|
 |**2025-11-14**|**PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models**|Nhat Hoang-Xuan et.al.|[2511.11502](http://arxiv.org/abs/2511.11502)|null|
 |**2025-11-14**|**Benchmarking Visual LLMs Resilience to Unanswerable Questions on Visually Rich Documents**|Davide Napolitano et.al.|[2511.11468](http://arxiv.org/abs/2511.11468)|null|
 |**2025-11-14**|**CURENet: Combining Unified Representations for Efficient Chronic Disease Prediction**|Cong-Tinh Dao et.al.|[2511.11423](http://arxiv.org/abs/2511.11423)|null|
