@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
+|**2025-11-19**|**DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System**|Jing Qian et.al.|[2511.15676](http://arxiv.org/abs/2511.15676)|null|
+|**2025-11-19**|**Quantum-Guided Test Case Minimization for LLM-Based Code Generation**|Huixiang Zhang et.al.|[2511.15665](http://arxiv.org/abs/2511.15665)|null|
+|**2025-11-19**|**HSKBenchmark: Modeling and Benchmarking Chinese Second Language Acquisition in Large Language Models through Curriculum Tuning**|Qihao Yang et.al.|[2511.15574](http://arxiv.org/abs/2511.15574)|null|
+|**2025-11-19**|**A Tensor Compiler for Processing-In-Memory Architectures**|Peiming Yang et.al.|[2511.15503](http://arxiv.org/abs/2511.15503)|null|
+|**2025-11-19**|**Insights from the ICLR Peer Review and Rebuttal Process**|Amir Hossein Kargaran et.al.|[2511.15462](http://arxiv.org/abs/2511.15462)|null|
+|**2025-11-19**|**Know Your Intent: An Autonomous Multi-Perspective LLM Agent Framework for DeFi User Transaction Intent Mining**|Qian'ang Mao et.al.|[2511.15456](http://arxiv.org/abs/2511.15456)|null|
+|**2025-11-19**|**CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search**|Ao Xie et.al.|[2511.15443](http://arxiv.org/abs/2511.15443)|null|
+|**2025-11-19**|**Small Language Models for Phishing Website Detection: Cost, Performance, and Privacy Trade-Offs**|Georg Goldenits et.al.|[2511.15434](http://arxiv.org/abs/2511.15434)|null|
+|**2025-11-19**|**DEPO: Dual-Efficiency Preference Optimization for LLM Agents**|Sirui Chen et.al.|[2511.15392](http://arxiv.org/abs/2511.15392)|null|
+|**2025-11-19**|**Unveiling Inference Scaling for Difference-Aware User Modeling in LLM Personalization**|Suyu Chen et.al.|[2511.15389](http://arxiv.org/abs/2511.15389)|null|
+|**2025-11-19**|**A Compliance-Preserving Retrieval System for Aircraft MRO Task Search**|Byungho Jo et.al.|[2511.15383](http://arxiv.org/abs/2511.15383)|null|
+|**2025-11-19**|**HEAD-QA v2: Expanding a Healthcare Benchmark for Reasoning**|Alexis Correa-Guillén et.al.|[2511.15355](http://arxiv.org/abs/2511.15355)|null|
+|**2025-11-19**|**Reflexive Evidence-Based Multimodal Learning for Clean Energy Transitions: Causal Insights on Cooking Fuel Access, Urbanization, and Carbon Emissions**|Shan Shan et.al.|[2511.15342](http://arxiv.org/abs/2511.15342)|null|
+|**2025-11-19**|**What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs**|Zhihan Ren et.al.|[2511.15316](http://arxiv.org/abs/2511.15316)|null|
+|**2025-11-19**|**EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control**|Kai Yang et.al.|[2511.15248](http://arxiv.org/abs/2511.15248)|null|
+|**2025-11-19**|**OEMA: Ontology-Enhanced Multi-Agent Collaboration Framework for Zero-Shot Clinical Named Entity Recognition**|Xinli Tao et.al.|[2511.15211](http://arxiv.org/abs/2511.15211)|null|
+|**2025-11-19**|**As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files**|Haodong Li et.al.|[2511.15192](http://arxiv.org/abs/2511.15192)|null|
+|**2025-11-19**|**A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models**|Duo Li et.al.|[2511.15098](http://arxiv.org/abs/2511.15098)|null|
+|**2025-11-19**|**Dynamic Expert Quantization for Scalable Mixture-of-Experts Inference**|Kexin Chu et.al.|[2511.15015](http://arxiv.org/abs/2511.15015)|null|
 |**2025-11-18**|**Natural Language Interfaces for Databases: What Do Users Think?**|Panos Ipeirotis et.al.|[2511.14718](http://arxiv.org/abs/2511.14718)|null|
 |**2025-11-18**|**Strategic Innovation Management in the Age of Large Language Models Market Intelligence, Adaptive R&D, and Ethical Governance**|Raha Aghaei et.al.|[2511.14709](http://arxiv.org/abs/2511.14709)|null|
 |**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|**[link](https://github.com/huthvincent/DNA-Large-Language-Models-Compression)**|
@@ -1100,13 +1120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
 |**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|null|
 |**2025-11-18**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
 |**2025-11-18**|**Hyperion: Hierarchical Scheduling for Parallel LLM Acceleration in Multi-tier Networks**|Mulei Ma et.al.|[2511.14450](http://arxiv.org/abs/2511.14450)|null|
 |**2025-11-17**|**The Good, The Bad, and The Hybrid: A Reward Structure Showdown in Reasoning Models Training**|Subramanyam Sahoo et.al.|[2511.13016](http://arxiv.org/abs/2511.13016)|null|
 |**2025-11-17**|**ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents**|Daivik Patel et.al.|[2511.12960](http://arxiv.org/abs/2511.12960)|null|
 |**2025-11-17**|**CoS: Towards Optimal Event Scheduling via Chain-of-Scheduling**|Yiming Zhao et.al.|[2511.12913](http://arxiv.org/abs/2511.12913)|null|
-|**2025-11-13**|**Harli: Harvest Underutilized Resources in LLM Serving with Finetuning Tasks**|Ao Xu et.al.|[2511.11729](http://arxiv.org/abs/2511.11729)|null|
+|**2025-11-19**|**Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms**|Ao Xu et.al.|[2511.11729](http://arxiv.org/abs/2511.11729)|null|
 |**2025-11-05**|**AnchorTP: Resilient LLM Inference with State-Preserving Elastic Tensor Parallelism**|Wendong Xu et.al.|[2511.11617](http://arxiv.org/abs/2511.11617)|null|
 |**2025-11-13**|**EEGAgent: A Unified Framework for Automated EEG Analysis Using Large Language Models**|Sha Zhao et.al.|[2511.09947](http://arxiv.org/abs/2511.09947)|null|
 |**2025-11-12**|**AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting**|Renda Li et.al.|[2511.09478](http://arxiv.org/abs/2511.09478)|null|
@@ -1157,6 +1178,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
+|**2025-11-19**|**Search for the lepton number violating process $Ξ^- \rightarrow Σ^+ e^- e^- +c.c.$**|BESIII Collaboration et.al.|[2511.15394](http://arxiv.org/abs/2511.15394)|null|
+|**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200](http://arxiv.org/abs/2511.15200)|null|
+|**2025-11-19**|**GPU-Initiated Networking for NCCL**|Khaled Hamidouche et.al.|[2511.15076](http://arxiv.org/abs/2511.15076)|null|
+|**2025-11-19**|**WiCo-PG: Wireless Channel Foundation Model for Pathloss Map Generation via Synesthesia of Machines**|Mingran Sun et.al.|[2511.15030](http://arxiv.org/abs/2511.15030)|null|
+|**2025-11-19**|**WiCo-MG: Wireless Channel Foundation Model for Multipath Generation via Synesthesia of Machines**|Zengrui Han et.al.|[2511.15026](http://arxiv.org/abs/2511.15026)|null|
+|**2025-11-19**|**Dynamic Expert Quantization for Scalable Mixture-of-Experts Inference**|Kexin Chu et.al.|[2511.15015](http://arxiv.org/abs/2511.15015)|null|
 |**2025-11-18**|**HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation**|Lai Wei et.al.|[2511.14756](http://arxiv.org/abs/2511.14756)|null|
 |**2025-11-18**|**Towards Stable and Structured Time Series Generation with Perturbation-Aware Flow Matching**|Jintao Zhang et.al.|[2511.14488](http://arxiv.org/abs/2511.14488)|null|
 |**2025-11-18**|**MoE-SpeQ: Speculative Quantized Decoding with Proactive Expert Prefetching and Offloading for Mixture-of-Experts**|Wenfeng Wang et.al.|[2511.14102](http://arxiv.org/abs/2511.14102)|null|
@@ -2325,6 +2353,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation**|Tingrui Shen et.al.|[2511.15618](http://arxiv.org/abs/2511.15618)|null|
+|**2025-11-19**|**Structural phase transitions in the van der Waals ferromagnets Fe $_x$Pd$_{y}$Te$_2$**|Rafaela F. S. Penacchio et.al.|[2511.15584](http://arxiv.org/abs/2511.15584)|null|
+|**2025-11-19**|**Cost-Aware Prediction (CAP): An LLM-Enhanced Machine Learning Pipeline and Decision Support System for Heart Failure Mortality Prediction**|Yinan Yu et.al.|[2511.15357](http://arxiv.org/abs/2511.15357)|null|
+|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|null|
+|**2025-11-18**|**Harmful Traits of AI Companions**|W. Bradley Knox et.al.|[2511.14972](http://arxiv.org/abs/2511.14972)|null|
+|**2025-11-18**|**Photometric Constraints on Intermediate-mass Black Holes in the Galactic Centre**|Tamojeet Roychowdhury et.al.|[2511.14856](http://arxiv.org/abs/2511.14856)|null|
 |**2025-11-18**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
 |**2025-11-18**|**Positive AGN feedback in the outskirts of nearby barred spiral galaxies?**|Bannanje Ananthamoorthy et.al.|[2511.14257](http://arxiv.org/abs/2511.14257)|null|
 |**2025-11-18**|**Enhanced UV emission knot in the giant radio galaxy NGC 315: Hint of patchy star formation?**|Bannanje Ananthamoorthy et.al.|[2511.14252](http://arxiv.org/abs/2511.14252)|null|
@@ -3174,6 +3208,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
+|**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
+|**2025-11-19**|**Theoretical Closed-loop Stability Bounds for Dynamical System Coupled with Diffusion Policies**|Gabriel Lauzier et.al.|[2511.15520](http://arxiv.org/abs/2511.15520)|null|
+|**2025-11-19**|**What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs**|Zhihan Ren et.al.|[2511.15316](http://arxiv.org/abs/2511.15316)|null|
+|**2025-11-19**|**Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning**|Yuxuan Gu et.al.|[2511.15190](http://arxiv.org/abs/2511.15190)|null|
+|**2025-11-19**|**A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models**|Duo Li et.al.|[2511.15098](http://arxiv.org/abs/2511.15098)|null|
+|**2025-11-19**|**Jointly Conditioned Diffusion Model for Multi-View Pose-Guided Person Image Synthesis**|Chengyu Xie et.al.|[2511.15092](http://arxiv.org/abs/2511.15092)|null|
+|**2025-11-19**|**Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks**|Cheng Yang et.al.|[2511.15065](http://arxiv.org/abs/2511.15065)|null|
+|**2025-11-19**|**Aligning Generative Music AI with Human Preferences: Methods and Challenges**|Dorien Herremans et.al.|[2511.15038](http://arxiv.org/abs/2511.15038)|null|
 |**2025-11-18**|**Measuring AI Progress in Drug Discovery: A Reproducible Leaderboard for the Tox21 Challenge**|Antonia Ebner et.al.|[2511.14744](http://arxiv.org/abs/2511.14744)|null|
 |**2025-11-18**|**Oscillation Quenching Induced By Time-Varying Coupling Functions**|Dushko Stavrov et.al.|[2511.14370](http://arxiv.org/abs/2511.14370)|null|
 |**2025-11-18**|**Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts**|Xinlei Xiong et.al.|[2511.14218](http://arxiv.org/abs/2511.14218)|null|
