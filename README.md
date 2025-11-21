@@ -21,6 +21,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
+|**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
+|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|**[link](https://github.com/xiaomi-research/timeviper)**|
+|**2025-11-20**|**Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation**|Kexin Zhao et.al.|[2511.16577](http://arxiv.org/abs/2511.16577)|null|
+|**2025-11-20**|**Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes**|Guanchen Wu et.al.|[2511.16548](http://arxiv.org/abs/2511.16548)|null|
+|**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
+|**2025-11-20**|**Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks**|Éloïse Benito-Rodriguez et.al.|[2511.16540](http://arxiv.org/abs/2511.16540)|null|
+|**2025-11-20**|**LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling**|Rongjie Liao et.al.|[2511.16485](http://arxiv.org/abs/2511.16485)|null|
+|**2025-11-20**|**Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming**|Ziyue Xu et.al.|[2511.16450](http://arxiv.org/abs/2511.16450)|null|
+|**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
+|**2025-11-20**|**CorrectHDL: Agentic HDL Design with LLMs Leveraging High-Level Synthesis as Reference**|Kangwei Xu et.al.|[2511.16395](http://arxiv.org/abs/2511.16395)|null|
+|**2025-11-20**|**Incorporating Self-Rewriting into Large Language Model Reasoning Reinforcement**|Jiashu Yao et.al.|[2511.16331](http://arxiv.org/abs/2511.16331)|null|
+|**2025-11-20**|**ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning**|Jiawei Zhou et.al.|[2511.16326](http://arxiv.org/abs/2511.16326)|null|
+|**2025-11-20**|**SDA: Steering-Driven Distribution Alignment for Open LLMs without Fine-Tuning**|Wei Xia et.al.|[2511.16324](http://arxiv.org/abs/2511.16324)|null|
+|**2025-11-20**|**"To Survive, I Must Defect": Jailbreaking LLMs via the Game-Theory Scenarios**|Zhen Sun et.al.|[2511.16278](http://arxiv.org/abs/2511.16278)|null|
+|**2025-11-20**|**Pass@k Metric for RLVR: A Diagnostic Tool of Exploration, But Not an Objective**|Yang Yu et.al.|[2511.16231](http://arxiv.org/abs/2511.16231)|null|
+|**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al.|[2511.16229](http://arxiv.org/abs/2511.16229)|null|
+|**2025-11-20**|**Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts**|Francesco Salzano et.al.|[2511.16224](http://arxiv.org/abs/2511.16224)|null|
 |**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
 |**2025-11-19**|**DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System**|Jing Qian et.al.|[2511.15676](http://arxiv.org/abs/2511.15676)|null|
 |**2025-11-19**|**Quantum-Guided Test Case Minimization for LLM-Based Code Generation**|Huixiang Zhang et.al.|[2511.15665](http://arxiv.org/abs/2511.15665)|null|
@@ -1129,6 +1149,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling**|Rongjie Liao et.al.|[2511.16485](http://arxiv.org/abs/2511.16485)|null|
+|**2025-11-20**|**Operon: Incremental Construction of Ragged Data via Named Dimensions**|Sungbin Moon et.al.|[2511.16080](http://arxiv.org/abs/2511.16080)|null|
 |**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
 |**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|null|
 |**2025-11-18**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
@@ -1189,6 +1211,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Search for the charmonium weak decay $J/ψ\to\bar{D}^0\bar{K}^{*0}+{\rm c.c.}$**|BESIII Collaboration et.al.|[2511.16083](http://arxiv.org/abs/2511.16083)|null|
+|**2025-11-20**|**Mixture of Ranks with Degradation-Aware Routing for One-Step Real-World Image Super-Resolution**|Xiao He et.al.|[2511.16024](http://arxiv.org/abs/2511.16024)|null|
+|**2025-11-19**|**AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture**|Qiming Guo et.al.|[2511.15870](http://arxiv.org/abs/2511.15870)|null|
 |**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
 |**2025-11-19**|**Search for the lepton number violating process $Ξ^- \rightarrow Σ^+ e^- e^- +c.c.$**|BESIII Collaboration et.al.|[2511.15394](http://arxiv.org/abs/2511.15394)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200](http://arxiv.org/abs/2511.15200)|null|
@@ -2366,6 +2391,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**An observationally based wind model contemporaneous with the radio detections in $τ$ Boötis**|Dag Evensberget et.al.|[2511.16370](http://arxiv.org/abs/2511.16370)|null|
+|**2025-11-20**|**Fast LLM Post-training via Decoupled and Best-of-N Speculation**|Rongxin Cheng et.al.|[2511.16193](http://arxiv.org/abs/2511.16193)|null|
+|**2025-11-20**|**Can Online GenAI Discussion Serve as Bellwether for Labor Market Shifts?**|Shurui Cao et.al.|[2511.16028](http://arxiv.org/abs/2511.16028)|null|
+|**2025-11-19**|**Global Resolution: Optimal Multi-Draft Speculative Sampling via Convex Minimization**|Rahul Krishna Thomas et.al.|[2511.15898](http://arxiv.org/abs/2511.15898)|null|
+|**2025-11-19**|**Fossil group origins XIV: The radial orbits of A267**|S. Zarattini et.al.|[2511.15786](http://arxiv.org/abs/2511.15786)|null|
 |**2025-11-19**|**FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation**|Tingrui Shen et.al.|[2511.15618](http://arxiv.org/abs/2511.15618)|null|
 |**2025-11-19**|**Structural phase transitions in the van der Waals ferromagnets Fe $_x$Pd$_{y}$Te$_2$**|Rafaela F. S. Penacchio et.al.|[2511.15584](http://arxiv.org/abs/2511.15584)|null|
 |**2025-11-19**|**Cost-Aware Prediction (CAP): An LLM-Enhanced Machine Learning Pipeline and Decision Support System for Heart Failure Mortality Prediction**|Yinan Yu et.al.|[2511.15357](http://arxiv.org/abs/2511.15357)|null|
@@ -3223,6 +3254,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming**|Zeyuan Yin et.al.|[2511.16642](http://arxiv.org/abs/2511.16642)|null|
+|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al.|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
+|**2025-11-20**|**T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs**|Shao-Jun Xia et.al.|[2511.16107](http://arxiv.org/abs/2511.16107)|null|
+|**2025-11-20**|**Learning Tractable Distributions Of Language Model Continuations**|Gwen Yidou-Weng et.al.|[2511.16054](http://arxiv.org/abs/2511.16054)|null|
+|**2025-11-20**|**Understanding and improving axial detection in optical tweezers based on the interference of forward- and backward- scattered light**|Isaac Pérez Castillo et.al.|[2511.16036](http://arxiv.org/abs/2511.16036)|null|
+|**2025-11-20**|**Physics-Guided Inductive Spatiotemporal Kriging for PM2.5 with Satellite Gradient Constraints**|Shuo Wang et.al.|[2511.16013](http://arxiv.org/abs/2511.16013)|null|
+|**2025-11-19**|**Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone**|Vaibhav Singh et.al.|[2511.15927](http://arxiv.org/abs/2511.15927)|null|
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
 |**2025-11-19**|**MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping**|Yushi Huang et.al.|[2511.15690](http://arxiv.org/abs/2511.15690)|null|
 |**2025-11-19**|**Theoretical Closed-loop Stability Bounds for Dynamical System Coupled with Diffusion Policies**|Gabriel Lauzier et.al.|[2511.15520](http://arxiv.org/abs/2511.15520)|null|
