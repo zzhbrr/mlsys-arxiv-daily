@@ -17,8 +17,8 @@ layout: default
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
 |**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
-|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|null|
-|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|null|
+|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|**[link](https://github.com/RonniRodriguez/YOFO_Safety_Judge)**|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|**[link](https://github.com/xiaomi-research/timeviper)**|
 |**2025-11-20**|**Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation**|Kexin Zhao et.al.|[2511.16577](http://arxiv.org/abs/2511.16577)|null|
 |**2025-11-20**|**Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes**|Guanchen Wu et.al.|[2511.16548](http://arxiv.org/abs/2511.16548)|null|
 |**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
