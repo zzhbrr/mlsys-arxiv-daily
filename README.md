@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,8 +24,8 @@
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
 |**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
-|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|**[link](https://github.com/RonniRodriguez/YOFO_Safety_Judge)**|
-|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|**[link](https://github.com/xiaomi-research/timeviper)**|
+|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|null|
 |**2025-11-20**|**Integrating Symbolic Natural Language Understanding and Language Models for Word Sense Disambiguation**|Kexin Zhao et.al.|[2511.16577](http://arxiv.org/abs/2511.16577)|null|
 |**2025-11-20**|**Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes**|Guanchen Wu et.al.|[2511.16548](http://arxiv.org/abs/2511.16548)|null|
 |**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
@@ -1143,7 +1143,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1205,7 +1205,7 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## MoE
 
@@ -2385,7 +2385,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -3248,7 +3248,7 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -3421,7 +3421,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
