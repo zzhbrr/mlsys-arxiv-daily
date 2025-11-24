@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|**[link](https://github.com/markendo/downscaling_intelligence)**|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**That's not natural: The Impact of Off-Policy Training Data on Probe Performance**|Nathalie Kirch et.al.|[2511.17408](http://arxiv.org/abs/2511.17408)|null|
+|**2025-11-21**|**Beyond Multiple Choice: A Hybrid Framework for Unifying Robust Evaluation and Verifiable Reasoning Training**|Yesheng Liu et.al.|[2511.17405](http://arxiv.org/abs/2511.17405)|null|
+|**2025-11-21**|**SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion**|Jiajie Guo et.al.|[2511.17308](http://arxiv.org/abs/2511.17308)|null|
+|**2025-11-21**|**SlsReuse: LLM-Powered Serverless Function Reuse**|Jinfeng Wen et.al.|[2511.17262](http://arxiv.org/abs/2511.17262)|null|
+|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov et.al.|[2511.17255](http://arxiv.org/abs/2511.17255)|null|
+|**2025-11-21**|**E $^3$ -Pruner: Towards Efficient, Economical, and Effective Layer Pruning for Large Language Models**|Tao Yuan et.al.|[2511.17205](http://arxiv.org/abs/2511.17205)|null|
+|**2025-11-21**|**AutoLink: Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale**|Ziyang Wang et.al.|[2511.17190](http://arxiv.org/abs/2511.17190)|null|
+|**2025-11-21**|**Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models**|Kento Kawaharazuka et.al.|[2511.17178](http://arxiv.org/abs/2511.17178)|null|
+|**2025-11-21**|**FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle**|Mario Markov et.al.|[2511.17171](http://arxiv.org/abs/2511.17171)|null|
+|**2025-11-21**|**Hallucinate Less by Thinking More: Aspect-Based Causal Abstention for Large Language Models**|Vy Nguyen et.al.|[2511.17170](http://arxiv.org/abs/2511.17170)|null|
+|**2025-11-21**|**Learning to Compress: Unlocking the Potential of Large Language Models for Text Representation**|Yeqin Zhang et.al.|[2511.17129](http://arxiv.org/abs/2511.17129)|null|
+|**2025-11-21**|**ChainV: Atomic Visual Hints Make Multimodal Reasoning Shorter and Better**|Yuan Zhang et.al.|[2511.17106](http://arxiv.org/abs/2511.17106)|null|
+|**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al.|[2511.17094](http://arxiv.org/abs/2511.17094)|null|
+|**2025-11-21**|**MUCH: A Multilingual Claim Hallucination Benchmark**|Jérémie Dentan et.al.|[2511.17081](http://arxiv.org/abs/2511.17081)|null|
+|**2025-11-21**|**Principled Design of Interpretable Automated Scoring for Large-Scale Educational Assessments**|Yunsung Kim et.al.|[2511.17069](http://arxiv.org/abs/2511.17069)|null|
+|**2025-11-21**|**Parametric Retrieval-Augmented Generation using Latent Routing of LoRA Adapters**|Zhan Su et.al.|[2511.17044](http://arxiv.org/abs/2511.17044)|null|
+|**2025-11-21**|**CLLMRec: LLM-powered Cognitive-Aware Concept Recommendation via Semantic Alignment and Prerequisite Knowledge Distillation**|Xiangrui Xiong et.al.|[2511.17041](http://arxiv.org/abs/2511.17041)|null|
+|**2025-11-21**|**FIRM: Federated In-client Regularized Multi-objective Alignment for Large Language Models**|Fatemeh et.al.|[2511.16992](http://arxiv.org/abs/2511.16992)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
 |**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
@@ -1200,6 +1220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Sparse Mixture-of-Experts for Multi-Channel Imaging: Are All Channel Interactions Required?**|Sukwon Yun et.al.|[2511.17400](http://arxiv.org/abs/2511.17400)|null|
+|**2025-11-21**|**MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment**|Huangbiao Xu et.al.|[2511.17397](http://arxiv.org/abs/2511.17397)|null|
+|**2025-11-21**|**Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design**|Quentin Anthony et.al.|[2511.17127](http://arxiv.org/abs/2511.17127)|null|
+|**2025-11-21**|**Parametric Retrieval-Augmented Generation using Latent Routing of LoRA Adapters**|Zhan Su et.al.|[2511.17044](http://arxiv.org/abs/2511.17044)|null|
+|**2025-11-21**|**VLM-Augmented Degradation Modeling for Image Restoration Under Adverse Weather Conditions**|Qianyi Shao et.al.|[2511.16998](http://arxiv.org/abs/2511.16998)|null|
+|**2025-11-21**|**RadioKMoE: Knowledge-Guided Radiomap Estimation with Kolmogorov-Arnold Networks and Mixture-of-Experts**|Fupei Guo et.al.|[2511.16986](http://arxiv.org/abs/2511.16986)|null|
+|**2025-11-21**|**MicroMoE: Fine-Grained Load Balancing for Mixture-of-Experts with Token Scheduling**|Chenqi Zhao et.al.|[2511.16947](http://arxiv.org/abs/2511.16947)|null|
 |**2025-11-20**|**Search for the charmonium weak decay $J/ψ\to\bar{D}^0\bar{K}^{*0}+{\rm c.c.}$**|BESIII Collaboration et.al.|[2511.16083](http://arxiv.org/abs/2511.16083)|null|
 |**2025-11-20**|**Mixture of Ranks with Degradation-Aware Routing for One-Step Real-World Image Super-Resolution**|Xiao He et.al.|[2511.16024](http://arxiv.org/abs/2511.16024)|null|
 |**2025-11-19**|**AquaSentinel: Next-Generation AI System Integrating Sensor Networks for Urban Underground Water Pipeline Anomaly Detection via Collaborative MoE-LLM Agent Architecture**|Qiming Guo et.al.|[2511.15870](http://arxiv.org/abs/2511.15870)|null|
@@ -2378,9 +2405,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Which active galaxies might be neutrino emitters?**|Shuying Zhou et.al.|[2511.16869](http://arxiv.org/abs/2511.16869)|null|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**An observationally based wind model contemporaneous with the radio detections in $τ$ Boötis**|Dag Evensberget et.al.|[2511.16370](http://arxiv.org/abs/2511.16370)|null|
-|**2025-11-20**|**Fast LLM Post-training via Decoupled and Best-of-N Speculation**|Rongxin Cheng et.al.|[2511.16193](http://arxiv.org/abs/2511.16193)|null|
+|**2025-11-21**|**Fast LLM Post-training via Decoupled and Best-of-N Speculation**|Rongxin Cheng et.al.|[2511.16193](http://arxiv.org/abs/2511.16193)|null|
 |**2025-11-20**|**Can Online GenAI Discussion Serve as Bellwether for Labor Market Shifts?**|Shurui Cao et.al.|[2511.16028](http://arxiv.org/abs/2511.16028)|null|
 |**2025-11-19**|**Global Resolution: Optimal Multi-Draft Speculative Sampling via Convex Minimization**|Rahul Krishna Thomas et.al.|[2511.15898](http://arxiv.org/abs/2511.15898)|null|
 |**2025-11-19**|**Fossil group origins XIV: The radial orbits of A267**|S. Zarattini et.al.|[2511.15786](http://arxiv.org/abs/2511.15786)|null|
@@ -3239,8 +3267,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion**|Jiajie Guo et.al.|[2511.17308](http://arxiv.org/abs/2511.17308)|null|
+|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov et.al.|[2511.17255](http://arxiv.org/abs/2511.17255)|null|
+|**2025-11-21**|**FlexiFlow: decomposable flow matching for generation of flexible molecular ensemble**|Riccardo Tedoldi et.al.|[2511.17249](http://arxiv.org/abs/2511.17249)|null|
+|**2025-11-21**|**FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle**|Mario Markov et.al.|[2511.17171](http://arxiv.org/abs/2511.17171)|null|
+|**2025-11-21**|**One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution**|Yushun Fang et.al.|[2511.17138](http://arxiv.org/abs/2511.17138)|null|
+|**2025-11-21**|**Sparse Reasoning is Enough: Biological-Inspired Framework for Video Anomaly Detection with Large Pre-trained Models**|He Huang et.al.|[2511.17094](http://arxiv.org/abs/2511.17094)|null|
+|**2025-11-21**|**Diversity Has Always Been There in Your Visual Autoregressive Models**|Tong Wang et.al.|[2511.17074](http://arxiv.org/abs/2511.17074)|null|
+|**2025-11-21**|**DAPS++: Rethinking Diffusion Inverse Problems with Decoupled Posterior Annealing**|Hao Chen et.al.|[2511.17038](http://arxiv.org/abs/2511.17038)|null|
+|**2025-11-21**|**Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation**|Aniketh Iyengar et.al.|[2511.17031](http://arxiv.org/abs/2511.17031)|null|
+|**2025-11-21**|**VLM-Augmented Degradation Modeling for Image Restoration Under Adverse Weather Conditions**|Qianyi Shao et.al.|[2511.16998](http://arxiv.org/abs/2511.16998)|null|
+|**2025-11-21**|**MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models**|Xiongtao Sun et.al.|[2511.16940](http://arxiv.org/abs/2511.16940)|null|
+|**2025-11-21**|**UniModel: A Visual-Only Framework for Unified Multimodal Understanding and Generation**|Chi Zhang et.al.|[2511.16917](http://arxiv.org/abs/2511.16917)|null|
+|**2025-11-21**|**Align & Invert: Solving Inverse Problems with Diffusion and Flow-based Models via Representational Alignment**|Loukas Sfountouris et.al.|[2511.16870](http://arxiv.org/abs/2511.16870)|null|
+|**2025-11-20**|**Towards Unified Vision Language Models for Forest Ecological Analysis in Earth Observation**|Xizhe Xue et.al.|[2511.16853](http://arxiv.org/abs/2511.16853)|null|
 |**2025-11-20**|**TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming**|Zeyuan Yin et.al.|[2511.16642](http://arxiv.org/abs/2511.16642)|null|
-|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al.|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-21**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al.|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
 |**2025-11-20**|**T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs**|Shao-Jun Xia et.al.|[2511.16107](http://arxiv.org/abs/2511.16107)|null|
 |**2025-11-20**|**Learning Tractable Distributions Of Language Model Continuations**|Gwen Yidou-Weng et.al.|[2511.16054](http://arxiv.org/abs/2511.16054)|null|
