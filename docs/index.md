@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
+|**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
+|**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
+|**2025-11-26**|**Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining**|Dongyang Fan et.al.|[2511.21613](http://arxiv.org/abs/2511.21613)|null|
+|**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)|null|
+|**2025-11-26**|**SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition**|Peiran Xu et.al.|[2511.21471](http://arxiv.org/abs/2511.21471)|null|
+|**2025-11-26**|**MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning**|Junjian Wang et.al.|[2511.21460](http://arxiv.org/abs/2511.21460)|null|
+|**2025-11-26**|**A Systematic Study of Model Merging Techniques in Large Language Models**|Oğuz Kağan Hitit et.al.|[2511.21437](http://arxiv.org/abs/2511.21437)|null|
+|**2025-11-26**|**Automated Dynamic AI Inference Scaling on HPC-Infrastructure: Integrating Kubernetes, Slurm and vLLM**|Tim Trappen et.al.|[2511.21413](http://arxiv.org/abs/2511.21413)|null|
+|**2025-11-26**|**Prune4Web: DOM Tree Pruning Programming for Web Agent**|Jiayuan Zhang et.al.|[2511.21398](http://arxiv.org/abs/2511.21398)|null|
+|**2025-11-26**|**PEFT-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark**|Robert Belanec et.al.|[2511.21285](http://arxiv.org/abs/2511.21285)|null|
+|**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
+|**2025-11-26**|**Can Finetuing LLMs on Small Human Samples Increase Heterogeneity, Alignment, and Belief-Action Coherence?**|Steven Wang et.al.|[2511.21218](http://arxiv.org/abs/2511.21218)|null|
+|**2025-11-26**|**Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation**|Joonhyung Park et.al.|[2511.21185](http://arxiv.org/abs/2511.21185)|null|
+|**2025-11-26**|**How to Correctly Report LLM-as-a-Judge Evaluations**|Chungpa Lee et.al.|[2511.21140](http://arxiv.org/abs/2511.21140)|null|
+|**2025-11-26**|**Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval**|Anup Roy et.al.|[2511.21121](http://arxiv.org/abs/2511.21121)|null|
+|**2025-11-26**|**BRIDGE: Building Representations In Domain Guided Program Verification**|Robert Joseph George et.al.|[2511.21104](http://arxiv.org/abs/2511.21104)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|null|
+|**2025-11-26**|**5G Network Automation Using Local Large Language Models and Retrieval-Augmented Generation**|Ahmadreza Majlesara et.al.|[2511.21084](http://arxiv.org/abs/2511.21084)|null|
+|**2025-11-26**|**Aligning LLMs with Biomedical Knowledge using Balanced Fine-Tuning**|Zhenchao Tang et.al.|[2511.21075](http://arxiv.org/abs/2511.21075)|null|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|null|
 |**2025-11-25**|**Latent Collaboration in Multi-Agent Systems**|Jiaru Zou et.al.|[2511.20639](http://arxiv.org/abs/2511.20639)|**[link](https://github.com/Gen-Verse/LatentMAS)**|
 |**2025-11-25**|**ROOT: Robust Orthogonalized Optimizer for Neural Network Training**|Wei He et.al.|[2511.20626](http://arxiv.org/abs/2511.20626)|null|
@@ -1200,6 +1220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
+|**2025-11-26**|**A Dynamic PD-Disaggregation Architecture for Maximizing Goodput in LLM Inference Serving**|Junhan Liao et.al.|[2511.20982](http://arxiv.org/abs/2511.20982)|null|
+|**2025-11-26**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|null|
 |**2025-11-25**|**Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**|Luohe Shi et.al.|[2511.20340](http://arxiv.org/abs/2511.20340)|null|
 |**2025-11-25**|**Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design**|Zixiao Huang et.al.|[2511.20048](http://arxiv.org/abs/2511.20048)|null|
 |**2025-11-25**|**HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning**|Hongji Yang et.al.|[2511.19965](http://arxiv.org/abs/2511.19965)|null|
@@ -1270,6 +1293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**Continual Error Correction on Low-Resource Devices**|Kirill Paramonov et.al.|[2511.21652](http://arxiv.org/abs/2511.21652)|null|
+|**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
+|**2025-11-26**|**Enhanced Landmark Detection Model in Pelvic Fluoroscopy using 2D/3D Registration Loss**|Chou Mo et.al.|[2511.21575](http://arxiv.org/abs/2511.21575)|null|
+|**2025-11-26**|**Scaling limits of critical FK-decorated random planar maps with $q=4$**|William Da Silva et.al.|[2511.21480](http://arxiv.org/abs/2511.21480)|null|
+|**2025-11-26**|**Study of the reactions $\bar{n} p \to 2π^{+}π^{-}$, $2π^{+}π^{-}π^{0}$, and $2π^{+}π^{-}2π^{0}$ using $J/ψ\to p π^{-}\bar{n}$**|BESIII Collaboration et.al.|[2511.21462](http://arxiv.org/abs/2511.21462)|null|
+|**2025-11-26**|**MemFine: Memory-Aware Fine-Grained Scheduling for MoE Training**|Lu Zhao et.al.|[2511.21431](http://arxiv.org/abs/2511.21431)|null|
+|**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
+|**2025-11-26**|**Conditional Generative Modeling of Stochastic LTI Systems: A Behavioral Approach**|Jiayun Li et.al.|[2511.21219](http://arxiv.org/abs/2511.21219)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|null|
 |**2025-11-25**|**HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation**|Xiang Wang et.al.|[2511.20520](http://arxiv.org/abs/2511.20520)|null|
 |**2025-11-25**|**Soft Adaptive Policy Optimization**|Chang Gao et.al.|[2511.20347](http://arxiv.org/abs/2511.20347)|null|
 |**2025-11-25**|**ADNet: A Large-Scale and Extensible Multi-Domain Benchmark for Anomaly Detection Across 380 Real-World Categories**|Hai Ling et.al.|[2511.20169](http://arxiv.org/abs/2511.20169)|null|
@@ -2475,6 +2508,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving**|Fengze Yu et.al.|[2511.21669](http://arxiv.org/abs/2511.21669)|null|
+|**2025-11-26**|**Weak gravity at micron scales from dark bubble cosmology and its cosmological consequences**|Ulf Danielsson et.al.|[2511.21362](http://arxiv.org/abs/2511.21362)|null|
 |**2025-11-25**|**FREE: Uncertainty-Aware Autoregression for Parallel Diffusion Transformers**|Xinwan Wen et.al.|[2511.20390](http://arxiv.org/abs/2511.20390)|null|
 |**2025-11-25**|**Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios**|Luohe Shi et.al.|[2511.20340](http://arxiv.org/abs/2511.20340)|null|
 |**2025-11-25**|**Adaptive LLM Agents: Toward Personalized Empathetic Care**|Priyanka Singh et.al.|[2511.20080](http://arxiv.org/abs/2511.20080)|null|
@@ -3348,6 +3383,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
+|**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
+|**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
+|**2025-11-26**|**IntAttention: A Fully Integer Attention Pipeline for Efficient Edge Inference**|Wanli Zhong et.al.|[2511.21513](http://arxiv.org/abs/2511.21513)|null|
+|**2025-11-26**|**MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices**|Shuai Zhang et.al.|[2511.21475](http://arxiv.org/abs/2511.21475)|null|
+|**2025-11-26**|**Odin: Oriented Dual-module Integration for Text-rich Network Representation Learning**|Kaifeng Hong et.al.|[2511.21416](http://arxiv.org/abs/2511.21416)|null|
+|**2025-11-26**|**From Diffusion to One-Step Generation: A Comparative Study of Flow-Based Models with Application to Image Inpainting**|Umang Agarwal et.al.|[2511.21215](http://arxiv.org/abs/2511.21215)|null|
+|**2025-11-26**|**Which Layer Causes Distribution Deviation? Entropy-Guided Adaptive Pruning for Diffusion and Flow Models**|Changlin Li et.al.|[2511.21122](http://arxiv.org/abs/2511.21122)|null|
+|**2025-11-26**|**From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models**|Hengyu Fu et.al.|[2511.21103](http://arxiv.org/abs/2511.21103)|null|
+|**2025-11-26**|**OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection**|Chujie Wang et.al.|[2511.21064](http://arxiv.org/abs/2511.21064)|null|
+|**2025-11-26**|**GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision**|Yuxiao Xiang et.al.|[2511.20994](http://arxiv.org/abs/2511.20994)|null|
+|**2025-11-25**|**Dynamic Test-Time Compute Scaling in Control Policy: Difficulty-Aware Stochastic Interpolant Policy**|Inkook Chun et.al.|[2511.20906](http://arxiv.org/abs/2511.20906)|null|
+|**2025-11-25**|**Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation**|Taehoon Kim et.al.|[2511.20889](http://arxiv.org/abs/2511.20889)|null|
+|**2025-11-25**|**Symbiotic Brain-Machine Drawing via Visual Brain-Computer Interfaces**|Gao Wang et.al.|[2511.20835](http://arxiv.org/abs/2511.20835)|null|
+|**2025-11-25**|**Training-Free Diffusion Priors for Text-to-Image Generation via Optimization-based Visual Inversion**|Samuele Dell'Erba et.al.|[2511.20821](http://arxiv.org/abs/2511.20821)|null|
+|**2025-11-25**|**Text-Guided Semantic Image Encoder**|Raghuveer Thirukovalluru et.al.|[2511.20770](http://arxiv.org/abs/2511.20770)|null|
 |**2025-11-25**|**Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout**|Hidir Yesiltepe et.al.|[2511.20649](http://arxiv.org/abs/2511.20649)|null|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|null|
 |**2025-11-25**|**Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model**|Ziyue Wang et.al.|[2511.20636](http://arxiv.org/abs/2511.20636)|null|
