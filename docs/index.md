@@ -19,7 +19,7 @@ layout: default
 |**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
 |**2025-11-26**|**Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining**|Dongyang Fan et.al.|[2511.21613](http://arxiv.org/abs/2511.21613)|null|
 |**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)|null|
-|**2025-11-26**|**SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition**|Peiran Xu et.al.|[2511.21471](http://arxiv.org/abs/2511.21471)|**[link](https://github.com/XPR2004/SpatialBench)**|
+|**2025-11-26**|**SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition**|Peiran Xu et.al.|[2511.21471](http://arxiv.org/abs/2511.21471)|null|
 |**2025-11-26**|**MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning**|Junjian Wang et.al.|[2511.21460](http://arxiv.org/abs/2511.21460)|null|
 |**2025-11-26**|**A Systematic Study of Model Merging Techniques in Large Language Models**|Oğuz Kağan Hitit et.al.|[2511.21437](http://arxiv.org/abs/2511.21437)|null|
 |**2025-11-26**|**Automated Dynamic AI Inference Scaling on HPC-Infrastructure: Integrating Kubernetes, Slurm and vLLM**|Tim Trappen et.al.|[2511.21413](http://arxiv.org/abs/2511.21413)|null|
