@@ -21,6 +21,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study**|Yixuan Li et.al.|[2512.04031](http://arxiv.org/abs/2512.04031)|null|
+|**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
+|**2025-12-03**|**Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs**|Oren Rachmil et.al.|[2512.03994](http://arxiv.org/abs/2512.03994)|null|
+|**2025-12-03**|**Sponsored Questions and How to Auction Them**|Kshipra Bhawalkar et.al.|[2512.03975](http://arxiv.org/abs/2512.03975)|null|
+|**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
+|**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
+|**2025-12-03**|**Reconstructing KV Caches with Cross-layer Fusion For Enhanced Transformers**|Hongzhan Lin et.al.|[2512.03870](http://arxiv.org/abs/2512.03870)|null|
+|**2025-12-03**|**Training and Evaluation of Guideline-Based Medical Reasoning in LLMs**|Michael Staniek et.al.|[2512.03838](http://arxiv.org/abs/2512.03838)|null|
+|**2025-12-03**|**Log Probability Tracking of LLM APIs**|Timothée Chauvin et.al.|[2512.03816](http://arxiv.org/abs/2512.03816)|null|
+|**2025-12-03**|**Enhancing Instruction-Following Capabilities in Seq2Seq Models: DoLA Adaptations for T5**|Huey Sun et.al.|[2512.03803](http://arxiv.org/abs/2512.03803)|null|
+|**2025-12-03**|**RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design**|Jiawei Xu et.al.|[2512.03762](http://arxiv.org/abs/2512.03762)|null|
+|**2025-12-03**|**AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation**|Chuyue Wang et.al.|[2512.03737](http://arxiv.org/abs/2512.03737)|null|
+|**2025-12-03**|**Tutorial on Large Language Model-Enhanced Reinforcement Learning for Wireless Networks**|Lingyi Cai et.al.|[2512.03722](http://arxiv.org/abs/2512.03722)|null|
+|**2025-12-03**|**Knowing oneself with and through AI: From self-tracking to chatbots**|Lucy Osler et.al.|[2512.03682](http://arxiv.org/abs/2512.03682)|null|
+|**2025-12-03**|**ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers**|Feice Huang et.al.|[2512.03673](http://arxiv.org/abs/2512.03673)|null|
+|**2025-12-03**|**Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning**|Ge-Peng Ji et.al.|[2512.03667](http://arxiv.org/abs/2512.03667)|null|
+|**2025-12-03**|**FFTrainer: Fast Failover in Large-Language Model Training with Almost-Free State Management**|Bohan Zhao et.al.|[2512.03644](http://arxiv.org/abs/2512.03644)|null|
+|**2025-12-03**|**KVNAND: Efficient On-Device Large Language Model Inference Using DRAM-Free In-Flash Computing**|Lishuo Deng et.al.|[2512.03608](http://arxiv.org/abs/2512.03608)|null|
+|**2025-12-03**|**EnCompass: Enhancing Agent Programming with Search Over Program Execution Paths**|Zhening Li et.al.|[2512.03571](http://arxiv.org/abs/2512.03571)|null|
+|**2025-12-03**|**State Space Models for Bioacoustics: A comparative Evaluation with Transformers**|Chengyu Tang et.al.|[2512.03563](http://arxiv.org/abs/2512.03563)|null|
 |**2025-12-02**|**LORE: A Large Generative Model for Search Relevance**|Chenji Lu et.al.|[2512.03025](http://arxiv.org/abs/2512.03025)|null|
 |**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
 |**2025-12-02**|**Distribution-Calibrated Inference time compute for Thinking LLM-as-a-Judge**|Hamid Dadkhahi et.al.|[2512.03019](http://arxiv.org/abs/2512.03019)|null|
@@ -1289,6 +1309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
 |**2025-12-02**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|null|
 |**2025-12-01**|**Trinity: Disaggregating Vector Search from Prefill-Decode Disaggregation in LLM Serving**|Yi Liu et.al.|[2512.02281](http://arxiv.org/abs/2512.02281)|null|
 |**2025-12-01**|**RoMe: Row Granularity Access Memory System for Large Language Models**|Hwayong Nam et.al.|[2512.01541](http://arxiv.org/abs/2512.01541)|null|
@@ -1377,6 +1398,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
+|**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
+|**2025-12-03**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
+|**2025-12-03**|**Parsimonious Clustering of Covariance Matrices**|Yixi Xu et.al.|[2512.03912](http://arxiv.org/abs/2512.03912)|null|
+|**2025-12-03**|**Measurement of the hyperon weak radiative decay $Ξ^0\toγΣ^0$ at BESIII**|BESIII Collaboration et.al.|[2512.03877](http://arxiv.org/abs/2512.03877)|null|
+|**2025-12-03**|**Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation**|Subin Kim et.al.|[2512.03534](http://arxiv.org/abs/2512.03534)|null|
+|**2025-12-03**|**CellScout: Visual Analytics for Mining Biomarkers in Cell State Discovery**|Rui Sheng et.al.|[2512.03485](http://arxiv.org/abs/2512.03485)|null|
+|**2025-12-03**|**Unconventional Magneto-Optical Effects in Altermagnets**|Yongpan Li et.al.|[2512.03435](http://arxiv.org/abs/2512.03435)|null|
+|**2025-12-03**|**SSLfmm: An R Package for Semi-Supervised Learning with a Mixed-Missingness Mechanism in Finite Mixture Models**|Geoffrey J. McLachlan et.al.|[2512.03322](http://arxiv.org/abs/2512.03322)|null|
 |**2025-12-02**|**Intrinsic Second-Order Topological Superconductors with Tunable Majorana Zero Modes**|Xiao-Jiao Wang et.al.|[2512.02775](http://arxiv.org/abs/2512.02775)|null|
 |**2025-12-02**|**Stepwise Schema-Guided Prompting Framework with Parameter Efficient Instruction Tuning for Multimedia Event Extraction**|Xiang Yuan et.al.|[2512.02584](http://arxiv.org/abs/2512.02584)|null|
 |**2025-12-02**|**SkyMoE: A Vision-Language Foundation Model for Enhancing Geospatial Interpretation with Mixture of Experts**|Jiaqi Liu et.al.|[2512.02517](http://arxiv.org/abs/2512.02517)|null|
@@ -2640,7 +2670,7 @@
 |**2025-11-29**|**Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers**|Berk Goksenin Tan et.al.|[2512.00537](http://arxiv.org/abs/2512.00537)|null|
 |**2025-11-29**|**Measuring Memecoin Fragility**|Yuexin Xiang et.al.|[2512.00377](http://arxiv.org/abs/2512.00377)|null|
 |**2025-11-28**|**Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match**|Jinze Li et.al.|[2511.22972](http://arxiv.org/abs/2511.22972)|null|
-|**2025-11-27**|**AI Deception: Risks, Dynamics, and Controls**|Boyuan Chen et.al.|[2511.22619](http://arxiv.org/abs/2511.22619)|null|
+|**2025-12-03**|**AI Deception: Risks, Dynamics, and Controls**|Boyuan Chen et.al.|[2511.22619](http://arxiv.org/abs/2511.22619)|null|
 |**2025-11-27**|**LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system**|Huanyu Li et.al.|[2511.22598](http://arxiv.org/abs/2511.22598)|null|
 |**2025-11-26**|**Dark Speculation: Combining Qualitative and Quantitative Understanding in Frontier AI Risk Analysis**|Daniel Carpenter et.al.|[2511.21838](http://arxiv.org/abs/2511.21838)|null|
 |**2025-11-26**|**Nuclear Detonations as Probes of Hidden Superluminal Sectors**|Karl Svozil et.al.|[2511.21793](http://arxiv.org/abs/2511.21793)|null|
@@ -3523,11 +3553,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
+|**2025-12-03**|**Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions**|Paul Fuchs et.al.|[2512.03974](http://arxiv.org/abs/2512.03974)|null|
+|**2025-12-03**|**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**|Lianyu Pang et.al.|[2512.03964](http://arxiv.org/abs/2512.03964)|null|
+|**2025-12-03**|**OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance**|Lei Zhang et.al.|[2512.03874](http://arxiv.org/abs/2512.03874)|null|
+|**2025-12-03**|**Fully Unsupervised Self-debiasing of Text-to-Image Diffusion Models**|Korada Sri Vardhana et.al.|[2512.03749](http://arxiv.org/abs/2512.03749)|null|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Ziwen Li et.al.|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-03**|**GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Spaces**|Melis Ocal et.al.|[2512.03683](http://arxiv.org/abs/2512.03683)|null|
+|**2025-12-03**|**ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers**|Feice Huang et.al.|[2512.03673](http://arxiv.org/abs/2512.03673)|null|
+|**2025-12-03**|**V-ITI: Mitigating Hallucinations in Multimodal Large Language Models via Visual Inference-Time Intervention**|Nan Sun et.al.|[2512.03542](http://arxiv.org/abs/2512.03542)|null|
+|**2025-12-03**|**CSMapping: Scalable Crowdsourced Semantic Mapping and Topology Inference for Autonomous Driving**|Zhijian Qiao et.al.|[2512.03510](http://arxiv.org/abs/2512.03510)|null|
+|**2025-12-03**|**KeyPointDiffuser: Unsupervised 3D Keypoint Learning via Latent Diffusion Models**|Rhys Newbury et.al.|[2512.03450](http://arxiv.org/abs/2512.03450)|null|
+|**2025-12-03**|**MOS: Mitigating Optical-SAR Modality Gap for Cross-Modal Ship Re-Identification**|Yujian Zhao et.al.|[2512.03404](http://arxiv.org/abs/2512.03404)|null|
+|**2025-12-03**|**Push-broom Mapping of Galaxies and Supernova Remnants with the SPRITE CubeSat**|Elena Carlson et.al.|[2512.03329](http://arxiv.org/abs/2512.03329)|null|
+|**2025-12-02**|**Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time**|Daniel D. Richman et.al.|[2512.03312](http://arxiv.org/abs/2512.03312)|null|
 |**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
-|**2025-12-02**|**LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization**|Zhihan Xiao et.al.|[2512.02933](http://arxiv.org/abs/2512.02933)|null|
+|**2025-12-03**|**LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization**|Zhihan Xiao et.al.|[2512.02933](http://arxiv.org/abs/2512.02933)|null|
 |**2025-12-02**|**AutoNeural: Co-Designing Vision-Language Models for NPU Inference**|Wei Chen et.al.|[2512.02924](http://arxiv.org/abs/2512.02924)|null|
 |**2025-12-02**|**Glance: Accelerating Diffusion Models with 1 Sample**|Zhuobai Dong et.al.|[2512.02899](http://arxiv.org/abs/2512.02899)|null|
-|**2025-12-02**|**SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots**|Iana Zhura et.al.|[2512.02851](http://arxiv.org/abs/2512.02851)|null|
+|**2025-12-03**|**SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots**|Iana Zhura et.al.|[2512.02851](http://arxiv.org/abs/2512.02851)|null|
 |**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
 |**2025-12-02**|**Reasoning-Aware Multimodal Fusion for Hateful Video Detection**|Shuonan Yang et.al.|[2512.02743](http://arxiv.org/abs/2512.02743)|null|
 |**2025-12-02**|**VLM-Pruner: Buffering for Spatial Sparsity in an Efficient VLM Centrifugal Token Pruning Paradigm**|Zhenkai Wu et.al.|[2512.02700](http://arxiv.org/abs/2512.02700)|null|
