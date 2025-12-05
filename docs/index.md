@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning**|Purbesh Mitra et.al.|[2512.05105](http://arxiv.org/abs/2512.05105)|null|
+|**2025-12-04**|**David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?**|Shashwat Shankar et.al.|[2512.05073](http://arxiv.org/abs/2512.05073)|null|
+|**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
+|**2025-12-04**|**SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs**|Hao Wang et.al.|[2512.04868](http://arxiv.org/abs/2512.04868)|null|
+|**2025-12-04**|**Model-Based and Sample-Efficient AI-Assisted Math Discovery in Sphere Packing**|Rasul Tutunov et.al.|[2512.04829](http://arxiv.org/abs/2512.04829)|null|
+|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
+|**2025-12-04**|**EtCon: Edit-then-Consolidate for Reliable Knowledge Editing**|Ruilin Li et.al.|[2512.04753](http://arxiv.org/abs/2512.04753)|null|
+|**2025-12-04**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
+|**2025-12-04**|**Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time**|Xinyue Kang et.al.|[2512.04748](http://arxiv.org/abs/2512.04748)|null|
+|**2025-12-04**|**SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs**|Wenhua Cheng et.al.|[2512.04746](http://arxiv.org/abs/2512.04746)|null|
+|**2025-12-04**|**OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models**|Zhuoyue Wan et.al.|[2512.04738](http://arxiv.org/abs/2512.04738)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](http://arxiv.org/abs/2512.04695)|null|
+|**2025-12-04**|**Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective**|Jae Hee Lee et.al.|[2512.04691](http://arxiv.org/abs/2512.04691)|null|
+|**2025-12-04**|**PBFuzz: Agentic Directed Fuzzing for PoV Generation**|Haochen Zeng et.al.|[2512.04611](http://arxiv.org/abs/2512.04611)|null|
+|**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
+|**2025-12-04**|**A Light-Weight Large Language Model File Format for Highly-Secure Model Distribution**|Huifeng Zhu et.al.|[2512.04580](http://arxiv.org/abs/2512.04580)|null|
+|**2025-12-04**|**On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference**|Yue Yu et.al.|[2512.04558](http://arxiv.org/abs/2512.04558)|null|
+|**2025-12-04**|**AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees**|Yangning Li et.al.|[2512.04550](http://arxiv.org/abs/2512.04550)|null|
+|**2025-12-04**|**EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion**|Pengfei Cao et.al.|[2512.04545](http://arxiv.org/abs/2512.04545)|null|
 |**2025-12-03**|**Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study**|Yixuan Li et.al.|[2512.04031](http://arxiv.org/abs/2512.04031)|null|
 |**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
 |**2025-12-03**|**Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs**|Oren Rachmil et.al.|[2512.03994](http://arxiv.org/abs/2512.03994)|null|
@@ -1300,6 +1320,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity**|Gregory Bolet et.al.|[2512.04355](http://arxiv.org/abs/2512.04355)|null|
+|**2025-11-28**|**LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents**|Jinzhe Tan et.al.|[2512.04105](http://arxiv.org/abs/2512.04105)|null|
 |**2025-12-03**|**AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving**|Ying Wang et.al.|[2512.04013](http://arxiv.org/abs/2512.04013)|null|
 |**2025-12-02**|**PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing**|Junyi Hou et.al.|[2512.02589](http://arxiv.org/abs/2512.02589)|null|
 |**2025-12-01**|**Trinity: Disaggregating Vector Search from Prefill-Decode Disaggregation in LLM Serving**|Yi Liu et.al.|[2512.02281](http://arxiv.org/abs/2512.02281)|null|
@@ -1387,9 +1409,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**Study of the reaction $Ξ^{0}n\rightarrowΛΛX$ using $Ξ^{0}$ -nucleus scattering**|BESIII Collaboration et.al.|[2512.04701](http://arxiv.org/abs/2512.04701)|null|
+|**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
+|**2025-12-04**|**The Binary Fraction of Stars in the Dwarf Galaxy Ursa Minor via Dark Energy Spectroscopic Instrument**|Tian Qiu et.al.|[2512.04477](http://arxiv.org/abs/2512.04477)|null|
+|**2025-12-04**|**Context-Aware Mixture-of-Experts Inference on CXL-Enabled GPU-NDP Systems**|Zehao Fan et.al.|[2512.04476](http://arxiv.org/abs/2512.04476)|null|
+|**2025-12-03**|**Small Models Achieve Large Language Model Performance: Evaluating Reasoning-Enabled AI for Secure Child Welfare Research**|Zia Qi et.al.|[2512.04261](http://arxiv.org/abs/2512.04261)|null|
+|**2025-12-03**|**Decoding Large Language Diffusion Models with Foreseeing Movement**|Yichuan Mo et.al.|[2512.04135](http://arxiv.org/abs/2512.04135)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 |**2025-12-03**|**OD-MoE: On-Demand Expert Loading for Cacheless Edge-Distributed MoE Inference**|Liujianfu Wang et.al.|[2512.03927](http://arxiv.org/abs/2512.03927)|null|
-|**2025-12-03**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
+|**2025-12-04**|**A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models**|X. Y. Han et.al.|[2512.03915](http://arxiv.org/abs/2512.03915)|null|
 |**2025-12-03**|**Parsimonious Clustering of Covariance Matrices**|Yixi Xu et.al.|[2512.03912](http://arxiv.org/abs/2512.03912)|null|
 |**2025-12-03**|**Measurement of the hyperon weak radiative decay $Ξ^0\toγΣ^0$ at BESIII**|BESIII Collaboration et.al.|[2512.03877](http://arxiv.org/abs/2512.03877)|null|
 |**2025-12-03**|**Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation**|Subin Kim et.al.|[2512.03534](http://arxiv.org/abs/2512.03534)|null|
@@ -2646,6 +2676,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
+|**2025-12-04**|**Long-term X-ray variability of the multiple-planet host L 98-59: Hints of an activity cycle**|I. Pillitteri et.al.|[2512.04817](http://arxiv.org/abs/2512.04817)|null|
+|**2025-12-04**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
+|**2025-12-03**|**Counting AdS Vacua**|Zihni Kaan Baykara et.al.|[2512.04151](http://arxiv.org/abs/2512.04151)|null|
+|**2025-12-01**|**Humanity in the Age of AI: Reassessing 2025's Existential-Risk Narratives**|Mohamed El Louadi et.al.|[2512.04119](http://arxiv.org/abs/2512.04119)|null|
 |**2025-12-02**|**From Administrative Chaos to Analytical Cohorts: A Three-Stage Normalisation Pipeline for Longitudinal University Administrative Records**|H. R. Paz et.al.|[2512.02936](http://arxiv.org/abs/2512.02936)|null|
 |**2025-12-02**|**A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty**|Zhou Ziheng et.al.|[2512.02544](http://arxiv.org/abs/2512.02544)|null|
 |**2025-12-02**|**SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification**|Zhendong Tan et.al.|[2512.02337](http://arxiv.org/abs/2512.02337)|null|
@@ -3538,6 +3573,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation**|Yu Zeng et.al.|[2512.05106](http://arxiv.org/abs/2512.05106)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies**|Jonne Van Haastregt et.al.|[2512.04960](http://arxiv.org/abs/2512.04960)|null|
+|**2025-12-04**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952](http://arxiv.org/abs/2512.04952)|null|
+|**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779](http://arxiv.org/abs/2512.04779)|null|
+|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
+|**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Yihong Tang et.al.|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
+|**2025-12-04**|**Persson's Theory of Purely Normal Elastic Rough Surface Contact: A Tutorial Based on Stochastic Process Theory**|Yang Xu et.al.|[2512.04648](http://arxiv.org/abs/2512.04648)|null|
+|**2025-12-04**|**VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory**|Yifei Yu et.al.|[2512.04519](http://arxiv.org/abs/2512.04519)|null|
+|**2025-12-04**|**GuidNoise: Single-Pair Guided Diffusion for Generalized Noise Synthesis**|Changjin Kim et.al.|[2512.04456](http://arxiv.org/abs/2512.04456)|null|
+|**2025-12-04**|**NORi: An ML-Augmented Ocean Boundary Layer Parameterization**|Xin Kai Lee et.al.|[2512.04452](http://arxiv.org/abs/2512.04452)|null|
+|**2025-12-04**|**FALCON: Actively Decoupled Visuomotor Policies for Loco-Manipulation with Foundation-Model-Based Coordination**|Chengyang He et.al.|[2512.04381](http://arxiv.org/abs/2512.04381)|null|
+|**2025-12-03**|**Decoding Large Language Diffusion Models with Foreseeing Movement**|Yichuan Mo et.al.|[2512.04135](http://arxiv.org/abs/2512.04135)|null|
 |**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
 |**2025-12-03**|**Refining Machine Learning Potentials through Thermodynamic Theory of Phase Transitions**|Paul Fuchs et.al.|[2512.03974](http://arxiv.org/abs/2512.03974)|null|
 |**2025-12-03**|**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**|Lianyu Pang et.al.|[2512.03964](http://arxiv.org/abs/2512.03964)|null|
