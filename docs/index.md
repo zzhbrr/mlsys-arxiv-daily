@@ -14,6 +14,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
+|**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[2512.05916](http://arxiv.org/abs/2512.05916)|null|
+|**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](http://arxiv.org/abs/2512.05907)|null|
+|**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan et.al.|[2512.05863](http://arxiv.org/abs/2512.05863)|null|
+|**2025-12-05**|**Capturing Classic Authorial Style in Long-Form Story Generation with GRPO Fine-Tuning**|Jinlong Liu et.al.|[2512.05747](http://arxiv.org/abs/2512.05747)|null|
+|**2025-12-05**|**Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision**|Lennart Maack et.al.|[2512.05740](http://arxiv.org/abs/2512.05740)|null|
+|**2025-12-05**|**Efficient Text Classification with Conformal In-Context Learning**|Ippokratis Pantelidis et.al.|[2512.05732](http://arxiv.org/abs/2512.05732)|null|
+|**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|null|
+|**2025-12-05**|**A Greek Government Decisions Dataset for Public-Sector Analysis and Insight**|Giorgos Antoniou et.al.|[2512.05647](http://arxiv.org/abs/2512.05647)|null|
+|**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
+|**2025-12-05**|**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**|Weijue Bu et.al.|[2512.05546](http://arxiv.org/abs/2512.05546)|null|
+|**2025-12-05**|**RoBoN: Routed Online Best-of-n for Test-Time Scaling with Multiple LLMs**|Jonathan Geuter et.al.|[2512.05542](http://arxiv.org/abs/2512.05542)|null|
+|**2025-12-05**|**Automated Identification of Incidentalomas Requiring Follow-Up: A Multi-Anatomy Evaluation of LLM-Based and Supervised Approaches**|Namu Park et.al.|[2512.05537](http://arxiv.org/abs/2512.05537)|null|
+|**2025-12-05**|**Poodle: Seamlessly Scaling Down Large Language Models with Just-in-Time Model Replacement**|Nils Strassenburg et.al.|[2512.05525](http://arxiv.org/abs/2512.05525)|null|
+|**2025-12-05**|**Know-Show: Benchmarking Video-Language Models on Spatio-Temporal Grounded Reasoning**|Chinthani Sugandhika et.al.|[2512.05513](http://arxiv.org/abs/2512.05513)|null|
+|**2025-12-05**|**A Hybrid Approach for EMF Code Generation:Code Templates Meet Large Language Models**|Xiao He et.al.|[2512.05498](http://arxiv.org/abs/2512.05498)|null|
+|**2025-12-05**|**Knowing Your Uncertainty -- On the application of LLM in social sciences**|Bolun Zhang et.al.|[2512.05461](http://arxiv.org/abs/2512.05461)|null|
+|**2025-12-05**|**BEAVER: An Efficient Deterministic LLM Verifier**|Tarun Suresh et.al.|[2512.05439](http://arxiv.org/abs/2512.05439)|null|
+|**2025-12-05**|**A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG Systems**|Pranav Pushkar Mishra et.al.|[2512.05411](http://arxiv.org/abs/2512.05411)|null|
+|**2025-12-05**|**SQ-format: A Unified Sparse-Quantized Hardware-friendly Data Format for LLMs**|Ruixuan Huang et.al.|[2512.05409](http://arxiv.org/abs/2512.05409)|null|
 |**2025-12-04**|**Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning**|Purbesh Mitra et.al.|[2512.05105](http://arxiv.org/abs/2512.05105)|null|
 |**2025-12-04**|**David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?**|Shashwat Shankar et.al.|[2512.05073](http://arxiv.org/abs/2512.05073)|null|
 |**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
@@ -1409,7 +1429,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-04**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
+|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
+|**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
+|**2025-12-04**|**Evidence for the semileptonic decays $Λ_c^{+} \to Σ^{\pm} π^{\mp} e^+ ν_e$**|BESIII Collaboration et.al.|[2512.05178](http://arxiv.org/abs/2512.05178)|null|
+|**2025-12-05**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-04**|**Study of the reaction $Ξ^{0}n\rightarrowΛΛX$ using $Ξ^{0}$ -nucleus scattering**|BESIII Collaboration et.al.|[2512.04701](http://arxiv.org/abs/2512.04701)|null|
 |**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
@@ -2676,6 +2699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction**|Ruihong Yin et.al.|[2512.05597](http://arxiv.org/abs/2512.05597)|null|
 |**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
 |**2025-12-04**|**Long-term X-ray variability of the multiple-planet host L 98-59: Hints of an activity cycle**|I. Pillitteri et.al.|[2512.04817](http://arxiv.org/abs/2512.04817)|null|
 |**2025-12-04**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
@@ -2691,7 +2715,8 @@ layout: default
 |**2025-11-30**|**SIMPLE: Disaggregating Sampling from GPU Inference into a Decision Plane for Faster Distributed LLM Serving**|Bohan Zhao et.al.|[2512.00719](http://arxiv.org/abs/2512.00719)|null|
 |**2025-11-29**|**Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers**|Berk Goksenin Tan et.al.|[2512.00537](http://arxiv.org/abs/2512.00537)|null|
 |**2025-11-29**|**Measuring Memecoin Fragility**|Yuexin Xiang et.al.|[2512.00377](http://arxiv.org/abs/2512.00377)|null|
-|**2025-11-28**|**Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match**|Jinze Li et.al.|[2511.22972](http://arxiv.org/abs/2511.22972)|null|
+|**2025-12-04**|**Retail Investor Horizon and Earnings Announcements**|Domonkos F. Vamossy et.al.|[2512.00280](http://arxiv.org/abs/2512.00280)|null|
+|**2025-12-05**|**Training-Free Loosely Speculative Decoding: Accepting Semantically Correct Drafts Beyond Exact Match**|Jinze Li et.al.|[2511.22972](http://arxiv.org/abs/2511.22972)|null|
 |**2025-12-03**|**AI Deception: Risks, Dynamics, and Controls**|Boyuan Chen et.al.|[2511.22619](http://arxiv.org/abs/2511.22619)|null|
 |**2025-11-27**|**LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system**|Huanyu Li et.al.|[2511.22598](http://arxiv.org/abs/2511.22598)|null|
 |**2025-11-26**|**Dark Speculation: Combining Qualitative and Quantitative Understanding in Frontier AI Risk Analysis**|Daniel Carpenter et.al.|[2511.21838](http://arxiv.org/abs/2511.21838)|null|
@@ -3573,6 +3598,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
+|**2025-12-05**|**Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model**|Julie Meunier et.al.|[2512.05902](http://arxiv.org/abs/2512.05902)|null|
+|**2025-12-05**|**Non-equilibrium formulation for inertial particles in turbulent swirling flows**|Bernardo L. Español et.al.|[2512.05855](http://arxiv.org/abs/2512.05855)|null|
+|**2025-12-05**|**HQ-DM: Single Hadamard Transformation-Based Quantization-Aware Training for Low-Bit Diffusion Models**|Shizhuo Mao et.al.|[2512.05746](http://arxiv.org/abs/2512.05746)|null|
+|**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
+|**2025-12-05**|**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**|Weijue Bu et.al.|[2512.05546](http://arxiv.org/abs/2512.05546)|null|
+|**2025-12-04**|**Uncertainty Quantification for Scientific Machine Learning using Sparse Variational Gaussian Process Kolmogorov-Arnold Networks (SVGP KAN)**|Y. Sungtaek Ju et.al.|[2512.05306](http://arxiv.org/abs/2512.05306)|null|
+|**2025-12-04**|**CFO: Learning Continuous-Time PDE Dynamics via Flow-Matched Neural Operators**|Xianglong Hou et.al.|[2512.05297](http://arxiv.org/abs/2512.05297)|null|
+|**2025-12-04**|**XR-DT: Extended Reality-Enhanced Digital Twin for Agentic Mobile Robots**|Tianyi Wang et.al.|[2512.05270](http://arxiv.org/abs/2512.05270)|null|
 |**2025-12-04**|**NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation**|Yu Zeng et.al.|[2512.05106](http://arxiv.org/abs/2512.05106)|null|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies**|Jonne Van Haastregt et.al.|[2512.04960](http://arxiv.org/abs/2512.04960)|null|
@@ -3581,7 +3615,7 @@ layout: default
 |**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
 |**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Yihong Tang et.al.|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
-|**2025-12-04**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
+|**2025-12-05**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
 |**2025-12-04**|**Persson's Theory of Purely Normal Elastic Rough Surface Contact: A Tutorial Based on Stochastic Process Theory**|Yang Xu et.al.|[2512.04648](http://arxiv.org/abs/2512.04648)|null|
 |**2025-12-04**|**VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory**|Yifei Yu et.al.|[2512.04519](http://arxiv.org/abs/2512.04519)|null|
 |**2025-12-04**|**GuidNoise: Single-Pair Guided Diffusion for Generalized Noise Synthesis**|Changjin Kim et.al.|[2512.04456](http://arxiv.org/abs/2512.04456)|null|
