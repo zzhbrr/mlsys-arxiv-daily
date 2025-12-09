@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples**|Yezi Liu et.al.|[2512.07375](http://arxiv.org/abs/2512.07375)|null|
+|**2025-12-08**|**Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning**|Yezi Liu et.al.|[2512.07374](http://arxiv.org/abs/2512.07374)|null|
+|**2025-12-08**|**NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**|Feng Liang et.al.|[2512.07218](http://arxiv.org/abs/2512.07218)|null|
+|**2025-12-08**|**FOAM: Blocked State Folding for Memory-Efficient LLM Training**|Ziqing Wen et.al.|[2512.07112](http://arxiv.org/abs/2512.07112)|null|
+|**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|null|
+|**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
+|**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](http://arxiv.org/abs/2512.06727)|null|
+|**2025-12-06**|**Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices**|Xiangyu Li et.al.|[2512.06443](http://arxiv.org/abs/2512.06443)|null|
+|**2025-12-05**|**Compass: Mapping Space Exploration for Multi-Chiplet Accelerators Targeting LLM Inference Serving Workloads**|Boyu Li et.al.|[2512.06093](http://arxiv.org/abs/2512.06093)|null|
 |**2025-12-05**|**MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution**|Sara Patel et.al.|[2512.05958](http://arxiv.org/abs/2512.05958)|null|
 |**2025-12-05**|**KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity**|Damien Lesens et.al.|[2512.05916](http://arxiv.org/abs/2512.05916)|null|
 |**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](http://arxiv.org/abs/2512.05907)|null|
@@ -1448,10 +1457,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|null|
+|**2025-12-08**|**Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE**|Anxiang Zeng et.al.|[2512.07710](http://arxiv.org/abs/2512.07710)|null|
+|**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
+|**2025-12-08**|**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer**|Penghui Liu et.al.|[2512.07500](http://arxiv.org/abs/2512.07500)|null|
+|**2025-12-08**|**Equivariant Diffusion for Crystal Structure Prediction**|Peijia Lin et.al.|[2512.07289](http://arxiv.org/abs/2512.07289)|null|
+|**2025-12-08**|**Measurement of the branching fraction of $η\to μ^+ μ^-$ and search for $η\to e^+ e^-$**|BESIII Collaboration et.al.|[2512.07144](http://arxiv.org/abs/2512.07144)|null|
+|**2025-12-08**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
+|**2025-12-08**|**PlantBiMoE: A Bidirectional Foundation Model with SparseMoE for Plant Genomes**|Kepeng Lin et.al.|[2512.07113](http://arxiv.org/abs/2512.07113)|null|
+|**2025-12-07**|**Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding**|MinCheol Jeon et.al.|[2512.06929](http://arxiv.org/abs/2512.06929)|null|
+|**2025-12-07**|**Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks**|Long Shi et.al.|[2512.06784](http://arxiv.org/abs/2512.06784)|null|
+|**2025-12-07**|**Statistic-Augmented, Decoupled MoE Routing and Aggregating in Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06664](http://arxiv.org/abs/2512.06664)|null|
+|**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](http://arxiv.org/abs/2512.06449)|null|
+|**2025-12-04**|**The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation**|Ranjan Sapkota et.al.|[2512.06032](http://arxiv.org/abs/2512.06032)|null|
 |**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
 |**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
 |**2025-12-04**|**Evidence for the semileptonic decays $Λ_c^{+} \to Σ^{\pm} π^{\mp} e^+ ν_e$**|BESIII Collaboration et.al.|[2512.05178](http://arxiv.org/abs/2512.05178)|null|
-|**2025-12-05**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
+|**2025-12-08**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-04**|**Study of the reaction $Ξ^{0}n\rightarrowΛΛX$ using $Ξ^{0}$ -nucleus scattering**|BESIII Collaboration et.al.|[2512.04701](http://arxiv.org/abs/2512.04701)|null|
 |**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
@@ -2720,6 +2742,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**Chemical complexity in star formation induced by stellar feedback: cores shock-formed by the supernova remnant W44**|G. Cosentino et.al.|[2512.07562](http://arxiv.org/abs/2512.07562)|null|
+|**2025-12-08**|**SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation**|Yao Teng et.al.|[2512.07503](http://arxiv.org/abs/2512.07503)|null|
+|**2025-12-06**|**BitStopper: An Efficient Transformer Attention Accelerator via Stage-fusion and Early Termination**|Huizheng Wang et.al.|[2512.06457](http://arxiv.org/abs/2512.06457)|null|
+|**2025-12-05**|**Protocol Futuring: Speculating Second-Order Dynamics of Protocols in Sociotechnical Infrastructural Futures**|Botao 'Amber' Hu et.al.|[2512.06108](http://arxiv.org/abs/2512.06108)|null|
 |**2025-12-05**|**Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction**|Ruihong Yin et.al.|[2512.05597](http://arxiv.org/abs/2512.05597)|null|
 |**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
 |**2025-12-04**|**Long-term X-ray variability of the multiple-planet host L 98-59: Hints of an activity cycle**|I. Pillitteri et.al.|[2512.04817](http://arxiv.org/abs/2512.04817)|null|
@@ -2729,7 +2755,7 @@
 |**2025-12-02**|**From Administrative Chaos to Analytical Cohorts: A Three-Stage Normalisation Pipeline for Longitudinal University Administrative Records**|H. R. Paz et.al.|[2512.02936](http://arxiv.org/abs/2512.02936)|null|
 |**2025-12-02**|**A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty**|Zhou Ziheng et.al.|[2512.02544](http://arxiv.org/abs/2512.02544)|null|
 |**2025-12-02**|**SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification**|Zhendong Tan et.al.|[2512.02337](http://arxiv.org/abs/2512.02337)|null|
-|**2025-12-01**|**Much Ado About Noising: Dispelling the Myths of Generative Robotic Control**|Chaoyi Pan et.al.|[2512.01809](http://arxiv.org/abs/2512.01809)|null|
+|**2025-12-05**|**Much Ado About Noising: Dispelling the Myths of Generative Robotic Control**|Chaoyi Pan et.al.|[2512.01809](http://arxiv.org/abs/2512.01809)|null|
 |**2025-12-01**|**Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding**|Yilong Zhao et.al.|[2512.01278](http://arxiv.org/abs/2512.01278)|null|
 |**2025-11-30**|**Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding**|Pengfei Hu et.al.|[2512.00805](http://arxiv.org/abs/2512.00805)|null|
 |**2025-11-30**|**SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs**|Jiaming Xu et.al.|[2512.00722](http://arxiv.org/abs/2512.00722)|null|
