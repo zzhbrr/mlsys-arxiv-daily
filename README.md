@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**LaMoSys3.5D: Enabling 3.5D-IC-Based Large Language Model Inference Serving Systems via Hardware/Software Co-Design**|Qipan Wang et.al.|[2512.08731](http://arxiv.org/abs/2512.08731)|null|
+|**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|null|
 |**2025-12-08**|**LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples**|Yezi Liu et.al.|[2512.07375](http://arxiv.org/abs/2512.07375)|null|
 |**2025-12-08**|**Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning**|Yezi Liu et.al.|[2512.07374](http://arxiv.org/abs/2512.07374)|null|
 |**2025-12-08**|**NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**|Feng Liang et.al.|[2512.07218](http://arxiv.org/abs/2512.07218)|null|
@@ -1457,23 +1459,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts**|Yifan Lyu et.al.|[2512.08814](http://arxiv.org/abs/2512.08814)|null|
+|**2025-12-09**|**What really matters for person re-identification? A Mixture-of-Experts Framework for Semantic Attribute Importance**|Athena Psalta et.al.|[2512.08697](http://arxiv.org/abs/2512.08697)|null|
+|**2025-12-09**|**Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems**|Mingwei Li et.al.|[2512.08411](http://arxiv.org/abs/2512.08411)|null|
+|**2025-12-09**|**FastBEV++: Fast by Algorithm, Deployable by Design**|Yuanpeng Chen et.al.|[2512.08237](http://arxiv.org/abs/2512.08237)|null|
 |**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|null|
 |**2025-12-08**|**Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE**|Anxiang Zeng et.al.|[2512.07710](http://arxiv.org/abs/2512.07710)|null|
 |**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
 |**2025-12-08**|**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer**|Penghui Liu et.al.|[2512.07500](http://arxiv.org/abs/2512.07500)|null|
 |**2025-12-08**|**Equivariant Diffusion for Crystal Structure Prediction**|Peijia Lin et.al.|[2512.07289](http://arxiv.org/abs/2512.07289)|null|
 |**2025-12-08**|**Measurement of the branching fraction of $η\to μ^+ μ^-$ and search for $η\to e^+ e^-$**|BESIII Collaboration et.al.|[2512.07144](http://arxiv.org/abs/2512.07144)|null|
-|**2025-12-08**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
+|**2025-12-09**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
 |**2025-12-08**|**PlantBiMoE: A Bidirectional Foundation Model with SparseMoE for Plant Genomes**|Kepeng Lin et.al.|[2512.07113](http://arxiv.org/abs/2512.07113)|null|
 |**2025-12-07**|**Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding**|MinCheol Jeon et.al.|[2512.06929](http://arxiv.org/abs/2512.06929)|null|
 |**2025-12-07**|**Stable-MoE: Lyapunov-based Token Routing for Distributed Mixture-of-Experts Training over Edge Networks**|Long Shi et.al.|[2512.06784](http://arxiv.org/abs/2512.06784)|null|
 |**2025-12-07**|**Statistic-Augmented, Decoupled MoE Routing and Aggregating in Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06664](http://arxiv.org/abs/2512.06664)|null|
 |**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](http://arxiv.org/abs/2512.06449)|null|
 |**2025-12-04**|**The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation**|Ranjan Sapkota et.al.|[2512.06032](http://arxiv.org/abs/2512.06032)|null|
-|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
+|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|**[link](https://github.com/ZhiyingDu/HiMoE-VLA)**|
 |**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
 |**2025-12-04**|**Evidence for the semileptonic decays $Λ_c^{+} \to Σ^{\pm} π^{\mp} e^+ ν_e$**|BESIII Collaboration et.al.|[2512.05178](http://arxiv.org/abs/2512.05178)|null|
-|**2025-12-08**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
+|**2025-12-09**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|**[link](https://github.com/umm-emma/emma)**|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-04**|**Study of the reaction $Ξ^{0}n\rightarrowΛΛX$ using $Ξ^{0}$ -nucleus scattering**|BESIII Collaboration et.al.|[2512.04701](http://arxiv.org/abs/2512.04701)|null|
 |**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
@@ -2742,12 +2748,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Fast-ARDiff: An Entropy-informed Acceleration Framework for Continuous Space Autoregressive Generation**|Zhen Zou et.al.|[2512.08537](http://arxiv.org/abs/2512.08537)|null|
+|**2025-12-08**|**Fair Benchmarking of Optimisation Applications**|Frank Phillipson et.al.|[2512.07915](http://arxiv.org/abs/2512.07915)|null|
+|**2025-11-30**|**The Endogenous Constraint: Hysteresis, Stagflation, and the Structural Inhibition of Monetary Velocity in the Bitcoin Network (2016-2025)**|Hamoon Soleimani et.al.|[2512.07886](http://arxiv.org/abs/2512.07886)|null|
 |**2025-12-08**|**Chemical complexity in star formation induced by stellar feedback: cores shock-formed by the supernova remnant W44**|G. Cosentino et.al.|[2512.07562](http://arxiv.org/abs/2512.07562)|null|
 |**2025-12-08**|**SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation**|Yao Teng et.al.|[2512.07503](http://arxiv.org/abs/2512.07503)|null|
 |**2025-12-06**|**BitStopper: An Efficient Transformer Attention Accelerator via Stage-fusion and Early Termination**|Huizheng Wang et.al.|[2512.06457](http://arxiv.org/abs/2512.06457)|null|
 |**2025-12-05**|**Protocol Futuring: Speculating Second-Order Dynamics of Protocols in Sociotechnical Infrastructural Futures**|Botao 'Amber' Hu et.al.|[2512.06108](http://arxiv.org/abs/2512.06108)|null|
 |**2025-12-05**|**Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction**|Ruihong Yin et.al.|[2512.05597](http://arxiv.org/abs/2512.05597)|null|
-|**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
+|**2025-12-09**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|
 |**2025-12-04**|**Long-term X-ray variability of the multiple-planet host L 98-59: Hints of an activity cycle**|I. Pillitteri et.al.|[2512.04817](http://arxiv.org/abs/2512.04817)|null|
 |**2025-12-04**|**RLHFSpec: Breaking the Efficiency Bottleneck in RLHF Training via Adaptive Drafting**|Siqi Wang et.al.|[2512.04752](http://arxiv.org/abs/2512.04752)|null|
 |**2025-12-03**|**Counting AdS Vacua**|Zihni Kaan Baykara et.al.|[2512.04151](http://arxiv.org/abs/2512.04151)|null|
