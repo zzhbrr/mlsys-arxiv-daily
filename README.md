@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries**|Hyunjoon Kim et.al.|[2512.09695](http://arxiv.org/abs/2512.09695)|null|
+|**2025-12-10**|**WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving**|Chiheng Lou et.al.|[2512.09472](http://arxiv.org/abs/2512.09472)|null|
+|**2025-12-10**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|null|
+|**2025-12-10**|**RACAM: Enhancing DRAM with Reuse-Aware Computation and Automated Mapping for ML Inference**|Siyuan Ma et.al.|[2512.09304](http://arxiv.org/abs/2512.09304)|null|
 |**2025-12-09**|**LaMoSys3.5D: Enabling 3.5D-IC-Based Large Language Model Inference Serving Systems via Hardware/Software Co-Design**|Qipan Wang et.al.|[2512.08731](http://arxiv.org/abs/2512.08731)|null|
 |**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|null|
 |**2025-12-08**|**LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples**|Yezi Liu et.al.|[2512.07375](http://arxiv.org/abs/2512.07375)|null|
@@ -1459,6 +1463,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
+|**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
+|**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
+|**2025-12-10**|**First measurement of the absolute branching fractions of $Σ^+$ nonleptonic decays and test of the $ΔI = 1/2$ rule % $Σ^+ \to p π^0$ and $Σ^+ \to n π^+$**|BESIII Collaboration et.al.|[2512.09628](http://arxiv.org/abs/2512.09628)|null|
+|**2025-12-10**|**FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model**|Xiang Chen et.al.|[2512.09282](http://arxiv.org/abs/2512.09282)|null|
+|**2025-12-10**|**Efficient MoE Serving in the Memory-Bound Regime: Balance Activated Experts, Not Tokens**|Yanpeng Yu et.al.|[2512.09277](http://arxiv.org/abs/2512.09277)|null|
+|**2025-12-10**|**Bug Priority Change Prediction: An Exploratory Study on Apache Software**|Guangzong Cai et.al.|[2512.09216](http://arxiv.org/abs/2512.09216)|null|
 |**2025-12-09**|**Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts**|Yifan Lyu et.al.|[2512.08814](http://arxiv.org/abs/2512.08814)|null|
 |**2025-12-09**|**What really matters for person re-identification? A Mixture-of-Experts Framework for Semantic Attribute Importance**|Athena Psalta et.al.|[2512.08697](http://arxiv.org/abs/2512.08697)|null|
 |**2025-12-09**|**Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems**|Mingwei Li et.al.|[2512.08411](http://arxiv.org/abs/2512.08411)|null|
@@ -2748,6 +2759,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**A Speculative GLRT-Backed Approach for Adversarial Resilience on Deep Learning-Based Array Processing**|Nian-Cin Wang et.al.|[2512.09893](http://arxiv.org/abs/2512.09893)|null|
+|**2025-12-10**|**Baseline: Operation-Based Evolution and Versioning of Data**|Jonathan Edwards et.al.|[2512.09762](http://arxiv.org/abs/2512.09762)|null|
+|**2025-12-10**|**WASP-12, shrouded in mystery or just cold gas?**|Simon Daley-Yates et.al.|[2512.09593](http://arxiv.org/abs/2512.09593)|null|
 |**2025-12-09**|**Fast-ARDiff: An Entropy-informed Acceleration Framework for Continuous Space Autoregressive Generation**|Zhen Zou et.al.|[2512.08537](http://arxiv.org/abs/2512.08537)|null|
 |**2025-12-08**|**Fair Benchmarking of Optimisation Applications**|Frank Phillipson et.al.|[2512.07915](http://arxiv.org/abs/2512.07915)|null|
 |**2025-11-30**|**The Endogenous Constraint: Hysteresis, Stagflation, and the Structural Inhibition of Monetary Velocity in the Bitcoin Network (2016-2025)**|Hamoon Soleimani et.al.|[2512.07886](http://arxiv.org/abs/2512.07886)|null|
@@ -3656,6 +3670,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model**|Julie Meunier et.al.|[2512.05902](http://arxiv.org/abs/2512.05902)|null|
 |**2025-12-05**|**Non-equilibrium formulation for inertial particles in turbulent swirling flows**|Bernardo L. Español et.al.|[2512.05855](http://arxiv.org/abs/2512.05855)|null|
