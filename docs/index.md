@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -1465,10 +1465,10 @@ layout: default
 |**2025-12-07**|**Statistic-Augmented, Decoupled MoE Routing and Aggregating in Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06664](http://arxiv.org/abs/2512.06664)|null|
 |**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](http://arxiv.org/abs/2512.06449)|null|
 |**2025-12-04**|**The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation**|Ranjan Sapkota et.al.|[2512.06032](http://arxiv.org/abs/2512.06032)|null|
-|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|**[link](https://github.com/ZhiyingDu/HiMoE-VLA)**|
+|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
 |**2025-12-05**|**ProPhy: Progressive Physical Alignment for Dynamic World Simulation**|Zijun Wang et.al.|[2512.05564](http://arxiv.org/abs/2512.05564)|null|
 |**2025-12-04**|**Evidence for the semileptonic decays $Λ_c^{+} \to Σ^{\pm} π^{\mp} e^+ ν_e$**|BESIII Collaboration et.al.|[2512.05178](http://arxiv.org/abs/2512.05178)|null|
-|**2025-12-09**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|**[link](https://github.com/umm-emma/emma)**|
+|**2025-12-09**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-04**|**Study of the reaction $Ξ^{0}n\rightarrowΛΛX$ using $Ξ^{0}$ -nucleus scattering**|BESIII Collaboration et.al.|[2512.04701](http://arxiv.org/abs/2512.04701)|null|
 |**2025-12-04**|**Natural Language Actor-Critic: Scalable Off-Policy Learning in Language Space**|Joey Hong et.al.|[2512.04601](http://arxiv.org/abs/2512.04601)|null|
