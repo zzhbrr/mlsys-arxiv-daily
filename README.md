@@ -21,7 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-10**|**Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries**|Hyunjoon Kim et.al.|[2512.09695](http://arxiv.org/abs/2512.09695)|null|
+|**2025-12-11**|**ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp**|Xinhang Chen et.al.|[2512.10576](http://arxiv.org/abs/2512.10576)|null|
+|**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
+|**2025-12-10**|**BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization**|Kesheng Chen et.al.|[2512.09972](http://arxiv.org/abs/2512.09972)|null|
+|**2025-12-10**|**GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference**|Phuong Tran et.al.|[2512.09963](http://arxiv.org/abs/2512.09963)|null|
+|**2025-12-07**|**ELANA: A Simple Energy and Latency Analyzer for LLMs**|Hung-Yueh Chiang et.al.|[2512.09946](http://arxiv.org/abs/2512.09946)|null|
+|**2025-12-11**|**Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries**|Hyunjoon Kim et.al.|[2512.09695](http://arxiv.org/abs/2512.09695)|null|
 |**2025-12-10**|**WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving**|Chiheng Lou et.al.|[2512.09472](http://arxiv.org/abs/2512.09472)|null|
 |**2025-12-10**|**ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators**|Guoqiang Zou et.al.|[2512.09427](http://arxiv.org/abs/2512.09427)|null|
 |**2025-12-10**|**RACAM: Enhancing DRAM with Reuse-Aware Computation and Automated Mapping for ML Inference**|Siyuan Ma et.al.|[2512.09304](http://arxiv.org/abs/2512.09304)|null|
@@ -32,6 +37,7 @@
 |**2025-12-08**|**NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**|Feng Liang et.al.|[2512.07218](http://arxiv.org/abs/2512.07218)|null|
 |**2025-12-08**|**FOAM: Blocked State Folding for Memory-Efficient LLM Training**|Ziqing Wen et.al.|[2512.07112](http://arxiv.org/abs/2512.07112)|null|
 |**2025-12-08**|**Leveraging KV Similarity for Online Structured Pruning in LLMs**|Jungmin Lee et.al.|[2512.07090](http://arxiv.org/abs/2512.07090)|null|
+|**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-07**|**PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance**|Jifar Wakuma Ayana et.al.|[2512.06747](http://arxiv.org/abs/2512.06747)|null|
 |**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](http://arxiv.org/abs/2512.06727)|null|
 |**2025-12-06**|**Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices**|Xiangyu Li et.al.|[2512.06443](http://arxiv.org/abs/2512.06443)|null|
@@ -1463,6 +1469,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
+|**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](http://arxiv.org/abs/2512.10581)|null|
+|**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](http://arxiv.org/abs/2512.10450)|null|
+|**2025-12-10**|**Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge**|Junjie Bai et.al.|[2512.10071](http://arxiv.org/abs/2512.10071)|null|
 |**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
 |**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
 |**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
@@ -2759,6 +2769,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Mixing by offshore wind infrastructure: Resolving the density stratified wakes past vertical cylinders**|Charlie J. Lloyd et.al.|[2512.10751](http://arxiv.org/abs/2512.10751)|null|
+|**2025-12-11**|**T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground**|Dmitrii Stoianov et.al.|[2512.10430](http://arxiv.org/abs/2512.10430)|null|
+|**2025-12-11**|**Motifs in self-organising cells**|Ying Chen Lim et.al.|[2512.10307](http://arxiv.org/abs/2512.10307)|null|
+|**2025-12-10**|**Parallel Decoder Transformer: Model-Internal Parallel Decoding with Speculative Invariance via Note Conditioning**|Logan Robbins et.al.|[2512.10054](http://arxiv.org/abs/2512.10054)|null|
+|**2025-12-10**|**GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference**|Phuong Tran et.al.|[2512.09963](http://arxiv.org/abs/2512.09963)|null|
 |**2025-12-10**|**A Speculative GLRT-Backed Approach for Adversarial Resilience on Deep Learning-Based Array Processing**|Nian-Cin Wang et.al.|[2512.09893](http://arxiv.org/abs/2512.09893)|null|
 |**2025-12-10**|**Baseline: Operation-Based Evolution and Versioning of Data**|Jonathan Edwards et.al.|[2512.09762](http://arxiv.org/abs/2512.09762)|null|
 |**2025-12-10**|**WASP-12, shrouded in mystery or just cold gas?**|Simon Daley-Yates et.al.|[2512.09593](http://arxiv.org/abs/2512.09593)|null|
