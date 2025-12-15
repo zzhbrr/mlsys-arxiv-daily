@@ -21,9 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**|Yifan Zhang et.al.|[2512.11550](http://arxiv.org/abs/2512.11550)|null|
+|**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|null|
+|**2025-12-12**|**AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference**|Kuan-Wei Lu et.al.|[2512.11280](http://arxiv.org/abs/2512.11280)|null|
+|**2025-12-12**|**Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference**|Adilet Metinov et.al.|[2512.11221](http://arxiv.org/abs/2512.11221)|null|
 |**2025-12-11**|**ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp**|Xinhang Chen et.al.|[2512.10576](http://arxiv.org/abs/2512.10576)|null|
 |**2025-12-11**|**LLM-Auction: Generative Auction towards LLM-Native Advertising**|Chujie Zhao et.al.|[2512.10551](http://arxiv.org/abs/2512.10551)|null|
-|**2025-12-10**|**BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization**|Kesheng Chen et.al.|[2512.09972](http://arxiv.org/abs/2512.09972)|null|
+|**2025-12-12**|**BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization**|Kesheng Chen et.al.|[2512.09972](http://arxiv.org/abs/2512.09972)|null|
 |**2025-12-10**|**GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference**|Phuong Tran et.al.|[2512.09963](http://arxiv.org/abs/2512.09963)|null|
 |**2025-12-07**|**ELANA: A Simple Energy and Latency Analyzer for LLMs**|Hung-Yueh Chiang et.al.|[2512.09946](http://arxiv.org/abs/2512.09946)|null|
 |**2025-12-11**|**Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries**|Hyunjoon Kim et.al.|[2512.09695](http://arxiv.org/abs/2512.09695)|null|
@@ -1469,10 +1473,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Measurement of the cosmic ray nickel energy spectrum from 10 GeV/n to 2 TeV/n with the DAMPE**|F. Alemanno et.al.|[2512.11425](http://arxiv.org/abs/2512.11425)|null|
 |**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
 |**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](http://arxiv.org/abs/2512.10581)|null|
 |**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](http://arxiv.org/abs/2512.10450)|null|
-|**2025-12-10**|**Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge**|Junjie Bai et.al.|[2512.10071](http://arxiv.org/abs/2512.10071)|null|
+|**2025-12-12**|**Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge**|Junjie Bai et.al.|[2512.10071](http://arxiv.org/abs/2512.10071)|null|
 |**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
 |**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
 |**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
@@ -1487,7 +1492,7 @@
 |**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|null|
 |**2025-12-08**|**Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE**|Anxiang Zeng et.al.|[2512.07710](http://arxiv.org/abs/2512.07710)|null|
 |**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
-|**2025-12-08**|**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer**|Penghui Liu et.al.|[2512.07500](http://arxiv.org/abs/2512.07500)|null|
+|**2025-12-12**|**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer**|Penghui Liu et.al.|[2512.07500](http://arxiv.org/abs/2512.07500)|null|
 |**2025-12-08**|**Equivariant Diffusion for Crystal Structure Prediction**|Peijia Lin et.al.|[2512.07289](http://arxiv.org/abs/2512.07289)|null|
 |**2025-12-08**|**Measurement of the branching fraction of $η\to μ^+ μ^-$ and search for $η\to e^+ e^-$**|BESIII Collaboration et.al.|[2512.07144](http://arxiv.org/abs/2512.07144)|null|
 |**2025-12-09**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
@@ -2769,6 +2774,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks**|Sergey Pankratov et.al.|[2512.11718](http://arxiv.org/abs/2512.11718)|null|
+|**2025-12-12**|**AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference**|Kuan-Wei Lu et.al.|[2512.11280](http://arxiv.org/abs/2512.11280)|null|
+|**2025-12-12**|**FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration**|Dongwon Jung et.al.|[2512.11213](http://arxiv.org/abs/2512.11213)|null|
+|**2025-12-11**|**Site Preference and Possible Coexistence of Antiferromagnetic Order and Magnetic Frustration in (Co1-xMgx)10Ge3O16 (0 <= x <= 30%)**|Gina Angelo et.al.|[2512.11132](http://arxiv.org/abs/2512.11132)|null|
 |**2025-12-11**|**Mixing by offshore wind infrastructure: Resolving the density stratified wakes past vertical cylinders**|Charlie J. Lloyd et.al.|[2512.10751](http://arxiv.org/abs/2512.10751)|null|
 |**2025-12-11**|**T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground**|Dmitrii Stoianov et.al.|[2512.10430](http://arxiv.org/abs/2512.10430)|null|
 |**2025-12-11**|**Motifs in self-organising cells**|Ying Chen Lim et.al.|[2512.10307](http://arxiv.org/abs/2512.10307)|null|
