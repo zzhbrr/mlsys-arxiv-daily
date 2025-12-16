@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://github.com/xiaomi-mlab/MindDrive)**|
+|**2025-12-15**|**PROSERVE: Unified Multi-Priority Request Scheduling for LLM Serving**|Weizhe Huang et.al.|[2512.12928](http://arxiv.org/abs/2512.12928)|null|
+|**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
+|**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
+|**2025-12-14**|**Fine-Grained Energy Prediction For Parallellized LLM Inference With PIE-P**|Anurag Dutt et.al.|[2512.12801](http://arxiv.org/abs/2512.12801)|null|
+|**2025-12-13**|**V-Rex: Real-Time Streaming Video LLM Acceleration via Dynamic KV Cache Retrieval**|Donghyuk Kim et.al.|[2512.12284](http://arxiv.org/abs/2512.12284)|null|
+|**2025-12-13**|**WATOS: Efficient LLM Training Strategies and Architecture Co-exploration for Wafer-scale Chip**|Huizheng Wang et.al.|[2512.12279](http://arxiv.org/abs/2512.12279)|null|
+|**2025-12-12**|**Learning to Extract Context for Context-Aware LLM Inference**|Minseon Kim et.al.|[2512.11986](http://arxiv.org/abs/2512.11986)|null|
+|**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
 |**2025-12-12**|**PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**|Yifan Zhang et.al.|[2512.11550](http://arxiv.org/abs/2512.11550)|null|
 |**2025-12-12**|**xGR: Efficient Generative Recommendation Serving at Scale**|Qingxiao Sun et.al.|[2512.11529](http://arxiv.org/abs/2512.11529)|null|
 |**2025-12-12**|**AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference**|Kuan-Wei Lu et.al.|[2512.11280](http://arxiv.org/abs/2512.11280)|null|
@@ -1462,6 +1471,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
+|**2025-12-15**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
+|**2025-12-15**|**SIGMA: An AI-Empowered Training Stack on Early-Life Hardware**|Lei Qu et.al.|[2512.13488](http://arxiv.org/abs/2512.13488)|null|
+|**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|null|
+|**2025-12-15**|**Sharpen the Spec, Cut the Code: A Case for Generative File System with SYSSPEC**|Qingyuan Liu et.al.|[2512.13047](http://arxiv.org/abs/2512.13047)|null|
+|**2025-12-15**|**Safe Control of Multi-Agent Systems with Minimal Communication**|Mo Yang et.al.|[2512.13021](http://arxiv.org/abs/2512.13021)|null|
+|**2025-12-15**|**SliceMoE: Bit-Sliced Expert Caching under Miss-Rate Constraints for Efficient MoE Inference**|Yuseon Choi et.al.|[2512.12990](http://arxiv.org/abs/2512.12990)|null|
+|**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
+|**2025-12-14**|**Bayesian Optimization Parameter Tuning Framework for a Lyapunov Based Path Following Controller**|Zhewen Zheng et.al.|[2512.12649](http://arxiv.org/abs/2512.12649)|null|
+|**2025-12-13**|**Amplitude Analysis and Branching Fraction Measurement of $D^+ \to π^+π^0π^0$**|BESIII Collaboration et.al.|[2512.12397](http://arxiv.org/abs/2512.12397)|null|
+|**2025-12-13**|**Fine-Grained Zero-Shot Learning with Attribute-Centric Representations**|Zhi Chen et.al.|[2512.12219](http://arxiv.org/abs/2512.12219)|null|
+|**2025-12-13**|**ALERT Open Dataset and Input-Size-Agnostic Vision Transformer for Driver Activity Recognition using IR-UWB**|Jeongjun Park et.al.|[2512.12206](http://arxiv.org/abs/2512.12206)|null|
+|**2025-12-13**|**MixtureKit: A General Framework for Composing, Training, and Visualizing Mixture-of-Experts Models**|Ahmad Chamma et.al.|[2512.12121](http://arxiv.org/abs/2512.12121)|null|
 |**2025-12-12**|**Measurement of the cosmic ray nickel energy spectrum from 10 GeV/n to 2 TeV/n with the DAMPE**|F. Alemanno et.al.|[2512.11425](http://arxiv.org/abs/2512.11425)|null|
 |**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
 |**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](http://arxiv.org/abs/2512.10581)|null|
@@ -2761,6 +2783,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Efficient Adaptive Rejection Sampling for Accelerating Speculative Decoding in Large Language Models**|Chendong Sun et.al.|[2512.13194](http://arxiv.org/abs/2512.13194)|null|
+|**2025-12-14**|**Spectral Theory of Almost Periodic Banach--Malcev Algebras and Applications to Moufang Dynamics**|Marwa Ennaceur et.al.|[2512.12687](http://arxiv.org/abs/2512.12687)|null|
+|**2025-12-13**|**Mage: Cracking Elliptic Curve Cryptography with Cross-Axis Transformers**|Lily Erickson et.al.|[2512.12483](http://arxiv.org/abs/2512.12483)|null|
+|**2025-12-13**|**Moduli stacks of quiver connections and non-Abelian Hodge theory**|Mahmud Azam et.al.|[2512.12188](http://arxiv.org/abs/2512.12188)|null|
+|**2025-12-13**|**Binarity at LOw Metallicity (BLOeM): Projected rotational velocities**|D. J. Lennon et.al.|[2512.12102](http://arxiv.org/abs/2512.12102)|null|
+|**2025-12-12**|**Universal Dynamics of Financial Bubbles in Isolated Markets: Evidence from the Iranian Stock Market**|Ali Hosseinzadeh et.al.|[2512.12054](http://arxiv.org/abs/2512.12054)|null|
+|**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
 |**2025-12-12**|**Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks**|Sergey Pankratov et.al.|[2512.11718](http://arxiv.org/abs/2512.11718)|null|
 |**2025-12-12**|**AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference**|Kuan-Wei Lu et.al.|[2512.11280](http://arxiv.org/abs/2512.11280)|null|
 |**2025-12-12**|**FutureWeaver: Planning Test-Time Compute for Multi-Agent Systems with Modularized Collaboration**|Dongwon Jung et.al.|[2512.11213](http://arxiv.org/abs/2512.11213)|null|
@@ -2769,7 +2798,7 @@ layout: default
 |**2025-12-11**|**T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground**|Dmitrii Stoianov et.al.|[2512.10430](http://arxiv.org/abs/2512.10430)|null|
 |**2025-12-11**|**Motifs in self-organising cells**|Ying Chen Lim et.al.|[2512.10307](http://arxiv.org/abs/2512.10307)|null|
 |**2025-12-10**|**Parallel Decoder Transformer: Model-Internal Parallel Decoding with Speculative Invariance via Note Conditioning**|Logan Robbins et.al.|[2512.10054](http://arxiv.org/abs/2512.10054)|null|
-|**2025-12-10**|**GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference**|Phuong Tran et.al.|[2512.09963](http://arxiv.org/abs/2512.09963)|null|
+|**2025-12-14**|**GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference**|Phuong Tran et.al.|[2512.09963](http://arxiv.org/abs/2512.09963)|null|
 |**2025-12-10**|**A Speculative GLRT-Backed Approach for Adversarial Resilience on Deep Learning-Based Array Processing**|Nian-Cin Wang et.al.|[2512.09893](http://arxiv.org/abs/2512.09893)|null|
 |**2025-12-10**|**Baseline: Operation-Based Evolution and Versioning of Data**|Jonathan Edwards et.al.|[2512.09762](http://arxiv.org/abs/2512.09762)|null|
 |**2025-12-10**|**WASP-12, shrouded in mystery or just cold gas?**|Simon Daley-Yates et.al.|[2512.09593](http://arxiv.org/abs/2512.09593)|null|
