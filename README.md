@@ -21,7 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
+|**2025-12-16**|**Adaptive Cache Pollution Control for Large Language Model Inference Workloads Using Temporal CNN-Based Prediction and Priority-Aware Replacement**|Songze Liu et.al.|[2512.14151](http://arxiv.org/abs/2512.14151)|null|
+|**2025-12-16**|**RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees**|Junjie Ma et.al.|[2512.14069](http://arxiv.org/abs/2512.14069)|null|
+|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
 |**2025-12-15**|**PROSERVE: Unified Multi-Priority Request Scheduling for LLM Serving**|Weizhe Huang et.al.|[2512.12928](http://arxiv.org/abs/2512.12928)|null|
 |**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
 |**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
@@ -1482,8 +1484,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Measurements of the branching fractions of $χ_{cJ}\to φφη, φφη^{\prime}$ and $φK^+K^-η$**|BESIII Collaboration et.al.|[2512.14369](http://arxiv.org/abs/2512.14369)|null|
+|**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
+|**2025-12-16**|**SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations**|Wentao Guo et.al.|[2512.14080](http://arxiv.org/abs/2512.14080)|null|
+|**2025-12-16**|**Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training**|Can Jin et.al.|[2512.13996](http://arxiv.org/abs/2512.13996)|null|
+|**2025-12-15**|**Connection between galaxy morphology and dark-matter halo structure II: predicting disk structure from dark-matter halo properties**|Jinning Liang et.al.|[2512.13822](http://arxiv.org/abs/2512.13822)|null|
+|**2025-12-13**|**RAST-MoE-RL: A Regime-Aware Spatio-Temporal MoE Framework for Deep Reinforcement Learning in Ride-Hailing**|Yuhan Tang et.al.|[2512.13727](http://arxiv.org/abs/2512.13727)|null|
 |**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
-|**2025-12-15**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
+|**2025-12-16**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
 |**2025-12-15**|**SIGMA: An AI-Empowered Training Stack on Early-Life Hardware**|Lei Qu et.al.|[2512.13488](http://arxiv.org/abs/2512.13488)|null|
 |**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|null|
 |**2025-12-15**|**Sharpen the Spec, Cut the Code: A Case for Generative File System with SYSSPEC**|Qingyuan Liu et.al.|[2512.13047](http://arxiv.org/abs/2512.13047)|null|
@@ -2796,9 +2804,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-15**|**Efficient Adaptive Rejection Sampling for Accelerating Speculative Decoding in Large Language Models**|Chendong Sun et.al.|[2512.13194](http://arxiv.org/abs/2512.13194)|null|
+|**2025-12-16**|**Steering Alternative Realities through Local Quantum Memory Operations**|Xiongfeng Ma et.al.|[2512.14377](http://arxiv.org/abs/2512.14377)|null|
+|**2025-12-16**|**PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion**|Huizheng Wang et.al.|[2512.14322](http://arxiv.org/abs/2512.14322)|null|
+|**2025-12-16**|**The Impact Market to Save Conference Peer Review: Decoupling Dissemination and Credentialing**|Karthikeyan Sankaralingam et.al.|[2512.14104](http://arxiv.org/abs/2512.14104)|null|
+|**2025-12-16**|**RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees**|Junjie Ma et.al.|[2512.14069](http://arxiv.org/abs/2512.14069)|null|
+|**2025-12-16**|**Efficient Adaptive Rejection Sampling for Accelerating Speculative Decoding in Large Language Models**|Chendong Sun et.al.|[2512.13194](http://arxiv.org/abs/2512.13194)|null|
 |**2025-12-14**|**Spectral Theory of Almost Periodic Banach--Malcev Algebras and Applications to Moufang Dynamics**|Marwa Ennaceur et.al.|[2512.12687](http://arxiv.org/abs/2512.12687)|null|
-|**2025-12-13**|**Mage: Cracking Elliptic Curve Cryptography with Cross-Axis Transformers**|Lily Erickson et.al.|[2512.12483](http://arxiv.org/abs/2512.12483)|null|
+|**2025-12-16**|**Mage: Cracking Elliptic Curve Cryptography with Cross-Axis Transformers**|Lily Erickson et.al.|[2512.12483](http://arxiv.org/abs/2512.12483)|null|
 |**2025-12-13**|**Moduli stacks of quiver connections and non-Abelian Hodge theory**|Mahmud Azam et.al.|[2512.12188](http://arxiv.org/abs/2512.12188)|null|
 |**2025-12-13**|**Binarity at LOw Metallicity (BLOeM): Projected rotational velocities**|D. J. Lennon et.al.|[2512.12102](http://arxiv.org/abs/2512.12102)|null|
 |**2025-12-12**|**Universal Dynamics of Financial Bubbles in Isolated Markets: Evidence from the Iranian Stock Market**|Ali Hosseinzadeh et.al.|[2512.12054](http://arxiv.org/abs/2512.12054)|null|
@@ -3723,6 +3735,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model**|Julie Meunier et.al.|[2512.05902](http://arxiv.org/abs/2512.05902)|null|
