@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://github.com/xiaomi-mlab/MindDrive)**|
+|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
 |**2025-12-15**|**PROSERVE: Unified Multi-Priority Request Scheduling for LLM Serving**|Weizhe Huang et.al.|[2512.12928](http://arxiv.org/abs/2512.12928)|null|
 |**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
 |**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
