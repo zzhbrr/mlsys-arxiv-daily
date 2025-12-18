@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|null|
 |**2025-12-16**|**Adaptive Cache Pollution Control for Large Language Model Inference Workloads Using Temporal CNN-Based Prediction and Priority-Aware Replacement**|Songze Liu et.al.|[2512.14151](http://arxiv.org/abs/2512.14151)|null|
 |**2025-12-16**|**RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees**|Junjie Ma et.al.|[2512.14069](http://arxiv.org/abs/2512.14069)|null|
 |**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://github.com/xiaomi-mlab/MindDrive)**|
@@ -1473,6 +1474,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|null|
+|**2025-12-17**|**Measurements of the Absolute Branching Fraction of the Semileptonic Decay $\mathbf{Ξ^{-}\rightarrow Λe^- \barν_{e}}$ and the Axial Charge of the $\mathbfΞ^{-}$**|BESIII Collaboration et.al.|[2512.15273](http://arxiv.org/abs/2512.15273)|null|
+|**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
+|**2025-12-17**|**Search for the decays $X(3872)\to K_{S}^{0}K^{\pm}π^{\mp}$ and $K^*(892)\bar{K}$ at BESIII**|BESIII Collaboration et.al.|[2512.15091](http://arxiv.org/abs/2512.15091)|null|
+|**2025-12-16**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-15**|**SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning**|Tomohito Kawabata et.al.|[2512.14757](http://arxiv.org/abs/2512.14757)|null|
 |**2025-12-16**|**Measurements of the branching fractions of $χ_{cJ}\to φφη, φφη^{\prime}$ and $φK^+K^-η$**|BESIII Collaboration et.al.|[2512.14369](http://arxiv.org/abs/2512.14369)|null|
 |**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
 |**2025-12-16**|**SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations**|Wentao Guo et.al.|[2512.14080](http://arxiv.org/abs/2512.14080)|null|
@@ -2791,11 +2798,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Probing the dynamics of stringy flux tubes with large $R$ -charge**|Davide Bonomi et.al.|[2512.15698](http://arxiv.org/abs/2512.15698)|null|
+|**2025-12-17**|**The longest known tails of ram-pressure stripped star-forming galaxies are caused by an ICM shock in Abell 1367**|H. W. Edler et.al.|[2512.15660](http://arxiv.org/abs/2512.15660)|null|
+|**2025-12-17**|**DEER: Draft with Diffusion, Verify with Autoregressive Models**|Zicong Cheng et.al.|[2512.15176](http://arxiv.org/abs/2512.15176)|null|
 |**2025-12-16**|**Steering Alternative Realities through Local Quantum Memory Operations**|Xiongfeng Ma et.al.|[2512.14377](http://arxiv.org/abs/2512.14377)|null|
 |**2025-12-16**|**PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion**|Huizheng Wang et.al.|[2512.14322](http://arxiv.org/abs/2512.14322)|null|
 |**2025-12-16**|**The Impact Market to Save Conference Peer Review: Decoupling Dissemination and Credentialing**|Karthikeyan Sankaralingam et.al.|[2512.14104](http://arxiv.org/abs/2512.14104)|null|
 |**2025-12-16**|**RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees**|Junjie Ma et.al.|[2512.14069](http://arxiv.org/abs/2512.14069)|null|
-|**2025-12-16**|**Efficient Adaptive Rejection Sampling for Accelerating Speculative Decoding in Large Language Models**|Chendong Sun et.al.|[2512.13194](http://arxiv.org/abs/2512.13194)|null|
+|**2025-12-17**|**Efficient Adaptive Rejection Sampling for Accelerating Speculative Decoding in Large Language Models**|Chendong Sun et.al.|[2512.13194](http://arxiv.org/abs/2512.13194)|null|
 |**2025-12-14**|**Spectral Theory of Almost Periodic Banach--Malcev Algebras and Applications to Moufang Dynamics**|Marwa Ennaceur et.al.|[2512.12687](http://arxiv.org/abs/2512.12687)|null|
 |**2025-12-16**|**Mage: Cracking Elliptic Curve Cryptography with Cross-Axis Transformers**|Lily Erickson et.al.|[2512.12483](http://arxiv.org/abs/2512.12483)|null|
 |**2025-12-13**|**Moduli stacks of quiver connections and non-Abelian Hodge theory**|Mahmud Azam et.al.|[2512.12188](http://arxiv.org/abs/2512.12188)|null|
