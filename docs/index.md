@@ -14,10 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
+|**2025-12-18**|**Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference**|Dhruv Deshmukh et.al.|[2512.16391](http://arxiv.org/abs/2512.16391)|null|
+|**2025-12-18**|**Design and Evaluation of Cost-Aware PoQ for Decentralized LLM Inference**|Arther Tian et.al.|[2512.16317](http://arxiv.org/abs/2512.16317)|null|
+|**2025-12-18**|**Fast Collaborative Inference via Distributed Speculative Decoding**|Ce Zheng et.al.|[2512.16273](http://arxiv.org/abs/2512.16273)|null|
+|**2025-12-18**|**Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference**|Jian Tian et.al.|[2512.16134](http://arxiv.org/abs/2512.16134)|null|
+|**2025-12-18**|**WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning**|Wendong Bi et.al.|[2512.16108](http://arxiv.org/abs/2512.16108)|null|
+|**2025-12-18**|**LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling (Copy)**|Xin Wang et.al.|[2512.16070](http://arxiv.org/abs/2512.16070)|null|
+|**2025-12-18**|**MultiPath Transfer Engine: Breaking GPU and Host-Memory Bandwidth Bottlenecks in LLM Services**|Lingfeng Tang et.al.|[2512.16056](http://arxiv.org/abs/2512.16056)|null|
 |**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|null|
 |**2025-12-16**|**Adaptive Cache Pollution Control for Large Language Model Inference Workloads Using Temporal CNN-Based Prediction and Priority-Aware Replacement**|Songze Liu et.al.|[2512.14151](http://arxiv.org/abs/2512.14151)|null|
 |**2025-12-16**|**RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees**|Junjie Ma et.al.|[2512.14069](http://arxiv.org/abs/2512.14069)|null|
-|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|**[link](https://github.com/xiaomi-mlab/MindDrive)**|
+|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
 |**2025-12-15**|**PROSERVE: Unified Multi-Priority Request Scheduling for LLM Serving**|Weizhe Huang et.al.|[2512.12928](http://arxiv.org/abs/2512.12928)|null|
 |**2025-12-14**|**Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM**|Furong Jia et.al.|[2512.12868](http://arxiv.org/abs/2512.12868)|null|
 |**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
@@ -1474,11 +1482,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation**|Haichao Zhang et.al.|[2512.16891](http://arxiv.org/abs/2512.16891)|null|
+|**2025-12-18**|**The WINTER Observatory: A One-Degree InGaAs Survey Camera to study the Transient Infrared Sky**|Danielle Frostig et.al.|[2512.16753](http://arxiv.org/abs/2512.16753)|null|
+|**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494](http://arxiv.org/abs/2512.16494)|null|
+|**2025-12-18**|**Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems**|En-Ming Huang et.al.|[2512.16473](http://arxiv.org/abs/2512.16473)|null|
+|**2025-12-18**|**Pretrained Battery Transformer (PBT): A battery life prediction foundation model**|Ruifeng Tan et.al.|[2512.16334](http://arxiv.org/abs/2512.16334)|null|
+|**2025-12-18**|**Sigma-Moe-Tiny Technical Report**|Qingguo Hu et.al.|[2512.16248](http://arxiv.org/abs/2512.16248)|null|
+|**2025-12-18**|**Open Ad-hoc Categorization with Contextualized Feature Learning**|Zilin Wang et.al.|[2512.16202](http://arxiv.org/abs/2512.16202)|null|
+|**2025-12-18**|**INTELLECT-3: Technical Report**|Prime Intellect Team et.al.|[2512.16144](http://arxiv.org/abs/2512.16144)|null|
 |**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|null|
 |**2025-12-17**|**Measurements of the Absolute Branching Fraction of the Semileptonic Decay $\mathbf{Ξ^{-}\rightarrow Λe^- \barν_{e}}$ and the Axial Charge of the $\mathbfΞ^{-}$**|BESIII Collaboration et.al.|[2512.15273](http://arxiv.org/abs/2512.15273)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
 |**2025-12-17**|**Search for the decays $X(3872)\to K_{S}^{0}K^{\pm}π^{\mp}$ and $K^*(892)\bar{K}$ at BESIII**|BESIII Collaboration et.al.|[2512.15091](http://arxiv.org/abs/2512.15091)|null|
-|**2025-12-16**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-18**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
 |**2025-12-15**|**SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning**|Tomohito Kawabata et.al.|[2512.14757](http://arxiv.org/abs/2512.14757)|null|
 |**2025-12-16**|**Measurements of the branching fractions of $χ_{cJ}\to φφη, φφη^{\prime}$ and $φK^+K^-η$**|BESIII Collaboration et.al.|[2512.14369](http://arxiv.org/abs/2512.14369)|null|
 |**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
@@ -2798,6 +2814,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Machines, AI and the past//future of things**|Karola Köpferl et.al.|[2512.16285](http://arxiv.org/abs/2512.16285)|null|
+|**2025-12-18**|**Fast Collaborative Inference via Distributed Speculative Decoding**|Ce Zheng et.al.|[2512.16273](http://arxiv.org/abs/2512.16273)|null|
+|**2025-12-17**|**Optimizing Agentic Language Model Inference via Speculative Tool Calls**|Daniel Nichols et.al.|[2512.15834](http://arxiv.org/abs/2512.15834)|null|
+|**2025-12-14**|**Variable Record Table: A Unified Hardware-Assisted Framework for Runtime Security**|Suraj Kumar Sah et.al.|[2512.15777](http://arxiv.org/abs/2512.15777)|null|
+|**2025-12-13**|**TS-DP: Reinforcement Speculative Decoding For Temporal Adaptive Diffusion Policy Acceleration**|Ye Li et.al.|[2512.15773](http://arxiv.org/abs/2512.15773)|null|
 |**2025-12-17**|**Probing the dynamics of stringy flux tubes with large $R$ -charge**|Davide Bonomi et.al.|[2512.15698](http://arxiv.org/abs/2512.15698)|null|
 |**2025-12-17**|**The longest known tails of ram-pressure stripped star-forming galaxies are caused by an ICM shock in Abell 1367**|H. W. Edler et.al.|[2512.15660](http://arxiv.org/abs/2512.15660)|null|
 |**2025-12-17**|**DEER: Draft with Diffusion, Verify with Autoregressive Models**|Zicong Cheng et.al.|[2512.15176](http://arxiv.org/abs/2512.15176)|null|
@@ -3730,6 +3751,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
 |**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
