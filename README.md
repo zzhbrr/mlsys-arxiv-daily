@@ -21,8 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**L4: Low-Latency and Load-Balanced LLM Serving via Length-Aware Scheduling**|Yitao Yuan et.al.|[2512.19179](http://arxiv.org/abs/2512.19179)|null|
+|**2025-12-22**|**FASTRIC: Prompt Specification Language for Verifiable LLM Interactions**|Wen-Long Jin et.al.|[2512.18940](http://arxiv.org/abs/2512.18940)|null|
+|**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
+|**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
+|**2025-12-20**|**Making Strong Error-Correcting Codes Work Effectively for HBM in AI Inference**|Rui Xie et.al.|[2512.18152](http://arxiv.org/abs/2512.18152)|null|
+|**2025-12-19**|**Specification and Detection of LLM Code Smells**|Brahim Mahmoudi et.al.|[2512.18020](http://arxiv.org/abs/2512.18020)|null|
+|**2025-12-19**|**CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs**|Gunho Park et.al.|[2512.17970](http://arxiv.org/abs/2512.17970)|null|
 |**2025-12-19**|**Enabling Disaggregated Multi-Stage MLLM Inference via GPU-Internal Scheduling and Resource Sharing**|Lingxiao Zhao et.al.|[2512.17574](http://arxiv.org/abs/2512.17574)|null|
-|**2025-12-19**|**Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**|Yen-Chieh Huang et.al.|[2512.17452](http://arxiv.org/abs/2512.17452)|null|
+|**2025-12-22**|**Learning What to Write: Write-Gated KV for Efficient Long-Context Inference**|Yen-Chieh Huang et.al.|[2512.17452](http://arxiv.org/abs/2512.17452)|null|
 |**2025-12-18**|**Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving**|Jiakun Fan et.al.|[2512.17077](http://arxiv.org/abs/2512.17077)|null|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
 |**2025-12-18**|**Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference**|Dhruv Deshmukh et.al.|[2512.16391](http://arxiv.org/abs/2512.16391)|null|
@@ -1496,6 +1503,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
+|**2025-12-22**|**EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control**|Chao Yang et.al.|[2512.19043](http://arxiv.org/abs/2512.19043)|null|
+|**2025-12-21**|**Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation**|Guangtao Lyu et.al.|[2512.18804](http://arxiv.org/abs/2512.18804)|null|
+|**2025-12-21**|**Rectification Reimagined: A Unified Mamba Model for Image Correction and Rectangling with Prompts**|Linwei Qiu et.al.|[2512.18718](http://arxiv.org/abs/2512.18718)|null|
+|**2025-12-21**|**Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing**|Wentao Liu et.al.|[2512.18674](http://arxiv.org/abs/2512.18674)|null|
+|**2025-12-21**|**Commercial Vehicle Braking Optimization: A Robust SIFT-Trajectory Approach**|Zhe Li et.al.|[2512.18597](http://arxiv.org/abs/2512.18597)|null|
+|**2025-12-20**|**Secret mixtures of experts inside your LLM**|Enric Boix-Adsera et.al.|[2512.18452](http://arxiv.org/abs/2512.18452)|null|
+|**2025-12-20**|**MoE Pathfinder: Trajectory-driven Expert Pruning**|Xican Yang et.al.|[2512.18425](http://arxiv.org/abs/2512.18425)|null|
+|**2025-12-20**|**MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**|Kaixing Yang et.al.|[2512.18181](http://arxiv.org/abs/2512.18181)|null|
+|**2025-12-20**|**Cross section and parametrization of charmonium decay**|Xiao-Hu Mo et.al.|[2512.18154](http://arxiv.org/abs/2512.18154)|null|
+|**2025-12-19**|**MoE-TransMov: A Transformer-based Model for Next POI Prediction in Familiar & Unfamiliar Movements**|Ruichen Tan et.al.|[2512.17985](http://arxiv.org/abs/2512.17985)|null|
 |**2025-12-19**|**Interpreting the strong clustering of ultra-diffuse galaxies by halo spin bias**|Qinglin Ma et.al.|[2512.17742](http://arxiv.org/abs/2512.17742)|null|
 |**2025-12-19**|**Cross sections measurement of $e^+e^-\to Ξ(1530)^0\barΞ^0 + c.c.$ and search for $ψ(3770)\toΞ(1530)^0\barΞ^0 + c.c.$**|BESIII Colaboration et.al.|[2512.17275](http://arxiv.org/abs/2512.17275)|null|
 |**2025-12-19**|**Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding**|Yuqing Li et.al.|[2512.17220](http://arxiv.org/abs/2512.17220)|null|
@@ -2836,6 +2854,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)**|Niclas Griesshaber et.al.|[2512.19675](http://arxiv.org/abs/2512.19675)|null|
+|**2025-12-20**|**Towards Efficient Agents: A Co-Design of Inference Architecture and System**|Weizhe Lin et.al.|[2512.18337](http://arxiv.org/abs/2512.18337)|null|
 |**2025-12-19**|**Digital Bricolage: Design Speculations for Embodied Approaches to Digitized Print-based Cultural Collections**|Malak Sadek et.al.|[2512.17590](http://arxiv.org/abs/2512.17590)|null|
 |**2025-12-19**|**Accelerating Multi-modal LLM Gaming Performance via Input Prediction and Mishit Correction**|Ziyang Lin et.al.|[2512.17250](http://arxiv.org/abs/2512.17250)|null|
 |**2025-12-18**|**Machines, AI and the past//future of things**|Karola Köpferl et.al.|[2512.16285](http://arxiv.org/abs/2512.16285)|null|
@@ -3777,6 +3797,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-21**|**AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**|Longhuan Xu et.al.|[2512.18675](http://arxiv.org/abs/2512.18675)|null|
 |**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
 |**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
