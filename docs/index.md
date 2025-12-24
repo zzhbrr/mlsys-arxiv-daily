@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**|Zhongyu Xia et.al.|[2512.20299](http://arxiv.org/abs/2512.20299)|null|
+|**2025-12-23**|**Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs**|Yinan Ni et.al.|[2512.20210](http://arxiv.org/abs/2512.20210)|null|
+|**2025-12-23**|**Concept Generalization in Humans and Large Language Models: Insights from the Number Game**|Arghavan Bazigaran et.al.|[2512.20162](http://arxiv.org/abs/2512.20162)|null|
+|**2025-12-22**|**Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling**|Indranil Halder et.al.|[2512.19905](http://arxiv.org/abs/2512.19905)|null|
 |**2025-12-22**|**L4: Low-Latency and Load-Balanced LLM Serving via Length-Aware Scheduling**|Yitao Yuan et.al.|[2512.19179](http://arxiv.org/abs/2512.19179)|null|
 |**2025-12-22**|**FASTRIC: Prompt Specification Language for Verifiable LLM Interactions**|Wen-Long Jin et.al.|[2512.18940](http://arxiv.org/abs/2512.18940)|null|
 |**2025-12-20**|**LLM-based Few-Shot Early Rumor Detection with Imitation Agent**|Fengzhu Zeng et.al.|[2512.18352](http://arxiv.org/abs/2512.18352)|null|
@@ -1492,6 +1496,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
+|**2025-12-23**|**Branch Learning in MRI: More Data, More Models, More Training**|Yuyang Li et.al.|[2512.20330](http://arxiv.org/abs/2512.20330)|null|
+|**2025-12-23**|**Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity**|Yuxing Gan et.al.|[2512.20291](http://arxiv.org/abs/2512.20291)|null|
+|**2025-12-23**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
+|**2025-12-23**|**AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model**|Sofian Chaybouti et.al.|[2512.20157](http://arxiv.org/abs/2512.20157)|null|
+|**2025-12-23**|**Fun-Audio-Chat Technical Report**|Qian Chen et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
+|**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Sangoh Lee et.al.|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
+|**2025-12-23**|**Observation and branching fraction measurements of $χ_{cJ}\to p \bar p K^0_S K^0_S$**|BESIII Collaboration et.al.|[2512.19993](http://arxiv.org/abs/2512.19993)|null|
+|**2025-12-22**|**UCCL-EP: Portable Expert-Parallel Communication**|Ziming Mao et.al.|[2512.19849](http://arxiv.org/abs/2512.19849)|null|
+|**2025-12-21**|**How Many Experts Are Enough? Towards Optimal Semantic Specialization for Mixture-of-Experts**|Sumin Park et.al.|[2512.19765](http://arxiv.org/abs/2512.19765)|null|
 |**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
 |**2025-12-22**|**EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control**|Chao Yang et.al.|[2512.19043](http://arxiv.org/abs/2512.19043)|null|
 |**2025-12-21**|**Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation**|Guangtao Lyu et.al.|[2512.18804](http://arxiv.org/abs/2512.18804)|null|
@@ -2841,6 +2855,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs**|Rui Pan et.al.|[2512.20573](http://arxiv.org/abs/2512.20573)|null|
+|**2025-12-23**|**DecoKAN: Interpretable Decomposition for Forecasting Cryptocurrency Market Dynamics**|Yuan Gao et.al.|[2512.20028](http://arxiv.org/abs/2512.20028)|null|
 |**2025-12-22**|**Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)**|Niclas Griesshaber et.al.|[2512.19675](http://arxiv.org/abs/2512.19675)|null|
 |**2025-12-20**|**Towards Efficient Agents: A Co-Design of Inference Architecture and System**|Weizhe Lin et.al.|[2512.18337](http://arxiv.org/abs/2512.18337)|null|
 |**2025-12-19**|**Digital Bricolage: Design Speculations for Embodied Approaches to Digitized Print-based Cultural Collections**|Malak Sadek et.al.|[2512.17590](http://arxiv.org/abs/2512.17590)|null|
