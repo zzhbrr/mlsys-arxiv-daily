@@ -1507,6 +1507,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
+|**2025-12-24**|**Identification with Orthogonal Basis Functions: Convergence Speed, Asymptotic Bias, and Rate-Optimal Pole Selection**|Jiayun Li et.al.|[2512.21096](http://arxiv.org/abs/2512.21096)|null|
+|**2025-12-24**|**GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs**|Lichao Wu et.al.|[2512.21008](http://arxiv.org/abs/2512.21008)|null|
+|**2025-12-24**|**SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs**|Zhongren Dong et.al.|[2512.20944](http://arxiv.org/abs/2512.20944)|null|
+|**2025-12-24**|**RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks**|Ningyuan Liu et.al.|[2512.20920](http://arxiv.org/abs/2512.20920)|null|
+|**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[2512.20856](http://arxiv.org/abs/2512.20856)|null|
+|**2025-12-23**|**Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2512.20848](http://arxiv.org/abs/2512.20848)|null|
+|**2025-12-23**|**Defending against adversarial attacks using mixture of experts**|Mohammad Meymani et.al.|[2512.20821](http://arxiv.org/abs/2512.20821)|null|
 |**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
 |**2025-12-23**|**Branch Learning in MRI: More Data, More Models, More Training**|Yuyang Li et.al.|[2512.20330](http://arxiv.org/abs/2512.20330)|null|
 |**2025-12-23**|**Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity**|Yuxing Gan et.al.|[2512.20291](http://arxiv.org/abs/2512.20291)|null|
@@ -2868,6 +2876,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Parallel Token Prediction for Language Models**|Felix Draxler et.al.|[2512.21323](http://arxiv.org/abs/2512.21323)|null|
+|**2025-12-24**|**Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning**|Shengguang Wu et.al.|[2512.20934](http://arxiv.org/abs/2512.20934)|null|
 |**2025-12-23**|**Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs**|Rui Pan et.al.|[2512.20573](http://arxiv.org/abs/2512.20573)|null|
 |**2025-12-23**|**DecoKAN: Interpretable Decomposition for Forecasting Cryptocurrency Market Dynamics**|Yuan Gao et.al.|[2512.20028](http://arxiv.org/abs/2512.20028)|null|
 |**2025-12-22**|**Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918)**|Niclas Griesshaber et.al.|[2512.19675](http://arxiv.org/abs/2512.19675)|null|
@@ -3813,6 +3823,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
 |**2025-12-21**|**AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**|Longhuan Xu et.al.|[2512.18675](http://arxiv.org/abs/2512.18675)|null|
 |**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
 |**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
