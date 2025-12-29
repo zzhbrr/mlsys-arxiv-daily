@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling**|Hannah Atmer et.al.|[2512.22066](http://arxiv.org/abs/2512.22066)|null|
+|**2025-12-26**|**Optimizing Resource Allocation for Geographically-Distributed Inference by Large Language Models**|Tingyang Sun et.al.|[2512.21884](http://arxiv.org/abs/2512.21884)|null|
+|**2025-12-26**|**LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices**|Mingyu Sun et.al.|[2512.21835](http://arxiv.org/abs/2512.21835)|null|
+|**2025-12-25**|**nncase: An End-to-End Compiler for Efficient LLM Deployment on Heterogeneous Storage Architectures**|Hui Guo et.al.|[2512.21571](http://arxiv.org/abs/2512.21571)|null|
+|**2025-12-25**|**Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model**|Yanhao Li et.al.|[2512.21540](http://arxiv.org/abs/2512.21540)|null|
 |**2025-12-23**|**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**|Zhongyu Xia et.al.|[2512.20299](http://arxiv.org/abs/2512.20299)|null|
 |**2025-12-23**|**Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs**|Yinan Ni et.al.|[2512.20210](http://arxiv.org/abs/2512.20210)|null|
 |**2025-12-23**|**Concept Generalization in Humans and Large Language Models: Insights from the Number Game**|Arghavan Bazigaran et.al.|[2512.20162](http://arxiv.org/abs/2512.20162)|null|
@@ -1507,9 +1512,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion**|Zhuoran Zhu et.al.|[2512.22036](http://arxiv.org/abs/2512.22036)|null|
+|**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|
+|**2025-12-26**|**Accelerate Speculative Decoding with Sparse Computation in Verification**|Jikai Wang et.al.|[2512.21911](http://arxiv.org/abs/2512.21911)|null|
+|**2025-12-26**|**MMCTOP: A Multimodal Textualization and Mixture-of-Experts Framework for Clinical Trial Outcome Prediction**|Carolina Aparício et.al.|[2512.21897](http://arxiv.org/abs/2512.21897)|null|
+|**2025-12-26**|**CrownGen: Patient-customized Crown Generation via Point Diffusion Model**|Juyoung Bae et.al.|[2512.21890](http://arxiv.org/abs/2512.21890)|null|
+|**2025-12-26**|**SLIM-Brain: A Data- and Training-Efficient Foundation Model for fMRI Data Analysis**|Mo Wang et.al.|[2512.21881](http://arxiv.org/abs/2512.21881)|null|
+|**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
+|**2025-12-25**|**Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism**|Xinglin Pan et.al.|[2512.21487](http://arxiv.org/abs/2512.21487)|null|
+|**2025-12-24**|**DeepCQ: General-Purpose Deep-Surrogate Framework for Lossy Compression Quality Prediction**|Khondoker Mirazul Mumenin et.al.|[2512.21433](http://arxiv.org/abs/2512.21433)|null|
 |**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
-|**2025-12-24**|**Identification with Orthogonal Basis Functions: Convergence Speed, Asymptotic Bias, and Rate-Optimal Pole Selection**|Jiayun Li et.al.|[2512.21096](http://arxiv.org/abs/2512.21096)|null|
-|**2025-12-24**|**GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs**|Lichao Wu et.al.|[2512.21008](http://arxiv.org/abs/2512.21008)|null|
+|**2025-12-26**|**Identification with Orthogonal Basis Functions: Convergence Speed, Asymptotic Bias, and Rate-Optimal Pole Selection**|Jiayun Li et.al.|[2512.21096](http://arxiv.org/abs/2512.21096)|null|
+|**2025-12-25**|**GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs**|Lichao Wu et.al.|[2512.21008](http://arxiv.org/abs/2512.21008)|null|
 |**2025-12-24**|**SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs**|Zhongren Dong et.al.|[2512.20944](http://arxiv.org/abs/2512.20944)|null|
 |**2025-12-24**|**RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks**|Ningyuan Liu et.al.|[2512.20920](http://arxiv.org/abs/2512.20920)|null|
 |**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[2512.20856](http://arxiv.org/abs/2512.20856)|null|
@@ -2876,6 +2890,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Accelerate Speculative Decoding with Sparse Computation in Verification**|Jikai Wang et.al.|[2512.21911](http://arxiv.org/abs/2512.21911)|null|
+|**2025-12-26**|**Fast Inference of Visual Autoregressive Model with Adjacency-Adaptive Dynamical Draft Trees**|Haodong Lei et.al.|[2512.21857](http://arxiv.org/abs/2512.21857)|null|
+|**2025-12-24**|**dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning**|Shirui Chen et.al.|[2512.21446](http://arxiv.org/abs/2512.21446)|null|
 |**2025-12-24**|**Parallel Token Prediction for Language Models**|Felix Draxler et.al.|[2512.21323](http://arxiv.org/abs/2512.21323)|null|
 |**2025-12-24**|**Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning**|Shengguang Wu et.al.|[2512.20934](http://arxiv.org/abs/2512.20934)|null|
 |**2025-12-23**|**Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs**|Rui Pan et.al.|[2512.20573](http://arxiv.org/abs/2512.20573)|null|
