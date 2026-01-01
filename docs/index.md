@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
+|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|**[link](https://github.com/gouliev/pruningandmodelcompression)**|
+|**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
+|**2025-12-25**|**Break Out the Silverware -- Semantic Understanding of Stored Household Items**|Michaela Levi-Richter et.al.|[2512.23739](http://arxiv.org/abs/2512.23739)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
 |**2025-12-28**|**Argus: Token Aware Distributed LLM Inference Optimization**|Panlong Wu et.al.|[2512.22925](http://arxiv.org/abs/2512.22925)|null|
 |**2025-12-27**|**Modality Inflation: Energy Characterization and Optimization Opportunities for MLLM Inference**|Mona Moghadampanah et.al.|[2512.22695](http://arxiv.org/abs/2512.22695)|null|
@@ -1507,12 +1511,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**|Weixun Wang et.al.|[2512.24873](http://arxiv.org/abs/2512.24873)|null|
+|**2025-12-31**|**Compute-Accuracy Pareto Frontiers for Open-Source Reasoning Large Language Models**|Ákos Prucs et.al.|[2512.24776](http://arxiv.org/abs/2512.24776)|null|
+|**2025-12-30**|**Joint Selection for Large-Scale Pre-Training Data via Policy Gradient-based Mask Learning**|Ziqing Fan et.al.|[2512.24265](http://arxiv.org/abs/2512.24265)|null|
+|**2025-12-30**|**Training Report of TeleChat3-MoE**|Xinzhang Liu et.al.|[2512.24157](http://arxiv.org/abs/2512.24157)|null|
+|**2025-12-30**|**Skyrmion and Meron Crystals in Intermetallic Gd $_3$Ru$_4$Al$_{12}$ : Microscopic Model Insights into Chiral Phases**|Jiajun Mo et.al.|[2512.24071](http://arxiv.org/abs/2512.24071)|null|
+|**2025-12-30**|**RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress**|Ruixuan Huang et.al.|[2512.23995](http://arxiv.org/abs/2512.23995)|null|
+|**2025-12-30**|**Towards a bottom-up formulation of spin kinetic theory**|Zonglin Mo et.al.|[2512.23960](http://arxiv.org/abs/2512.23960)|null|
+|**2025-12-30**|**Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**|Chulun Zhou et.al.|[2512.23959](http://arxiv.org/abs/2512.23959)|null|
+|**2025-12-30**|**Learnable Query Aggregation with KV Routing for Cross-view Geo-localisation**|Hualin Ye et.al.|[2512.23938](http://arxiv.org/abs/2512.23938)|null|
 |**2025-12-29**|**Observations of the Fermi bubbles and the Galactic center excess with the DArk Matter Particle Explorer**|F. Alemanno et.al.|[2512.23458](http://arxiv.org/abs/2512.23458)|null|
 |**2025-12-29**|**Dynamic Subspace Composition: Efficient Adaptation via Contractive Basis Expansion**|Vladimer Khasia et.al.|[2512.23448](http://arxiv.org/abs/2512.23448)|null|
 |**2025-12-29**|**Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss**|Ang Lv et.al.|[2512.23447](http://arxiv.org/abs/2512.23447)|null|
 |**2025-12-29**|**Bitcoin-IPC: Scaling Bitcoin with a Network of Proof-of-Stake Subnets**|Marko Vukolić et.al.|[2512.23439](http://arxiv.org/abs/2512.23439)|null|
 |**2025-12-29**|**Study of $\bar{K}^*(892)^0 η$ and $K_S^0 a_0(980)^0$ in the $D^{0} \to K_{S}^{0}π^0η$ decay**|BESIII Collaboration et.al.|[2512.23389](http://arxiv.org/abs/2512.23389)|null|
-|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
+|**2025-12-30**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
 |**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
 |**2025-12-28**|**FLEX-MoE: Federated Mixture-of-Experts with Load-balanced Expert Assignment**|Boyang Zhang et.al.|[2512.23070](http://arxiv.org/abs/2512.23070)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
@@ -2897,6 +2910,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Intriguing Magnetocaloric Effect in 6H-perovskite Ba3RRu2O9 (R=Ho, Gd, Tb, Nd) with Strong 4d-4f Correlations**|Mohit Kumar et.al.|[2512.24758](http://arxiv.org/abs/2512.24758)|null|
+|**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
+|**2025-12-29**|**Entropy-Aware Speculative Decoding Toward Improved LLM Reasoning**|Tiancheng Su et.al.|[2512.23765](http://arxiv.org/abs/2512.23765)|null|
+|**2025-12-27**|**Landauer cost in a continuous vacuum/no-vacuum measurement**|Lorenzo Pirovano et.al.|[2512.23751](http://arxiv.org/abs/2512.23751)|null|
 |**2025-12-29**|**Soft Robotic Technological Probe for Speculative Fashion Futures**|Amy Ingold et.al.|[2512.23570](http://arxiv.org/abs/2512.23570)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
 |**2025-12-28**|**An Architecture-Led Hybrid Report on Body Language Detection Project**|Thomson Tong et.al.|[2512.23028](http://arxiv.org/abs/2512.23028)|null|
@@ -3851,6 +3868,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-30**|**Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis**|Hao Wu et.al.|[2512.24013](http://arxiv.org/abs/2512.24013)|null|
 |**2025-12-29**|**Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution**|Hexin Zhang et.al.|[2512.23532](http://arxiv.org/abs/2512.23532)|null|
 |**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
 |**2025-12-21**|**AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**|Longhuan Xu et.al.|[2512.18675](http://arxiv.org/abs/2512.18675)|null|
