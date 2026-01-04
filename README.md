@@ -22,7 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
-|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|null|
+|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|**[link](https://github.com/gouliev/pruningandmodelcompression)**|
 |**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
 |**2025-12-25**|**Break Out the Silverware -- Semantic Understanding of Stored Household Items**|Michaela Levi-Richter et.al.|[2512.23739](http://arxiv.org/abs/2512.23739)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
