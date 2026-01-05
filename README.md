@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
+|**2026-01-01**|**Revati: Transparent GPU-Free Time-Warp Emulation for LLM Serving**|Amey Agrawal et.al.|[2601.00397](http://arxiv.org/abs/2601.00397)|null|
+|**2026-01-01**|**FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems**|Shanli Xing et.al.|[2601.00227](http://arxiv.org/abs/2601.00227)|null|
 |**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
 |**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|**[link](https://github.com/gouliev/pruningandmodelcompression)**|
 |**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
@@ -1522,6 +1525,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
+|**2026-01-02**|**A Language-Agnostic Hierarchical LoRA-MoE Architecture for CTC-based Multilingual ASR**|Yuang Zheng et.al.|[2601.00557](http://arxiv.org/abs/2601.00557)|null|
+|**2026-01-01**|**Geometric Regularization in Mixture-of-Experts: The Disconnect Between Weights and Activations**|Hyunjun Kim et.al.|[2601.00457](http://arxiv.org/abs/2601.00457)|null|
+|**2026-01-01**|**Traffic-MoE: A Sparse Foundation Model for Network Traffic Analysis**|Jiajun Zhou et.al.|[2601.00357](http://arxiv.org/abs/2601.00357)|null|
+|**2026-01-01**|**Identification and Estimation under Multiple Versions of Treatment: Mixture-of-Experts Approach**|Kohei Yoshikawa et.al.|[2601.00287](http://arxiv.org/abs/2601.00287)|null|
 |**2025-12-31**|**Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**|Weixun Wang et.al.|[2512.24873](http://arxiv.org/abs/2512.24873)|null|
 |**2025-12-31**|**Compute-Accuracy Pareto Frontiers for Open-Source Reasoning Large Language Models**|Ákos Prucs et.al.|[2512.24776](http://arxiv.org/abs/2512.24776)|null|
 |**2025-12-30**|**Joint Selection for Large-Scale Pre-Training Data via Policy Gradient-based Mask Learning**|Ziqing Fan et.al.|[2512.24265](http://arxiv.org/abs/2512.24265)|null|
@@ -1529,7 +1537,7 @@
 |**2025-12-30**|**Skyrmion and Meron Crystals in Intermetallic Gd $_3$Ru$_4$Al$_{12}$ : Microscopic Model Insights into Chiral Phases**|Jiajun Mo et.al.|[2512.24071](http://arxiv.org/abs/2512.24071)|null|
 |**2025-12-30**|**RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress**|Ruixuan Huang et.al.|[2512.23995](http://arxiv.org/abs/2512.23995)|null|
 |**2025-12-30**|**Towards a bottom-up formulation of spin kinetic theory**|Zonglin Mo et.al.|[2512.23960](http://arxiv.org/abs/2512.23960)|null|
-|**2025-12-30**|**Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**|Chulun Zhou et.al.|[2512.23959](http://arxiv.org/abs/2512.23959)|null|
+|**2026-01-02**|**Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**|Chulun Zhou et.al.|[2512.23959](http://arxiv.org/abs/2512.23959)|null|
 |**2025-12-30**|**Learnable Query Aggregation with KV Routing for Cross-view Geo-localisation**|Hualin Ye et.al.|[2512.23938](http://arxiv.org/abs/2512.23938)|null|
 |**2025-12-29**|**Observations of the Fermi bubbles and the Galactic center excess with the DArk Matter Particle Explorer**|F. Alemanno et.al.|[2512.23458](http://arxiv.org/abs/2512.23458)|null|
 |**2025-12-29**|**Dynamic Subspace Composition: Efficient Adaptation via Contractive Basis Expansion**|Vladimer Khasia et.al.|[2512.23448](http://arxiv.org/abs/2512.23448)|null|
@@ -2923,6 +2931,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding**|Yuchen Li et.al.|[2601.00644](http://arxiv.org/abs/2601.00644)|null|
+|**2026-01-01**|**MR-DAW: Towards Collaborative Digital Audio Workstations in Mixed Reality**|Torin Hopkins et.al.|[2601.00326](http://arxiv.org/abs/2601.00326)|null|
+|**2025-12-31**|**The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition**|Xiaoze Liu et.al.|[2601.00065](http://arxiv.org/abs/2601.00065)|null|
+|**2025-12-29**|**From Clay to Code: Typological and Material Reasoning in AI Interpretations of Iranian Pigeon Towers**|Abolhassan Pishahang et.al.|[2601.00029](http://arxiv.org/abs/2601.00029)|null|
 |**2025-12-31**|**Intriguing Magnetocaloric Effect in 6H-perovskite Ba3RRu2O9 (R=Ho, Gd, Tb, Nd) with Strong 4d-4f Correlations**|Mohit Kumar et.al.|[2512.24758](http://arxiv.org/abs/2512.24758)|null|
 |**2025-12-29**|**Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding**|Yue Guan et.al.|[2512.23858](http://arxiv.org/abs/2512.23858)|null|
 |**2025-12-29**|**Entropy-Aware Speculative Decoding Toward Improved LLM Reasoning**|Tiancheng Su et.al.|[2512.23765](http://arxiv.org/abs/2512.23765)|null|
