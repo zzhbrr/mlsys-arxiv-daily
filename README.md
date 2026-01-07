@@ -21,8 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|null|
+|**2026-01-05**|**LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**|Hossein Rajabzadeh et.al.|[2601.02569](http://arxiv.org/abs/2601.02569)|null|
 |**2026-01-04**|**Structured Decomposition for LLM Reasoning: Cross-Domain Validation and Semantic Web Integration**|Albert Sadowski et.al.|[2601.01609](http://arxiv.org/abs/2601.01609)|null|
-|**2026-01-04**|**Making MoE based LLM inference resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
+|**2026-01-06**|**Making MoE-based LLM Inference Resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
 |**2026-01-03**|**From Policy to Logic for Efficient and Interpretable Coverage Assessment**|Rhitabrat Pokharel et.al.|[2601.01266](http://arxiv.org/abs/2601.01266)|null|
 |**2025-12-31**|**Universal Conditional Logic: A Formal Language for Prompt Engineering**|Anthony Mikinka et.al.|[2601.00880](http://arxiv.org/abs/2601.00880)|null|
 |**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
@@ -1529,6 +1531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios**|Yihan Wei et.al.|[2601.03011](http://arxiv.org/abs/2601.03011)|null|
+|**2026-01-06**|**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**|Yishu Lei et.al.|[2601.02967](http://arxiv.org/abs/2601.02967)|null|
+|**2026-01-06**|**MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation**|Wenzhao Jiang et.al.|[2601.02943](http://arxiv.org/abs/2601.02943)|null|
+|**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
 |**2026-01-05**|**Routing by Analogy: kNN-Augmented Expert Assignment for Mixture-of-Experts**|Boxuan Lyu et.al.|[2601.02144](http://arxiv.org/abs/2601.02144)|null|
 |**2026-01-05**|**Cross section measurement of $e^{+}e^{-}\rightarrow π^{0}π^{0}ψ(3686)$ from $\sqrt{s}=$ 4.008 GeV to 4.951 GeV**|BESIII Collaboration et.al.|[2601.02136](http://arxiv.org/abs/2601.02136)|null|
 |**2026-01-05**|**FormuLLA: A Large Language Model Approach to Generating Novel 3D Printable Formulations**|Adeshola Okubena et.al.|[2601.02071](http://arxiv.org/abs/2601.02071)|null|
@@ -1539,9 +1545,9 @@
 |**2026-01-05**|**K-EXAONE Technical Report**|Eunbi Choi et.al.|[2601.01739](http://arxiv.org/abs/2601.01739)|null|
 |**2026-01-05**|**Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications**|YuanLab. ai et.al.|[2601.01718](http://arxiv.org/abs/2601.01718)|null|
 |**2026-01-05**|**Varying-Coefficient Mixture of Experts Model**|Qicheng Zhao et.al.|[2601.01699](http://arxiv.org/abs/2601.01699)|null|
-|**2026-01-04**|**Measurements of the absolute branching fractions of the $Λ_{c}^{+}$ hadronic decays**|BESIII Collaboration et.al.|[2601.01503](http://arxiv.org/abs/2601.01503)|null|
+|**2026-01-06**|**Measurements of the absolute branching fractions of the $Λ_{c}^{+}$ hadronic decays**|BESIII Collaboration et.al.|[2601.01503](http://arxiv.org/abs/2601.01503)|null|
 |**2026-01-04**|**Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts**|Ruofeng Yang et.al.|[2601.01475](http://arxiv.org/abs/2601.01475)|null|
-|**2026-01-04**|**Making MoE based LLM inference resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
+|**2026-01-06**|**Making MoE-based LLM Inference Resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
 |**2026-01-03**|**MambaFormer: Token-Level Guided Routing Mixture-of-Experts for Accurate and Efficient Clinical Assistance**|Hamad Khan et.al.|[2601.01260](http://arxiv.org/abs/2601.01260)|null|
 |**2026-01-02**|**Reliability Under Randomness: An Empirical Analysis of Sparse and Dense Language Models Across Decoding Temperatures**|Kabir Grover et.al.|[2601.00942](http://arxiv.org/abs/2601.00942)|null|
 |**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
@@ -2950,7 +2956,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-05**|**The Betelgeuse Enigma: The Betelbuddy Hypothesis**|Priya Hasan et.al.|[2601.02012](http://arxiv.org/abs/2601.02012)|null|
+|**2026-01-06**|**On the Hilbert-Chow crepant resolution conjecture**|Denis Nesterov et.al.|[2601.03036](http://arxiv.org/abs/2601.03036)|null|
+|**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
+|**2026-01-06**|**Experience and Adaptation in AI-mediated Hiring Systems: A Combined Analysis of Online Discourse and Interface Design**|Md Nazmus Sakib et.al.|[2601.02775](http://arxiv.org/abs/2601.02775)|null|
+|**2026-01-06**|**From Slaves to Synths? Superintelligence and the Evolution of Legal Personality**|Simon Chesterman et.al.|[2601.02773](http://arxiv.org/abs/2601.02773)|null|
+|**2026-01-06**|**Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism**|Lingzhe Zhang et.al.|[2601.02736](http://arxiv.org/abs/2601.02736)|null|
+|**2026-01-05**|**A modern perspective on Tutte's homotopy theorem**|Matthew Baker et.al.|[2601.02582](http://arxiv.org/abs/2601.02582)|null|
+|**2026-01-06**|**The Betelgeuse Enigma: The Betelbuddy Hypothesis**|Priya Hasan et.al.|[2601.02012](http://arxiv.org/abs/2601.02012)|null|
 |**2026-01-04**|**FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation**|Gen Li et.al.|[2601.01513](http://arxiv.org/abs/2601.01513)|null|
 |**2026-01-02**|**FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding**|Yuchen Li et.al.|[2601.00644](http://arxiv.org/abs/2601.00644)|null|
 |**2026-01-01**|**MR-DAW: Towards Collaborative Digital Audio Workstations in Mixed Reality**|Torin Hopkins et.al.|[2601.00326](http://arxiv.org/abs/2601.00326)|null|
