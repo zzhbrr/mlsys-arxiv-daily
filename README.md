@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Ratio-Variance Regularized Policy Optimization for Efficient LLM Fine-tuning**|Yu Luo et.al.|[2601.03320](http://arxiv.org/abs/2601.03320)|null|
+|**2026-01-01**|**$α^3$ -Bench: A Unified Benchmark of Safety, Robustness, and Efficiency for LLM-Based UAV Agents over 6G Networks**|Mohamed Amine Ferrag et.al.|[2601.03281](http://arxiv.org/abs/2601.03281)|null|
 |**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|null|
 |**2026-01-05**|**LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**|Hossein Rajabzadeh et.al.|[2601.02569](http://arxiv.org/abs/2601.02569)|null|
 |**2026-01-04**|**Structured Decomposition for LLM Reasoning: Cross-Domain Validation and Semantic Web Integration**|Albert Sadowski et.al.|[2601.01609](http://arxiv.org/abs/2601.01609)|null|
@@ -1531,13 +1533,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life**|Xinyue Lou et.al.|[2601.04043](http://arxiv.org/abs/2601.04043)|null|
+|**2026-01-07**|**A Scheduling Framework for Efficient MoE Inference on Edge GPU-NDP Systems**|Qi Wu et.al.|[2601.03992](http://arxiv.org/abs/2601.03992)|null|
+|**2026-01-07**|**Spectral Manifold Regularization for Stable and Modular Routing in Deep MoE Architectures**|Ibrahim Delibasoglu et.al.|[2601.03889](http://arxiv.org/abs/2601.03889)|null|
+|**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782](http://arxiv.org/abs/2601.03782)|null|
+|**2026-01-07**|**Variational Inference, Entropy, and Orthogonality: A Unified Theory of Mixture-of-Experts**|Ye Su et.al.|[2601.03577](http://arxiv.org/abs/2601.03577)|null|
+|**2026-01-07**|**CALM: Culturally Self-Aware Language Models**|Lingzhi Shen et.al.|[2601.03483](http://arxiv.org/abs/2601.03483)|null|
+|**2026-01-06**|**The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models**|Yan Wang et.al.|[2601.03425](http://arxiv.org/abs/2601.03425)|null|
+|**2026-01-06**|**AT2024wpp: An Extremely Luminous Fast Ultraviolet Transient Powered by Accretion onto a Black Hole**|Daniel A. Perley et.al.|[2601.03337](http://arxiv.org/abs/2601.03337)|null|
 |**2026-01-06**|**ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios**|Yihan Wei et.al.|[2601.03011](http://arxiv.org/abs/2601.03011)|null|
 |**2026-01-06**|**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**|Yishu Lei et.al.|[2601.02967](http://arxiv.org/abs/2601.02967)|null|
 |**2026-01-06**|**MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation**|Wenzhao Jiang et.al.|[2601.02943](http://arxiv.org/abs/2601.02943)|null|
 |**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
 |**2026-01-05**|**Routing by Analogy: kNN-Augmented Expert Assignment for Mixture-of-Experts**|Boxuan Lyu et.al.|[2601.02144](http://arxiv.org/abs/2601.02144)|null|
 |**2026-01-05**|**Cross section measurement of $e^{+}e^{-}\rightarrow π^{0}π^{0}ψ(3686)$ from $\sqrt{s}=$ 4.008 GeV to 4.951 GeV**|BESIII Collaboration et.al.|[2601.02136](http://arxiv.org/abs/2601.02136)|null|
-|**2026-01-05**|**FormuLLA: A Large Language Model Approach to Generating Novel 3D Printable Formulations**|Adeshola Okubena et.al.|[2601.02071](http://arxiv.org/abs/2601.02071)|null|
+|**2026-01-07**|**FormuLLA: A Large Language Model Approach to Generating Novel 3D Printable Formulations**|Adeshola Okubena et.al.|[2601.02071](http://arxiv.org/abs/2601.02071)|null|
 |**2026-01-05**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al.|[2601.01856](http://arxiv.org/abs/2601.01856)|null|
 |**2026-01-05**|**First Observation of $D^{0(+)}\to \bar Kωe^+ν_e$ and Determination of the Branching Fraction of $\bar K_1(1270)\to \bar K ω$**|BESIII Collaboration et.al.|[2601.01817](http://arxiv.org/abs/2601.01817)|null|
 |**2026-01-05**|**Causality-Aware Temporal Projection for Video Understanding in Video-LLMs**|Zhengjian Kang et.al.|[2601.01804](http://arxiv.org/abs/2601.01804)|null|
@@ -2956,6 +2966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Revisiting Speculative Leaderless Protocols for Low-Latency BFT Replication**|Daniel Qian et.al.|[2601.03390](http://arxiv.org/abs/2601.03390)|null|
 |**2026-01-06**|**On the Hilbert-Chow crepant resolution conjecture**|Denis Nesterov et.al.|[2601.03036](http://arxiv.org/abs/2601.03036)|null|
 |**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
 |**2026-01-06**|**Experience and Adaptation in AI-mediated Hiring Systems: A Combined Analysis of Online Discourse and Interface Design**|Md Nazmus Sakib et.al.|[2601.02775](http://arxiv.org/abs/2601.02775)|null|
@@ -2963,7 +2974,7 @@
 |**2026-01-06**|**Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism**|Lingzhe Zhang et.al.|[2601.02736](http://arxiv.org/abs/2601.02736)|null|
 |**2026-01-05**|**A modern perspective on Tutte's homotopy theorem**|Matthew Baker et.al.|[2601.02582](http://arxiv.org/abs/2601.02582)|null|
 |**2026-01-06**|**The Betelgeuse Enigma: The Betelbuddy Hypothesis**|Priya Hasan et.al.|[2601.02012](http://arxiv.org/abs/2601.02012)|null|
-|**2026-01-04**|**FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation**|Gen Li et.al.|[2601.01513](http://arxiv.org/abs/2601.01513)|null|
+|**2026-01-07**|**FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation**|Gen Li et.al.|[2601.01513](http://arxiv.org/abs/2601.01513)|null|
 |**2026-01-02**|**FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding**|Yuchen Li et.al.|[2601.00644](http://arxiv.org/abs/2601.00644)|null|
 |**2026-01-01**|**MR-DAW: Towards Collaborative Digital Audio Workstations in Mixed Reality**|Torin Hopkins et.al.|[2601.00326](http://arxiv.org/abs/2601.00326)|null|
 |**2025-12-31**|**The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition**|Xiaoze Liu et.al.|[2601.00065](http://arxiv.org/abs/2601.00065)|null|
