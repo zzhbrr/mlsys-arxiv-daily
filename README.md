@@ -21,13 +21,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence**|Jennifer D'Souza et.al.|[2601.05051](http://arxiv.org/abs/2601.05051)|null|
+|**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
+|**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|null|
+|**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|null|
+|**2026-01-08**|**GPU-Accelerated INT8 Quantization for KV Cache Compression in Large Language Models**|Maanas Taneja et.al.|[2601.04719](http://arxiv.org/abs/2601.04719)|null|
+|**2026-01-08**|**Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning**|Feihu Jin et.al.|[2601.04710](http://arxiv.org/abs/2601.04710)|null|
+|**2026-01-07**|**XGrammar 2: Dynamic and Efficient Structured Generation Engine for Agentic LLMs**|Linzhang Li et.al.|[2601.04426](http://arxiv.org/abs/2601.04426)|null|
 |**2026-01-06**|**Ratio-Variance Regularized Policy Optimization for Efficient LLM Fine-tuning**|Yu Luo et.al.|[2601.03320](http://arxiv.org/abs/2601.03320)|null|
 |**2026-01-01**|**$α^3$ -Bench: A Unified Benchmark of Safety, Robustness, and Efficiency for LLM-Based UAV Agents over 6G Networks**|Mohamed Amine Ferrag et.al.|[2601.03281](http://arxiv.org/abs/2601.03281)|null|
 |**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|null|
 |**2026-01-05**|**LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**|Hossein Rajabzadeh et.al.|[2601.02569](http://arxiv.org/abs/2601.02569)|null|
 |**2026-01-04**|**Structured Decomposition for LLM Reasoning: Cross-Domain Validation and Semantic Web Integration**|Albert Sadowski et.al.|[2601.01609](http://arxiv.org/abs/2601.01609)|null|
 |**2026-01-06**|**Making MoE-based LLM Inference Resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
-|**2026-01-03**|**From Policy to Logic for Efficient and Interpretable Coverage Assessment**|Rhitabrat Pokharel et.al.|[2601.01266](http://arxiv.org/abs/2601.01266)|null|
+|**2026-01-08**|**From Policy to Logic for Efficient and Interpretable Coverage Assessment**|Rhitabrat Pokharel et.al.|[2601.01266](http://arxiv.org/abs/2601.01266)|null|
 |**2025-12-31**|**Universal Conditional Logic: A Formal Language for Prompt Engineering**|Anthony Mikinka et.al.|[2601.00880](http://arxiv.org/abs/2601.00880)|null|
 |**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
 |**2026-01-01**|**Revati: Transparent GPU-Free Time-Warp Emulation for LLM Serving**|Amey Agrawal et.al.|[2601.00397](http://arxiv.org/abs/2601.00397)|null|
@@ -1533,6 +1540,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|null|
+|**2026-01-08**|**FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts**|Yiji Zhao et.al.|[2601.05174](http://arxiv.org/abs/2601.05174)|null|
+|**2026-01-08**|**How to Set the Learning Rate for Large-Scale Pre-training?**|Yunhua Zhou et.al.|[2601.05049](http://arxiv.org/abs/2601.05049)|null|
+|**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|null|
+|**2026-01-08**|**DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation**|Guanzhi Deng et.al.|[2601.04823](http://arxiv.org/abs/2601.04823)|null|
+|**2026-01-08**|**Users Mispredict Their Own Preferences for AI Writing Assistance**|Vivian Lai et.al.|[2601.04461](http://arxiv.org/abs/2601.04461)|null|
+|**2026-01-08**|**Re-Rankers as Relevance Judges**|Chuan Meng et.al.|[2601.04455](http://arxiv.org/abs/2601.04455)|null|
+|**2026-01-07**|**Transitive Expert Error and Routing Problems in Complex AI Systems**|Forest Mars et.al.|[2601.04416](http://arxiv.org/abs/2601.04416)|null|
+|**2026-01-06**|**Scaling Trends for Multi-Hop Contextual Reasoning in Mid-Scale Language Models**|Brady Steele et.al.|[2601.04254](http://arxiv.org/abs/2601.04254)|null|
 |**2026-01-07**|**When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life**|Xinyue Lou et.al.|[2601.04043](http://arxiv.org/abs/2601.04043)|null|
 |**2026-01-07**|**A Scheduling Framework for Efficient MoE Inference on Edge GPU-NDP Systems**|Qi Wu et.al.|[2601.03992](http://arxiv.org/abs/2601.03992)|null|
 |**2026-01-07**|**Spectral Manifold Regularization for Stable and Modular Routing in Deep MoE Architectures**|Ibrahim Delibasoglu et.al.|[2601.03889](http://arxiv.org/abs/2601.03889)|null|
@@ -1542,7 +1558,7 @@
 |**2026-01-06**|**The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models**|Yan Wang et.al.|[2601.03425](http://arxiv.org/abs/2601.03425)|null|
 |**2026-01-06**|**AT2024wpp: An Extremely Luminous Fast Ultraviolet Transient Powered by Accretion onto a Black Hole**|Daniel A. Perley et.al.|[2601.03337](http://arxiv.org/abs/2601.03337)|null|
 |**2026-01-06**|**ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios**|Yihan Wei et.al.|[2601.03011](http://arxiv.org/abs/2601.03011)|null|
-|**2026-01-06**|**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**|Yishu Lei et.al.|[2601.02967](http://arxiv.org/abs/2601.02967)|null|
+|**2026-01-08**|**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**|Yishu Lei et.al.|[2601.02967](http://arxiv.org/abs/2601.02967)|null|
 |**2026-01-06**|**MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation**|Wenzhao Jiang et.al.|[2601.02943](http://arxiv.org/abs/2601.02943)|null|
 |**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
 |**2026-01-05**|**Routing by Analogy: kNN-Augmented Expert Assignment for Mixture-of-Experts**|Boxuan Lyu et.al.|[2601.02144](http://arxiv.org/abs/2601.02144)|null|
@@ -2966,9 +2982,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**Multi-Scale Local Speculative Decoding for Image Generation**|Elia Peruzzo et.al.|[2601.05149](http://arxiv.org/abs/2601.05149)|null|
+|**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|null|
+|**2026-01-08**|**The UnScripted Trip: Fostering Policy Discussion on Future Human-Vehicle Collaboration in Autonomous Driving Through Design-Oriented Methods**|Xinyan Yu et.al.|[2601.04601](http://arxiv.org/abs/2601.04601)|null|
 |**2026-01-06**|**Revisiting Speculative Leaderless Protocols for Low-Latency BFT Replication**|Daniel Qian et.al.|[2601.03390](http://arxiv.org/abs/2601.03390)|null|
 |**2026-01-06**|**On the Hilbert-Chow crepant resolution conjecture**|Denis Nesterov et.al.|[2601.03036](http://arxiv.org/abs/2601.03036)|null|
-|**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
+|**2026-01-08**|**MiMo-V2-Flash Technical Report**|Xiaomi LLM-Core Team et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
 |**2026-01-06**|**Experience and Adaptation in AI-mediated Hiring Systems: A Combined Analysis of Online Discourse and Interface Design**|Md Nazmus Sakib et.al.|[2601.02775](http://arxiv.org/abs/2601.02775)|null|
 |**2026-01-06**|**From Slaves to Synths? Superintelligence and the Evolution of Legal Personality**|Simon Chesterman et.al.|[2601.02773](http://arxiv.org/abs/2601.02773)|null|
 |**2026-01-06**|**Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism**|Lingzhe Zhang et.al.|[2601.02736](http://arxiv.org/abs/2601.02736)|null|
