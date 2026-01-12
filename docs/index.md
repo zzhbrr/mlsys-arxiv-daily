@@ -1529,6 +1529,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR**|Zijun Min et.al.|[2601.05607](http://arxiv.org/abs/2601.05607)|null|
+|**2026-01-09**|**Buffered AUC maximization for scoring systems via mixed-integer optimization**|Moe Shiina et.al.|[2601.05544](http://arxiv.org/abs/2601.05544)|null|
+|**2026-01-09**|**Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts**|Wei Zhou et.al.|[2601.05537](http://arxiv.org/abs/2601.05537)|null|
+|**2026-01-08**|**MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs**|Jiyuan Zhang et.al.|[2601.05296](http://arxiv.org/abs/2601.05296)|null|
 |**2026-01-08**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|null|
 |**2026-01-08**|**FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts**|Yiji Zhao et.al.|[2601.05174](http://arxiv.org/abs/2601.05174)|null|
 |**2026-01-08**|**How to Set the Learning Rate for Large-Scale Pre-training?**|Yunhua Zhou et.al.|[2601.05049](http://arxiv.org/abs/2601.05049)|null|
@@ -2969,6 +2973,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit**|Junda Lin et.al.|[2601.05755](http://arxiv.org/abs/2601.05755)|null|
+|**2026-01-09**|**Overcoming Joint Intractability with Lossless Hierarchical Speculative Decoding**|Yuxuan Zhou et.al.|[2601.05724](http://arxiv.org/abs/2601.05724)|null|
+|**2026-01-09**|**Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism**|Yuhao Shen et.al.|[2601.05524](http://arxiv.org/abs/2601.05524)|null|
 |**2026-01-08**|**Multi-Scale Local Speculative Decoding for Image Generation**|Elia Peruzzo et.al.|[2601.05149](http://arxiv.org/abs/2601.05149)|null|
 |**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|null|
 |**2026-01-08**|**The UnScripted Trip: Fostering Policy Discussion on Future Human-Vehicle Collaboration in Autonomous Driving Through Design-Oriented Methods**|Xinyan Yu et.al.|[2601.04601](http://arxiv.org/abs/2601.04601)|null|
