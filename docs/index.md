@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -1534,7 +1534,7 @@ layout: default
 |**2026-01-09**|**Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts**|Wei Zhou et.al.|[2601.05537](http://arxiv.org/abs/2601.05537)|null|
 |**2026-01-08**|**MoEBlaze: Breaking the Memory Wall for Efficient MoE Training on Modern GPUs**|Jiyuan Zhang et.al.|[2601.05296](http://arxiv.org/abs/2601.05296)|null|
 |**2026-01-08**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|null|
-|**2026-01-08**|**FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts**|Yiji Zhao et.al.|[2601.05174](http://arxiv.org/abs/2601.05174)|null|
+|**2026-01-08**|**FaST: Efficient and Effective Long-Horizon Forecasting for Large-Scale Spatial-Temporal Graphs via Mixture-of-Experts**|Yiji Zhao et.al.|[2601.05174](http://arxiv.org/abs/2601.05174)|**[link](https://github.com/yijizhao/FaST)**|
 |**2026-01-08**|**How to Set the Learning Rate for Large-Scale Pre-training?**|Yunhua Zhou et.al.|[2601.05049](http://arxiv.org/abs/2601.05049)|null|
 |**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|null|
 |**2026-01-08**|**DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation**|Guanzhi Deng et.al.|[2601.04823](http://arxiv.org/abs/2601.04823)|null|
