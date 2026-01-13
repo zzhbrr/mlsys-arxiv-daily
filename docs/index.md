@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667](http://arxiv.org/abs/2601.07667)|null|
+|**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|**[link](https://github.com/actypedef/ARCQuant)**|
+|**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
+|**2026-01-12**|**Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition**|Tanmay Joshi et.al.|[2601.07239](http://arxiv.org/abs/2601.07239)|null|
+|**2026-01-11**|**MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning**|Jianbo Yu et.al.|[2601.07005](http://arxiv.org/abs/2601.07005)|null|
+|**2026-01-09**|**AIConfigurator: Lightning-Fast Configuration Optimization for Multi-Framework LLM Serving**|Tianhao Xu et.al.|[2601.06288](http://arxiv.org/abs/2601.06288)|null|
+|**2026-01-07**|**AutoVulnPHP: LLM-Powered Two-Stage PHP Vulnerability Detection and Automated Localization**|Zhiqiang Wang et.al.|[2601.06177](http://arxiv.org/abs/2601.06177)|null|
 |**2026-01-08**|**Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence**|Jennifer D'Souza et.al.|[2601.05051](http://arxiv.org/abs/2601.05051)|null|
 |**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
 |**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|null|
@@ -1529,6 +1536,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Emotional Support Evaluation Framework via Controllable and Diverse Seeker Simulator**|Chaewon Heo et.al.|[2601.07698](http://arxiv.org/abs/2601.07698)|null|
+|**2026-01-12**|**Amplitude analysis and branching fraction measurement of $J/ψ\to Λ\barΣ^0η+\mathrm{c.c}$**|BESIII Collaboration et.al.|[2601.07617](http://arxiv.org/abs/2601.07617)|null|
+|**2026-01-12**|**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**|Xin Cheng et.al.|[2601.07372](http://arxiv.org/abs/2601.07372)|null|
+|**2026-01-11**|**PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation**|Yuanzhe Liu et.al.|[2601.07060](http://arxiv.org/abs/2601.07060)|null|
+|**2026-01-11**|**Solar Open Technical Report**|Sungrae Park et.al.|[2601.07022](http://arxiv.org/abs/2601.07022)|null|
+|**2026-01-11**|**Deep Learning Based Channel Extrapolation for Dual-Band Massive MIMO Systems**|Qikai Xiao et.al.|[2601.06858](http://arxiv.org/abs/2601.06858)|null|
+|**2026-01-11**|**MoE-DisCo:Low Economy Cost Training Mixture-of-Experts Models**|Xin Ye et.al.|[2601.06857](http://arxiv.org/abs/2601.06857)|null|
+|**2026-01-11**|**MoEScore: Mixture-of-Experts-Based Text-Audio Relevance Score Prediction for Text-to-Audio System Evaluation**|Bochao Sun et.al.|[2601.06829](http://arxiv.org/abs/2601.06829)|null|
+|**2026-01-11**|**SecMoE: Communication-Efficient Secure MoE Inference via Select-Then-Compute**|Bowen Shen et.al.|[2601.06790](http://arxiv.org/abs/2601.06790)|null|
+|**2026-01-11**|**AutoTour: Automatic Photo Tour Guide with Smartphones and LLMs**|Huatao Xu et.al.|[2601.06781](http://arxiv.org/abs/2601.06781)|null|
+|**2026-01-11**|**MTMCS-Bench: Evaluating Contextual Safety of Multimodal Large Language Models in Multi-Turn Dialogues**|Zheyuan Liu et.al.|[2601.06757](http://arxiv.org/abs/2601.06757)|null|
+|**2026-01-10**|**R-Estimation with Right-Censored Data**|Glen A. Satten et.al.|[2601.06685](http://arxiv.org/abs/2601.06685)|null|
+|**2026-01-10**|**Efficient and Reliable Estimation of Named Entity Linking Quality: A Case Study on GutBrainIE**|Marco Martinelli et.al.|[2601.06624](http://arxiv.org/abs/2601.06624)|null|
+|**2026-01-10**|**Hellinger Multimodal Variational Autoencoders**|Huyen Khanh Vo et.al.|[2601.06572](http://arxiv.org/abs/2601.06572)|null|
+|**2026-01-10**|**Physics-guided foundation model for universal speckle removal in ultrathin multimode fiber imaging**|Xianrui Zeng et.al.|[2601.06448](http://arxiv.org/abs/2601.06448)|null|
+|**2026-01-10**|**The Promise of Time-Series Foundation Models for Agricultural Forecasting: Evidence from Marketing Year Average Prices**|Le Wang et.al.|[2601.06371](http://arxiv.org/abs/2601.06371)|null|
+|**2026-01-09**|**Monkey Jump : MoE-Style PEFT for Efficient Multi-Task Learning**|Nusrat Jahan Prottasha et.al.|[2601.06356](http://arxiv.org/abs/2601.06356)|null|
+|**2026-01-09**|**AIConfigurator: Lightning-Fast Configuration Optimization for Multi-Framework LLM Serving**|Tianhao Xu et.al.|[2601.06288](http://arxiv.org/abs/2601.06288)|null|
 |**2026-01-09**|**Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR**|Zijun Min et.al.|[2601.05607](http://arxiv.org/abs/2601.05607)|null|
 |**2026-01-09**|**Buffered AUC maximization for scoring systems via mixed-integer optimization**|Moe Shiina et.al.|[2601.05544](http://arxiv.org/abs/2601.05544)|null|
 |**2026-01-09**|**Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts**|Wei Zhou et.al.|[2601.05537](http://arxiv.org/abs/2601.05537)|null|
@@ -2973,6 +2998,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Spacetime Quasicrystals**|Latham Boyle et.al.|[2601.07769](http://arxiv.org/abs/2601.07769)|null|
+|**2026-01-12**|**Crypto Pricing with Hidden Factors**|Matthew Brigida et.al.|[2601.07664](http://arxiv.org/abs/2601.07664)|null|
+|**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
+|**2026-01-11**|**The AI Cognitive Trojan Horse: How Large Language Models May Bypass Human Epistemic Vigilance**|Andrew D. Maynard et.al.|[2601.07085](http://arxiv.org/abs/2601.07085)|null|
+|**2026-01-10**|**A binary merger product as the direct progenitor of a Type II-P supernova**|Zexi Niu et.al.|[2601.06577](http://arxiv.org/abs/2601.06577)|null|
 |**2026-01-09**|**VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit**|Junda Lin et.al.|[2601.05755](http://arxiv.org/abs/2601.05755)|null|
 |**2026-01-09**|**Overcoming Joint Intractability with Lossless Hierarchical Speculative Decoding**|Yuxuan Zhou et.al.|[2601.05724](http://arxiv.org/abs/2601.05724)|null|
 |**2026-01-09**|**Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism**|Yuhao Shen et.al.|[2601.05524](http://arxiv.org/abs/2601.05524)|null|
