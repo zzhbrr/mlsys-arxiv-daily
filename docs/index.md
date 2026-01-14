@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
+|**2026-01-13**|**Coordinated Cooling and Compute Management for AI Datacenters**|Nardos Belay Abera et.al.|[2601.08113](http://arxiv.org/abs/2601.08113)|null|
+|**2026-01-13**|**Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment**|Qitao Tan et.al.|[2601.08089](http://arxiv.org/abs/2601.08089)|null|
 |**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667](http://arxiv.org/abs/2601.07667)|null|
 |**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|**[link](https://github.com/actypedef/ARCQuant)**|
 |**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
@@ -1536,6 +1539,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm**|Bowen Zhou et.al.|[2601.08800](http://arxiv.org/abs/2601.08800)|null|
+|**2026-01-13**|**LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms**|Namhyun Kim et.al.|[2601.08780](http://arxiv.org/abs/2601.08780)|null|
+|**2026-01-13**|**M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.|[2601.08631](http://arxiv.org/abs/2601.08631)|null|
+|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
+|**2026-01-13**|**Taxon: Hierarchical Tax Code Prediction with Semantically Aligned LLM Expert Guidance**|Jihang Li et.al.|[2601.08418](http://arxiv.org/abs/2601.08418)|null|
+|**2026-01-13**|**Controlled LLM Training on Spectral Sphere**|Tian Xie et.al.|[2601.08393](http://arxiv.org/abs/2601.08393)|null|
+|**2026-01-13**|**Deconstructing Pre-training: Knowledge Attribution Analysis in MoE and Dense Models**|Bo Wang et.al.|[2601.08383](http://arxiv.org/abs/2601.08383)|null|
+|**2026-01-13**|**Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints**|Seng Pei Liew et.al.|[2601.08215](http://arxiv.org/abs/2601.08215)|null|
+|**2026-01-12**|**Towards Specialized Generalists: A Multi-Task MoE-LoRA Framework for Domain-Specific LLM Adaptation**|Yuxin Yang et.al.|[2601.07935](http://arxiv.org/abs/2601.07935)|null|
+|**2026-01-12**|**An eclipsing 8.56 minute orbital period mass-transferring binary**|Emma T. Chickles et.al.|[2601.07925](http://arxiv.org/abs/2601.07925)|null|
 |**2026-01-12**|**Emotional Support Evaluation Framework via Controllable and Diverse Seeker Simulator**|Chaewon Heo et.al.|[2601.07698](http://arxiv.org/abs/2601.07698)|null|
 |**2026-01-12**|**Amplitude analysis and branching fraction measurement of $J/ψ\to Λ\barΣ^0η+\mathrm{c.c}$**|BESIII Collaboration et.al.|[2601.07617](http://arxiv.org/abs/2601.07617)|null|
 |**2026-01-12**|**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**|Xin Cheng et.al.|[2601.07372](http://arxiv.org/abs/2601.07372)|null|
@@ -2998,6 +3011,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
 |**2026-01-12**|**Spacetime Quasicrystals**|Latham Boyle et.al.|[2601.07769](http://arxiv.org/abs/2601.07769)|null|
 |**2026-01-12**|**Crypto Pricing with Hidden Factors**|Matthew Brigida et.al.|[2601.07664](http://arxiv.org/abs/2601.07664)|null|
 |**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
