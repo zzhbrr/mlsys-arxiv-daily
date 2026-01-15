@@ -14,11 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**|Jonathan Knoop et.al.|[2601.09527](http://arxiv.org/abs/2601.09527)|null|
+|**2026-01-14**|**RISER: Orchestrating Latent Reasoning Skills for Adaptive Activation Steering**|Wencheng Ye et.al.|[2601.09269](http://arxiv.org/abs/2601.09269)|null|
+|**2026-01-14**|**LatencyPrism: Online Non-intrusive Latency Sculpting for SLO-Guaranteed LLM Inference**|Du Yin et.al.|[2601.09258](http://arxiv.org/abs/2601.09258)|null|
+|**2026-01-14**|**Evaluating local large language models for structured extraction from endometriosis-specific transvaginal ultrasound reports**|Haiyi Li et.al.|[2601.09053](http://arxiv.org/abs/2601.09053)|null|
 |**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
 |**2026-01-13**|**Coordinated Cooling and Compute Management for AI Datacenters**|Nardos Belay Abera et.al.|[2601.08113](http://arxiv.org/abs/2601.08113)|null|
 |**2026-01-13**|**Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment**|Qitao Tan et.al.|[2601.08089](http://arxiv.org/abs/2601.08089)|null|
 |**2026-01-12**|**Adaptive Layer Selection for Layer-Wise Token Pruning in LLM Inference**|Rei Taniguchi et.al.|[2601.07667](http://arxiv.org/abs/2601.07667)|null|
-|**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|**[link](https://github.com/actypedef/ARCQuant)**|
+|**2026-01-12**|**ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs**|Haoqian Meng et.al.|[2601.07475](http://arxiv.org/abs/2601.07475)|null|
 |**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
 |**2026-01-12**|**Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition**|Tanmay Joshi et.al.|[2601.07239](http://arxiv.org/abs/2601.07239)|null|
 |**2026-01-11**|**MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning**|Jianbo Yu et.al.|[2601.07005](http://arxiv.org/abs/2601.07005)|null|
@@ -1539,6 +1543,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Progressive Mixture-of-Experts with autoencoder routing for continual RANS turbulence modelling**|Haoyu Ji et.al.|[2601.09305](http://arxiv.org/abs/2601.09305)|null|
+|**2026-01-14**|**A Raman-Gas Spectral Compressor for High-Energy Femtosecond Laser Pulses**|Zegui Wang et.al.|[2601.09234](http://arxiv.org/abs/2601.09234)|null|
+|**2026-01-14**|**A.X K1 Technical Report**|Sung Jun Cheon et.al.|[2601.09200](http://arxiv.org/abs/2601.09200)|null|
+|**2026-01-14**|**WiFo-E: A Scalable Wireless Foundation Model for End-to-End FDD Precoding in Communication Networks**|Weibo Wen et.al.|[2601.09186](http://arxiv.org/abs/2601.09186)|null|
+|**2026-01-14**|**Horseshoe Mixtures-of-Experts (HS-MoE)**|Nick Polson et.al.|[2601.09043](http://arxiv.org/abs/2601.09043)|null|
+|**2026-01-13**|**OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG**|Fengran Mo et.al.|[2601.09028](http://arxiv.org/abs/2601.09028)|null|
+|**2026-01-12**|**TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts**|Yu Xu et.al.|[2601.08881](http://arxiv.org/abs/2601.08881)|null|
 |**2026-01-13**|**MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm**|Bowen Zhou et.al.|[2601.08800](http://arxiv.org/abs/2601.08800)|null|
 |**2026-01-13**|**LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms**|Namhyun Kim et.al.|[2601.08780](http://arxiv.org/abs/2601.08780)|null|
 |**2026-01-13**|**M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.|[2601.08631](http://arxiv.org/abs/2601.08631)|null|
@@ -3011,13 +3022,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation**|Xingyao Li et.al.|[2601.09212](http://arxiv.org/abs/2601.09212)|null|
+|**2026-01-14**|**SRT: Accelerating Reinforcement Learning via Speculative Rollout with Tree-Structured Cache**|Chi-Chih Chang et.al.|[2601.09083](http://arxiv.org/abs/2601.09083)|null|
 |**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
 |**2026-01-12**|**Spacetime Quasicrystals**|Latham Boyle et.al.|[2601.07769](http://arxiv.org/abs/2601.07769)|null|
 |**2026-01-12**|**Crypto Pricing with Hidden Factors**|Matthew Brigida et.al.|[2601.07664](http://arxiv.org/abs/2601.07664)|null|
 |**2026-01-12**|**TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees**|Tianyu Liu et.al.|[2601.07353](http://arxiv.org/abs/2601.07353)|null|
 |**2026-01-11**|**The AI Cognitive Trojan Horse: How Large Language Models May Bypass Human Epistemic Vigilance**|Andrew D. Maynard et.al.|[2601.07085](http://arxiv.org/abs/2601.07085)|null|
-|**2026-01-10**|**A binary merger product as the direct progenitor of a Type II-P supernova**|Zexi Niu et.al.|[2601.06577](http://arxiv.org/abs/2601.06577)|null|
-|**2026-01-09**|**VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit**|Junda Lin et.al.|[2601.05755](http://arxiv.org/abs/2601.05755)|null|
+|**2026-01-14**|**A binary merger product as the direct progenitor of a Type II-P supernova**|Zexi Niu et.al.|[2601.06577](http://arxiv.org/abs/2601.06577)|null|
+|**2026-01-14**|**VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit**|Junda Lin et.al.|[2601.05755](http://arxiv.org/abs/2601.05755)|null|
 |**2026-01-09**|**Overcoming Joint Intractability with Lossless Hierarchical Speculative Decoding**|Yuxuan Zhou et.al.|[2601.05724](http://arxiv.org/abs/2601.05724)|null|
 |**2026-01-09**|**Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism**|Yuhao Shen et.al.|[2601.05524](http://arxiv.org/abs/2601.05524)|null|
 |**2026-01-08**|**Multi-Scale Local Speculative Decoding for Image Generation**|Elia Peruzzo et.al.|[2601.05149](http://arxiv.org/abs/2601.05149)|null|
