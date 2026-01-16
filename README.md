@@ -36,7 +36,7 @@
 |**2026-01-09**|**AIConfigurator: Lightning-Fast Configuration Optimization for Multi-Framework LLM Serving**|Tianhao Xu et.al.|[2601.06288](http://arxiv.org/abs/2601.06288)|null|
 |**2026-01-07**|**AutoVulnPHP: LLM-Powered Two-Stage PHP Vulnerability Detection and Automated Localization**|Zhiqiang Wang et.al.|[2601.06177](http://arxiv.org/abs/2601.06177)|null|
 |**2026-01-08**|**Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence**|Jennifer D'Souza et.al.|[2601.05051](http://arxiv.org/abs/2601.05051)|null|
-|**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
+|**2026-01-14**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
 |**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|null|
 |**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|null|
 |**2026-01-08**|**GPU-Accelerated INT8 Quantization for KV Cache Compression in Large Language Models**|Maanas Taneja et.al.|[2601.04719](http://arxiv.org/abs/2601.04719)|null|
@@ -1554,9 +1554,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Search for sub-GeV dark particles in $η\toπ^0+\rm{invisible}$ decay**|BESIII Collaboration et.al.|[2601.10597](http://arxiv.org/abs/2601.10597)|null|
+|**2026-01-15**|**Deterministic and scalable generation of large Fock states**|Mo Xiong et.al.|[2601.10559](http://arxiv.org/abs/2601.10559)|null|
+|**2026-01-15**|**Algebraic Farkas Lemma and Strong Duality for Perturbed Conic Linear Programming**|P. D. Khanh et.al.|[2601.10390](http://arxiv.org/abs/2601.10390)|null|
+|**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
+|**2026-01-15**|**A Highly Magnetic Ultra Massive White Dwarf with a 23-minute Rotation Period**|Jincheng Guo et.al.|[2601.10188](http://arxiv.org/abs/2601.10188)|null|
+|**2026-01-15**|**What Gets Activated: Uncovering Domain and Driver Experts in MoE Language Models**|Guimin Hu et.al.|[2601.10159](http://arxiv.org/abs/2601.10159)|null|
+|**2026-01-15**|**MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning**|Yusong Wang et.al.|[2601.10157](http://arxiv.org/abs/2601.10157)|null|
+|**2026-01-15**|**Extremum Seeking Nonovershooting Control of Strict-Feedback Systems Under Unknown Control Direction**|Kaixin Lu et.al.|[2601.09998](http://arxiv.org/abs/2601.09998)|null|
 |**2026-01-14**|**Progressive Mixture-of-Experts with autoencoder routing for continual RANS turbulence modelling**|Haoyu Ji et.al.|[2601.09305](http://arxiv.org/abs/2601.09305)|null|
 |**2026-01-14**|**A Raman-Gas Spectral Compressor for High-Energy Femtosecond Laser Pulses**|Zegui Wang et.al.|[2601.09234](http://arxiv.org/abs/2601.09234)|null|
-|**2026-01-14**|**A.X K1 Technical Report**|Sung Jun Cheon et.al.|[2601.09200](http://arxiv.org/abs/2601.09200)|null|
+|**2026-01-15**|**A.X K1 Technical Report**|Sung Jun Cheon et.al.|[2601.09200](http://arxiv.org/abs/2601.09200)|null|
 |**2026-01-14**|**WiFo-E: A Scalable Wireless Foundation Model for End-to-End FDD Precoding in Communication Networks**|Weibo Wen et.al.|[2601.09186](http://arxiv.org/abs/2601.09186)|null|
 |**2026-01-14**|**Horseshoe Mixtures-of-Experts (HS-MoE)**|Nick Polson et.al.|[2601.09043](http://arxiv.org/abs/2601.09043)|null|
 |**2026-01-13**|**OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG**|Fengran Mo et.al.|[2601.09028](http://arxiv.org/abs/2601.09028)|null|
@@ -4022,6 +4030,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-14**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Po-han Li et.al.|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
 |**2025-12-30**|**Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis**|Hao Wu et.al.|[2512.24013](http://arxiv.org/abs/2512.24013)|null|
 |**2025-12-29**|**Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution**|Hexin Zhang et.al.|[2512.23532](http://arxiv.org/abs/2512.23532)|null|
 |**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
