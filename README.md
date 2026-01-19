@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**FORESTLLM: Large Language Models Make Random Forest Great on Few-shot Tabular Learning**|Zhihan Yang et.al.|[2601.11311](http://arxiv.org/abs/2601.11311)|null|
+|**2026-01-16**|**SwiftKV: An Edge-Oriented Attention Algorithm and Multi-Head Accelerator for Fast, Efficient LLM Decoding**|Junming Zhang et.al.|[2601.10953](http://arxiv.org/abs/2601.10953)|null|
+|**2026-01-15**|**Mugi: Value Level Parallelism For Efficient LLMs**|Daniel Price et.al.|[2601.10823](http://arxiv.org/abs/2601.10823)|null|
 |**2026-01-14**|**Private LLM Inference on Consumer Blackwell GPUs: A Practical Guide for Cost-Effective Local Deployment in SMEs**|Jonathan Knoop et.al.|[2601.09527](http://arxiv.org/abs/2601.09527)|null|
 |**2026-01-14**|**RISER: Orchestrating Latent Reasoning Skills for Adaptive Activation Steering**|Wencheng Ye et.al.|[2601.09269](http://arxiv.org/abs/2601.09269)|null|
 |**2026-01-14**|**LatencyPrism: Online Non-intrusive Latency Sculpting for SLO-Guaranteed LLM Inference**|Du Yin et.al.|[2601.09258](http://arxiv.org/abs/2601.09258)|null|
@@ -1554,6 +1557,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering**|Yuling Shi et.al.|[2601.11255](http://arxiv.org/abs/2601.11255)|null|
+|**2026-01-16**|**First Measurement of the Absolute Branching Fraction of $η_c \to γγ$**|BESIII Collaboration et.al.|[2601.11236](http://arxiv.org/abs/2601.11236)|null|
+|**2026-01-16**|**Self-Augmented Mixture-of-Experts for QoS Prediction**|Kecheng Cai et.al.|[2601.11036](http://arxiv.org/abs/2601.11036)|null|
+|**2026-01-16**|**RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions**|Tasneem Shaffee et.al.|[2601.10921](http://arxiv.org/abs/2601.10921)|null|
 |**2026-01-15**|**Search for sub-GeV dark particles in $η\toπ^0+\rm{invisible}$ decay**|BESIII Collaboration et.al.|[2601.10597](http://arxiv.org/abs/2601.10597)|null|
 |**2026-01-15**|**Deterministic and scalable generation of large Fock states**|Mo Xiong et.al.|[2601.10559](http://arxiv.org/abs/2601.10559)|null|
 |**2026-01-15**|**Algebraic Farkas Lemma and Strong Duality for Perturbed Conic Linear Programming**|P. D. Khanh et.al.|[2601.10390](http://arxiv.org/abs/2601.10390)|null|
@@ -3043,6 +3050,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Spectral evolution of hot hybrid white dwarfs: II. Photometry**|Semih Filiz et.al.|[2601.11191](http://arxiv.org/abs/2601.11191)|null|
+|**2026-01-16**|**Coexisting electronic smectic liquid crystal and superconductivity in a Si square-net semimetal**|Christopher J. Butler et.al.|[2601.10939](http://arxiv.org/abs/2601.10939)|null|
 |**2026-01-14**|**Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation**|Xingyao Li et.al.|[2601.09212](http://arxiv.org/abs/2601.09212)|null|
 |**2026-01-14**|**SRT: Accelerating Reinforcement Learning via Speculative Rollout with Tree-Structured Cache**|Chi-Chih Chang et.al.|[2601.09083](http://arxiv.org/abs/2601.09083)|null|
 |**2026-01-13**|**HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding**|Qitan Lv et.al.|[2601.08273](http://arxiv.org/abs/2601.08273)|null|
