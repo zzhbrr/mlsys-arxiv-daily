@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|**[link](https://github.com/mx-song/DARA)**|
+|**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-20**|**Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores**|Esma Balkır et.al.|[2601.13885](http://arxiv.org/abs/2601.13885)|null|
 |**2026-01-20**|**ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks**|Xiaohong Yang et.al.|[2601.13824](http://arxiv.org/abs/2601.13824)|null|
 |**2026-01-20**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684](http://arxiv.org/abs/2601.13684)|null|
@@ -1561,6 +1563,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network**|Aoran Liu et.al.|[2601.15110](http://arxiv.org/abs/2601.15110)|null|
+|**2026-01-21**|**Mixture-of-Experts Models in Vision: Routing, Optimization, and Generalization**|Adam Rokah et.al.|[2601.15021](http://arxiv.org/abs/2601.15021)|null|
+|**2026-01-21**|**SynPerf: A Hybrid Analytical-ML Framework for GPU Performance Prediction**|Kaixuan Zhang et.al.|[2601.14910](http://arxiv.org/abs/2601.14910)|null|
+|**2026-01-21**|**Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation**|Rui Qi et.al.|[2601.14896](http://arxiv.org/abs/2601.14896)|null|
+|**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[2601.14799](http://arxiv.org/abs/2601.14799)|null|
+|**2026-01-21**|**UniRoute: Unified Routing Mixture-of-Experts for Modality-Adaptive Remote Sensing Change Detection**|Qingling Shu et.al.|[2601.14797](http://arxiv.org/abs/2601.14797)|null|
+|**2026-01-21**|**Robustness of Mixtures of Experts to Feature Noise**|Dong Sun et.al.|[2601.14792](http://arxiv.org/abs/2601.14792)|null|
+|**2026-01-21**|**Online Linear Programming with Replenishment**|Yuze Chen et.al.|[2601.14629](http://arxiv.org/abs/2601.14629)|null|
+|**2026-01-20**|**$π$ MPC: A Parallel-in-horizon and Construction-free NMPC Solver**|Liang Wu et.al.|[2601.14414](http://arxiv.org/abs/2601.14414)|null|
+|**2026-01-20**|**Layer-adaptive Expert Pruning for Pre-Training of Mixture-of-Experts Large Language Models**|YuanLab. ai et.al.|[2601.14327](http://arxiv.org/abs/2601.14327)|null|
 |**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|null|
 |**2026-01-20**|**Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering**|Yuxin Chen et.al.|[2601.14050](http://arxiv.org/abs/2601.14050)|null|
 |**2026-01-20**|**DExTeR: Weakly Semi-Supervised Object Detection with Class and Instance Experts for Medical Imaging**|Adrien Meyer et.al.|[2601.13954](http://arxiv.org/abs/2601.13954)|null|
@@ -3072,7 +3084,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-20**|**The Non-Predictability of Mispredicted Branches using Timing Information**|Ioannis Constantinou et.al.|[2601.13804](http://arxiv.org/abs/2601.13804)|null|
+|**2026-01-21**|**Emergent, not Immanent: A Baradian Reading of Explainable AI**|Fabio Morreale et.al.|[2601.15029](http://arxiv.org/abs/2601.15029)|null|
+|**2026-01-13**|**On the Limits of Learned Importance Scoring for KV Cache Compression**|Brady Steele et.al.|[2601.14279](http://arxiv.org/abs/2601.14279)|null|
+|**2026-01-21**|**The Non-Predictability of Mispredicted Branches using Timing Information**|Ioannis Constantinou et.al.|[2601.13804](http://arxiv.org/abs/2601.13804)|null|
 |**2026-01-19**|**Quasinormal modes and their excitation beyond general relativity. II: isospectrality loss in gravitational waveforms**|Hector O. Silva et.al.|[2601.13411](http://arxiv.org/abs/2601.13411)|null|
 |**2026-01-19**|**The Words That Can't Be Shared: Exploring the Design of Unsent Messages**|Michael Yin et.al.|[2601.13343](http://arxiv.org/abs/2601.13343)|null|
 |**2026-01-19**|**Time variations of the mean magnetic flux in active regions of different magneto-morphological classes**|Anastasiya Zhukova et.al.|[2601.13168](http://arxiv.org/abs/2601.13168)|null|
