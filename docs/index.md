@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design**|Jiahao Zhang et.al.|[2601.15710](http://arxiv.org/abs/2601.15710)|null|
+|**2026-01-21**|**Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform**|Jiazhu Xie et.al.|[2601.15528](http://arxiv.org/abs/2601.15528)|null|
+|**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
 |**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|**[link](https://github.com/mx-song/DARA)**|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-20**|**Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores**|Esma Balkır et.al.|[2601.13885](http://arxiv.org/abs/2601.13885)|null|
@@ -1563,6 +1566,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
+|**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
+|**2026-01-22**|**Search for the reaction channel $e^+ e^- \to ηη\,J/ψ$ and the isospin partner of the $Z_c(3900)$ at center-of-mass energies $\sqrt{s} = 4.226-4.950$ GeV**|BESIII Collaboration et.al.|[2601.15882](http://arxiv.org/abs/2601.15882)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
+|**2026-01-22**|**Redshift-Binned Constraints on the Hubble Constant under $Λ$ CDM, CPL, and Padé Cosmography**|Zhi-Yuan Mo et.al.|[2601.15765](http://arxiv.org/abs/2601.15765)|null|
+|**2026-01-21**|**On the diagonal of low bidegree hypersurfaces**|Morten Lüders et.al.|[2601.15409](http://arxiv.org/abs/2601.15409)|null|
+|**2026-01-21**|**Improving MoE Compute Efficiency by Composing Weight and Data Sparsity**|Maciej Kilian et.al.|[2601.15370](http://arxiv.org/abs/2601.15370)|null|
 |**2026-01-21**|**Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network**|Aoran Liu et.al.|[2601.15110](http://arxiv.org/abs/2601.15110)|null|
 |**2026-01-21**|**Mixture-of-Experts Models in Vision: Routing, Optimization, and Generalization**|Adam Rokah et.al.|[2601.15021](http://arxiv.org/abs/2601.15021)|null|
 |**2026-01-21**|**SynPerf: A Hybrid Analytical-ML Framework for GPU Performance Prediction**|Kaixuan Zhang et.al.|[2601.14910](http://arxiv.org/abs/2601.14910)|null|
@@ -3084,6 +3094,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
 |**2026-01-21**|**Emergent, not Immanent: A Baradian Reading of Explainable AI**|Fabio Morreale et.al.|[2601.15029](http://arxiv.org/abs/2601.15029)|null|
 |**2026-01-13**|**On the Limits of Learned Importance Scoring for KV Cache Compression**|Brady Steele et.al.|[2601.14279](http://arxiv.org/abs/2601.14279)|null|
 |**2026-01-21**|**The Non-Predictability of Mispredicted Branches using Timing Information**|Ioannis Constantinou et.al.|[2601.13804](http://arxiv.org/abs/2601.13804)|null|
