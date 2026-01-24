@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.23
+## Updated on 2026.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -1569,7 +1569,7 @@ layout: default
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
 |**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
 |**2026-01-22**|**Search for the reaction channel $e^+ e^- \to ηη\,J/ψ$ and the isospin partner of the $Z_c(3900)$ at center-of-mass energies $\sqrt{s} = 4.226-4.950$ GeV**|BESIII Collaboration et.al.|[2601.15882](http://arxiv.org/abs/2601.15882)|null|
-|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|**[link](https://github.com/YuhanChen2024/LL-GaussianImage)**|
 |**2026-01-22**|**Redshift-Binned Constraints on the Hubble Constant under $Λ$ CDM, CPL, and Padé Cosmography**|Zhi-Yuan Mo et.al.|[2601.15765](http://arxiv.org/abs/2601.15765)|null|
 |**2026-01-21**|**On the diagonal of low bidegree hypersurfaces**|Morten Lüders et.al.|[2601.15409](http://arxiv.org/abs/2601.15409)|null|
 |**2026-01-21**|**Improving MoE Compute Efficiency by Composing Weight and Data Sparsity**|Maciej Kilian et.al.|[2601.15370](http://arxiv.org/abs/2601.15370)|null|
