@@ -24,7 +24,7 @@
 |**2026-01-22**|**FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design**|Jiahao Zhang et.al.|[2601.15710](http://arxiv.org/abs/2601.15710)|null|
 |**2026-01-21**|**Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform**|Jiazhu Xie et.al.|[2601.15528](http://arxiv.org/abs/2601.15528)|null|
 |**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
-|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|**[link](https://github.com/mx-song/DARA)**|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-20**|**Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores**|Esma Balkır et.al.|[2601.13885](http://arxiv.org/abs/2601.13885)|null|
 |**2026-01-20**|**ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks**|Xiaohong Yang et.al.|[2601.13824](http://arxiv.org/abs/2601.13824)|null|
@@ -35,7 +35,7 @@
 |**2026-01-19**|**FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference**|Chaeyoung Jung et.al.|[2601.13143](http://arxiv.org/abs/2601.13143)|null|
 |**2026-01-19**|**Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference**|Anish Biswas et.al.|[2601.12967](http://arxiv.org/abs/2601.12967)|null|
 |**2026-01-19**|**From Prefix Cache to Fusion RAG Cache: Accelerating LLM Inference in Retrieval-Augmented Generation**|Jiahao Wang et.al.|[2601.12904](http://arxiv.org/abs/2601.12904)|null|
-|**2026-01-19**|**An Evolutionary Framework for Automatic Optimization Benchmark Generation via Large Language Models**|Yuhiro Ono et.al.|[2601.12723](http://arxiv.org/abs/2601.12723)|null|
+|**2026-01-23**|**An Evolutionary Framework for Automatic Optimization Benchmark Generation via Large Language Models**|Yuhiro Ono et.al.|[2601.12723](http://arxiv.org/abs/2601.12723)|null|
 |**2026-01-18**|**Power Aware Dynamic Reallocation For Inference**|Yiwei Jiang et.al.|[2601.12241](http://arxiv.org/abs/2601.12241)|null|
 |**2026-01-16**|**RAPID-Serve: Resource-efficient and Accelerated P/D Intra-GPU Disaggregation**|Amna Masood et.al.|[2601.11822](http://arxiv.org/abs/2601.11822)|null|
 |**2026-01-16**|**PASTA: A Scalable Framework for Multi-Policy AI Compliance Evaluation**|Yu Yang et.al.|[2601.11702](http://arxiv.org/abs/2601.11702)|null|
@@ -1577,6 +1577,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**First evidence for $D_s^+ \to f_1(1420) e^+ν_e$ and search for $D_s^+ \to f_1(1285) e^+ν_e$**|BESIII Collaboration et.al.|[2601.16938](http://arxiv.org/abs/2601.16938)|null|
+|**2026-01-23**|**Coarse-Grained Geometric Quantum Dynamics in the Tensor Network Representation**|Mo Sha et.al.|[2601.16913](http://arxiv.org/abs/2601.16913)|null|
+|**2026-01-23**|**GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints**|Andy Zhu et.al.|[2601.16905](http://arxiv.org/abs/2601.16905)|null|
+|**2026-01-23**|**Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation**|Tims Pecerskis et.al.|[2601.16863](http://arxiv.org/abs/2601.16863)|null|
+|**2026-01-23**|**SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents**|Yuhang Wang et.al.|[2601.16746](http://arxiv.org/abs/2601.16746)|null|
+|**2026-01-23**|**LongCat-Flash-Thinking-2601 Technical Report**|Meituan LongCat Team et.al.|[2601.16725](http://arxiv.org/abs/2601.16725)|null|
+|**2026-01-23**|**Search for the radiative decay $D^+_s \to γK^*(892)^+$**|BESIII Collaboration et.al.|[2601.16476](http://arxiv.org/abs/2601.16476)|null|
+|**2026-01-22**|**proto-Lightspeed: a high-speed, ultra-low read noise imager on the Magellan Clay Telescope**|Christopher Layden et.al.|[2601.16268](http://arxiv.org/abs/2601.16268)|null|
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
 |**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
 |**2026-01-22**|**Search for the reaction channel $e^+ e^- \to ηη\,J/ψ$ and the isospin partner of the $Z_c(3900)$ at center-of-mass energies $\sqrt{s} = 4.226-4.950$ GeV**|BESIII Collaboration et.al.|[2601.15882](http://arxiv.org/abs/2601.15882)|null|
@@ -3107,8 +3115,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**|Lin Kyi et.al.|[2601.16752](http://arxiv.org/abs/2601.16752)|null|
+|**2026-01-23**|**Integrated Photonic Quantum Computing: From Silicon to Lithium Niobate**|Hui Zhang et.al.|[2601.16484](http://arxiv.org/abs/2601.16484)|null|
 |**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
-|**2026-01-21**|**Emergent, not Immanent: A Baradian Reading of Explainable AI**|Fabio Morreale et.al.|[2601.15029](http://arxiv.org/abs/2601.15029)|null|
+|**2026-01-23**|**Emergent, not Immanent: A Baradian Reading of Explainable AI**|Fabio Morreale et.al.|[2601.15029](http://arxiv.org/abs/2601.15029)|null|
 |**2026-01-13**|**On the Limits of Learned Importance Scoring for KV Cache Compression**|Brady Steele et.al.|[2601.14279](http://arxiv.org/abs/2601.14279)|null|
 |**2026-01-21**|**The Non-Predictability of Mispredicted Branches using Timing Information**|Ioannis Constantinou et.al.|[2601.13804](http://arxiv.org/abs/2601.13804)|null|
 |**2026-01-19**|**Quasinormal modes and their excitation beyond general relativity. II: isospectrality loss in gravitational waveforms**|Hector O. Silva et.al.|[2601.13411](http://arxiv.org/abs/2601.13411)|null|
