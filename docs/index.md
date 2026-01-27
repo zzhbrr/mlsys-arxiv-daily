@@ -14,10 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Scaling up Privacy-Preserving ML: A CKKS Implementation of Llama-2-7B**|Jaiyoung Park et.al.|[2601.18511](http://arxiv.org/abs/2601.18511)|null|
+|**2026-01-26**|**CovertComBench: The First Domain-Specific Testbed for LLMs in Wireless Covert Communication**|Zhaozhi Liu et.al.|[2601.18315](http://arxiv.org/abs/2601.18315)|null|
+|**2026-01-26**|**FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning**|Lin Sun et.al.|[2601.18116](http://arxiv.org/abs/2601.18116)|null|
+|**2026-01-25**|**A Universal Load Balancing Principle and Its Application to Large Language Model Serving**|Zixi Chen et.al.|[2601.17855](http://arxiv.org/abs/2601.17855)|null|
+|**2026-01-25**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
+|**2026-01-25**|**Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction**|Jang-Hyun Kim et.al.|[2601.17668](http://arxiv.org/abs/2601.17668)|null|
+|**2026-01-24**|**GreenServ: Energy-Efficient Context-Aware Dynamic Routing for Multi-Model LLM Inference**|Thomas Ziller et.al.|[2601.17551](http://arxiv.org/abs/2601.17551)|null|
+|**2026-01-24**|**Latent-Space Contrastive Reinforcement Learning for Stable and Efficient LLM Reasoning**|Lianlei Shan et.al.|[2601.17275](http://arxiv.org/abs/2601.17275)|null|
 |**2026-01-22**|**FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design**|Jiahao Zhang et.al.|[2601.15710](http://arxiv.org/abs/2601.15710)|null|
 |**2026-01-21**|**Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform**|Jiazhu Xie et.al.|[2601.15528](http://arxiv.org/abs/2601.15528)|null|
 |**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
-|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|**[link](https://github.com/mx-song/DARA)**|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-20**|**Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores**|Esma Balkır et.al.|[2601.13885](http://arxiv.org/abs/2601.13885)|null|
 |**2026-01-20**|**ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks**|Xiaohong Yang et.al.|[2601.13824](http://arxiv.org/abs/2601.13824)|null|
@@ -1566,6 +1574,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Superlinear Multi-Step Attention**|Yufeng Huang et.al.|[2601.18401](http://arxiv.org/abs/2601.18401)|null|
+|**2026-01-26**|**FP8-RL: A Practical and Stable Low-Precision Stack for LLM Reinforcement Learning**|Zhaopeng Qiu et.al.|[2601.18150](http://arxiv.org/abs/2601.18150)|null|
+|**2026-01-26**|**Beyond Static Datasets: Robust Offline Policy Optimization via Vetted Synthetic Transitions**|Pedram Agand et.al.|[2601.18107](http://arxiv.org/abs/2601.18107)|null|
+|**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](http://arxiv.org/abs/2601.18094)|null|
+|**2026-01-26**|**LatentMoE: Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts**|Venmugil Elango et.al.|[2601.18089](http://arxiv.org/abs/2601.18089)|null|
+|**2026-01-25**|**Domain-Expert-Guided Hybrid Mixture-of-Experts for Medical AI: Integrating Data-Driven Learning with Clinical Priors**|Jinchen Gu et.al.|[2601.17977](http://arxiv.org/abs/2601.17977)|null|
+|**2026-01-25**|**EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents**|Ying Mo et.al.|[2601.17722](http://arxiv.org/abs/2601.17722)|null|
+|**2026-01-25**|**$\infty$ -MoE: Generalizing Mixture of Experts to Infinite Experts**|Shota Takashiro et.al.|[2601.17680](http://arxiv.org/abs/2601.17680)|null|
+|**2026-01-25**|**Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context**|Zhihao Zhang et.al.|[2601.17642](http://arxiv.org/abs/2601.17642)|null|
+|**2026-01-24**|**PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes**|Xinru Cui et.al.|[2601.17440](http://arxiv.org/abs/2601.17440)|null|
+|**2026-01-24**|**Topological Protection by Local Support Symmetry and Destructive Interference**|Jun-Won Rhim et.al.|[2601.17272](http://arxiv.org/abs/2601.17272)|null|
+|**2026-01-23**|**Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts**|Xuan-Phi Nguyen et.al.|[2601.17111](http://arxiv.org/abs/2601.17111)|null|
 |**2026-01-23**|**First evidence for $D_s^+ \to f_1(1420) e^+ν_e$ and search for $D_s^+ \to f_1(1285) e^+ν_e$**|BESIII Collaboration et.al.|[2601.16938](http://arxiv.org/abs/2601.16938)|null|
 |**2026-01-23**|**Coarse-Grained Geometric Quantum Dynamics in the Tensor Network Representation**|Mo Sha et.al.|[2601.16913](http://arxiv.org/abs/2601.16913)|null|
 |**2026-01-23**|**GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints**|Andy Zhu et.al.|[2601.16905](http://arxiv.org/abs/2601.16905)|null|
@@ -3102,6 +3122,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Disk-jet-wind coupling from stellar mass to supermassive black holes**|Chris Done et.al.|[2601.18607](http://arxiv.org/abs/2601.18607)|null|
+|**2026-01-25**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
+|**2026-01-24**|**Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations**|Alireza Salemi et.al.|[2601.17569](http://arxiv.org/abs/2601.17569)|null|
+|**2026-01-24**|**Towards a Declarative Agentic Layer for Intelligent Agents in MCP-Based Server Ecosystems**|Maria Jesus Rodriguez-Sanchez et.al.|[2601.17435](http://arxiv.org/abs/2601.17435)|null|
+|**2026-01-24**|**Auditing Disability Representation in Vision-Language Models**|Srikant Panda et.al.|[2601.17348](http://arxiv.org/abs/2601.17348)|null|
 |**2026-01-23**|**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**|Lin Kyi et.al.|[2601.16752](http://arxiv.org/abs/2601.16752)|null|
 |**2026-01-23**|**Integrated Photonic Quantum Computing: From Silicon to Lithium Niobate**|Hui Zhang et.al.|[2601.16484](http://arxiv.org/abs/2601.16484)|null|
 |**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
