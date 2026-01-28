@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering**|Fangan Dong et.al.|[2601.19847](http://arxiv.org/abs/2601.19847)|null|
+|**2026-01-27**|**Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search**|Thomas Bömer et.al.|[2601.19622](http://arxiv.org/abs/2601.19622)|null|
+|**2026-01-27**|**PROTEUS: SLA-Aware Routing via Lagrangian RL for Multi-LLM Serving Systems**|Amit Singh Bhatti et.al.|[2601.19402](http://arxiv.org/abs/2601.19402)|null|
+|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|**[link](https://github.com/fvliang/DART)**|
+|**2026-01-27**|**Native LLM and MLLM Inference at Scale on Apple Silicon**|Wayner Barrios et.al.|[2601.19139](http://arxiv.org/abs/2601.19139)|null|
+|**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999](http://arxiv.org/abs/2601.18999)|null|
+|**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
 |**2026-01-26**|**Scaling up Privacy-Preserving ML: A CKKS Implementation of Llama-2-7B**|Jaiyoung Park et.al.|[2601.18511](http://arxiv.org/abs/2601.18511)|null|
 |**2026-01-26**|**CovertComBench: The First Domain-Specific Testbed for LLMs in Wireless Covert Communication**|Zhaozhi Liu et.al.|[2601.18315](http://arxiv.org/abs/2601.18315)|null|
 |**2026-01-26**|**FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning**|Lin Sun et.al.|[2601.18116](http://arxiv.org/abs/2601.18116)|null|
@@ -1574,6 +1581,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Revisiting Incremental Stochastic Majorization-Minimization Algorithms with Applications to Mixture of Experts**|TrungKhang Tran et.al.|[2601.19811](http://arxiv.org/abs/2601.19811)|null|
+|**2026-01-27**|**Component-Level Lesioning of Language Models Reveals Clinically Aligned Aphasia Phenotypes**|Yifan Wang et.al.|[2601.19723](http://arxiv.org/abs/2601.19723)|null|
+|**2026-01-27**|**LoPRo: Enhancing Low-Rank Quantization via Permuted Block-Wise Rotation**|Hongyaoxing Gu et.al.|[2601.19675](http://arxiv.org/abs/2601.19675)|null|
+|**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
+|**2026-01-27**|**Search for the isospin-violating decays $\boldsymbol{χ_{cJ}\toΛ\barΣ^{0}+c.c.}$ and $\boldsymbol{η_{c}\toΛ\barΣ^{0}+c.c.}$**|BESIII Collaboration et.al.|[2601.19493](http://arxiv.org/abs/2601.19493)|null|
+|**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|
 |**2026-01-26**|**Superlinear Multi-Step Attention**|Yufeng Huang et.al.|[2601.18401](http://arxiv.org/abs/2601.18401)|null|
 |**2026-01-26**|**FP8-RL: A Practical and Stable Low-Precision Stack for LLM Reinforcement Learning**|Zhaopeng Qiu et.al.|[2601.18150](http://arxiv.org/abs/2601.18150)|null|
 |**2026-01-26**|**Beyond Static Datasets: Robust Offline Policy Optimization via Vetted Synthetic Transitions**|Pedram Agand et.al.|[2601.18107](http://arxiv.org/abs/2601.18107)|null|
@@ -3122,6 +3135,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**The Competence Crisis: A Design Fiction on AI-Assisted Research in Software Engineering**|Mairieli Wessel et.al.|[2601.19628](http://arxiv.org/abs/2601.19628)|null|
+|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
+|**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
+|**2026-01-26**|**Towards a Proof of the Improved Quantum Null Energy Condition**|Ido Ben-Dayan et.al.|[2601.18860](http://arxiv.org/abs/2601.18860)|null|
 |**2026-01-26**|**Disk-jet-wind coupling from stellar mass to supermassive black holes**|Chris Done et.al.|[2601.18607](http://arxiv.org/abs/2601.18607)|null|
 |**2026-01-25**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
 |**2026-01-24**|**Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations**|Alireza Salemi et.al.|[2601.17569](http://arxiv.org/abs/2601.17569)|null|
@@ -4130,7 +4147,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-20**|**Likelihood-Separable Diffusion Inference for Multi-Image MRI Super-Resolution**|Samuel W. Remedios et.al.|[2601.14030](http://arxiv.org/abs/2601.14030)|null|
 |**2026-01-19**|**AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation**|Xuecheng Chen et.al.|[2601.12742](http://arxiv.org/abs/2601.12742)|null|
-|**2026-01-14**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Po-han Li et.al.|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
+|**2026-01-26**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Po-han Li et.al.|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
 |**2025-12-30**|**Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis**|Hao Wu et.al.|[2512.24013](http://arxiv.org/abs/2512.24013)|null|
 |**2025-12-29**|**Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution**|Hexin Zhang et.al.|[2512.23532](http://arxiv.org/abs/2512.23532)|null|
 |**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
