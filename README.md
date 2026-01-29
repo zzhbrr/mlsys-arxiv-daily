@@ -21,10 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
+|**2026-01-28**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
+|**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
+|**2026-01-28**|**Beyond Speedup -- Utilizing KV Cache for Sampling and Reasoning**|Zeyu Xing et.al.|[2601.20326](http://arxiv.org/abs/2601.20326)|null|
+|**2026-01-28**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|null|
+|**2026-01-28**|**LogSieve: Task-Aware CI Log Reduction for Sustainable LLM-Based Analysis**|Marcus Emmanuel Barnes et.al.|[2601.20148](http://arxiv.org/abs/2601.20148)|null|
 |**2026-01-27**|**Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering**|Fangan Dong et.al.|[2601.19847](http://arxiv.org/abs/2601.19847)|null|
 |**2026-01-27**|**Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search**|Thomas Bömer et.al.|[2601.19622](http://arxiv.org/abs/2601.19622)|null|
 |**2026-01-27**|**PROTEUS: SLA-Aware Routing via Lagrangian RL for Multi-LLM Serving Systems**|Amit Singh Bhatti et.al.|[2601.19402](http://arxiv.org/abs/2601.19402)|null|
-|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|**[link](https://github.com/fvliang/DART)**|
+|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
 |**2026-01-27**|**Native LLM and MLLM Inference at Scale on Apple Silicon**|Wayner Barrios et.al.|[2601.19139](http://arxiv.org/abs/2601.19139)|null|
 |**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999](http://arxiv.org/abs/2601.18999)|null|
 |**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
@@ -1592,6 +1598,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
+|**2026-01-28**|**ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code**|Mingqiao Mo et.al.|[2601.20679](http://arxiv.org/abs/2601.20679)|null|
+|**2026-01-28**|**Unsupervised Ensemble Learning Through Deep Energy-based Models**|Ariel Maymon et.al.|[2601.20556](http://arxiv.org/abs/2601.20556)|null|
+|**2026-01-28**|**OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution**|Le Zhang et.al.|[2601.20380](http://arxiv.org/abs/2601.20380)|null|
+|**2026-01-28**|**OSDEnhancer: Taming Real-World Space-Time Video Super-Resolution with One-Step Diffusion**|Shuoyan Wei et.al.|[2601.20308](http://arxiv.org/abs/2601.20308)|null|
+|**2026-01-28**|**MiLorE-SSL: Scaling Multilingual Capabilities in Self-Supervised Models without Forgetting**|Jing Xu et.al.|[2601.20300](http://arxiv.org/abs/2601.20300)|null|
+|**2026-01-28**|**HE-SNR: Uncovering Latent Logic via Entropy for Guiding Mid-Training on SWE-BENCH**|Yueyang Wang et.al.|[2601.20255](http://arxiv.org/abs/2601.20255)|null|
+|**2026-01-28**|**Hyperparameter Transfer with Mixture-of-Expert Layers**|Tianze Jiang et.al.|[2601.20205](http://arxiv.org/abs/2601.20205)|null|
+|**2026-01-28**|**Meta-Cognitive Reinforcement Learning with Self-Doubt and Recovery**|Zhipeng Zhang et.al.|[2601.20193](http://arxiv.org/abs/2601.20193)|null|
 |**2026-01-27**|**Revisiting Incremental Stochastic Majorization-Minimization Algorithms with Applications to Mixture of Experts**|TrungKhang Tran et.al.|[2601.19811](http://arxiv.org/abs/2601.19811)|null|
 |**2026-01-27**|**Component-Level Lesioning of Language Models Reveals Clinically Aligned Aphasia Phenotypes**|Yifan Wang et.al.|[2601.19723](http://arxiv.org/abs/2601.19723)|null|
 |**2026-01-27**|**LoPRo: Enhancing Low-Rank Quantization via Permuted Block-Wise Rotation**|Hongyaoxing Gu et.al.|[2601.19675](http://arxiv.org/abs/2601.19675)|null|
@@ -3148,6 +3163,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Manipulation in Prediction Markets: An Agent-based Modeling Experiment**|Bridget Smart et.al.|[2601.20452](http://arxiv.org/abs/2601.20452)|null|
+|**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
+|**2026-01-26**|**LTS-VoiceAgent: A Listen-Think-Speak Framework for Efficient Streaming Voice Interaction via Semantic Triggering and Incremental Reasoning**|Wenhao Zou et.al.|[2601.19952](http://arxiv.org/abs/2601.19952)|null|
 |**2026-01-27**|**The Competence Crisis: A Design Fiction on AI-Assisted Research in Software Engineering**|Mairieli Wessel et.al.|[2601.19628](http://arxiv.org/abs/2601.19628)|null|
 |**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
 |**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
@@ -3157,7 +3175,7 @@
 |**2026-01-24**|**Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations**|Alireza Salemi et.al.|[2601.17569](http://arxiv.org/abs/2601.17569)|null|
 |**2026-01-24**|**Towards a Declarative Agentic Layer for Intelligent Agents in MCP-Based Server Ecosystems**|Maria Jesus Rodriguez-Sanchez et.al.|[2601.17435](http://arxiv.org/abs/2601.17435)|null|
 |**2026-01-24**|**Auditing Disability Representation in Vision-Language Models**|Srikant Panda et.al.|[2601.17348](http://arxiv.org/abs/2601.17348)|null|
-|**2026-01-23**|**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**|Lin Kyi et.al.|[2601.16752](http://arxiv.org/abs/2601.16752)|null|
+|**2026-01-27**|**From Clicks to Consensus: Collective Consent Assemblies for Data Governance**|Lin Kyi et.al.|[2601.16752](http://arxiv.org/abs/2601.16752)|null|
 |**2026-01-23**|**Integrated Photonic Quantum Computing: From Silicon to Lithium Niobate**|Hui Zhang et.al.|[2601.16484](http://arxiv.org/abs/2601.16484)|null|
 |**2026-01-21**|**MARS: Unleashing the Power of Speculative Decoding via Margin-Aware Verification**|Jingwei Song et.al.|[2601.15498](http://arxiv.org/abs/2601.15498)|null|
 |**2026-01-23**|**Emergent, not Immanent: A Baradian Reading of Explainable AI**|Fabio Morreale et.al.|[2601.15029](http://arxiv.org/abs/2601.15029)|null|
