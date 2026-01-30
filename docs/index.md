@@ -14,17 +14,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
-|**2026-01-28**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
+|**2026-01-29**|**Causal Autoregressive Diffusion Language Model**|Junhao Ruan et.al.|[2601.22031](http://arxiv.org/abs/2601.22031)|null|
+|**2026-01-29**|**A Unified XAI-LLM Approach for EndotrachealSuctioning Activity Recognition**|Hoang Khang Phan et.al.|[2601.21802](http://arxiv.org/abs/2601.21802)|null|
+|**2026-01-29**|**EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference**|Bronislav Sidik et.al.|[2601.21758](http://arxiv.org/abs/2601.21758)|null|
+|**2026-01-29**|**ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management**|Zaifeng Pan et.al.|[2601.21473](http://arxiv.org/abs/2601.21473)|null|
+|**2026-01-29**|**Theoretically Optimal Attention/FFN Ratios in Disaggregated LLM Serving**|Chendong Song et.al.|[2601.21351](http://arxiv.org/abs/2601.21351)|null|
+|**2026-01-29**|**Adaptive and Robust Cost-Aware Proof of Quality for Decentralized LLM Inference Networks**|Arther Tian et.al.|[2601.21189](http://arxiv.org/abs/2601.21189)|null|
+|**2026-01-28**|**ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference**|Ketan Thakkar et.al.|[2601.21109](http://arxiv.org/abs/2601.21109)|null|
+|**2026-01-29**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
+|**2026-01-29**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-28**|**Beyond Speedup -- Utilizing KV Cache for Sampling and Reasoning**|Zeyu Xing et.al.|[2601.20326](http://arxiv.org/abs/2601.20326)|null|
 |**2026-01-28**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|null|
 |**2026-01-28**|**LogSieve: Task-Aware CI Log Reduction for Sustainable LLM-Based Analysis**|Marcus Emmanuel Barnes et.al.|[2601.20148](http://arxiv.org/abs/2601.20148)|null|
 |**2026-01-27**|**Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering**|Fangan Dong et.al.|[2601.19847](http://arxiv.org/abs/2601.19847)|null|
 |**2026-01-27**|**Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search**|Thomas Bömer et.al.|[2601.19622](http://arxiv.org/abs/2601.19622)|null|
-|**2026-01-27**|**PROTEUS: SLA-Aware Routing via Lagrangian RL for Multi-LLM Serving Systems**|Amit Singh Bhatti et.al.|[2601.19402](http://arxiv.org/abs/2601.19402)|null|
+|**2026-01-29**|**PROTEUS: SLA-Aware Routing via Lagrangian RL for Multi-LLM Serving Systems**|Amit Singh Bhatti et.al.|[2601.19402](http://arxiv.org/abs/2601.19402)|null|
 |**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
-|**2026-01-27**|**Native LLM and MLLM Inference at Scale on Apple Silicon**|Wayner Barrios et.al.|[2601.19139](http://arxiv.org/abs/2601.19139)|null|
+|**2026-01-29**|**Native LLM and MLLM Inference at Scale on Apple Silicon**|Wayner Barrios et.al.|[2601.19139](http://arxiv.org/abs/2601.19139)|null|
 |**2026-01-26**|**Randomization Boosts KV Caching, Learning Balances Query Load: A Joint Perspective**|Fangzhou Wu et.al.|[2601.18999](http://arxiv.org/abs/2601.18999)|null|
 |**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
 |**2026-01-26**|**Scaling up Privacy-Preserving ML: A CKKS Implementation of Llama-2-7B**|Jaiyoung Park et.al.|[2601.18511](http://arxiv.org/abs/2601.18511)|null|
@@ -1587,6 +1594,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**ECO: Quantized Training without Full-Precision Master Weights**|Mahdi Nikdan et.al.|[2601.22101](http://arxiv.org/abs/2601.22101)|null|
+|**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|null|
+|**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
+|**2026-01-29**|**MoHETS: Long-term Time Series Forecasting with Mixture-of-Heterogeneous-Experts**|Evandro S. Ortigossa et.al.|[2601.21866](http://arxiv.org/abs/2601.21866)|null|
+|**2026-01-29**|**OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce**|Kun Zhang et.al.|[2601.21770](http://arxiv.org/abs/2601.21770)|null|
+|**2026-01-29**|**Seg-MoE: Multi-Resolution Segment-wise Mixture-of-Experts for Time Series Forecasting Transformers**|Evandro S. Ortigossa et.al.|[2601.21641](http://arxiv.org/abs/2601.21641)|null|
+|**2026-01-29**|**Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves**|Jonas Knupp et.al.|[2601.21582](http://arxiv.org/abs/2601.21582)|null|
+|**2026-01-29**|**Multi-Modal Time Series Prediction via Mixture of Modulated Experts**|Lige Zhang et.al.|[2601.21547](http://arxiv.org/abs/2601.21547)|null|
+|**2026-01-29**|**ShardMemo: Masked MoE Routing for Sharded Agentic LLM Memory**|Yang Zhao et.al.|[2601.21545](http://arxiv.org/abs/2601.21545)|null|
+|**2026-01-29**|**L $^3$ : Large Lookup Layers**|Albert Tseng et.al.|[2601.21461](http://arxiv.org/abs/2601.21461)|null|
+|**2026-01-29**|**ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation**|Zihao Huang et.al.|[2601.21420](http://arxiv.org/abs/2601.21420)|null|
+|**2026-01-29**|**L2R: Low-Rank and Lipschitz-Controlled Routing for Mixture-of-Experts**|Minghao Yang et.al.|[2601.21349](http://arxiv.org/abs/2601.21349)|null|
+|**2026-01-29**|**Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies**|Ce Hao et.al.|[2601.21251](http://arxiv.org/abs/2601.21251)|null|
+|**2026-01-29**|**Scaling Embeddings Outperforms Scaling Experts in Language Models**|Hong Liu et.al.|[2601.21204](http://arxiv.org/abs/2601.21204)|null|
+|**2026-01-29**|**ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling**|Yuchen Yang et.al.|[2601.21198](http://arxiv.org/abs/2601.21198)|null|
+|**2026-01-29**|**Precise measurements of $D^0 \to K^-\ell^+ν_\ell$ and $D^+ \to \bar K^0\ell^+ν_\ell$ decays**|BESIII Collaboration et.al.|[2601.21196](http://arxiv.org/abs/2601.21196)|null|
+|**2026-01-29**|**Search for $ψ_0(4360)\rightarrow ηψ(2S)$ through the process $e^+e^- \rightarrow ηηψ(2S)$**|BESIII Collaboration et.al.|[2601.21190](http://arxiv.org/abs/2601.21190)|null|
+|**2026-01-29**|**First Experimental Constraint on the Scalar Current in the $D^{0(+)}\to \bar K\ell^+ν_{\ell}$ Transition**|BESIII Collaboration et.al.|[2601.21185](http://arxiv.org/abs/2601.21185)|null|
+|**2026-01-29**|**BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding**|Ziyi Zhao et.al.|[2601.21148](http://arxiv.org/abs/2601.21148)|null|
+|**2026-01-29**|**TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning**|Shicheng Fan et.al.|[2601.21135](http://arxiv.org/abs/2601.21135)|null|
 |**2026-01-28**|**ProfInfer: An eBPF-based Fine-Grained LLM Inference Profiler**|Bohua Zou et.al.|[2601.20755](http://arxiv.org/abs/2601.20755)|null|
 |**2026-01-28**|**ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code**|Mingqiao Mo et.al.|[2601.20679](http://arxiv.org/abs/2601.20679)|null|
 |**2026-01-28**|**Unsupervised Ensemble Learning Through Deep Energy-based Models**|Ariel Maymon et.al.|[2601.20556](http://arxiv.org/abs/2601.20556)|null|
@@ -3150,6 +3177,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**StarSD: One-for-Many Speculative Decoding**|Junhao He et.al.|[2601.21622](http://arxiv.org/abs/2601.21622)|null|
+|**2026-01-29**|**SPOILER-GUARD: Gating Latency Effects of Memory Accesses through Randomized Dependency Prediction**|Gayathri Subramanian et.al.|[2601.21211](http://arxiv.org/abs/2601.21211)|null|
+|**2026-01-29**|**Scaling Embeddings Outperforms Scaling Experts in Language Models**|Hong Liu et.al.|[2601.21204](http://arxiv.org/abs/2601.21204)|null|
+|**2026-01-28**|**Unplugging a Seemingly Sentient Machine Is the Rational Choice -- A Metaphysical Perspective**|Erik J Bekkers et.al.|[2601.21016](http://arxiv.org/abs/2601.21016)|null|
 |**2026-01-28**|**Manipulation in Prediction Markets: An Agent-based Modeling Experiment**|Bridget Smart et.al.|[2601.20452](http://arxiv.org/abs/2601.20452)|null|
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-26**|**LTS-VoiceAgent: A Listen-Think-Speak Framework for Efficient Streaming Voice Interaction via Semantic Triggering and Incremental Reasoning**|Wenhao Zou et.al.|[2601.19952](http://arxiv.org/abs/2601.19952)|null|
