@@ -21,6 +21,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Safer Policy Compliance with Dynamic Epistemic Fallback**|Joseph Marvin Imperial et.al.|[2601.23094](http://arxiv.org/abs/2601.23094)|null|
+|**2026-01-30**|**InstructDiff: Domain-Adaptive Data Selection via Differential Entropy for Efficient LLM Fine-Tuning**|Junyou Su et.al.|[2601.23006](http://arxiv.org/abs/2601.23006)|null|
+|**2026-01-30**|**Competitive Non-Clairvoyant KV-Cache Scheduling for LLM Inference**|Yiding Feng et.al.|[2601.22996](http://arxiv.org/abs/2601.22996)|null|
+|**2026-01-30**|**Matterhorn: Efficient Analog Sparse Spiking Transformer Architecture with Masked Time-To-First-Spike Encoding**|Zhanglu Yan et.al.|[2601.22876](http://arxiv.org/abs/2601.22876)|null|
+|**2026-01-30**|**OSNIP: Breaking the Privacy-Utility-Efficiency Trilemma in LLM Inference via Obfuscated Semantic Null Space**|Zhiyuan Cao et.al.|[2601.22752](http://arxiv.org/abs/2601.22752)|null|
+|**2026-01-30**|**CONCUR: High-Throughput Agentic Batch Inference of LLM via Congestion-Based Concurrency Control**|Qiaoling Chen et.al.|[2601.22705](http://arxiv.org/abs/2601.22705)|null|
+|**2026-01-30**|**Small is Beautiful: A Practical and Efficient Log Parsing Framework**|Minxing Wang et.al.|[2601.22590](http://arxiv.org/abs/2601.22590)|null|
+|**2026-01-30**|**SCaLRec: Semantic Calibration for LLM-enabled Cloud-Device Sequential Recommendation**|Ruiqi Zheng et.al.|[2601.22543](http://arxiv.org/abs/2601.22543)|null|
+|**2026-01-30**|**Towards Resiliency in Large Language Model Serving with KevlarFlow**|Shangshu Qian et.al.|[2601.22438](http://arxiv.org/abs/2601.22438)|null|
+|**2026-01-29**|**Understanding Efficiency: Quantization, Batching, and Serving Strategies in LLM Energy Use**|Julien Delavande et.al.|[2601.22362](http://arxiv.org/abs/2601.22362)|null|
+|**2026-01-29**|**Small Talk, Big Impact: The Energy Cost of Thanking AI**|Julien Delavande et.al.|[2601.22357](http://arxiv.org/abs/2601.22357)|null|
 |**2026-01-29**|**Causal Autoregressive Diffusion Language Model**|Junhao Ruan et.al.|[2601.22031](http://arxiv.org/abs/2601.22031)|null|
 |**2026-01-29**|**A Unified XAI-LLM Approach for EndotrachealSuctioning Activity Recognition**|Hoang Khang Phan et.al.|[2601.21802](http://arxiv.org/abs/2601.21802)|null|
 |**2026-01-29**|**EWSJF: An Adaptive Scheduler with Hybrid Partitioning for Mixed-Workload LLM Inference**|Bronislav Sidik et.al.|[2601.21758](http://arxiv.org/abs/2601.21758)|null|
@@ -1605,6 +1616,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Omni-fMRI: A Universal Atlas-Free fMRI Foundation Model**|Mo Wang et.al.|[2601.23090](http://arxiv.org/abs/2601.23090)|null|
+|**2026-01-30**|**UrbanMoE: A Sparse Multi-Modal Mixture-of-Experts Framework for Multi-Task Urban Region Profiling**|Pingping Liu et.al.|[2601.22746](http://arxiv.org/abs/2601.22746)|null|
+|**2026-01-30**|**A Cross-Domain Graph Learning Protocol for Single-Step Molecular Geometry Refinement**|Chengchun Liu et.al.|[2601.22723](http://arxiv.org/abs/2601.22723)|null|
+|**2026-01-30**|**A Step Back: Prefix Importance Ratio Stabilizes Policy Optimization**|Shiye Lei et.al.|[2601.22718](http://arxiv.org/abs/2601.22718)|null|
+|**2026-01-30**|**A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation**|Haonan He et.al.|[2601.22708](http://arxiv.org/abs/2601.22708)|null|
+|**2026-01-30**|**Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments**|Jinwoo Jang et.al.|[2601.22647](http://arxiv.org/abs/2601.22647)|null|
+|**2026-01-30**|**SpanNorm: Reconciling Training Stability and Performance in Deep Transformers**|Chao Wang et.al.|[2601.22580](http://arxiv.org/abs/2601.22580)|null|
+|**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](http://arxiv.org/abs/2601.22529)|null|
+|**2026-01-30**|**Continual Policy Distillation from Distributed Reinforcement Learning Teachers**|Yuxuan Li et.al.|[2601.22475](http://arxiv.org/abs/2601.22475)|null|
 |**2026-01-29**|**ECO: Quantized Training without Full-Precision Master Weights**|Mahdi Nikdan et.al.|[2601.22101](http://arxiv.org/abs/2601.22101)|null|
 |**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|null|
 |**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971](http://arxiv.org/abs/2601.21971)|null|
@@ -1614,7 +1634,7 @@
 |**2026-01-29**|**Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves**|Jonas Knupp et.al.|[2601.21582](http://arxiv.org/abs/2601.21582)|null|
 |**2026-01-29**|**Multi-Modal Time Series Prediction via Mixture of Modulated Experts**|Lige Zhang et.al.|[2601.21547](http://arxiv.org/abs/2601.21547)|null|
 |**2026-01-29**|**ShardMemo: Masked MoE Routing for Sharded Agentic LLM Memory**|Yang Zhao et.al.|[2601.21545](http://arxiv.org/abs/2601.21545)|null|
-|**2026-01-29**|**L $^3$ : Large Lookup Layers**|Albert Tseng et.al.|[2601.21461](http://arxiv.org/abs/2601.21461)|null|
+|**2026-01-30**|**L $^3$ : Large Lookup Layers**|Albert Tseng et.al.|[2601.21461](http://arxiv.org/abs/2601.21461)|null|
 |**2026-01-29**|**ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation**|Zihao Huang et.al.|[2601.21420](http://arxiv.org/abs/2601.21420)|null|
 |**2026-01-29**|**L2R: Low-Rank and Lipschitz-Controlled Routing for Mixture-of-Experts**|Minghao Yang et.al.|[2601.21349](http://arxiv.org/abs/2601.21349)|null|
 |**2026-01-29**|**Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies**|Ce Hao et.al.|[2601.21251](http://arxiv.org/abs/2601.21251)|null|
@@ -3190,6 +3210,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**TriSpec: Ternary Speculative Decoding via Lightweight Proxy Verification**|Haoyun Jiang et.al.|[2601.23180](http://arxiv.org/abs/2601.23180)|null|
+|**2026-01-30**|**SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking**|Jonathan Baumann et.al.|[2601.22978](http://arxiv.org/abs/2601.22978)|null|
+|**2026-01-30**|**Beyond Medical Chatbots: Meddollina and the Rise of Continuous Clinical Intelligence**|Vaibhav Ram S. V. N. S et.al.|[2601.22645](http://arxiv.org/abs/2601.22645)|null|
+|**2026-01-29**|**Plant-Inspired Robot Design Metaphors for Ambient HRI**|Victor Nikhil Antony et.al.|[2601.22387](http://arxiv.org/abs/2601.22387)|null|
+|**2026-01-29**|**Subsolar mass black holes from stellar collapse induced by primordial black holes**|Thomas W. Baumgarte et.al.|[2601.22220](http://arxiv.org/abs/2601.22220)|null|
 |**2026-01-29**|**StarSD: One-for-Many Speculative Decoding**|Junhao He et.al.|[2601.21622](http://arxiv.org/abs/2601.21622)|null|
 |**2026-01-29**|**SPOILER-GUARD: Gating Latency Effects of Memory Accesses through Randomized Dependency Prediction**|Gayathri Subramanian et.al.|[2601.21211](http://arxiv.org/abs/2601.21211)|null|
 |**2026-01-29**|**Scaling Embeddings Outperforms Scaling Experts in Language Models**|Hong Liu et.al.|[2601.21204](http://arxiv.org/abs/2601.21204)|null|
@@ -3202,7 +3227,7 @@
 |**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
 |**2026-01-26**|**Towards a Proof of the Improved Quantum Null Energy Condition**|Ido Ben-Dayan et.al.|[2601.18860](http://arxiv.org/abs/2601.18860)|null|
 |**2026-01-26**|**Disk-jet-wind coupling from stellar mass to supermassive black holes**|Chris Done et.al.|[2601.18607](http://arxiv.org/abs/2601.18607)|null|
-|**2026-01-25**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
+|**2026-01-30**|**LLM-42: Enabling Determinism in LLM Inference with Verified Speculation**|Raja Gond et.al.|[2601.17768](http://arxiv.org/abs/2601.17768)|null|
 |**2026-01-24**|**Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations**|Alireza Salemi et.al.|[2601.17569](http://arxiv.org/abs/2601.17569)|null|
 |**2026-01-24**|**Towards a Declarative Agentic Layer for Intelligent Agents in MCP-Based Server Ecosystems**|Maria Jesus Rodriguez-Sanchez et.al.|[2601.17435](http://arxiv.org/abs/2601.17435)|null|
 |**2026-01-24**|**Auditing Disability Representation in Vision-Language Models**|Srikant Panda et.al.|[2601.17348](http://arxiv.org/abs/2601.17348)|null|
