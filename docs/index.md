@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -3210,7 +3210,7 @@ layout: default
 |**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
 |**2026-01-26**|**LTS-VoiceAgent: A Listen-Think-Speak Framework for Efficient Streaming Voice Interaction via Semantic Triggering and Incremental Reasoning**|Wenhao Zou et.al.|[2601.19952](http://arxiv.org/abs/2601.19952)|null|
 |**2026-01-27**|**The Competence Crisis: A Design Fiction on AI-Assisted Research in Software Engineering**|Mairieli Wessel et.al.|[2601.19628](http://arxiv.org/abs/2601.19628)|null|
-|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
+|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|**[link](https://github.com/fvliang/DART)**|
 |**2026-01-26**|**Flatter Tokens are More Valuable for Speculative Draft Model Training**|Jiaming Fan et.al.|[2601.18902](http://arxiv.org/abs/2601.18902)|null|
 |**2026-01-26**|**Towards a Proof of the Improved Quantum Null Energy Condition**|Ido Ben-Dayan et.al.|[2601.18860](http://arxiv.org/abs/2601.18860)|null|
 |**2026-01-26**|**Disk-jet-wind coupling from stellar mass to supermassive black holes**|Chris Done et.al.|[2601.18607](http://arxiv.org/abs/2601.18607)|null|
