@@ -14,6 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing**|Mika Okamoto et.al.|[2602.02386](http://arxiv.org/abs/2602.02386)|null|
+|**2026-02-02**|**Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing**|Lingkun Long et.al.|[2602.02159](http://arxiv.org/abs/2602.02159)|**[link](https://github.com/Longxmas/Focus-dLLM)**|
+|**2026-02-02**|**Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?**|Susan Liang et.al.|[2602.01623](http://arxiv.org/abs/2602.01623)|null|
+|**2026-02-01**|**Predictive Scheduling for Efficient Inference-Time Reasoning in Large Language Models**|Katrina Brown et.al.|[2602.01237](http://arxiv.org/abs/2602.01237)|null|
+|**2026-02-01**|**Lotus: Efficient LLM Training by Randomized Low-Rank Gradient Projection with Adaptive Subspace Switching**|Tianhao Miao et.al.|[2602.01233](http://arxiv.org/abs/2602.01233)|null|
+|**2026-02-01**|**A State-Transition Framework for Efficient LLM Reasoning**|Liang Zhang et.al.|[2602.01198](http://arxiv.org/abs/2602.01198)|null|
+|**2026-02-01**|**ReLayout: Versatile and Structure-Preserving Design Layout Editing via Relation-Aware Design Reconstruction**|Jiawei Lin et.al.|[2602.01046](http://arxiv.org/abs/2602.01046)|null|
+|**2026-02-01**|**ESSAM: A Novel Competitive Evolution Strategies Approach to Reinforcement Learning for Memory Efficient LLMs Fine-Tuning**|Zhishen Sun et.al.|[2602.01003](http://arxiv.org/abs/2602.01003)|null|
+|**2026-01-31**|**Sparsity-Aware Unlearning for Large Language Models**|Yuze Wang et.al.|[2602.00577](http://arxiv.org/abs/2602.00577)|null|
+|**2026-01-30**|**Fast Forward: Accelerating LLM Prefill with Predictive FFN Sparsity**|Aayush Gautam et.al.|[2602.00397](http://arxiv.org/abs/2602.00397)|null|
+|**2026-01-30**|**Harvest: Opportunistic Peer-to-Peer GPU Caching for LLM Inference**|Nikhil Gopal et.al.|[2602.00328](http://arxiv.org/abs/2602.00328)|null|
+|**2026-01-30**|**EigenAI: Deterministic Inference, Verifiable Results**|David Ribeiro Alves et.al.|[2602.00182](http://arxiv.org/abs/2602.00182)|null|
 |**2026-01-30**|**Safer Policy Compliance with Dynamic Epistemic Fallback**|Joseph Marvin Imperial et.al.|[2601.23094](http://arxiv.org/abs/2601.23094)|null|
 |**2026-01-30**|**InstructDiff: Domain-Adaptive Data Selection via Differential Entropy for Efficient LLM Fine-Tuning**|Junyou Su et.al.|[2601.23006](http://arxiv.org/abs/2601.23006)|null|
 |**2026-01-30**|**Competitive Non-Clairvoyant KV-Cache Scheduling for LLM Inference**|Yiding Feng et.al.|[2601.22996](http://arxiv.org/abs/2601.22996)|null|
@@ -1605,6 +1617,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning**|Qifan Yu et.al.|[2602.02472](http://arxiv.org/abs/2602.02472)|null|
+|**2026-02-02**|**Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE**|Yuanteng Chen et.al.|[2602.02443](http://arxiv.org/abs/2602.02443)|null|
+|**2026-02-02**|**DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild**|Arnab Das et.al.|[2602.02286](http://arxiv.org/abs/2602.02286)|null|
+|**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282](http://arxiv.org/abs/2602.02282)|null|
+|**2026-02-02**|**Kimi K2.5: Visual Agentic Intelligence**|Kimi Team et.al.|[2602.02276](http://arxiv.org/abs/2602.02276)|null|
+|**2026-02-02**|**vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models**|Peiqi Yin et.al.|[2602.02204](http://arxiv.org/abs/2602.02204)|null|
+|**2026-02-02**|**No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs**|Liyan Xu et.al.|[2602.02103](http://arxiv.org/abs/2602.02103)|null|
+|**2026-02-02**|**Edge-Aligned Initialization of Kernels for Steered Mixture-of-Experts**|Martin Determann et.al.|[2602.02031](http://arxiv.org/abs/2602.02031)|null|
+|**2026-02-02**|**SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning**|Zhen-Hao Xie et.al.|[2602.01990](http://arxiv.org/abs/2602.01990)|null|
+|**2026-02-02**|**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**|Wonjun Lee et.al.|[2602.01967](http://arxiv.org/abs/2602.01967)|null|
+|**2026-02-02**|**SOPRAG: Multi-view Graph Experts Retrieval for Industrial Standard Operating Procedures**|Liangtao Lin et.al.|[2602.01858](http://arxiv.org/abs/2602.01858)|null|
+|**2026-02-02**|**From Knowing to Doing Precisely: A General Self-Correction and Termination Framework for VLA models**|Wentao Zhang et.al.|[2602.01811](http://arxiv.org/abs/2602.01811)|null|
+|**2026-02-02**|**Mutual-Guided Expert Collaboration for Cross-Subject EEG Classification**|Zhi Zhang et.al.|[2602.01728](http://arxiv.org/abs/2602.01728)|null|
+|**2026-02-02**|**AdNanny: One Reasoning LLM for All Offline Ads Recommendation Tasks**|Nan Hu et.al.|[2602.01563](http://arxiv.org/abs/2602.01563)|null|
+|**2026-02-01**|**A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts**|Viet Nguyen et.al.|[2602.01468](http://arxiv.org/abs/2602.01468)|null|
+|**2026-02-01**|**Rethinking Multinomial Logistic Mixture of Experts with Sigmoid Gating Function**|Tuan Minh Pham et.al.|[2602.01466](http://arxiv.org/abs/2602.01466)|null|
+|**2026-02-01**|**Exposing and Defending the Achilles' Heel of Video Mixture-of-Experts**|Songping Wang et.al.|[2602.01369](http://arxiv.org/abs/2602.01369)|null|
+|**2026-02-01**|**Observation of $\barΛp\to K^{+}π^{+}π^{-}π^{0}$ and $\barΛp\to K^{+}π^{+}π^{-}2π^{0}$**|BESIII Collaboration et.al.|[2602.01282](http://arxiv.org/abs/2602.01282)|null|
+|**2026-02-01**|**MiTA Attention: Efficient Fast-Weight Scaling via a Mixture of Top- $k$ Activations**|Qishuai Wen et.al.|[2602.01219](http://arxiv.org/abs/2602.01219)|null|
+|**2026-02-01**|**Attention Sink Forges Native MoE in Attention Layers: Sink-Aware Training to Address Head Collapse**|Zizhuo Fu et.al.|[2602.01203](http://arxiv.org/abs/2602.01203)|null|
 |**2026-01-30**|**Omni-fMRI: A Universal Atlas-Free fMRI Foundation Model**|Mo Wang et.al.|[2601.23090](http://arxiv.org/abs/2601.23090)|null|
 |**2026-01-30**|**UrbanMoE: A Sparse Multi-Modal Mixture-of-Experts Framework for Multi-Task Urban Region Profiling**|Pingping Liu et.al.|[2601.22746](http://arxiv.org/abs/2601.22746)|null|
 |**2026-01-30**|**A Cross-Domain Graph Learning Protocol for Single-Step Molecular Geometry Refinement**|Chengchun Liu et.al.|[2601.22723](http://arxiv.org/abs/2601.22723)|null|
@@ -3197,6 +3229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**An Empirical Study on Noisy Data and LLM Pretraining Loss Divergence**|Qizhen Zhang et.al.|[2602.02400](http://arxiv.org/abs/2602.02400)|null|
+|**2026-02-02**|**PRISM: Parametrically Refactoring Inference for Speculative Sampling Draft Models**|Xuliang Wang et.al.|[2602.01762](http://arxiv.org/abs/2602.01762)|null|
+|**2026-02-02**|**A Practical Tensor-Network Compression Pipeline for Production-Scale Large Language Models**|Sergii Kozyrev et.al.|[2602.01613](http://arxiv.org/abs/2602.01613)|null|
+|**2026-02-02**|**Are Security Cues Static? Rethinking Warning and Trust Indicators for Life Transitions**|Sarah Tabassum et.al.|[2602.01544](http://arxiv.org/abs/2602.01544)|null|
+|**2026-02-01**|**P-EAGLE: Parallel-Drafting EAGLE with Scalable Training**|Mude Hui et.al.|[2602.01469](http://arxiv.org/abs/2602.01469)|null|
+|**2026-02-01**|**Improve the Trade-off Between Watermark Strength and Speculative Sampling Efficiency for Language Models**|Weiqing He et.al.|[2602.01428](http://arxiv.org/abs/2602.01428)|null|
+|**2026-02-01**|**FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching**|Divya Jyoti Bajpai et.al.|[2602.01329](http://arxiv.org/abs/2602.01329)|null|
+|**2026-02-01**|**PACER: Blockwise Pre-verification for Speculative Decoding with Adaptive Length**|Situo Zhang et.al.|[2602.01274](http://arxiv.org/abs/2602.01274)|null|
+|**2026-01-31**|**Eternagram: Inspiring Climate Action Through LLM-based Conversational Exploration of a Post-Devastation Climate Future**|Suifang Zhou et.al.|[2602.00571](http://arxiv.org/abs/2602.00571)|null|
+|**2026-01-31**|**SAGE: Accelerating Vision-Language Models via Entropy-Guided Adaptive Speculative Decoding**|Yujia Tong et.al.|[2602.00523](http://arxiv.org/abs/2602.00523)|null|
 |**2026-01-30**|**TriSpec: Ternary Speculative Decoding via Lightweight Proxy Verification**|Haoyun Jiang et.al.|[2601.23180](http://arxiv.org/abs/2601.23180)|null|
 |**2026-01-30**|**SpecIBT: Formally Verified Protection Against Speculative Control-Flow Hijacking**|Jonathan Baumann et.al.|[2601.22978](http://arxiv.org/abs/2601.22978)|null|
 |**2026-01-30**|**Beyond Medical Chatbots: Meddollina and the Rise of Continuous Clinical Intelligence**|Vaibhav Ram S. V. N. S et.al.|[2601.22645](http://arxiv.org/abs/2601.22645)|null|
@@ -4219,6 +4261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-31**|**APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation**|Daoxuan Zhang et.al.|[2602.00551](http://arxiv.org/abs/2602.00551)|null|
 |**2026-01-20**|**Likelihood-Separable Diffusion Inference for Multi-Image MRI Super-Resolution**|Samuel W. Remedios et.al.|[2601.14030](http://arxiv.org/abs/2601.14030)|null|
 |**2026-01-19**|**AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation**|Xuecheng Chen et.al.|[2601.12742](http://arxiv.org/abs/2601.12742)|null|
 |**2026-01-26**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Po-han Li et.al.|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
@@ -4227,7 +4270,7 @@ layout: default
 |**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
 |**2025-12-21**|**AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**|Longhuan Xu et.al.|[2512.18675](http://arxiv.org/abs/2512.18675)|null|
 |**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
-|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
+|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|**[link](https://github.com/dubcyfor3/Focus)**|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model**|Julie Meunier et.al.|[2512.05902](http://arxiv.org/abs/2512.05902)|null|
@@ -4302,7 +4345,7 @@ layout: default
 |**2025-12-01**|**TokenPure: Watermark Removal through Tokenized Appearance and Structural Guidance**|Pei Yang et.al.|[2512.01314](http://arxiv.org/abs/2512.01314)|null|
 |**2025-12-01**|**Inversions of stochastic processes from ergodic measures of Nonlinear SDEs**|Hongyu Liu et.al.|[2512.01307](http://arxiv.org/abs/2512.01307)|null|
 |**2025-11-30**|**PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting**|Seokhyun Chin et.al.|[2512.01062](http://arxiv.org/abs/2512.01062)|null|
-|**2025-11-29**|**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**|He-Yen Hsieh et.al.|[2512.00670](http://arxiv.org/abs/2512.00670)|null|
+|**2025-11-29**|**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**|He-Yen Hsieh et.al.|[2512.00670](http://arxiv.org/abs/2512.00670)|**[link](https://github.com/louisYen/EDIT)**|
 |**2025-11-28**|**Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent**|Jianzhe Lin et.al.|[2511.23436](http://arxiv.org/abs/2511.23436)|null|
 |**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
 |**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
@@ -4321,7 +4364,7 @@ layout: default
 |**2025-11-27**|**VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models**|Silin Cheng et.al.|[2511.22664](http://arxiv.org/abs/2511.22664)|null|
 |**2025-11-27**|**Geometrically-Constrained Agent for Spatial Reasoning**|Zeren Chen et.al.|[2511.22659](http://arxiv.org/abs/2511.22659)|null|
 |**2025-11-27**|**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**|Yanbo Mao et.al.|[2511.22555](http://arxiv.org/abs/2511.22555)|null|
-|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|null|
+|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|**[link](https://github.com/Westlake-AGI-Lab/Fast3Dcache)**|
 |**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
 |**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
 |**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
