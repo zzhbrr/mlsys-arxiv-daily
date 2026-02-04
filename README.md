@@ -21,8 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling**|Ning Ding et.al.|[2602.03359](http://arxiv.org/abs/2602.03359)|**[link](https://github.com/ningding-o/MeKi)**|
+|**2026-02-03**|**DynSplit-KV: Dynamic Semantic Splitting for KVCache Compression in Efficient Long-Context LLM Inference**|Jiancai Ye et.al.|[2602.03184](http://arxiv.org/abs/2602.03184)|null|
+|**2026-02-03**|**NLI:Non-uniform Linear Interpolation Approximation of Nonlinear Operations for Efficient LLMs Inference**|Jiangyong Yu et.al.|[2602.02988](http://arxiv.org/abs/2602.02988)|null|
+|**2026-02-03**|**Large-Scale LLM Inference with Heterogeneous Workloads: Prefill-Decode Contention and Asymptotically Optimal Control**|Ruihan Lin et.al.|[2602.02987](http://arxiv.org/abs/2602.02987)|null|
+|**2026-02-03**|**3D-Learning: Diffusion-Augmented Distributionally Robust Decision-Focused Learning**|Jiaqi Wen et.al.|[2602.02943](http://arxiv.org/abs/2602.02943)|null|
+|**2026-02-02**|**A Single Revision Step Improves Token-Efficient LLM Reasoning**|Yingchuan Zhang et.al.|[2602.02828](http://arxiv.org/abs/2602.02828)|null|
 |**2026-02-02**|**Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing**|Mika Okamoto et.al.|[2602.02386](http://arxiv.org/abs/2602.02386)|null|
-|**2026-02-02**|**Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing**|Lingkun Long et.al.|[2602.02159](http://arxiv.org/abs/2602.02159)|**[link](https://github.com/Longxmas/Focus-dLLM)**|
+|**2026-02-02**|**Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing**|Lingkun Long et.al.|[2602.02159](http://arxiv.org/abs/2602.02159)|null|
 |**2026-02-02**|**Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?**|Susan Liang et.al.|[2602.01623](http://arxiv.org/abs/2602.01623)|null|
 |**2026-02-01**|**Predictive Scheduling for Efficient Inference-Time Reasoning in Large Language Models**|Katrina Brown et.al.|[2602.01237](http://arxiv.org/abs/2602.01237)|null|
 |**2026-02-01**|**Lotus: Efficient LLM Training by Randomized Low-Rank Gradient Projection with Adaptive Subspace Switching**|Tianhao Miao et.al.|[2602.01233](http://arxiv.org/abs/2602.01233)|null|
@@ -1628,6 +1634,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**UniGeM: Unifying Data Mixing and Selection via Geometric Exploration and Mining**|Changhao Wang et.al.|[2602.03772](http://arxiv.org/abs/2602.03772)|null|
+|**2026-02-03**|**HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing**|Yizhao Gao et.al.|[2602.03560](http://arxiv.org/abs/2602.03560)|null|
+|**2026-02-03**|**DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs**|Zeyu Zhu et.al.|[2602.03495](http://arxiv.org/abs/2602.03495)|null|
+|**2026-02-03**|**Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts**|Meng Lou et.al.|[2602.03473](http://arxiv.org/abs/2602.03473)|null|
+|**2026-02-03**|**VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers**|Zhiwen Li et.al.|[2602.03210](http://arxiv.org/abs/2602.03210)|null|
+|**2026-02-03**|**Sparsity is Combinatorial Depth: Quantifying MoE Expressivity via Tropical Geometry**|Ye Su et.al.|[2602.03204](http://arxiv.org/abs/2602.03204)|null|
+|**2026-02-03**|**Aligning Forest and Trees in Images and Long Captions for Visually Grounded Understanding**|Byeongju Woo et.al.|[2602.02977](http://arxiv.org/abs/2602.02977)|null|
+|**2026-02-02**|**Decision-Focused Optimal Transport**|Suhan Liu et.al.|[2602.02800](http://arxiv.org/abs/2602.02800)|null|
+|**2026-02-02**|**Loss mechanisms of microwave frequency acoustic waves in thin film lithium niobate**|Qixuan Lin et.al.|[2602.02797](http://arxiv.org/abs/2602.02797)|null|
 |**2026-02-02**|**SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning**|Qifan Yu et.al.|[2602.02472](http://arxiv.org/abs/2602.02472)|null|
 |**2026-02-02**|**Certain Head, Uncertain Tail: Expert-Sample for Test-Time Scaling in Fine-Grained MoE**|Yuanteng Chen et.al.|[2602.02443](http://arxiv.org/abs/2602.02443)|null|
 |**2026-02-02**|**DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild**|Arnab Das et.al.|[2602.02286](http://arxiv.org/abs/2602.02286)|null|
@@ -3242,6 +3257,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States**|Ximing Dong et.al.|[2602.03708](http://arxiv.org/abs/2602.03708)|null|
+|**2026-02-03**|**Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs**|Xuran Cai et.al.|[2602.03588](http://arxiv.org/abs/2602.03588)|null|
+|**2026-02-02**|**The emergent Big Bang scenario**|Justin C. Feng et.al.|[2602.02646](http://arxiv.org/abs/2602.02646)|null|
 |**2026-02-02**|**An Empirical Study on Noisy Data and LLM Pretraining Loss Divergence**|Qizhen Zhang et.al.|[2602.02400](http://arxiv.org/abs/2602.02400)|null|
 |**2026-02-02**|**PRISM: Parametrically Refactoring Inference for Speculative Sampling Draft Models**|Xuliang Wang et.al.|[2602.01762](http://arxiv.org/abs/2602.01762)|null|
 |**2026-02-02**|**A Practical Tensor-Network Compression Pipeline for Production-Scale Large Language Models**|Sergii Kozyrev et.al.|[2602.01613](http://arxiv.org/abs/2602.01613)|null|
@@ -4276,6 +4294,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
+|**2026-02-03**|**SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass**|Chen Qian et.al.|[2602.03134](http://arxiv.org/abs/2602.03134)|null|
 |**2026-01-31**|**APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation**|Daoxuan Zhang et.al.|[2602.00551](http://arxiv.org/abs/2602.00551)|null|
 |**2026-01-20**|**Likelihood-Separable Diffusion Inference for Multi-Image MRI Super-Resolution**|Samuel W. Remedios et.al.|[2601.14030](http://arxiv.org/abs/2601.14030)|null|
 |**2026-01-19**|**AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation**|Xuecheng Chen et.al.|[2601.12742](http://arxiv.org/abs/2601.12742)|null|
