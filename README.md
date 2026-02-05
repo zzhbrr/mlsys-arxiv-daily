@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693](http://arxiv.org/abs/2602.04693)|null|
+|**2026-02-04**|**Harmonia: Algorithm-Hardware Co-Design for Memory- and Compute-Efficient BFP-based LLM Inference**|Xinyu Wang et.al.|[2602.04595](http://arxiv.org/abs/2602.04595)|null|
+|**2026-02-04**|**LycheeDecode: Accelerating Long-Context LLM Inference via Hybrid-Head Sparse Decoding**|Gang Lin et.al.|[2602.04541](http://arxiv.org/abs/2602.04541)|null|
+|**2026-02-04**|**Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning**|Yansong Ning et.al.|[2602.04284](http://arxiv.org/abs/2602.04284)|**[link](https://github.com/usail-hkust/Agent-Omit)**|
+|**2026-02-04**|**BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models**|Junyu Chen et.al.|[2602.04163](http://arxiv.org/abs/2602.04163)|null|
 |**2026-02-03**|**MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling**|Ning Ding et.al.|[2602.03359](http://arxiv.org/abs/2602.03359)|**[link](https://github.com/ningding-o/MeKi)**|
 |**2026-02-03**|**DynSplit-KV: Dynamic Semantic Splitting for KVCache Compression in Efficient Long-Context LLM Inference**|Jiancai Ye et.al.|[2602.03184](http://arxiv.org/abs/2602.03184)|null|
 |**2026-02-03**|**NLI:Non-uniform Linear Interpolation Approximation of Nonlinear Operations for Efficient LLMs Inference**|Jiangyong Yu et.al.|[2602.02988](http://arxiv.org/abs/2602.02988)|null|
@@ -1634,6 +1639,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism**|Chenwei Cui et.al.|[2602.04870](http://arxiv.org/abs/2602.04870)|null|
+|**2026-02-04**|**PDF-HR: Pose Distance Fields for Humanoid Robots**|Yi Gu et.al.|[2602.04851](http://arxiv.org/abs/2602.04851)|null|
+|**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](http://arxiv.org/abs/2602.04705)|null|
+|**2026-02-04**|**Let Experts Feel Uncertainty: A Multi-Expert Label Distribution Approach to Probabilistic Time Series Forecasting**|Zhen Zhou et.al.|[2602.04678](http://arxiv.org/abs/2602.04678)|null|
+|**2026-02-04**|**RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models**|Jiacheng Liang et.al.|[2602.04448](http://arxiv.org/abs/2602.04448)|null|
+|**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
+|**2026-02-04**|**Study of $\barΛ$-$p$ Annihilation into Light Mesons**|BESIII Collaboration et.al.|[2602.04276](http://arxiv.org/abs/2602.04276)|null|
+|**2026-02-04**|**Universal Quantized Berry-Dipole Flat Bands**|Qingyang Mo et.al.|[2602.04194](http://arxiv.org/abs/2602.04194)|null|
+|**2026-02-04**|**OMG-Agent: Toward Robust Missing Modality Generation with Decoupled Coarse-to-Fine Agentic Workflows**|Ruiting Dai et.al.|[2602.04144](http://arxiv.org/abs/2602.04144)|null|
+|**2026-02-04**|**Expert Selections In MoE Models Reveal (Almost) As Much As Text**|Amir Nuriyev et.al.|[2602.04105](http://arxiv.org/abs/2602.04105)|null|
+|**2026-02-03**|**SpecMD: A Comprehensive Study On Speculative Expert Prefetching**|Duc Hoang et.al.|[2602.03921](http://arxiv.org/abs/2602.03921)|null|
 |**2026-02-03**|**UniGeM: Unifying Data Mixing and Selection via Geometric Exploration and Mining**|Changhao Wang et.al.|[2602.03772](http://arxiv.org/abs/2602.03772)|null|
 |**2026-02-03**|**HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing**|Yizhao Gao et.al.|[2602.03560](http://arxiv.org/abs/2602.03560)|null|
 |**2026-02-03**|**DALI: A Workload-Aware Offloading Framework for Efficient MoE Inference on Local PCs**|Zeyu Zhu et.al.|[2602.03495](http://arxiv.org/abs/2602.03495)|null|
@@ -3257,7 +3273,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-03**|**Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States**|Ximing Dong et.al.|[2602.03708](http://arxiv.org/abs/2602.03708)|null|
+|**2026-02-04**|**SPPAM: Signature Pattern Prediction and Access-Map Prefetcher**|Maccoy Merrell et.al.|[2602.04100](http://arxiv.org/abs/2602.04100)|null|
+|**2026-02-03**|**pop-cosmos: Redshifts and physical properties of KiDS-1000 galaxies**|Anik Halder et.al.|[2602.03930](http://arxiv.org/abs/2602.03930)|null|
+|**2026-02-03**|**SpecMD: A Comprehensive Study On Speculative Expert Prefetching**|Duc Hoang et.al.|[2602.03921](http://arxiv.org/abs/2602.03921)|null|
+|**2026-02-04**|**Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States**|Ximing Dong et.al.|[2602.03708](http://arxiv.org/abs/2602.03708)|null|
 |**2026-02-03**|**Efficient Algorithms for Partial Constraint Satisfaction Problems over Control-flow Graphs**|Xuran Cai et.al.|[2602.03588](http://arxiv.org/abs/2602.03588)|null|
 |**2026-02-02**|**The emergent Big Bang scenario**|Justin C. Feng et.al.|[2602.02646](http://arxiv.org/abs/2602.02646)|null|
 |**2026-02-02**|**An Empirical Study on Noisy Data and LLM Pretraining Loss Divergence**|Qizhen Zhang et.al.|[2602.02400](http://arxiv.org/abs/2602.02400)|null|
@@ -4294,6 +4313,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
+|**2026-02-04**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
 |**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
 |**2026-02-03**|**SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass**|Chen Qian et.al.|[2602.03134](http://arxiv.org/abs/2602.03134)|null|
 |**2026-01-31**|**APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation**|Daoxuan Zhang et.al.|[2602.00551](http://arxiv.org/abs/2602.00551)|null|
