@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.08
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**When RL Meets Adaptive Speculative Training: A Unified Training-Serving System**|Junxiong Wang et.al.|[2602.06932](http://arxiv.org/abs/2602.06932)|null|
+|**2026-02-06**|**DualMap: Enabling Both Cache Affinity and Load Balancing for Distributed LLM Serving**|Ying Yuan et.al.|[2602.06502](http://arxiv.org/abs/2602.06502)|**[link](https://github.com/ASISys/DualMap)**|
+|**2026-02-06**|**Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making**|Khurram Yamin et.al.|[2602.06286](http://arxiv.org/abs/2602.06286)|null|
+|**2026-02-06**|**RoPE-LIME: RoPE-Space Locality + Sparse-K Sampling for Efficient LLM Attribution**|Isaac Picov et.al.|[2602.06275](http://arxiv.org/abs/2602.06275)|null|
+|**2026-02-03**|**PackInfer: Compute- and I/O-Efficient Attention for Batched LLM Inference**|Rui Ning et.al.|[2602.06072](http://arxiv.org/abs/2602.06072)|null|
 |**2026-02-05**|**Towards Green AI: Decoding the Energy of LLM Inference in Software Development**|Lola Solovyeva et.al.|[2602.05712](http://arxiv.org/abs/2602.05712)|null|
 |**2026-02-05**|**Determining Energy Efficiency Sweet Spots in Production LLM Inference**|Hiari Pizzini Cavagna et.al.|[2602.05695](http://arxiv.org/abs/2602.05695)|null|
 |**2026-02-05**|**Optimal Bayesian Stopping for Efficient Inference of Consistent LLM Answers**|Jingkai Huang et.al.|[2602.05395](http://arxiv.org/abs/2602.05395)|null|
@@ -1614,7 +1619,7 @@ layout: default
 |**2025-06-17**|**Semantic Scheduling for LLM Inference**|Wenyue Hua et.al.|[2506.12204](http://arxiv.org/abs/2506.12204)|null|
 |**2025-05-29**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554](http://arxiv.org/abs/2505.23554)|null|
 |**2025-05-26**|**Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**|Ruixiao Li et.al.|[2505.17074](http://arxiv.org/abs/2505.17074)|null|
-|**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
+|**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|**[link](https://github.com/hyunnnchoi/ELIS)**|
 |**2025-04-25**|**Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents**|Yueying Li et.al.|[2504.07347](http://arxiv.org/abs/2504.07347)|null|
 |**2025-04-08**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|
 |**2025-07-25**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|
@@ -1634,6 +1639,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos**|Shenyuan Gao et.al.|[2602.06949](http://arxiv.org/abs/2602.06949)|null|
+|**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](http://arxiv.org/abs/2602.06862)|null|
+|**2026-02-06**|**POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models**|Yi Chen et.al.|[2602.06822](http://arxiv.org/abs/2602.06822)|null|
+|**2026-02-06**|**SaDiT: Efficient Protein Backbone Design via Latent Structural Tokenization and Diffusion Transformers**|Shentong Mo et.al.|[2602.06706](http://arxiv.org/abs/2602.06706)|null|
+|**2026-02-06**|**Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making**|Baichuan-M3 Team et.al.|[2602.06570](http://arxiv.org/abs/2602.06570)|null|
+|**2026-02-06**|**TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders**|Yuchen Jiang et.al.|[2602.06563](http://arxiv.org/abs/2602.06563)|null|
+|**2026-02-06**|**HyPER: Bridging Exploration and Exploitation for Scalable LLM Reasoning with Hypothesis Path Expansion and Reduction**|Shengxuan Qiu et.al.|[2602.06527](http://arxiv.org/abs/2602.06527)|null|
+|**2026-02-05**|**GRP-Obliteration: Unaligning LLMs With a Single Unlabeled Prompt**|Mark Russinovich et.al.|[2602.06258](http://arxiv.org/abs/2602.06258)|null|
+|**2026-02-05**|**To 2:4 Sparsity and Beyond: Neuron-level Activation Function to Accelerate LLM Pre-Training**|Meghana Madhyastha et.al.|[2602.06183](http://arxiv.org/abs/2602.06183)|null|
+|**2026-02-05**|**MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models**|Nurbek Tastan et.al.|[2602.06154](http://arxiv.org/abs/2602.06154)|null|
 |**2026-02-05**|**OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale**|Jingze Shi et.al.|[2602.05711](http://arxiv.org/abs/2602.05711)|null|
 |**2026-02-05**|**Hidden simplicity in AdS spinning Mellin amplitudes via scaffolding**|Song He et.al.|[2602.05568](http://arxiv.org/abs/2602.05568)|null|
 |**2026-02-05**|**M $^2$ -Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining**|Rui Lv et.al.|[2602.05429](http://arxiv.org/abs/2602.05429)|null|
@@ -3273,7 +3288,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|null|
+|**2026-02-06**|**When RL Meets Adaptive Speculative Training: A Unified Training-Serving System**|Junxiong Wang et.al.|[2602.06932](http://arxiv.org/abs/2602.06932)|null|
+|**2026-02-06**|**Continued fraction method for high overtone quasinormal modes in effective potentials with discontinuity**|Guan-Ru Li et.al.|[2602.06536](http://arxiv.org/abs/2602.06536)|null|
+|**2026-02-06**|**RelayGen: Intra-Generation Model Switching for Efficient Reasoning**|Jiwon Song et.al.|[2602.06454](http://arxiv.org/abs/2602.06454)|**[link](https://github.com/jiwonsong-dev/RelayGen)**|
+|**2026-02-06**|**Quenching Speculation in Quantum Markets via Entangled Neural Traders**|Kieran Hymas et.al.|[2602.06367](http://arxiv.org/abs/2602.06367)|null|
+|**2026-02-05**|**DFlash: Block Diffusion for Flash Speculative Decoding**|Jian Chen et.al.|[2602.06036](http://arxiv.org/abs/2602.06036)|**[link](https://github.com/defalt-praxis/dflash-demo)**|
 |**2026-02-05**|**V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval**|Dongyang Chen et.al.|[2602.06034](http://arxiv.org/abs/2602.06034)|null|
 |**2026-02-05**|**Multi-Token Prediction via Self-Distillation**|John Kirchenbauer et.al.|[2602.06019](http://arxiv.org/abs/2602.06019)|null|
 |**2026-02-05**|**Measurement-Induced Dynamics of Particles and Quasiparticles in a Bose-Einstein-condensate array**|Huy Nguyen et.al.|[2602.05924](http://arxiv.org/abs/2602.05924)|null|
@@ -4320,6 +4339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
 |**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
 |**2026-02-05**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
 |**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
