@@ -14,15 +14,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|Yang Wu et.al.|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
+|**2026-02-10**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|null|
+|**2026-02-10**|**MATA: Multi-Agent Framework for Reliable and Flexible Table Question Answering**|Sieun Hyeon et.al.|[2602.09642](http://arxiv.org/abs/2602.09642)|null|
+|**2026-02-10**|**Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning**|Zhida Jiang et.al.|[2602.09578](http://arxiv.org/abs/2602.09578)|null|
+|**2026-02-10**|**LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms**|Jie Kong et.al.|[2602.09323](http://arxiv.org/abs/2602.09323)|null|
+|**2026-02-09**|**PABU: Progress-Aware Belief Update for Efficient LLM Agents**|Haitao Jiang et.al.|[2602.09138](http://arxiv.org/abs/2602.09138)|null|
+|**2026-02-09**|**Benchmarking the Energy Savings with Speculative Decoding Strategies**|Rohit Dutta et.al.|[2602.09113](http://arxiv.org/abs/2602.09113)|null|
 |**2026-02-09**|**FlattenGPT: Depth Compression for Transformer with Layer Flattening**|Ruihan Xu et.al.|[2602.08858](http://arxiv.org/abs/2602.08858)|null|
 |**2026-02-09**|**Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems**|Lang Feng et.al.|[2602.08847](http://arxiv.org/abs/2602.08847)|null|
 |**2026-02-09**|**QUOKA: Query-Oriented KV Selection For Efficient LLM Prefill**|Dalton Jones et.al.|[2602.08722](http://arxiv.org/abs/2602.08722)|null|
 |**2026-02-09**|**Near-Oracle KV Selection via Pre-hoc Sparsity for Long-Context Inference**|Yifei Gao et.al.|[2602.08329](http://arxiv.org/abs/2602.08329)|null|
-|**2026-02-08**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
+|**2026-02-10**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
 |**2026-02-08**|**Accuracy-Delay Trade-Off in LLM Offloading via Token-Level Uncertainty**|Yumin Kim et.al.|[2602.07958](http://arxiv.org/abs/2602.07958)|null|
 |**2026-02-08**|**MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation**|Yu Zhao et.al.|[2602.07905](http://arxiv.org/abs/2602.07905)|null|
 |**2026-02-08**|**Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model**|Tianyi Wang et.al.|[2602.07878](http://arxiv.org/abs/2602.07878)|null|
-|**2026-02-07**|**ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs**|Yanlin Qi et.al.|[2602.07721](http://arxiv.org/abs/2602.07721)|null|
+|**2026-02-10**|**ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs**|Yanlin Qi et.al.|[2602.07721](http://arxiv.org/abs/2602.07721)|null|
 |**2026-02-07**|**A Two-Layer Framework for Joint Online Configuration Selection and Admission Control**|Owen Shen et.al.|[2602.07663](http://arxiv.org/abs/2602.07663)|null|
 |**2026-02-07**|**Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference**|Hoang Anh Duy Le et.al.|[2602.07397](http://arxiv.org/abs/2602.07397)|null|
 |**2026-02-07**|**Parallel Track Transformers: Enabling Fast GPU Inference with Reduced Synchronization**|Chong Wang et.al.|[2602.07306](http://arxiv.org/abs/2602.07306)|null|
@@ -1652,14 +1659,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Diverse Skill Discovery for Quadruped Robots via Unsupervised Learning**|Ruopeng Cui et.al.|[2602.09767](http://arxiv.org/abs/2602.09767)|null|
+|**2026-02-10**|**Revealing the Challenges of Attention-FFN Disaggregation for Modern MoE Models and Hardware Systems**|Guowei Liu et.al.|[2602.09721](http://arxiv.org/abs/2602.09721)|null|
+|**2026-02-10**|**First observation of the $η_{c}\toΞ^{0} \barΞ^{0}$ decay**|BESIII Collaboration et.al.|[2602.09652](http://arxiv.org/abs/2602.09652)|null|
+|**2026-02-10**|**DR.Experts: Differential Refinement of Distortion-Aware Experts for Blind Image Quality Assessment**|Bohan Fu et.al.|[2602.09531](http://arxiv.org/abs/2602.09531)|null|
+|**2026-02-10**|**SMES: Towards Scalable Multi-Task Recommendation via Expert Sparsity**|Yukun Zhang et.al.|[2602.09386](http://arxiv.org/abs/2602.09386)|null|
+|**2026-02-10**|**Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density**|Zhendong Mi et.al.|[2602.09316](http://arxiv.org/abs/2602.09316)|null|
+|**2026-02-09**|**Generalizing GNNs with Tokenized Mixture of Experts**|Xiaoguang Guo et.al.|[2602.09258](http://arxiv.org/abs/2602.09258)|null|
+|**2026-02-09**|**UI-Venus-1.5 Technical Report**|Veuns-Team et.al.|[2602.09082](http://arxiv.org/abs/2602.09082)|null|
 |**2026-02-09**|**DirMoE: Dirichlet-routed Mixture of Experts**|Amirhossein Vahidi et.al.|[2602.09001](http://arxiv.org/abs/2602.09001)|null|
 |**2026-02-09**|**OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation**|Yehua Huang et.al.|[2602.08896](http://arxiv.org/abs/2602.08896)|null|
 |**2026-02-09**|**FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models**|Annemette Brok Pirchert et.al.|[2602.08818](http://arxiv.org/abs/2602.08818)|null|
-|**2026-02-09**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
-|**2026-02-09**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
+|**2026-02-10**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
+|**2026-02-10**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
 |**2026-02-09**|**Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing**|Jona te Lintelo et.al.|[2602.08741](http://arxiv.org/abs/2602.08741)|null|
 |**2026-02-09**|**6G-Bench: An Open Benchmark for Semantic Communication and Network-Level Reasoning with Foundation Models in AI-Native 6G Networks**|Mohamed Amine Ferrag et.al.|[2602.08675](http://arxiv.org/abs/2602.08675)|null|
-|**2026-02-09**|**Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models**|Mingzi Cao et.al.|[2602.08658](http://arxiv.org/abs/2602.08658)|null|
+|**2026-02-10**|**Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models**|Mingzi Cao et.al.|[2602.08658](http://arxiv.org/abs/2602.08658)|null|
 |**2026-02-09**|**Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs**|Yukun Jiang et.al.|[2602.08621](http://arxiv.org/abs/2602.08621)|null|
 |**2026-02-09**|**Giant Magnetocaloric Effect in a High-Spin Shastry-Sutherland Dipolar Magnet**|Jianjian Gong et.al.|[2602.08497](http://arxiv.org/abs/2602.08497)|null|
 |**2026-02-09**|**TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration**|Linye Wei et.al.|[2602.08404](http://arxiv.org/abs/2602.08404)|null|
@@ -3321,11 +3336,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Simulation of the Space-Charge-Limited Current Density for Time-Variant Pulsed Injection**|H. Huang et.al.|[2602.09399](http://arxiv.org/abs/2602.09399)|null|
+|**2026-02-10**|**Understanding Risk and Dependency in AI Chatbot Use from User Discourse**|Jianfeng Zhu et.al.|[2602.09339](http://arxiv.org/abs/2602.09339)|null|
+|**2026-02-09**|**PICASSO: Scaling CHERI Use-After-Free Protection to Millions of Allocations using Colored Capabilities**|Merve Gülmez et.al.|[2602.09131](http://arxiv.org/abs/2602.09131)|null|
+|**2026-02-09**|**Benchmarking the Energy Savings with Speculative Decoding Strategies**|Rohit Dutta et.al.|[2602.09113](http://arxiv.org/abs/2602.09113)|null|
 |**2026-02-09**|**Symplectic excision and distance rigidity**|Yoel Groman et.al.|[2602.08969](http://arxiv.org/abs/2602.08969)|null|
 |**2026-02-09**|**Three Lessons from Citizen-Centric Participatory AI Design**|Eike Schneiders et.al.|[2602.08554](http://arxiv.org/abs/2602.08554)|null|
 |**2026-02-09**|**On- and off-chain demand and supply drivers of Bitcoin price**|Pavel Ciaian et.al.|[2602.08429](http://arxiv.org/abs/2602.08429)|null|
 |**2026-02-09**|**TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration**|Linye Wei et.al.|[2602.08404](http://arxiv.org/abs/2602.08404)|null|
-|**2026-02-08**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
+|**2026-02-10**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
 |**2026-02-08**|**Dark Matter as Screened Ordinary Matter**|Colin D. Froggatt et.al.|[2602.07902](http://arxiv.org/abs/2602.07902)|null|
 |**2026-02-07**|**Motivic invariants of moduli stacks of Higgs bundles and bundles with connections: results and speculations**|Roman Fedorov et.al.|[2602.07713](http://arxiv.org/abs/2602.07713)|null|
 |**2026-02-07**|**Series-Parallel-Loop Decompositions of Control-flow Graphs**|Xuran Cai et.al.|[2602.07627](http://arxiv.org/abs/2602.07627)|null|
@@ -4473,7 +4492,7 @@ layout: default
 |**2025-12-01**|**TokenPure: Watermark Removal through Tokenized Appearance and Structural Guidance**|Pei Yang et.al.|[2512.01314](http://arxiv.org/abs/2512.01314)|null|
 |**2025-12-01**|**Inversions of stochastic processes from ergodic measures of Nonlinear SDEs**|Hongyu Liu et.al.|[2512.01307](http://arxiv.org/abs/2512.01307)|null|
 |**2025-11-30**|**PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting**|Seokhyun Chin et.al.|[2512.01062](http://arxiv.org/abs/2512.01062)|null|
-|**2025-11-29**|**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**|He-Yen Hsieh et.al.|[2512.00670](http://arxiv.org/abs/2512.00670)|null|
+|**2025-11-29**|**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**|He-Yen Hsieh et.al.|[2512.00670](http://arxiv.org/abs/2512.00670)|**[link](https://github.com/louisYen/EDIT)**|
 |**2025-11-28**|**Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent**|Jianzhe Lin et.al.|[2511.23436](http://arxiv.org/abs/2511.23436)|null|
 |**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
 |**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
@@ -4492,7 +4511,7 @@ layout: default
 |**2025-11-27**|**VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models**|Silin Cheng et.al.|[2511.22664](http://arxiv.org/abs/2511.22664)|null|
 |**2025-11-27**|**Geometrically-Constrained Agent for Spatial Reasoning**|Zeren Chen et.al.|[2511.22659](http://arxiv.org/abs/2511.22659)|null|
 |**2025-11-27**|**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**|Yanbo Mao et.al.|[2511.22555](http://arxiv.org/abs/2511.22555)|null|
-|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|null|
+|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|**[link](https://github.com/Westlake-AGI-Lab/Fast3Dcache)**|
 |**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
 |**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
 |**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
