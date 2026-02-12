@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1573,7 +1573,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1648,7 +1648,7 @@
 |**2025-06-17**|**Semantic Scheduling for LLM Inference**|Wenyue Hua et.al.|[2506.12204](http://arxiv.org/abs/2506.12204)|null|
 |**2025-05-29**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554](http://arxiv.org/abs/2505.23554)|null|
 |**2025-05-26**|**Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**|Ruixiao Li et.al.|[2505.17074](http://arxiv.org/abs/2505.17074)|null|
-|**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
+|**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|**[link](https://github.com/hyunnnchoi/ELIS)**|
 |**2025-04-25**|**Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents**|Yueying Li et.al.|[2504.07347](http://arxiv.org/abs/2504.07347)|null|
 |**2025-04-08**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|
 |**2025-07-25**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|
@@ -1656,7 +1656,7 @@
 |**2025-11-06**|**LLM Query Scheduling with Prefix Reuse and Latency Constraints**|Gregory Dexter et.al.|[2502.04677](http://arxiv.org/abs/2502.04677)|null|
 |**2024-11-01**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
-|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
+|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 |**2024-11-15**|**Large Language Models for Power Scheduling: A User-Centric Approach**|Thomas Mongaillard et.al.|[2407.00476](http://arxiv.org/abs/2407.00476)|null|
 |**2024-06-07**|**Llumnix: Dynamic Scheduling for Large Language Model Serving**|Biao Sun et.al.|[2406.03243](http://arxiv.org/abs/2406.03243)|null|
 |**2024-05-24**|**PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services**|Zheming Yang et.al.|[2405.14636](http://arxiv.org/abs/2405.14636)|null|
@@ -1664,7 +1664,7 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 ## MoE
 
@@ -3343,7 +3343,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -4412,7 +4412,7 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -4507,7 +4507,7 @@
 |**2025-12-01**|**TokenPure: Watermark Removal through Tokenized Appearance and Structural Guidance**|Pei Yang et.al.|[2512.01314](http://arxiv.org/abs/2512.01314)|null|
 |**2025-12-01**|**Inversions of stochastic processes from ergodic measures of Nonlinear SDEs**|Hongyu Liu et.al.|[2512.01307](http://arxiv.org/abs/2512.01307)|null|
 |**2025-11-30**|**PIANO: Physics-informed Dual Neural Operator for Precipitation Nowcasting**|Seokhyun Chin et.al.|[2512.01062](http://arxiv.org/abs/2512.01062)|null|
-|**2025-11-29**|**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**|He-Yen Hsieh et.al.|[2512.00670](http://arxiv.org/abs/2512.00670)|**[link](https://github.com/louisYen/EDIT)**|
+|**2025-11-29**|**EDIT: Early Diffusion Inference Termination for dLLMs Based on Dynamics of Training Gradients**|He-Yen Hsieh et.al.|[2512.00670](http://arxiv.org/abs/2512.00670)|null|
 |**2025-11-28**|**Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent**|Jianzhe Lin et.al.|[2511.23436](http://arxiv.org/abs/2511.23436)|null|
 |**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
 |**2025-11-28**|**SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot**|Yara Mahmoud et.al.|[2511.23300](http://arxiv.org/abs/2511.23300)|null|
@@ -4526,7 +4526,7 @@
 |**2025-11-27**|**VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models**|Silin Cheng et.al.|[2511.22664](http://arxiv.org/abs/2511.22664)|null|
 |**2025-11-27**|**Geometrically-Constrained Agent for Spatial Reasoning**|Zeren Chen et.al.|[2511.22659](http://arxiv.org/abs/2511.22659)|null|
 |**2025-11-27**|**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**|Yanbo Mao et.al.|[2511.22555](http://arxiv.org/abs/2511.22555)|null|
-|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|**[link](https://github.com/Westlake-AGI-Lab/Fast3Dcache)**|
+|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|null|
 |**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
 |**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
 |**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
@@ -4769,7 +4769,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
