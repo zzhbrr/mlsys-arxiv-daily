@@ -21,14 +21,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-11**|**FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight**|Jiayi Zhou et.al.|[2602.11136](http://arxiv.org/abs/2602.11136)|**[link](https://github.com/htlou/FormalJudge)**|
+|**2026-02-12**|**OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration**|Youhe Jiang et.al.|[2602.12151](http://arxiv.org/abs/2602.12151)|null|
+|**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|null|
+|**2026-02-12**|**Predicting LLM Output Length via Entropy-Guided Representations**|Huanyi Xie et.al.|[2602.11812](http://arxiv.org/abs/2602.11812)|null|
+|**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|**[link](https://github.com/d47e752/deep_kernel_fusion_for_transformers)**|
+|**2026-02-12**|**GORGO: Maximizing KV-Cache Reuse While Minimizing Network Latency in Cross-Region LLM Load Balancing**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|null|
+|**2026-02-12**|**LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection**|Christian Rondanini et.al.|[2602.11655](http://arxiv.org/abs/2602.11655)|null|
+|**2026-02-12**|**PASCAL: A Phase-Aware Scheduling Algorithm for Serving Reasoning-based Large Language Models**|Eunyeong Cho et.al.|[2602.11530](http://arxiv.org/abs/2602.11530)|null|
+|**2026-02-12**|**PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System**|Lian Liu et.al.|[2602.11521](http://arxiv.org/abs/2602.11521)|null|
+|**2026-02-12**|**Differentially Private and Communication Efficient Large Language Model Split Inference via Stochastic Quantization and Soft Prompt**|Yujie Gu et.al.|[2602.11513](http://arxiv.org/abs/2602.11513)|null|
+|**2026-02-12**|**Cachemir: Fully Homomorphic Encrypted Inference of Generative Large Language Model with KV Cache**|Ye Yu et.al.|[2602.11470](http://arxiv.org/abs/2602.11470)|null|
+|**2026-02-12**|**FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight**|Jiayi Zhou et.al.|[2602.11136](http://arxiv.org/abs/2602.11136)|null|
 |**2026-02-11**|**Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**|Abhishek Saini et.al.|[2602.11088](http://arxiv.org/abs/2602.11088)|null|
 |**2026-02-11**|**BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization**|Youhe Jiang et.al.|[2602.10729](http://arxiv.org/abs/2602.10729)|null|
-|**2026-02-11**|**S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage**|Jie Jiang et.al.|[2602.10606](http://arxiv.org/abs/2602.10606)|null|
-|**2026-02-11**|**QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs**|Kanghyun Noh et.al.|[2602.10431](http://arxiv.org/abs/2602.10431)|null|
+|**2026-02-12**|**S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage**|Jie Jiang et.al.|[2602.10606](http://arxiv.org/abs/2602.10606)|null|
+|**2026-02-12**|**QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs**|Kanghyun Noh et.al.|[2602.10431](http://arxiv.org/abs/2602.10431)|null|
 |**2026-02-10**|**Beyond SMILES: Evaluating Agentic Systems for Drug Discovery**|Edward Wijaya et.al.|[2602.10163](http://arxiv.org/abs/2602.10163)|null|
-|**2026-02-10**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|Yang Wu et.al.|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
-|**2026-02-10**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|null|
+|**2026-02-12**|**Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation**|Yang Wu et.al.|[2602.09829](http://arxiv.org/abs/2602.09829)|null|
+|**2026-02-12**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|null|
 |**2026-02-10**|**MATA: Multi-Agent Framework for Reliable and Flexible Table Question Answering**|Sieun Hyeon et.al.|[2602.09642](http://arxiv.org/abs/2602.09642)|null|
 |**2026-02-10**|**Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning**|Zhida Jiang et.al.|[2602.09578](http://arxiv.org/abs/2602.09578)|null|
 |**2026-02-10**|**LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms**|Jie Kong et.al.|[2602.09323](http://arxiv.org/abs/2602.09323)|null|
@@ -1676,6 +1686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Query-focused and Memory-aware Reranker for Long Context Processing**|Yuqing Li et.al.|[2602.12192](http://arxiv.org/abs/2602.12192)|null|
+|**2026-02-12**|**Measurement of the singly Cabibbo-suppressed decay $Λ_c^+\to pη'$ with Deep Learning**|BESIII Collaboration et.al.|[2602.11974](http://arxiv.org/abs/2602.11974)|null|
+|**2026-02-12**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|null|
+|**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|null|
+|**2026-02-12**|**LAER-MoE: Load-Adaptive Expert Re-layout for Efficient Mixture-of-Experts Training**|Xinyi Liu et.al.|[2602.11686](http://arxiv.org/abs/2602.11686)|null|
+|**2026-02-12**|**Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts**|Haiyang Jiang et.al.|[2602.11622](http://arxiv.org/abs/2602.11622)|null|
+|**2026-02-12**|**Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm**|Jinrui Zhang et.al.|[2602.11543](http://arxiv.org/abs/2602.11543)|null|
+|**2026-02-12**|**Adaptive Milestone Reward for GUI Agents**|Congmin Zheng et.al.|[2602.11524](http://arxiv.org/abs/2602.11524)|null|
+|**2026-02-12**|**Observation of a New Excited $Σ$ State in $ψ(3686)\to\bar{p}K^+Σ^0+c.c.$**|BESIII Collaboration et.al.|[2602.11501](http://arxiv.org/abs/2602.11501)|null|
+|**2026-02-11**|**Charting Empirical Laws for LLM Fine-Tuning in Scientific Multi-Discipline Learning**|Lintao Wang et.al.|[2602.11215](http://arxiv.org/abs/2602.11215)|null|
 |**2026-02-11**|**MoEEdit: Efficient and Routing-Stable Knowledge Editing for Mixture-of-Experts LLMs**|Yupu Gu et.al.|[2602.10965](http://arxiv.org/abs/2602.10965)|null|
 |**2026-02-11**|**CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2602.10933](http://arxiv.org/abs/2602.10933)|null|
 |**2026-02-11**|**VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training**|Guobin Shen et.al.|[2602.10693](http://arxiv.org/abs/2602.10693)|null|
@@ -1684,7 +1704,7 @@
 |**2026-02-11**|**Supercharging Packet-level Network Simulation of Large Model Training via Memoization and Fast-Forwarding**|Fei Long et.al.|[2602.10615](http://arxiv.org/abs/2602.10615)|null|
 |**2026-02-11**|**Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters**|Ailin Huang et.al.|[2602.10604](http://arxiv.org/abs/2602.10604)|null|
 |**2026-02-11**|**Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity**|Guangzhi Xiong et.al.|[2602.10585](http://arxiv.org/abs/2602.10585)|null|
-|**2026-02-11**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
+|**2026-02-12**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
 |**2026-02-10**|**Area-Efficient In-Memory Computing for Mixture-of-Experts via Multiplexing and Caching**|Hanyuan Gao et.al.|[2602.10254](http://arxiv.org/abs/2602.10254)|null|
 |**2026-02-10**|**TDE 2025abcr: A Tidal Disruption Event in the Outskirts of a Massive Galaxy**|Robert Stein et.al.|[2602.10180](http://arxiv.org/abs/2602.10180)|null|
 |**2026-02-10**|**MalMoE: Mixture-of-Experts Enhanced Encrypted Malicious Traffic Detection Under Graph Drift**|Yunpeng Tan et.al.|[2602.10157](http://arxiv.org/abs/2602.10157)|null|
@@ -3367,6 +3387,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Holographic Equidistribution**|Nico Cooper et.al.|[2602.12265](http://arxiv.org/abs/2602.12265)|null|
+|**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)|null|
+|**2026-02-12**|**Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content**|Qile Wang et.al.|[2602.11962](http://arxiv.org/abs/2602.11962)|null|
 |**2026-02-11**|**What do people want to fact-check?**|Bijean Ghafouri et.al.|[2602.10935](http://arxiv.org/abs/2602.10935)|null|
 |**2026-02-10**|**Simulation of the Space-Charge-Limited Current Density for Time-Variant Pulsed Injection**|H. Huang et.al.|[2602.09399](http://arxiv.org/abs/2602.09399)|null|
 |**2026-02-10**|**Understanding Risk and Dependency in AI Chatbot Use from User Discourse**|Jianfeng Zhu et.al.|[2602.09339](http://arxiv.org/abs/2602.09339)|null|
