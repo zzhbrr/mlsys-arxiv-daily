@@ -14,10 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Characterize LSM-tree Compaction Performance via On-Device LLM Inference**|Jiabiao Ding et.al.|[2602.12669](http://arxiv.org/abs/2602.12669)|null|
+|**2026-02-13**|**Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats**|Pengxiang Zhao et.al.|[2602.12635](http://arxiv.org/abs/2602.12635)|null|
+|**2026-02-13**|**TensorCommitments: A Lightweight Verifiable Inference for Language Models**|Oguzhan Baser et.al.|[2602.12630](http://arxiv.org/abs/2602.12630)|**[link](https://github.com/ICML26TC/TensorCommitment)**|
 |**2026-02-12**|**OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration**|Youhe Jiang et.al.|[2602.12151](http://arxiv.org/abs/2602.12151)|null|
 |**2026-02-12**|**PrefillShare: A Shared Prefill Module for KV Reuse in Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2602.12029](http://arxiv.org/abs/2602.12029)|null|
 |**2026-02-12**|**Predicting LLM Output Length via Entropy-Guided Representations**|Huanyi Xie et.al.|[2602.11812](http://arxiv.org/abs/2602.11812)|null|
-|**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|**[link](https://github.com/d47e752/deep_kernel_fusion_for_transformers)**|
+|**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|null|
 |**2026-02-12**|**GORGO: Maximizing KV-Cache Reuse While Minimizing Network Latency in Cross-Region LLM Load Balancing**|Alessio Ricci Toniolo et.al.|[2602.11688](http://arxiv.org/abs/2602.11688)|null|
 |**2026-02-12**|**LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection**|Christian Rondanini et.al.|[2602.11655](http://arxiv.org/abs/2602.11655)|null|
 |**2026-02-12**|**PASCAL: A Phase-Aware Scheduling Algorithm for Serving Reasoning-based Large Language Models**|Eunyeong Cho et.al.|[2602.11530](http://arxiv.org/abs/2602.11530)|null|
@@ -1675,6 +1678,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Improved measurements of the coherence factors and strong-phase differences in $D\to K^-π^+π^+π^-$ and $D\to K^-π^+π^0$ with quantum-correlated $D\bar{D}$ decays**|BESIII Collaboration et.al.|[2602.13002](http://arxiv.org/abs/2602.13002)|null|
+|**2026-02-13**|**Aspect-Based Sentiment Analysis for Future Tourism Experiences: A BERT-MoE Framework for Persian User Reviews**|Hamidreza Kazemi Taskooh et.al.|[2602.12778](http://arxiv.org/abs/2602.12778)|null|
+|**2026-02-13**|**Mixture of Predefined Experts: Maximizing Data Usage on Vertical Federated Learning**|Jon Irureta et.al.|[2602.12708](http://arxiv.org/abs/2602.12708)|null|
+|**2026-02-13**|**Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers**|Anrui Chen et.al.|[2602.12587](http://arxiv.org/abs/2602.12587)|null|
+|**2026-02-13**|**SD-MoE: Spectral Decomposition for Effective Expert Specialization**|Ruijun Huang et.al.|[2602.12556](http://arxiv.org/abs/2602.12556)|null|
+|**2026-02-13**|**Decoder-only Conformer with Modality-aware Sparse Mixtures of Experts for ASR**|Jaeyoung Lee et.al.|[2602.12546](http://arxiv.org/abs/2602.12546)|null|
 |**2026-02-12**|**Query-focused and Memory-aware Reranker for Long Context Processing**|Yuqing Li et.al.|[2602.12192](http://arxiv.org/abs/2602.12192)|null|
 |**2026-02-12**|**Measurement of the singly Cabibbo-suppressed decay $Λ_c^+\to pη'$ with Deep Learning**|BESIII Collaboration et.al.|[2602.11974](http://arxiv.org/abs/2602.11974)|null|
 |**2026-02-12**|**Extending Puzzle for Mixture-of-Experts Reasoning Models with Application to GPT-OSS Acceleration**|Akhiad Bercovich et.al.|[2602.11937](http://arxiv.org/abs/2602.11937)|null|
@@ -3374,6 +3383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding**|Wenhui Liao et.al.|[2602.12957](http://arxiv.org/abs/2602.12957)|null|
 |**2026-02-12**|**Holographic Equidistribution**|Nico Cooper et.al.|[2602.12265](http://arxiv.org/abs/2602.12265)|null|
 |**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)|null|
 |**2026-02-12**|**Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content**|Qile Wang et.al.|[2602.11962](http://arxiv.org/abs/2602.11962)|null|
