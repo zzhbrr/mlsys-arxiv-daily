@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
+|**2026-02-17**|**LLM-as-Judge on a Budget**|Aadirupa Saha et.al.|[2602.15481](http://arxiv.org/abs/2602.15481)|null|
 |**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013](http://arxiv.org/abs/2602.15013)|null|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|null|
 |**2026-02-16**|**WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity**|Lei Chen et.al.|[2602.14452](http://arxiv.org/abs/2602.14452)|null|
@@ -1694,6 +1696,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns**|Ziyu Zhao et.al.|[2602.15521](http://arxiv.org/abs/2602.15521)|null|
+|**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|
+|**2026-02-16**|**Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs**|Ali Khalesi et.al.|[2602.15091](http://arxiv.org/abs/2602.15091)|null|
 |**2026-02-13**|**RynnBrain: Open Embodied Foundation Models**|Ronghao Dang et.al.|[2602.14979](http://arxiv.org/abs/2602.14979)|null|
 |**2026-02-16**|**Topological and arithmetic characteristics about products of projective lines with complex tori**|Jia-Li Mo et.al.|[2602.14745](http://arxiv.org/abs/2602.14745)|null|
 |**2026-02-16**|**DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving**|Chenxu Dang et.al.|[2602.14577](http://arxiv.org/abs/2602.14577)|null|
@@ -3416,6 +3421,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Robot-Assisted Social Dining as a White Glove Service**|Atharva S Kashyap et.al.|[2602.15767](http://arxiv.org/abs/2602.15767)|null|
+|**2026-02-17**|**Hot subdwarf stars from the Hamburg Quasar Survey**|Ulrich Heber et.al.|[2602.15692](http://arxiv.org/abs/2602.15692)|null|
+|**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
+|**2026-02-16**|**Distributed Semi-Speculative Parallel Anisotropic Mesh Adaptation**|Kevin Garner et.al.|[2602.15204](http://arxiv.org/abs/2602.15204)|null|
 |**2026-02-16**|**Kami of the Commons: Towards Designing Agentic AI to Steward the Commons**|Botao Amber Hu et.al.|[2602.14940](http://arxiv.org/abs/2602.14940)|null|
 |**2026-02-16**|**Predicting the success of new crypto-tokens: the Pump.fun case**|Giulio Marino et.al.|[2602.14860](http://arxiv.org/abs/2602.14860)|null|
 |**2026-02-16**|**Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows**|Bardia Mohammadi et.al.|[2602.14849](http://arxiv.org/abs/2602.14849)|null|
@@ -4496,6 +4505,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
 |**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
 |**2026-01-27**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
@@ -4512,7 +4522,7 @@
 |**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
 |**2025-12-21**|**AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**|Longhuan Xu et.al.|[2512.18675](http://arxiv.org/abs/2512.18675)|null|
 |**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
-|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|**[link](https://github.com/dubcyfor3/Focus)**|
+|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model**|Julie Meunier et.al.|[2512.05902](http://arxiv.org/abs/2512.05902)|null|
