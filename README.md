@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013](http://arxiv.org/abs/2602.15013)|null|
 |**2026-02-16**|**Efficient Multi-round LLM Inference over Disaggregated Serving**|Wenhao He et.al.|[2602.14516](http://arxiv.org/abs/2602.14516)|null|
 |**2026-02-16**|**WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity**|Lei Chen et.al.|[2602.14452](http://arxiv.org/abs/2602.14452)|null|
-|**2026-02-15**|**HiVid: LLM-Guided Video Saliency For Content-Aware VOD And Live Streaming**|Jiahui Chen et.al.|[2602.14214](http://arxiv.org/abs/2602.14214)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-15**|**HiVid: LLM-Guided Video Saliency For Content-Aware VOD And Live Streaming**|Jiahui Chen et.al.|[2602.14214](http://arxiv.org/abs/2602.14214)|null|
 |**2026-02-14**|**ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System**|Hao Kang et.al.|[2602.13692](http://arxiv.org/abs/2602.13692)|null|
 |**2026-02-13**|**Characterize LSM-tree Compaction Performance via On-Device LLM Inference**|Jiabiao Ding et.al.|[2602.12669](http://arxiv.org/abs/2602.12669)|null|
 |**2026-02-13**|**Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats**|Pengxiang Zhao et.al.|[2602.12635](http://arxiv.org/abs/2602.12635)|null|
@@ -1597,7 +1597,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1688,7 +1688,7 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 ## MoE
 
@@ -3410,7 +3410,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 ## Speculative Decoding
 
@@ -3434,7 +3434,7 @@
 |**2026-02-09**|**Symplectic excision and distance rigidity**|Yoel Groman et.al.|[2602.08969](http://arxiv.org/abs/2602.08969)|null|
 |**2026-02-09**|**Three Lessons from Citizen-Centric Participatory AI Design**|Eike Schneiders et.al.|[2602.08554](http://arxiv.org/abs/2602.08554)|null|
 |**2026-02-09**|**On- and off-chain demand and supply drivers of Bitcoin price**|Pavel Ciaian et.al.|[2602.08429](http://arxiv.org/abs/2602.08429)|null|
-|**2026-02-09**|**TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration**|Linye Wei et.al.|[2602.08404](http://arxiv.org/abs/2602.08404)|**[link](https://github.com/PKU-SEC-Lab/TEAM-MoE-dLLM)**|
+|**2026-02-09**|**TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration**|Linye Wei et.al.|[2602.08404](http://arxiv.org/abs/2602.08404)|null|
 |**2026-02-10**|**Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices**|Alejandro Ruiz y Mesa et.al.|[2602.08060](http://arxiv.org/abs/2602.08060)|null|
 |**2026-02-08**|**Dark Matter as Screened Ordinary Matter**|Colin D. Froggatt et.al.|[2602.07902](http://arxiv.org/abs/2602.07902)|null|
 |**2026-02-07**|**Motivic invariants of moduli stacks of Higgs bundles and bundles with connections: results and speculations**|Roman Fedorov et.al.|[2602.07713](http://arxiv.org/abs/2602.07713)|null|
@@ -4490,16 +4490,16 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 ## Multimodal System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
-|**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|**[link](https://github.com/leeguandong/FastUSP)**|
+|**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
 |**2026-01-27**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
-|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|**[link](https://github.com/giddyyupp/annotation-free-spacecraft-segmentation)**|
+|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
 |**2026-02-05**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
 |**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
 |**2026-02-03**|**SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass**|Chen Qian et.al.|[2602.03134](http://arxiv.org/abs/2602.03134)|null|
@@ -4512,7 +4512,7 @@
 |**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani et.al.|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
 |**2025-12-21**|**AsyncDiff: Asynchronous Timestep Conditioning for Enhanced Text-to-Image Diffusion Inference**|Longhuan Xu et.al.|[2512.18675](http://arxiv.org/abs/2512.18675)|null|
 |**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
-|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
+|**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|**[link](https://github.com/dubcyfor3/Focus)**|
 |**2025-12-10**|**LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating**|Junting Chen et.al.|[2512.09920](http://arxiv.org/abs/2512.09920)|null|
 |**2025-12-05**|**Training-Time Action Conditioning for Efficient Real-Time Chunking**|Kevin Black et.al.|[2512.05964](http://arxiv.org/abs/2512.05964)|null|
 |**2025-12-05**|**Quantitatively mapping the Eady model onto a two-layer quasi-geostrophic model**|Julie Meunier et.al.|[2512.05902](http://arxiv.org/abs/2512.05902)|null|
@@ -4849,7 +4849,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
