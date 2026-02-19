@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving**|Chia-chi Hsieh et.al.|[2602.16603](http://arxiv.org/abs/2602.16603)|**[link](https://github.com/HSIEHCHIACHI/FlowPrefill)**|
+|**2026-02-18**|**LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud-Edge Continuum**|Zijie Su et.al.|[2602.16100](http://arxiv.org/abs/2602.16100)|null|
+|**2026-02-17**|**CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill**|Bradley McDanel et.al.|[2602.16054](http://arxiv.org/abs/2602.16054)|null|
+|**2026-02-17**|**MoE-Spec: Expert Budgeting for Efficient Speculative Decoding**|Bradley McDanel et.al.|[2602.16052](http://arxiv.org/abs/2602.16052)|null|
 |**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
 |**2026-02-17**|**LLM-as-Judge on a Budget**|Aadirupa Saha et.al.|[2602.15481](http://arxiv.org/abs/2602.15481)|null|
 |**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013](http://arxiv.org/abs/2602.15013)|null|
@@ -1696,6 +1700,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Geometric Neural Operators via Lie Group-Constrained Latent Dynamics**|Jiaquan Zhang et.al.|[2602.16209](http://arxiv.org/abs/2602.16209)|null|
+|**2026-02-18**|**OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**|Tianwei Lin et.al.|[2602.16110](http://arxiv.org/abs/2602.16110)|null|
+|**2026-02-18**|**Federated Graph AGI for Cross-Border Insider Threat Intelligence in Government Financial Schemes**|Srikumar Nayak et.al.|[2602.16109](http://arxiv.org/abs/2602.16109)|null|
+|**2026-02-17**|**MoE-Spec: Expert Budgeting for Efficient Speculative Decoding**|Bradley McDanel et.al.|[2602.16052](http://arxiv.org/abs/2602.16052)|null|
 |**2026-02-17**|**ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns**|Ziyu Zhao et.al.|[2602.15521](http://arxiv.org/abs/2602.15521)|null|
 |**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|
 |**2026-02-16**|**Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs**|Ali Khalesi et.al.|[2602.15091](http://arxiv.org/abs/2602.15091)|null|
@@ -3421,6 +3429,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**MoE-Spec: Expert Budgeting for Efficient Speculative Decoding**|Bradley McDanel et.al.|[2602.16052](http://arxiv.org/abs/2602.16052)|null|
+|**2026-02-17**|**A Theoretical Approach to Stablecoin Design via Price Windows**|Katherine Molinet et.al.|[2602.15981](http://arxiv.org/abs/2602.15981)|null|
 |**2026-02-17**|**Robot-Assisted Social Dining as a White Glove Service**|Atharva S Kashyap et.al.|[2602.15767](http://arxiv.org/abs/2602.15767)|null|
 |**2026-02-17**|**Hot subdwarf stars from the Hamburg Quasar Survey**|Ulrich Heber et.al.|[2602.15692](http://arxiv.org/abs/2602.15692)|null|
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
