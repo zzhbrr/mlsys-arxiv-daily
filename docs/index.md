@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-19**|**Privacy-Preserving Mechanisms Enable Cheap Verifiable Inference of LLMs**|Arka Pal et.al.|[2602.17223](http://arxiv.org/abs/2602.17223)|null|
+|**2026-02-18**|**Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark**|Charalampos Mastrokostas et.al.|[2602.16811](http://arxiv.org/abs/2602.16811)|null|
+|**2026-02-18**|**Privacy-Aware Split Inference with Speculative Decoding for Large Language Models over Wide-Area Networks**|Michael Cunningham et.al.|[2602.16760](http://arxiv.org/abs/2602.16760)|null|
 |**2026-02-18**|**FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving**|Chia-chi Hsieh et.al.|[2602.16603](http://arxiv.org/abs/2602.16603)|**[link](https://github.com/HSIEHCHIACHI/FlowPrefill)**|
 |**2026-02-18**|**LLM-Driven Intent-Based Privacy-Aware Orchestration Across the Cloud-Edge Continuum**|Zijie Su et.al.|[2602.16100](http://arxiv.org/abs/2602.16100)|null|
 |**2026-02-17**|**CLAA: Cross-Layer Attention Aggregation for Accelerating LLM Prefill**|Bradley McDanel et.al.|[2602.16054](http://arxiv.org/abs/2602.16054)|null|
@@ -1689,6 +1693,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Phase-Aware Mixture of Experts for Agentic Reinforcement Learning**|Shengtian Yang et.al.|[2602.17038](http://arxiv.org/abs/2602.17038)|null|
+|**2026-02-19**|**Arcee Trinity Large Technical Report**|Varun Singh et.al.|[2602.17004](http://arxiv.org/abs/2602.17004)|null|
+|**2026-02-19**|**Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation**|Yan Wang et.al.|[2602.16990](http://arxiv.org/abs/2602.16990)|null|
+|**2026-02-18**|**Claim Automation using Large Language Model**|Zhengda Mo et.al.|[2602.16836](http://arxiv.org/abs/2602.16836)|null|
+|**2026-02-18**|**Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning**|Zifan Wang et.al.|[2602.16796](http://arxiv.org/abs/2602.16796)|null|
 |**2026-02-18**|**Geometric Neural Operators via Lie Group-Constrained Latent Dynamics**|Jiaquan Zhang et.al.|[2602.16209](http://arxiv.org/abs/2602.16209)|null|
 |**2026-02-18**|**OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis**|Tianwei Lin et.al.|[2602.16110](http://arxiv.org/abs/2602.16110)|null|
 |**2026-02-18**|**Federated Graph AGI for Cross-Border Insider Threat Intelligence in Government Financial Schemes**|Srikumar Nayak et.al.|[2602.16109](http://arxiv.org/abs/2602.16109)|null|
@@ -3416,6 +3425,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Insidious Imaginaries: A Critical Overview of AI Speculations**|Dejan Grba et.al.|[2602.17383](http://arxiv.org/abs/2602.17383)|null|
+|**2026-02-19**|**Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding**|Rahul Thomas et.al.|[2602.16994](http://arxiv.org/abs/2602.16994)|null|
+|**2026-02-19**|**A testable framework for AI alignment: Simulation Theology as an engineered worldview for silicon-based agents**|Josef A. Habdank et.al.|[2602.16987](http://arxiv.org/abs/2602.16987)|null|
+|**2026-02-18**|**Greedy Multi-Path Block Verification for Faster Decoding in Speculative Sampling**|Rahul Thomas et.al.|[2602.16961](http://arxiv.org/abs/2602.16961)|null|
+|**2026-02-18**|**Privacy-Aware Split Inference with Speculative Decoding for Large Language Models over Wide-Area Networks**|Michael Cunningham et.al.|[2602.16760](http://arxiv.org/abs/2602.16760)|null|
 |**2026-02-17**|**MoE-Spec: Expert Budgeting for Efficient Speculative Decoding**|Bradley McDanel et.al.|[2602.16052](http://arxiv.org/abs/2602.16052)|null|
 |**2026-02-17**|**A Theoretical Approach to Stablecoin Design via Price Windows**|Katherine Molinet et.al.|[2602.15981](http://arxiv.org/abs/2602.15981)|null|
 |**2026-02-17**|**Robot-Assisted Social Dining as a White Glove Service**|Atharva S Kashyap et.al.|[2602.15767](http://arxiv.org/abs/2602.15767)|null|
