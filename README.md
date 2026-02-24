@@ -21,6 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?**|Ayush Nangia et.al.|[2602.19594](http://arxiv.org/abs/2602.19594)|null|
+|**2026-02-22**|**A Power Market Model with Hypersaclers and Modular Datacenters**|Yihsu Chen et.al.|[2602.19310](http://arxiv.org/abs/2602.19310)|null|
+|**2026-02-22**|**Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation**|Xiangyu Liu et.al.|[2602.19309](http://arxiv.org/abs/2602.19309)|null|
+|**2026-02-21**|**WANSpec: Leveraging Global Compute Capacity for LLM Inference**|Noah Martin et.al.|[2602.18931](http://arxiv.org/abs/2602.18931)|null|
+|**2026-02-21**|**BiScale: Energy-Efficient Disaggregated LLM Serving via Phase-Aware Placement and DVFS**|Omar Basit et.al.|[2602.18755](http://arxiv.org/abs/2602.18755)|null|
+|**2026-02-21**|**HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD**|He Sun et.al.|[2602.18750](http://arxiv.org/abs/2602.18750)|null|
+|**2026-02-20**|**RPU -- A Reasoning Processing Unit**|Matthew Adiletta et.al.|[2602.18568](http://arxiv.org/abs/2602.18568)|null|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
 |**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
 |**2026-02-19**|**Privacy-Preserving Mechanisms Enable Cheap Verifiable Inference of LLMs**|Arka Pal et.al.|[2602.17223](http://arxiv.org/abs/2602.17223)|null|
@@ -1705,6 +1712,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision**|Yuxing Tian et.al.|[2602.20019](http://arxiv.org/abs/2602.20019)|null|
+|**2026-02-23**|**Counterfactual Understanding via Retrieval-aware Multimodal Modeling for Time-to-Event Survival Prediction**|Ha-Anh Hoang Nguyen et.al.|[2602.19987](http://arxiv.org/abs/2602.19987)|null|
+|**2026-02-23**|**ReAttn: Improving Attention-based Re-ranking via Attention Re-weighting**|Yuxing Tian et.al.|[2602.19969](http://arxiv.org/abs/2602.19969)|null|
+|**2026-02-23**|**A Replicate-and-Quantize Strategy for Plug-and-Play Load Balancing of Sparse Mixture-of-Experts LLMs**|Zijie Liu et.al.|[2602.19938](http://arxiv.org/abs/2602.19938)|null|
+|**2026-02-23**|**Towards Dexterous Embodied Manipulation via Deep Multi-Sensory Fusion and Sparse Expert Scaling**|Yirui Sun et.al.|[2602.19764](http://arxiv.org/abs/2602.19764)|null|
+|**2026-02-23**|**Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis**|Junhyeok Choi et.al.|[2602.19756](http://arxiv.org/abs/2602.19756)|null|
+|**2026-02-23**|**RAID: Retrieval-Augmented Anomaly Detection**|Mingxiu Cai et.al.|[2602.19611](http://arxiv.org/abs/2602.19611)|null|
+|**2026-02-23**|**EMS-FL: Federated Tuning of Mixture-of-Experts in Satellite-Terrestrial Networks via Expert-Driven Model Splitting**|Angzi Xu et.al.|[2602.19485](http://arxiv.org/abs/2602.19485)|null|
+|**2026-02-22**|**RegionRoute: Regional Style Transfer with Diffusion Model**|Bowen Chen et.al.|[2602.19254](http://arxiv.org/abs/2602.19254)|null|
+|**2026-02-22**|**Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts**|Toshihide Ubukata et.al.|[2602.19244](http://arxiv.org/abs/2602.19244)|null|
+|**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213](http://arxiv.org/abs/2602.19213)|null|
+|**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
+|**2026-02-22**|**K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model**|Shiyi Cao et.al.|[2602.19128](http://arxiv.org/abs/2602.19128)|null|
+|**2026-02-22**|**Routing-Aware Explanations for Mixture of Experts Graph Models in Malware Detection**|Hossein Shokouhinejad et.al.|[2602.19025](http://arxiv.org/abs/2602.19025)|null|
+|**2026-02-21**|**NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners**|Albert Tang et.al.|[2602.18962](http://arxiv.org/abs/2602.18962)|null|
+|**2026-02-21**|**Give Users the Wheel: Towards Promptable Recommendation Paradigm**|Fuyuan Lyu et.al.|[2602.18929](http://arxiv.org/abs/2602.18929)|null|
+|**2026-02-21**|**Diverse properties of electron Forbush decreases revealed by the Dark Matter Particle Explorer**|F. Alemanno et.al.|[2602.18743](http://arxiv.org/abs/2602.18743)|null|
+|**2026-02-21**|**Comprehensive measurement of $η^\prime$ photoproduction off the proton at $E_γ< 2.4$ $\mathrm{GeV}$**|N. Muramatsu et.al.|[2602.18675](http://arxiv.org/abs/2602.18675)|null|
 |**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
 |**2026-02-20**|**RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis**|Chris Tomy et.al.|[2602.18119](http://arxiv.org/abs/2602.18119)|null|
 |**2026-02-20**|**DeepSVU: Towards In-depth Security-oriented Video Understanding via Unified Physical-world Regularized MoE**|Yujie Jin et.al.|[2602.18019](http://arxiv.org/abs/2602.18019)|null|
@@ -3443,6 +3468,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**|Xinya Chen et.al.|[2602.20079](http://arxiv.org/abs/2602.20079)|null|
+|**2026-02-23**|**Anisotropic magnons in a layered honeycomb ferromagnet**|Travis J. Williams et.al.|[2602.19935](http://arxiv.org/abs/2602.19935)|null|
+|**2026-02-23**|**Two-parameter families of MPO integrals of motion in Heisenberg spin chains**|Vsevolod I. Yashin et.al.|[2602.19741](http://arxiv.org/abs/2602.19741)|null|
+|**2026-02-23**|**Leap+Verify: Regime-Adaptive Speculative Weight Prediction for Accelerating Neural Network Training**|Jeremy McEntire et.al.|[2602.19580](http://arxiv.org/abs/2602.19580)|null|
+|**2026-02-21**|**WANSpec: Leveraging Global Compute Capacity for LLM Inference**|Noah Martin et.al.|[2602.18931](http://arxiv.org/abs/2602.18931)|null|
 |**2026-02-19**|**Insidious Imaginaries: A Critical Overview of AI Speculations**|Dejan Grba et.al.|[2602.17383](http://arxiv.org/abs/2602.17383)|null|
 |**2026-02-19**|**Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding**|Rahul Thomas et.al.|[2602.16994](http://arxiv.org/abs/2602.16994)|null|
 |**2026-02-19**|**A testable framework for AI alignment: Simulation Theology as an engineered worldview for silicon-based agents**|Josef A. Habdank et.al.|[2602.16987](http://arxiv.org/abs/2602.16987)|null|
@@ -4536,10 +4566,10 @@
 |---|---|---|---|---|
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
-|**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|**[link](https://github.com/leeguandong/FastUSP)**|
+|**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
 |**2026-01-27**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
-|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|**[link](https://github.com/giddyyupp/annotation-free-spacecraft-segmentation)**|
-|**2026-02-05**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|**[link](https://github.com/ocy1/PIO-FVLM)**|
+|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
+|**2026-02-05**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
 |**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
 |**2026-02-03**|**SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass**|Chen Qian et.al.|[2602.03134](http://arxiv.org/abs/2602.03134)|null|
 |**2026-01-31**|**APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation**|Daoxuan Zhang et.al.|[2602.00551](http://arxiv.org/abs/2602.00551)|null|
