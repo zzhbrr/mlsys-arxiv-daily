@@ -14,15 +14,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
+|**2026-02-24**|**CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference**|Chao Fei et.al.|[2602.20732](http://arxiv.org/abs/2602.20732)|null|
+|**2026-02-24**|**OptiLeak: Efficient Prompt Reconstruction via Reinforcement Learning in Multi-tenant LLM Services**|Longxiang Wang et.al.|[2602.20595](http://arxiv.org/abs/2602.20595)|null|
+|**2026-02-24**|**FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill**|Rakshith Jayanth et.al.|[2602.20515](http://arxiv.org/abs/2602.20515)|null|
+|**2026-02-23**|**KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem**|Seongjin Cha et.al.|[2602.20217](http://arxiv.org/abs/2602.20217)|null|
+|**2026-02-21**|**MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Elastic LLMs**|Dongwei Wang et.al.|[2602.20191](http://arxiv.org/abs/2602.20191)|null|
 |**2026-02-23**|**ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?**|Ayush Nangia et.al.|[2602.19594](http://arxiv.org/abs/2602.19594)|null|
 |**2026-02-22**|**A Power Market Model with Hypersaclers and Modular Datacenters**|Yihsu Chen et.al.|[2602.19310](http://arxiv.org/abs/2602.19310)|null|
 |**2026-02-22**|**Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation**|Xiangyu Liu et.al.|[2602.19309](http://arxiv.org/abs/2602.19309)|null|
 |**2026-02-21**|**WANSpec: Leveraging Global Compute Capacity for LLM Inference**|Noah Martin et.al.|[2602.18931](http://arxiv.org/abs/2602.18931)|null|
 |**2026-02-21**|**BiScale: Energy-Efficient Disaggregated LLM Serving via Phase-Aware Placement and DVFS**|Omar Basit et.al.|[2602.18755](http://arxiv.org/abs/2602.18755)|null|
 |**2026-02-21**|**HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD**|He Sun et.al.|[2602.18750](http://arxiv.org/abs/2602.18750)|null|
-|**2026-02-20**|**RPU -- A Reasoning Processing Unit**|Matthew Adiletta et.al.|[2602.18568](http://arxiv.org/abs/2602.18568)|null|
+|**2026-02-24**|**RPU -- A Reasoning Processing Unit**|Matthew Adiletta et.al.|[2602.18568](http://arxiv.org/abs/2602.18568)|null|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
-|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-24**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
 |**2026-02-19**|**Privacy-Preserving Mechanisms Enable Cheap Verifiable Inference of LLMs**|Arka Pal et.al.|[2602.17223](http://arxiv.org/abs/2602.17223)|null|
 |**2026-02-18**|**Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark**|Charalampos Mastrokostas et.al.|[2602.16811](http://arxiv.org/abs/2602.16811)|null|
 |**2026-02-18**|**Privacy-Aware Split Inference with Speculative Decoding for Large Language Models over Wide-Area Networks**|Michael Cunningham et.al.|[2602.16760](http://arxiv.org/abs/2602.16760)|null|
@@ -1701,6 +1707,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
+|**2026-02-24**|**MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification**|Jiahao Xu et.al.|[2602.20873](http://arxiv.org/abs/2602.20873)|null|
+|**2026-02-24**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
+|**2026-02-24**|**Multi-time Loewner energy: rate function for large deviation**|Mo Chen et.al.|[2602.20642](http://arxiv.org/abs/2602.20642)|null|
+|**2026-02-24**|**Precise Measurement of Matter-Antimatter Asymmetry with Entangled Hyperon Antihyperon Pairs**|BESIII Collaboration et.al.|[2602.20524](http://arxiv.org/abs/2602.20524)|null|
+|**2026-02-24**|**Search for Light-Mass Fractionally Charged Particles in Space with DAMPE Experiment**|F. Alemanno et.al.|[2602.20519](http://arxiv.org/abs/2602.20519)|null|
+|**2026-02-24**|**Wireless Federated Multi-Task LLM Fine-Tuning via Sparse-and-Orthogonal LoRA**|Nuocheng Yang et.al.|[2602.20492](http://arxiv.org/abs/2602.20492)|null|
 |**2026-02-23**|**Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision**|Yuxing Tian et.al.|[2602.20019](http://arxiv.org/abs/2602.20019)|null|
 |**2026-02-23**|**Counterfactual Understanding via Retrieval-aware Multimodal Modeling for Time-to-Event Survival Prediction**|Ha-Anh Hoang Nguyen et.al.|[2602.19987](http://arxiv.org/abs/2602.19987)|null|
 |**2026-02-23**|**ReAttn: Improving Attention-based Re-ranking via Attention Re-weighting**|Yuxing Tian et.al.|[2602.19969](http://arxiv.org/abs/2602.19969)|null|
@@ -3455,6 +3468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem**|Seongjin Cha et.al.|[2602.20217](http://arxiv.org/abs/2602.20217)|null|
 |**2026-02-23**|**SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**|Xinya Chen et.al.|[2602.20079](http://arxiv.org/abs/2602.20079)|null|
 |**2026-02-23**|**Anisotropic magnons in a layered honeycomb ferromagnet**|Travis J. Williams et.al.|[2602.19935](http://arxiv.org/abs/2602.19935)|null|
 |**2026-02-23**|**Two-parameter families of MPO integrals of motion in Heisenberg spin chains**|Vsevolod I. Yashin et.al.|[2602.19741](http://arxiv.org/abs/2602.19741)|null|
@@ -4552,7 +4566,7 @@ layout: default
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
 |**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
-|**2026-01-27**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
+|**2026-02-24**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
 |**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
 |**2026-02-05**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
 |**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
