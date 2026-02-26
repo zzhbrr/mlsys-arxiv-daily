@@ -21,6 +21,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
+|**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
+|**2026-02-25**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|null|
+|**2026-02-25**|**Pancake: Hierarchical Memory System for Multi-Agent LLM Serving**|Zhengding Hu et.al.|[2602.21477](http://arxiv.org/abs/2602.21477)|null|
+|**2026-02-24**|**SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks**|Elizabeth S. Z. Tan et.al.|[2602.21307](http://arxiv.org/abs/2602.21307)|null|
 |**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
 |**2026-02-24**|**CHESS: Context-aware Hierarchical Efficient Semantic Selection for Long-Context LLM Inference**|Chao Fei et.al.|[2602.20732](http://arxiv.org/abs/2602.20732)|null|
 |**2026-02-24**|**OptiLeak: Efficient Prompt Reconstruction via Reinforcement Learning in Multi-tenant LLM Services**|Longxiang Wang et.al.|[2602.20595](http://arxiv.org/abs/2602.20595)|null|
@@ -31,7 +36,7 @@
 |**2026-02-22**|**A Power Market Model with Hypersaclers and Modular Datacenters**|Yihsu Chen et.al.|[2602.19310](http://arxiv.org/abs/2602.19310)|null|
 |**2026-02-22**|**Scaling Inference-Time Computation via Opponent Simulation: Enabling Online Strategic Adaptation in Repeated Negotiation**|Xiangyu Liu et.al.|[2602.19309](http://arxiv.org/abs/2602.19309)|null|
 |**2026-02-21**|**WANSpec: Leveraging Global Compute Capacity for LLM Inference**|Noah Martin et.al.|[2602.18931](http://arxiv.org/abs/2602.18931)|null|
-|**2026-02-21**|**BiScale: Energy-Efficient Disaggregated LLM Serving via Phase-Aware Placement and DVFS**|Omar Basit et.al.|[2602.18755](http://arxiv.org/abs/2602.18755)|null|
+|**2026-02-25**|**BiScale: Energy-Efficient Disaggregated LLM Serving via Phase-Aware Placement and DVFS**|Omar Basit et.al.|[2602.18755](http://arxiv.org/abs/2602.18755)|null|
 |**2026-02-21**|**HillInfer: Efficient Long-Context LLM Inference on the Edge with Hierarchical KV Eviction using SmartSSD**|He Sun et.al.|[2602.18750](http://arxiv.org/abs/2602.18750)|null|
 |**2026-02-24**|**RPU -- A Reasoning Processing Unit**|Matthew Adiletta et.al.|[2602.18568](http://arxiv.org/abs/2602.18568)|null|
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|
@@ -1718,9 +1723,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**|Dengdi Sun et.al.|[2602.22059](http://arxiv.org/abs/2602.22059)|null|
+|**2026-02-25**|**Excitation: Momentum For Experts**|Sagi Shaier et.al.|[2602.21798](http://arxiv.org/abs/2602.21798)|null|
+|**2026-02-25**|**Learning from Yesterday's Error: An Efficient Online Learning Method for Traffic Demand Prediction**|Xiannan Huang et.al.|[2602.21757](http://arxiv.org/abs/2602.21757)|null|
+|**2026-02-25**|**TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts**|Jiafeng Lin et.al.|[2602.21693](http://arxiv.org/abs/2602.21693)|null|
+|**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
+|**2026-02-24**|**A Path to an All-Sky Survey with Roman**|Jiwon Jesse Han et.al.|[2602.21280](http://arxiv.org/abs/2602.21280)|null|
+|**2026-02-24**|**On infinite sets with no $3$ on a line**|Moe Putterman et.al.|[2602.21275](http://arxiv.org/abs/2602.21275)|null|
 |**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
 |**2026-02-24**|**MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification**|Jiahao Xu et.al.|[2602.20873](http://arxiv.org/abs/2602.20873)|null|
-|**2026-02-24**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
+|**2026-02-25**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
 |**2026-02-24**|**Multi-time Loewner energy: rate function for large deviation**|Mo Chen et.al.|[2602.20642](http://arxiv.org/abs/2602.20642)|null|
 |**2026-02-24**|**Precise Measurement of Matter-Antimatter Asymmetry with Entangled Hyperon Antihyperon Pairs**|BESIII Collaboration et.al.|[2602.20524](http://arxiv.org/abs/2602.20524)|null|
 |**2026-02-24**|**Search for Light-Mass Fractionally Charged Particles in Space with DAMPE Experiment**|F. Alemanno et.al.|[2602.20519](http://arxiv.org/abs/2602.20519)|null|
@@ -3481,6 +3493,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**BMN-like Matrix Models**|Eunwoo Lee et.al.|[2602.22163](http://arxiv.org/abs/2602.22163)|null|
+|**2026-02-25**|**Speculating for Epiplexity: How to Learn the Most from Speculative Design?**|Botao Amber Hu et.al.|[2602.22132](http://arxiv.org/abs/2602.22132)|null|
+|**2026-02-25**|**Tidal disruptions of rubble piles: The case of Phobos**|Harrison Agrusa et.al.|[2602.21912](http://arxiv.org/abs/2602.21912)|null|
+|**2026-02-24**|**Asymptotically (un)safe scattering amplitudes from scratch: a deep dive into the IR jungle**|Benjamin Knorr et.al.|[2602.21285](http://arxiv.org/abs/2602.21285)|null|
 |**2026-02-23**|**KnapSpec: Self-Speculative Decoding via Adaptive Layer Selection as a Knapsack Problem**|Seongjin Cha et.al.|[2602.20217](http://arxiv.org/abs/2602.20217)|null|
 |**2026-02-23**|**SemanticNVS: Improving Semantic Scene Understanding in Generative Novel View Synthesis**|Xinya Chen et.al.|[2602.20079](http://arxiv.org/abs/2602.20079)|null|
 |**2026-02-23**|**Anisotropic magnons in a layered honeycomb ferromagnet**|Travis J. Williams et.al.|[2602.19935](http://arxiv.org/abs/2602.19935)|null|
