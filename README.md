@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving**|Ferran Agullo et.al.|[2602.24044](http://arxiv.org/abs/2602.24044)|null|
+|**2026-02-27**|**LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding**|Alexander Samarin et.al.|[2602.23881](http://arxiv.org/abs/2602.23881)|null|
+|**2026-02-27**|**SLA-Aware Distributed LLM Inference Across Device-RAN-Cloud**|Hariz Yet et.al.|[2602.23722](http://arxiv.org/abs/2602.23722)|**[link](https://github.com/FCCLab/sla-aware-llm-inference-device-ran-cloud)**|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
 |**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|**[link](https://github.com/casys-kaist/LLMServingSim)**|
 |**2026-02-26**|**Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching**|Hiroki Matsutani et.al.|[2602.22812](http://arxiv.org/abs/2602.22812)|null|
@@ -1731,6 +1734,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning**|Yuxuan Liu et.al.|[2602.24142](http://arxiv.org/abs/2602.24142)|null|
+|**2026-02-27**|**Precision Studies and Searches for CP Asymmetries in the Inclusive Decay $Λ_{c}^{+}\to ΛX$**|BESIII Collaboration et.al.|[2602.24089](http://arxiv.org/abs/2602.24089)|null|
+|**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Chenwei Jia et.al.|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
+|**2026-02-27**|**Measurement of Born Cross Sections for $e^+e^-\toΣ^-\barΣ^+$ at $\sqrt{s}=3.51-4.95$ GeV and Observation of $ψ(3770)\toΣ^-\barΣ^+$**|BESIII Collaboration et.al.|[2602.23835](http://arxiv.org/abs/2602.23835)|null|
+|**2026-02-27**|**ProductResearch: Training E-Commerce Deep Research Agents via Multi-Agent Synthetic Trajectory Distillation**|Jiangyuan Wang et.al.|[2602.23716](http://arxiv.org/abs/2602.23716)|null|
+|**2026-02-26**|**Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG**|Hanning Guo et.al.|[2602.23410](http://arxiv.org/abs/2602.23410)|null|
 |**2026-02-26**|**A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations**|Soumya Dutta et.al.|[2602.23300](http://arxiv.org/abs/2602.23300)|null|
 |**2026-02-26**|**Learning Physical Operators using Neural Operators**|Vignesh Gopakumar et.al.|[2602.23113](http://arxiv.org/abs/2602.23113)|null|
 |**2026-02-26**|**Residual Koopman Spectral Profiling for Predicting and Preventing Transformer Training Instability**|Bum Jun Kim et.al.|[2602.22988](http://arxiv.org/abs/2602.22988)|null|
@@ -3514,6 +3523,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Betting under Common Beliefs: The Effect of Probability Weighting**|Patrick Beissner et.al.|[2602.24194](http://arxiv.org/abs/2602.24194)|null|
+|**2026-02-27**|**Task-Centric Acceleration of Small-Language Models**|Dor Tsur et.al.|[2602.24174](http://arxiv.org/abs/2602.24174)|null|
+|**2026-02-27**|**LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding**|Alexander Samarin et.al.|[2602.23881](http://arxiv.org/abs/2602.23881)|null|
+|**2026-02-27**|**The Auton Agentic AI Framework**|Sheng Cao et.al.|[2602.23720](http://arxiv.org/abs/2602.23720)|null|
+|**2026-02-27**|**Active Learning for Planet Habitability Classification under Extreme Class Imbalance**|R. I. El-Kholy et.al.|[2602.23666](http://arxiv.org/abs/2602.23666)|null|
 |**2026-02-25**|**The shape of transverse momentum spectra in hybrid hydrodynamic models**|Thiago S. Domingues et.al.|[2602.22490](http://arxiv.org/abs/2602.22490)|null|
 |**2026-02-25**|**BMN-like Matrix Models**|Eunwoo Lee et.al.|[2602.22163](http://arxiv.org/abs/2602.22163)|null|
 |**2026-02-25**|**Speculating for Epiplexity: How to Learn the Most from Speculative Design?**|Botao Amber Hu et.al.|[2602.22132](http://arxiv.org/abs/2602.22132)|null|
@@ -4616,6 +4630,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
+|**2026-02-26**|**LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification**|Shawn Liang et.al.|[2602.23553](http://arxiv.org/abs/2602.23553)|null|
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
 |**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
