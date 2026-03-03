@@ -14,15 +14,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads**|Dominik Scheinert et.al.|[2603.02057](http://arxiv.org/abs/2603.02057)|null|
+|**2026-03-02**|**Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning**|Jiebin Zhang et.al.|[2603.01639](http://arxiv.org/abs/2603.01639)|**[link](https://github.com/zhzihao/Learning-to-Draft)**|
+|**2026-03-02**|**Graph-Based Self-Healing Tool Routing for Cost-Efficient LLM Agents**|Neeraj Bholani et.al.|[2603.01548](http://arxiv.org/abs/2603.01548)|null|
+|**2026-03-02**|**Towards Privacy-Preserving LLM Inference via Collaborative Obfuscation (Technical Report)**|Yu Lin et.al.|[2603.01499](http://arxiv.org/abs/2603.01499)|null|
+|**2026-03-02**|**Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study**|Emmanuel Aboah Boateng et.al.|[2603.01486](http://arxiv.org/abs/2603.01486)|null|
+|**2026-03-02**|**SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment**|Chaoran Xiong et.al.|[2603.01477](http://arxiv.org/abs/2603.01477)|null|
+|**2026-03-02**|**Quasar: Quantized Self-Speculative Acceleration for Rapid Inference via Memory-Efficient Verification**|Guang Huang et.al.|[2603.01399](http://arxiv.org/abs/2603.01399)|null|
 |**2026-02-27**|**Data Driven Optimization of GPU efficiency for Distributed LLM Adapter Serving**|Ferran Agullo et.al.|[2602.24044](http://arxiv.org/abs/2602.24044)|null|
 |**2026-02-27**|**LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding**|Alexander Samarin et.al.|[2602.23881](http://arxiv.org/abs/2602.23881)|null|
-|**2026-02-27**|**SLA-Aware Distributed LLM Inference Across Device-RAN-Cloud**|Hariz Yet et.al.|[2602.23722](http://arxiv.org/abs/2602.23722)|**[link](https://github.com/FCCLab/sla-aware-llm-inference-device-ran-cloud)**|
+|**2026-02-27**|**SLA-Aware Distributed LLM Inference Across Device-RAN-Cloud**|Hariz Yet et.al.|[2602.23722](http://arxiv.org/abs/2602.23722)|null|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
-|**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|**[link](https://github.com/casys-kaist/LLMServingSim)**|
+|**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|null|
 |**2026-02-26**|**Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching**|Hiroki Matsutani et.al.|[2602.22812](http://arxiv.org/abs/2602.22812)|null|
 |**2026-02-26**|**Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement**|Shuchen Zhu et.al.|[2602.22681](http://arxiv.org/abs/2602.22681)|null|
 |**2026-02-26**|**Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning**|Qin-Wen Luo et.al.|[2602.22642](http://arxiv.org/abs/2602.22642)|null|
-|**2026-02-26**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593](http://arxiv.org/abs/2602.22593)|null|
+|**2026-03-02**|**FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving**|Shouwei Gao et.al.|[2602.22593](http://arxiv.org/abs/2602.22593)|null|
 |**2026-02-25**|**AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-rank Adapters for Efficient LLM Fine-Tuning**|Changhai Zhou et.al.|[2602.22268](http://arxiv.org/abs/2602.22268)|null|
 |**2026-02-25**|**Sustainable LLM Inference using Context-Aware Model Switching**|Yuvarani et.al.|[2602.22261](http://arxiv.org/abs/2602.22261)|null|
 |**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
@@ -1723,6 +1730,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Search for the charmonium weak decay $ψ(2S)\to D_s^-π^+ + c.c.$ and $ψ(2S)\to D_s^-ρ^+ + c.c.$**|BESIII Collaboration et.al.|[2603.01777](http://arxiv.org/abs/2603.01777)|null|
+|**2026-03-02**|**DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks**|Gökdeniz Gülmez et.al.|[2603.01697](http://arxiv.org/abs/2603.01697)|null|
+|**2026-03-02**|**PathMoE: Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification**|Jian Yu et.al.|[2603.01547](http://arxiv.org/abs/2603.01547)|null|
+|**2026-03-02**|**Multimodal Mixture-of-Experts with Retrieval Augmentation for Protein Active Site Identification**|Jiayang Wu et.al.|[2603.01511](http://arxiv.org/abs/2603.01511)|null|
+|**2026-03-02**|**DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis**|Zengqi Zhao et.al.|[2603.01433](http://arxiv.org/abs/2603.01433)|null|
+|**2026-03-02**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](http://arxiv.org/abs/2603.01412)|null|
+|**2026-03-02**|**Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting**|Yi Li et.al.|[2603.01363](http://arxiv.org/abs/2603.01363)|null|
+|**2026-03-01**|**Truth as a Trajectory: What Internal Representations Reveal About Large Language Model Reasoning**|Hamed Damirchi et.al.|[2603.01326](http://arxiv.org/abs/2603.01326)|null|
+|**2026-03-01**|**Fast Confidence-Aware Human Prediction via Hardware-accelerated Bayesian Inference for Safe Robot Navigation**|Michael Lu et.al.|[2603.01122](http://arxiv.org/abs/2603.01122)|null|
+|**2026-03-01**|**TriMoE: Augmenting GPU with AMX-Enabled CPU and DIMM-NDP for High-Throughput MoE Inference via Offloading**|Yudong Pan et.al.|[2603.01058](http://arxiv.org/abs/2603.01058)|null|
+|**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|null|
+|**2026-02-28**|**MME: Mixture of Mesh Experts with Random Walk Transformer Gating**|Amir Belder et.al.|[2603.00828](http://arxiv.org/abs/2603.00828)|null|
+|**2026-02-28**|**First Amplitude Analysis of $D^0\rightarrow K^-π^0e^+ν_e$ and Observation of $D^0\rightarrow K^*_2(1430)^-e^+ν_e$**|BESIII Collaboration et.al.|[2603.00743](http://arxiv.org/abs/2603.00743)|null|
+|**2026-02-28**|**K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control**|Zhe Wu et.al.|[2603.00676](http://arxiv.org/abs/2603.00676)|null|
+|**2026-02-28**|**Precise Measurement and Control of Radon Progeny on Detector Surfaces**|C. B. Z. Luo et.al.|[2603.00647](http://arxiv.org/abs/2603.00647)|null|
+|**2026-02-28**|**CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging**|Jie Cao et.al.|[2603.00573](http://arxiv.org/abs/2603.00573)|null|
 |**2026-02-27**|**CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning**|Yuxuan Liu et.al.|[2602.24142](http://arxiv.org/abs/2602.24142)|null|
 |**2026-02-27**|**Precision Studies and Searches for CP Asymmetries in the Inclusive Decay $Λ_{c}^{+}\to ΛX$**|BESIII Collaboration et.al.|[2602.24089](http://arxiv.org/abs/2602.24089)|null|
 |**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Chenwei Jia et.al.|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
@@ -3510,6 +3533,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning**|Jiebin Zhang et.al.|[2603.01639](http://arxiv.org/abs/2603.01639)|null|
+|**2026-03-02**|**KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models**|Zihao Zheng et.al.|[2603.01581](http://arxiv.org/abs/2603.01581)|null|
+|**2026-03-02**|**Quasar: Quantized Self-Speculative Acceleration for Rapid Inference via Memory-Efficient Verification**|Guang Huang et.al.|[2603.01399](http://arxiv.org/abs/2603.01399)|null|
+|**2026-03-01**|**Proscenium: Exploring Design Spaces of Layered Information Experience on a Large Dual-Layer Transparent Display**|Chen Chen et.al.|[2603.01238](http://arxiv.org/abs/2603.01238)|null|
+|**2026-02-27**|**Stellar engines and Dyson bubbles can be stable**|Colin R McInnes et.al.|[2603.00203](http://arxiv.org/abs/2603.00203)|null|
 |**2026-02-27**|**Betting under Common Beliefs: The Effect of Probability Weighting**|Patrick Beissner et.al.|[2602.24194](http://arxiv.org/abs/2602.24194)|null|
 |**2026-02-27**|**Task-Centric Acceleration of Small-Language Models**|Dor Tsur et.al.|[2602.24174](http://arxiv.org/abs/2602.24174)|null|
 |**2026-02-27**|**LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding**|Alexander Samarin et.al.|[2602.23881](http://arxiv.org/abs/2602.23881)|null|
