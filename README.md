@@ -21,8 +21,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?**|Shinas Shaji et.al.|[2603.03148](http://arxiv.org/abs/2603.03148)|null|
+|**2026-03-03**|**SEALing the Gap: A Reference Framework for LLM Inference Carbon Estimation via Multi-Benchmark Driven Embodiment**|Priyavanshi Pathania et.al.|[2603.02949](http://arxiv.org/abs/2603.02949)|null|
+|**2026-03-03**|**Agentic Self-Evolutionary Replanning for Embodied Navigation**|Guoliang Li et.al.|[2603.02772](http://arxiv.org/abs/2603.02772)|null|
+|**2026-03-03**|**Ouroboros: Wafer-Scale SRAM CIM with Token-Grained Pipelining for Large Language Model Inference**|Yiqi Liu et.al.|[2603.02737](http://arxiv.org/abs/2603.02737)|null|
+|**2026-03-03**|**SUN: Shared Use of Next-token Prediction for Efficient Multi-LLM Disaggregated Serving**|Sunghyeon Woo et.al.|[2603.02599](http://arxiv.org/abs/2603.02599)|null|
 |**2026-03-02**|**Beyond Microservices: Testing Web-Scale RCA Methods on GPU-Driven LLM Workloads**|Dominik Scheinert et.al.|[2603.02057](http://arxiv.org/abs/2603.02057)|null|
-|**2026-03-02**|**Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning**|Jiebin Zhang et.al.|[2603.01639](http://arxiv.org/abs/2603.01639)|**[link](https://github.com/zhzihao/Learning-to-Draft)**|
+|**2026-03-02**|**Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning**|Jiebin Zhang et.al.|[2603.01639](http://arxiv.org/abs/2603.01639)|null|
 |**2026-03-02**|**Graph-Based Self-Healing Tool Routing for Cost-Efficient LLM Agents**|Neeraj Bholani et.al.|[2603.01548](http://arxiv.org/abs/2603.01548)|null|
 |**2026-03-02**|**Towards Privacy-Preserving LLM Inference via Collaborative Obfuscation (Technical Report)**|Yu Lin et.al.|[2603.01499](http://arxiv.org/abs/2603.01499)|null|
 |**2026-03-02**|**Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study**|Emmanuel Aboah Boateng et.al.|[2603.01486](http://arxiv.org/abs/2603.01486)|null|
@@ -1741,12 +1746,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Search for a massless particle beyond the Standard Model in the $Ξ^0\toΛ+ \text{invisible}$ decay**|BESIII Collaboration et.al.|[2603.03199](http://arxiv.org/abs/2603.03199)|null|
+|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
+|**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
+|**2026-03-03**|**EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education**|Baoliang Chen et.al.|[2603.03066](http://arxiv.org/abs/2603.03066)|null|
+|**2026-03-03**|**Practical FP4 Training for Large-Scale MoE Models on Hopper GPUs**|Wuyue Zhang et.al.|[2603.02731](http://arxiv.org/abs/2603.02731)|null|
+|**2026-03-03**|**TenExp: Mixture-of-Experts-Based Tensor Decomposition Structure Search Framework**|Ting-Wei Zhou et.al.|[2603.02720](http://arxiv.org/abs/2603.02720)|null|
+|**2026-03-03**|**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration**|Lingshun Kong et.al.|[2603.02710](http://arxiv.org/abs/2603.02710)|**[link](https://github.com/kkkls/MIM-DiT)**|
+|**2026-03-03**|**Addressing Missing and Noisy Modalities in One Solution: Unified Modality-Quality Framework for Low-quality Multimodal Data**|Sijie Mai et.al.|[2603.02695](http://arxiv.org/abs/2603.02695)|null|
+|**2026-03-03**|**Robust Heterogeneous Analog-Digital Computing for Mixture-of-Experts Models with Theoretical Generalization Guarantees**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2603.02633](http://arxiv.org/abs/2603.02633)|null|
 |**2026-03-02**|**Search for the charmonium weak decay $ψ(2S)\to D_s^-π^+ + c.c.$ and $ψ(2S)\to D_s^-ρ^+ + c.c.$**|BESIII Collaboration et.al.|[2603.01777](http://arxiv.org/abs/2603.01777)|null|
 |**2026-03-02**|**DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks**|Gökdeniz Gülmez et.al.|[2603.01697](http://arxiv.org/abs/2603.01697)|null|
 |**2026-03-02**|**PathMoE: Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification**|Jian Yu et.al.|[2603.01547](http://arxiv.org/abs/2603.01547)|null|
 |**2026-03-02**|**Multimodal Mixture-of-Experts with Retrieval Augmentation for Protein Active Site Identification**|Jiayang Wu et.al.|[2603.01511](http://arxiv.org/abs/2603.01511)|null|
 |**2026-03-02**|**DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis**|Zengqi Zhao et.al.|[2603.01433](http://arxiv.org/abs/2603.01433)|null|
-|**2026-03-02**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](http://arxiv.org/abs/2603.01412)|null|
+|**2026-03-03**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](http://arxiv.org/abs/2603.01412)|null|
 |**2026-03-02**|**Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting**|Yi Li et.al.|[2603.01363](http://arxiv.org/abs/2603.01363)|null|
 |**2026-03-01**|**Truth as a Trajectory: What Internal Representations Reveal About Large Language Model Reasoning**|Hamed Damirchi et.al.|[2603.01326](http://arxiv.org/abs/2603.01326)|null|
 |**2026-03-01**|**Fast Confidence-Aware Human Prediction via Hardware-accelerated Bayesian Inference for Safe Robot Navigation**|Michael Lu et.al.|[2603.01122](http://arxiv.org/abs/2603.01122)|null|
@@ -3546,6 +3561,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Speculative Speculative Decoding**|Tanishq Kumar et.al.|[2603.03251](http://arxiv.org/abs/2603.03251)|null|
+|**2026-03-03**|**Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models**|Shubhangi Upasani et.al.|[2603.02631](http://arxiv.org/abs/2603.02631)|null|
+|**2026-03-02**|**Latitude-Dependent Time Variations of the Solar Tachocline**|Sarbani Basu et.al.|[2603.02321](http://arxiv.org/abs/2603.02321)|null|
 |**2026-03-02**|**Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning**|Jiebin Zhang et.al.|[2603.01639](http://arxiv.org/abs/2603.01639)|null|
 |**2026-03-02**|**KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models**|Zihao Zheng et.al.|[2603.01581](http://arxiv.org/abs/2603.01581)|null|
 |**2026-03-02**|**Quasar: Quantized Self-Speculative Acceleration for Rapid Inference via Memory-Efficient Verification**|Guang Huang et.al.|[2603.01399](http://arxiv.org/abs/2603.01399)|null|
