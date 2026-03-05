@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Agentics 2.0: Logical Transduction Algebra for Agentic Data Workflows**|Alfio Massimiliano Gliozzo et.al.|[2603.04241](http://arxiv.org/abs/2603.04241)|null|
+|**2026-03-04**|**A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality**|Arther Tian et.al.|[2603.04028](http://arxiv.org/abs/2603.04028)|null|
 |**2026-03-03**|**From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?**|Shinas Shaji et.al.|[2603.03148](http://arxiv.org/abs/2603.03148)|null|
 |**2026-03-03**|**SEALing the Gap: A Reference Framework for LLM Inference Carbon Estimation via Multi-Benchmark Driven Embodiment**|Priyavanshi Pathania et.al.|[2603.02949](http://arxiv.org/abs/2603.02949)|null|
 |**2026-03-03**|**Agentic Self-Evolutionary Replanning for Embodied Navigation**|Guoliang Li et.al.|[2603.02772](http://arxiv.org/abs/2603.02772)|null|
@@ -1649,7 +1651,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1740,20 +1742,27 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation**|Yixin Chen et.al.|[2603.04348](http://arxiv.org/abs/2603.04348)|null|
+|**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|Jinfeng Xu et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|null|
+|**2026-03-04**|**Precise measurement of the form factors in $D^0\rightarrow K^*(892)^-\ell^+ν_{\ell}$ and observation of $D^0\rightarrow K_2^*(1430)^-\ell^+ν_{\ell}$**|BESIII Collaboration et.al.|[2603.04136](http://arxiv.org/abs/2603.04136)|null|
+|**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
+|**2026-03-04**|**Glass Segmentation with Fusion of Learned and General Visual Features**|Risto Ojala et.al.|[2603.03718](http://arxiv.org/abs/2603.03718)|null|
+|**2026-03-04**|**Plasmonic polaron in self-intercalated 1T-TiS2**|Byoung Ki Choi et.al.|[2603.03663](http://arxiv.org/abs/2603.03663)|null|
+|**2026-03-03**|**Modeling Cross-vision Synergy for Unified Large Vision Model**|Shengqiong Wu et.al.|[2603.03564](http://arxiv.org/abs/2603.03564)|null|
 |**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
 |**2026-03-03**|**Search for a massless particle beyond the Standard Model in the $Ξ^0\toΛ+ \text{invisible}$ decay**|BESIII Collaboration et.al.|[2603.03199](http://arxiv.org/abs/2603.03199)|null|
-|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
+|**2026-03-04**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
 |**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
 |**2026-03-03**|**EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education**|Baoliang Chen et.al.|[2603.03066](http://arxiv.org/abs/2603.03066)|null|
 |**2026-03-03**|**Practical FP4 Training for Large-Scale MoE Models on Hopper GPUs**|Wuyue Zhang et.al.|[2603.02731](http://arxiv.org/abs/2603.02731)|null|
 |**2026-03-03**|**TenExp: Mixture-of-Experts-Based Tensor Decomposition Structure Search Framework**|Ting-Wei Zhou et.al.|[2603.02720](http://arxiv.org/abs/2603.02720)|null|
-|**2026-03-03**|**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration**|Lingshun Kong et.al.|[2603.02710](http://arxiv.org/abs/2603.02710)|**[link](https://github.com/kkkls/MIM-DiT)**|
+|**2026-03-03**|**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration**|Lingshun Kong et.al.|[2603.02710](http://arxiv.org/abs/2603.02710)|null|
 |**2026-03-03**|**Addressing Missing and Noisy Modalities in One Solution: Unified Modality-Quality Framework for Low-quality Multimodal Data**|Sijie Mai et.al.|[2603.02695](http://arxiv.org/abs/2603.02695)|null|
 |**2026-03-03**|**Robust Heterogeneous Analog-Digital Computing for Mixture-of-Experts Models with Theoretical Generalization Guarantees**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2603.02633](http://arxiv.org/abs/2603.02633)|null|
 |**2026-03-02**|**Search for the charmonium weak decay $ψ(2S)\to D_s^-π^+ + c.c.$ and $ψ(2S)\to D_s^-ρ^+ + c.c.$**|BESIII Collaboration et.al.|[2603.01777](http://arxiv.org/abs/2603.01777)|null|
@@ -3555,12 +3564,14 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Weibel Instability-Driven Seed Magnetic Fields during Reionization**|Jorie McDermott et.al.|[2603.03608](http://arxiv.org/abs/2603.03608)|null|
+|**2026-03-03**|**Accelerating OpenPangu Inference on NPU via Speculative Decoding**|Yuntao Dai et.al.|[2603.03383](http://arxiv.org/abs/2603.03383)|null|
 |**2026-03-03**|**Speculative Speculative Decoding**|Tanishq Kumar et.al.|[2603.03251](http://arxiv.org/abs/2603.03251)|null|
 |**2026-03-03**|**Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models**|Shubhangi Upasani et.al.|[2603.02631](http://arxiv.org/abs/2603.02631)|null|
 |**2026-03-02**|**Latitude-Dependent Time Variations of the Solar Tachocline**|Sarbani Basu et.al.|[2603.02321](http://arxiv.org/abs/2603.02321)|null|
@@ -4670,7 +4681,7 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -5032,7 +5043,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

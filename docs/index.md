@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Agentics 2.0: Logical Transduction Algebra for Agentic Data Workflows**|Alfio Massimiliano Gliozzo et.al.|[2603.04241](http://arxiv.org/abs/2603.04241)|null|
+|**2026-03-04**|**A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality**|Arther Tian et.al.|[2603.04028](http://arxiv.org/abs/2603.04028)|null|
 |**2026-03-03**|**From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?**|Shinas Shaji et.al.|[2603.03148](http://arxiv.org/abs/2603.03148)|null|
 |**2026-03-03**|**SEALing the Gap: A Reference Framework for LLM Inference Carbon Estimation via Multi-Benchmark Driven Embodiment**|Priyavanshi Pathania et.al.|[2603.02949](http://arxiv.org/abs/2603.02949)|null|
 |**2026-03-03**|**Agentic Self-Evolutionary Replanning for Embodied Navigation**|Guoliang Li et.al.|[2603.02772](http://arxiv.org/abs/2603.02772)|null|
@@ -1735,14 +1737,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation**|Yixin Chen et.al.|[2603.04348](http://arxiv.org/abs/2603.04348)|null|
+|**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|Jinfeng Xu et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|null|
+|**2026-03-04**|**Precise measurement of the form factors in $D^0\rightarrow K^*(892)^-\ell^+ν_{\ell}$ and observation of $D^0\rightarrow K_2^*(1430)^-\ell^+ν_{\ell}$**|BESIII Collaboration et.al.|[2603.04136](http://arxiv.org/abs/2603.04136)|null|
+|**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
+|**2026-03-04**|**Glass Segmentation with Fusion of Learned and General Visual Features**|Risto Ojala et.al.|[2603.03718](http://arxiv.org/abs/2603.03718)|null|
+|**2026-03-04**|**Plasmonic polaron in self-intercalated 1T-TiS2**|Byoung Ki Choi et.al.|[2603.03663](http://arxiv.org/abs/2603.03663)|null|
+|**2026-03-03**|**Modeling Cross-vision Synergy for Unified Large Vision Model**|Shengqiong Wu et.al.|[2603.03564](http://arxiv.org/abs/2603.03564)|null|
 |**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
 |**2026-03-03**|**Search for a massless particle beyond the Standard Model in the $Ξ^0\toΛ+ \text{invisible}$ decay**|BESIII Collaboration et.al.|[2603.03199](http://arxiv.org/abs/2603.03199)|null|
-|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
+|**2026-03-04**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
 |**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
 |**2026-03-03**|**EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education**|Baoliang Chen et.al.|[2603.03066](http://arxiv.org/abs/2603.03066)|null|
 |**2026-03-03**|**Practical FP4 Training for Large-Scale MoE Models on Hopper GPUs**|Wuyue Zhang et.al.|[2603.02731](http://arxiv.org/abs/2603.02731)|null|
 |**2026-03-03**|**TenExp: Mixture-of-Experts-Based Tensor Decomposition Structure Search Framework**|Ting-Wei Zhou et.al.|[2603.02720](http://arxiv.org/abs/2603.02720)|null|
-|**2026-03-03**|**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration**|Lingshun Kong et.al.|[2603.02710](http://arxiv.org/abs/2603.02710)|**[link](https://github.com/kkkls/MIM-DiT)**|
+|**2026-03-03**|**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration**|Lingshun Kong et.al.|[2603.02710](http://arxiv.org/abs/2603.02710)|null|
 |**2026-03-03**|**Addressing Missing and Noisy Modalities in One Solution: Unified Modality-Quality Framework for Low-quality Multimodal Data**|Sijie Mai et.al.|[2603.02695](http://arxiv.org/abs/2603.02695)|null|
 |**2026-03-03**|**Robust Heterogeneous Analog-Digital Computing for Mixture-of-Experts Models with Theoretical Generalization Guarantees**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2603.02633](http://arxiv.org/abs/2603.02633)|null|
 |**2026-03-02**|**Search for the charmonium weak decay $ψ(2S)\to D_s^-π^+ + c.c.$ and $ψ(2S)\to D_s^-ρ^+ + c.c.$**|BESIII Collaboration et.al.|[2603.01777](http://arxiv.org/abs/2603.01777)|null|
@@ -3548,6 +3557,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Weibel Instability-Driven Seed Magnetic Fields during Reionization**|Jorie McDermott et.al.|[2603.03608](http://arxiv.org/abs/2603.03608)|null|
+|**2026-03-03**|**Accelerating OpenPangu Inference on NPU via Speculative Decoding**|Yuntao Dai et.al.|[2603.03383](http://arxiv.org/abs/2603.03383)|null|
 |**2026-03-03**|**Speculative Speculative Decoding**|Tanishq Kumar et.al.|[2603.03251](http://arxiv.org/abs/2603.03251)|null|
 |**2026-03-03**|**Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models**|Shubhangi Upasani et.al.|[2603.02631](http://arxiv.org/abs/2603.02631)|null|
 |**2026-03-02**|**Latitude-Dependent Time Variations of the Solar Tachocline**|Sarbani Basu et.al.|[2603.02321](http://arxiv.org/abs/2603.02321)|null|
