@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation**|Zeju Qiu et.al.|[2603.05500](http://arxiv.org/abs/2603.05500)|null|
+|**2026-03-05**|**Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity**|Di Zhang et.al.|[2603.05168](http://arxiv.org/abs/2603.05168)|null|
+|**2026-03-05**|**Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents**|Natchanon Pollertlam et.al.|[2603.04814](http://arxiv.org/abs/2603.04814)|null|
+|**2026-03-05**|**Hardware-Software Co-design for 3D-DRAM-based LLM Serving Accelerator**|Cong Li et.al.|[2603.04797](http://arxiv.org/abs/2603.04797)|null|
+|**2026-03-05**|**SLO-Aware Compute Resource Allocation for Prefill-Decode Disaggregated LLM Inference**|Luchang Li et.al.|[2603.04716](http://arxiv.org/abs/2603.04716)|null|
 |**2026-03-04**|**Agentics 2.0: Logical Transduction Algebra for Agentic Data Workflows**|Alfio Massimiliano Gliozzo et.al.|[2603.04241](http://arxiv.org/abs/2603.04241)|null|
 |**2026-03-04**|**A Multi-Dimensional Quality Scoring Framework for Decentralized LLM Inference with Proof of Quality**|Arther Tian et.al.|[2603.04028](http://arxiv.org/abs/2603.04028)|null|
 |**2026-03-03**|**From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?**|Shinas Shaji et.al.|[2603.03148](http://arxiv.org/abs/2603.03148)|null|
@@ -1737,10 +1742,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|null|
+|**2026-03-05**|**NeuronMoE: Neuron-Guided Mixture-of-Experts for Efficient Multilingual LLM Extension**|Rongzhi Li et.al.|[2603.05046](http://arxiv.org/abs/2603.05046)|null|
+|**2026-03-05**|**Mixture of Universal Experts: Scaling Virtual Width via Depth-Width Transformation**|Yilong Chen et.al.|[2603.04971](http://arxiv.org/abs/2603.04971)|null|
+|**2026-03-05**|**Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling**|Yong Liu et.al.|[2603.04791](http://arxiv.org/abs/2603.04791)|null|
+|**2026-03-05**|**TSEmbed: Unlocking Task Scaling in Universal Multimodal Embeddings**|Yebo Wu et.al.|[2603.04772](http://arxiv.org/abs/2603.04772)|null|
+|**2026-03-04**|**ECG-MoE: Mixture-of-Expert Electrocardiogram Foundation Model**|Yuhao Xu et.al.|[2603.04589](http://arxiv.org/abs/2603.04589)|null|
+|**2026-03-04**|**Augmenting representations with scientific papers**|Nicolò Oreste Pinciroli Vago et.al.|[2603.04516](http://arxiv.org/abs/2603.04516)|null|
 |**2026-03-04**|**RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation**|Yixin Chen et.al.|[2603.04348](http://arxiv.org/abs/2603.04348)|null|
 |**2026-03-04**|**CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation**|Jinfeng Xu et.al.|[2603.04320](http://arxiv.org/abs/2603.04320)|null|
-|**2026-03-04**|**Precise measurement of the form factors in $D^0\rightarrow K^*(892)^-\ell^+ν_{\ell}$ and observation of $D^0\rightarrow K_2^*(1430)^-\ell^+ν_{\ell}$**|BESIII Collaboration et.al.|[2603.04136](http://arxiv.org/abs/2603.04136)|**[link](https://github.com/static-web-apps-testing-org/swacb5024c041364734836816e2603dd6d4)**|
-|**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|**[link](https://github.com/QianfengY/UniRain)**|
+|**2026-03-04**|**Precise measurement of the form factors in $D^0\rightarrow K^*(892)^-\ell^+ν_{\ell}$ and observation of $D^0\rightarrow K_2^*(1430)^-\ell^+ν_{\ell}$**|BESIII Collaboration et.al.|[2603.04136](http://arxiv.org/abs/2603.04136)|null|
+|**2026-03-04**|**UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization**|Qianfeng Yang et.al.|[2603.03967](http://arxiv.org/abs/2603.03967)|null|
 |**2026-03-04**|**Glass Segmentation with Fusion of Learned and General Visual Features**|Risto Ojala et.al.|[2603.03718](http://arxiv.org/abs/2603.03718)|null|
 |**2026-03-04**|**Plasmonic polaron in self-intercalated 1T-TiS2**|Byoung Ki Choi et.al.|[2603.03663](http://arxiv.org/abs/2603.03663)|null|
 |**2026-03-03**|**Modeling Cross-vision Synergy for Unified Large Vision Model**|Shengqiong Wu et.al.|[2603.03564](http://arxiv.org/abs/2603.03564)|null|
@@ -3557,6 +3569,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Balancing Coverage and Draft Latency in Vocabulary Trimming for Faster Speculative Decoding**|Ofir Ben Shoham et.al.|[2603.05210](http://arxiv.org/abs/2603.05210)|null|
+|**2026-03-04**|**Quantum foundations for quantum technologies in the International Year of Quantum (2025)**|Angelo Bassi et.al.|[2603.04630](http://arxiv.org/abs/2603.04630)|null|
+|**2026-03-04**|**Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd $_3$P$_3$**|Jackson Davis et.al.|[2603.04539](http://arxiv.org/abs/2603.04539)|null|
 |**2026-03-04**|**Weibel Instability-Driven Seed Magnetic Fields during Reionization**|Jorie McDermott et.al.|[2603.03608](http://arxiv.org/abs/2603.03608)|null|
 |**2026-03-03**|**Accelerating OpenPangu Inference on NPU via Speculative Decoding**|Yuntao Dai et.al.|[2603.03383](http://arxiv.org/abs/2603.03383)|null|
 |**2026-03-03**|**Speculative Speculative Decoding**|Tanishq Kumar et.al.|[2603.03251](http://arxiv.org/abs/2603.03251)|null|
