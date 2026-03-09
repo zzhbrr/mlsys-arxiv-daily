@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**MoEless: Efficient MoE LLM Serving via Serverless Computing**|Hanfei Yu et.al.|[2603.06350](http://arxiv.org/abs/2603.06350)|null|
+|**2026-03-06**|**LUMINA: LLM-Guided GPU Architecture Exploration via Bottleneck Analysis**|Tao Zhang et.al.|[2603.05904](http://arxiv.org/abs/2603.05904)|null|
+|**2026-03-06**|**Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation**|Changcheng Li et.al.|[2603.05881](http://arxiv.org/abs/2603.05881)|null|
+|**2026-03-05**|**Parallelization Strategies for Dense LLM Deployment: Navigating Through Application-Specific Tradeoffs and Bottlenecks**|Burak Topcu et.al.|[2603.05692](http://arxiv.org/abs/2603.05692)|null|
 |**2026-03-05**|**POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation**|Zeju Qiu et.al.|[2603.05500](http://arxiv.org/abs/2603.05500)|null|
 |**2026-03-05**|**Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity**|Di Zhang et.al.|[2603.05168](http://arxiv.org/abs/2603.05168)|null|
 |**2026-03-05**|**Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents**|Natchanon Pollertlam et.al.|[2603.04814](http://arxiv.org/abs/2603.04814)|null|
@@ -1742,6 +1746,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**A Mixture-of-Experts Framework for Practical Hybrid-Quantum Models in Credit Card Fraud Detection**|Rodrigo Chaves et.al.|[2603.06473](http://arxiv.org/abs/2603.06473)|null|
+|**2026-03-06**|**MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis**|Dongqing Xie et.al.|[2603.06378](http://arxiv.org/abs/2603.06378)|null|
+|**2026-03-06**|**MoEless: Efficient MoE LLM Serving via Serverless Computing**|Hanfei Yu et.al.|[2603.06350](http://arxiv.org/abs/2603.06350)|null|
+|**2026-03-06**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al.|[2603.06313](http://arxiv.org/abs/2603.06313)|null|
+|**2026-03-06**|**GazeMoE: Perception of Gaze Target with Mixture-of-Experts**|Zhuangzhuang Dai et.al.|[2603.06256](http://arxiv.org/abs/2603.06256)|null|
+|**2026-03-06**|**EvoESAP: Non-Uniform Expert Pruning for Sparse MoE**|Zongfang Liu et.al.|[2603.06003](http://arxiv.org/abs/2603.06003)|null|
+|**2026-03-06**|**MoE Lens -- An Expert Is All You Need**|Marmik Chaudhari et.al.|[2603.05806](http://arxiv.org/abs/2603.05806)|null|
+|**2026-03-06**|**Sparse Crosscoders for diffing MoEs and Dense models**|Marmik Chaudhari et.al.|[2603.05805](http://arxiv.org/abs/2603.05805)|null|
+|**2026-03-05**|**Change Point Detection for Cell Populations Measured via Flow Cytometry**|Yik Lun Kei et.al.|[2603.05700](http://arxiv.org/abs/2603.05700)|null|
+|**2026-03-05**|**FreeTxt-Vi: A Benchmarked Vietnamese-English Toolkit for Segmentation, Sentiment, and Summarisation**|Hung Nguyen Huy et.al.|[2603.05690](http://arxiv.org/abs/2603.05690)|null|
+|**2026-03-05**|**Multi-channel joint analysis of the exotic charmonium-like state $T_{c\bar{c}}(4020)$**|BESIII Collaboration et.al.|[2603.05564](http://arxiv.org/abs/2603.05564)|null|
 |**2026-03-05**|**VietJobs: A Vietnamese Job Advertisement Dataset**|Hieu Pham Dinh et.al.|[2603.05262](http://arxiv.org/abs/2603.05262)|null|
 |**2026-03-05**|**NeuronMoE: Neuron-Guided Mixture-of-Experts for Efficient Multilingual LLM Extension**|Rongzhi Li et.al.|[2603.05046](http://arxiv.org/abs/2603.05046)|null|
 |**2026-03-05**|**Mixture of Universal Experts: Scaling Virtual Width via Depth-Width Transformation**|Yilong Chen et.al.|[2603.04971](http://arxiv.org/abs/2603.04971)|null|
@@ -3569,6 +3584,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**What are AI researchers worried about?**|Cian O'Donovan et.al.|[2603.06223](http://arxiv.org/abs/2603.06223)|null|
+|**2026-03-06**|**EvoESAP: Non-Uniform Expert Pruning for Sparse MoE**|Zongfang Liu et.al.|[2603.06003](http://arxiv.org/abs/2603.06003)|null|
+|**2026-03-06**|**Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading**|Hanzhen Lu et.al.|[2603.05974](http://arxiv.org/abs/2603.05974)|null|
 |**2026-03-05**|**Balancing Coverage and Draft Latency in Vocabulary Trimming for Faster Speculative Decoding**|Ofir Ben Shoham et.al.|[2603.05210](http://arxiv.org/abs/2603.05210)|null|
 |**2026-03-04**|**Quantum foundations for quantum technologies in the International Year of Quantum (2025)**|Angelo Bassi et.al.|[2603.04630](http://arxiv.org/abs/2603.04630)|null|
 |**2026-03-04**|**Raman scattering spectroscopic observation of a ferroelastic crossover in bond-frustrated PrCd $_3$P$_3$**|Jackson Davis et.al.|[2603.04539](http://arxiv.org/abs/2603.04539)|null|
