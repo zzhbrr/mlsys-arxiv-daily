@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al.|[2603.11021](http://arxiv.org/abs/2603.11021)|null|
+|**2026-03-11**|**CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems**|Panagiotis Georgios Pennas et.al.|[2603.10726](http://arxiv.org/abs/2603.10726)|null|
+|**2026-03-11**|**S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance**|Di Liu et.al.|[2603.10353](http://arxiv.org/abs/2603.10353)|null|
+|**2026-03-11**|**MultiwayPAM: Multiway Partitioning Around Medoids for LLM-as-a-Judge Score Analysis**|Chihiro Watanabe et.al.|[2603.10287](http://arxiv.org/abs/2603.10287)|null|
 |**2026-03-10**|**ESAinsTOD: A Unified End-to-End Schema-Aware Instruction-Tuning Framework for Task-Oriented Dialog Modeling**|Dechuan Teng et.al.|[2603.09691](http://arxiv.org/abs/2603.09691)|**[link](https://github.com/AaronTengDeChuan/ESAinsTOD)**|
 |**2026-03-10**|**Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation**|Luxi Lin et.al.|[2603.09527](http://arxiv.org/abs/2603.09527)|null|
 |**2026-03-10**|**PIM-SHERPA: Software Method for On-device LLM Inference by Resolving PIM Memory Attribute and Layout Inconsistencies**|Sunjung Lee et.al.|[2603.09216](http://arxiv.org/abs/2603.09216)|null|
@@ -1763,6 +1767,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Sample-and-Search: An Effective Algorithm for Learning-Augmented k-Median Clustering in High dimensions**|Kangke Cheng et.al.|[2603.10721](http://arxiv.org/abs/2603.10721)|null|
+|**2026-03-11**|**UniStitch: Unifying Semantic and Geometric Features for Image Stitching**|Yuan Mei et.al.|[2603.10568](http://arxiv.org/abs/2603.10568)|null|
+|**2026-03-11**|**Optimal Expert-Attention Allocation in Mixture-of-Experts: A Scalable Law for Dynamic Model Design**|Junzhuo Li et.al.|[2603.10379](http://arxiv.org/abs/2603.10379)|null|
+|**2026-03-11**|**The Orthogonal Vulnerabilities of Generative AI Watermarks: A Comparative Empirical Benchmark of Spatial and Latent Provenance**|Jesse Yu et.al.|[2603.10323](http://arxiv.org/abs/2603.10323)|null|
 |**2026-03-10**|**Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**|Mingyang Song et.al.|[2603.09938](http://arxiv.org/abs/2603.09938)|null|
 |**2026-03-10**|**Quantifying the Necessity of Chain of Thought through Opaque Serial Depth**|Jonah Brown-Cohen et.al.|[2603.09786](http://arxiv.org/abs/2603.09786)|null|
 |**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
@@ -3634,6 +3642,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
+|**2026-03-11**|**XMM-Newton Observation and Optical Monitoring of the Candidate Redback Millisecond Pulsar 1FGL J0523.5 $-$ 2529**|J. P. Halpern et.al.|[2603.11028](http://arxiv.org/abs/2603.11028)|null|
+|**2026-03-11**|**Kinematics of Wolf-Rayet Stars in the LMC: Clues to Subtype Origins**|Caden Burkhardt et.al.|[2603.10826](http://arxiv.org/abs/2603.10826)|null|
+|**2026-03-11**|**Supersonic flow of a Chaplygin gas past a conical wing with $Λ$ -shaped cross sections**|Minghong Han et.al.|[2603.10401](http://arxiv.org/abs/2603.10401)|null|
+|**2026-03-10**|**Intrinsic Numerical Robustness and Fault Tolerance in a Neuromorphic Algorithm for Scientific Computing**|Bradley H. Theilman et.al.|[2603.10246](http://arxiv.org/abs/2603.10246)|null|
 |**2026-03-10**|**Phase diagram of 4D SU(3) Yang-Mills theory at $θ=π$ via imaginary theta simulations**|Akira Matsumoto et.al.|[2603.09604](http://arxiv.org/abs/2603.09604)|null|
 |**2026-03-10**|**Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation**|Luxi Lin et.al.|[2603.09527](http://arxiv.org/abs/2603.09527)|null|
 |**2026-03-09**|**ConFu: Contemplate the Future for Better Speculative Sampling**|Zongyue Qin et.al.|[2603.08899](http://arxiv.org/abs/2603.08899)|null|
@@ -4765,6 +4778,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints**|Mohammad Saeid Anwar et.al.|[2603.10436](http://arxiv.org/abs/2603.10436)|null|
 |**2026-03-09**|**SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving**|Ayush Barik et.al.|[2603.07865](http://arxiv.org/abs/2603.07865)|null|
 |**2026-03-08**|**MWM: Mobile World Models for Action-Conditioned Consistent Prediction**|Han Yan et.al.|[2603.07799](http://arxiv.org/abs/2603.07799)|null|
 |**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
