@@ -1790,6 +1790,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models**|Md. Abdul Awal et.al.|[2603.13213](http://arxiv.org/abs/2603.13213)|null|
 |**2026-03-13**|**Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback**|Yuki Hirakawa et.al.|[2603.13057](http://arxiv.org/abs/2603.13057)|null|
 |**2026-03-13**|**Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach**|Elena Ryumina et.al.|[2603.13056](http://arxiv.org/abs/2603.13056)|null|
 |**2026-03-13**|**Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation**|Fei Wang et.al.|[2603.12845](http://arxiv.org/abs/2603.12845)|null|
