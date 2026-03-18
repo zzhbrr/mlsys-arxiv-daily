@@ -7,23 +7,28 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**FleetOpt: Analytical Fleet Provisioning for LLM Inference with Compress-and-Route as Implementation Mechanism**|Huamin Chen et.al.|[2603.16514](http://arxiv.org/abs/2603.16514)|null|
+|**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|null|
+|**2026-03-17**|**Resource Consumption Threats in Large Language Models**|Yuanhe Zhang et.al.|[2603.16068](http://arxiv.org/abs/2603.16068)|null|
+|**2026-03-17**|**inference-fleet-sim: A Queueing-Theory-Grounded Fleet Capacity Planner for LLM Inference**|Huamin Chen et.al.|[2603.16054](http://arxiv.org/abs/2603.16054)|null|
+|**2026-03-16**|**BANGLASOCIALBENCH: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction**|Tanvir Ahmed Sijan et.al.|[2603.15949](http://arxiv.org/abs/2603.15949)|null|
 |**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)|null|
 |**2026-03-16**|**SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation**|Zicheng He et.al.|[2603.14785](http://arxiv.org/abs/2603.14785)|null|
-|**2026-03-16**|**AgentTrace: Causal Graph Tracing for Root Cause Analysis in Deployed Multi-Agent Systems**|Zhaohui Geoffrey Wang et.al.|[2603.14688](http://arxiv.org/abs/2603.14688)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-03-16**|**AgentTrace: Causal Graph Tracing for Root Cause Analysis in Deployed Multi-Agent Systems**|Zhaohui Geoffrey Wang et.al.|[2603.14688](http://arxiv.org/abs/2603.14688)|null|
 |**2026-03-15**|**Governing Dynamic Capabilities: Cryptographic Binding and Reproducibility Verification for AI Agent Tool Use**|Ziling Zhou et.al.|[2603.14332](http://arxiv.org/abs/2603.14332)|null|
 |**2026-03-14**|**SVD Contextual Sparsity Predictors for Fast LLM Inference**|Georgii Serbin et.al.|[2603.14110](http://arxiv.org/abs/2603.14110)|null|
-|**2026-03-14**|**APEX-Searcher: Augmenting LLMs' Search Capabilities through Agentic Planning and Execution**|Kun Chen et.al.|[2603.13853](http://arxiv.org/abs/2603.13853)|null|
+|**2026-03-17**|**APEX-Searcher: Augmenting LLMs' Search Capabilities through Agentic Planning and Execution**|Kun Chen et.al.|[2603.13853](http://arxiv.org/abs/2603.13853)|null|
 |**2026-03-14**|**Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion**|Minghan Li et.al.|[2603.13776](http://arxiv.org/abs/2603.13776)|null|
 |**2026-03-13**|**Orla: A Library for Serving LLM-Based Multi-Agent Systems**|Rana Shahout et.al.|[2603.13605](http://arxiv.org/abs/2603.13605)|null|
 |**2026-03-13**|**Outcome-Aware Tool Selection for Semantic Routers: Latency-Constrained Learning Without LLM Inference**|Huamin Chen et.al.|[2603.13426](http://arxiv.org/abs/2603.13426)|null|
-|**2026-03-13**|**Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking**|Zizhao Mo et.al.|[2603.12831](http://arxiv.org/abs/2603.12831)|null|
+|**2026-03-17**|**Serving Hybrid LLM Loads with SLO Guarantees Using CPU-GPU Attention Piggybacking**|Zizhao Mo et.al.|[2603.12831](http://arxiv.org/abs/2603.12831)|null|
 |**2026-03-13**|**Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation**|Yichen Zhang et.al.|[2603.12793](http://arxiv.org/abs/2603.12793)|null|
 |**2026-03-13**|**ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning**|Shuo Yang et.al.|[2603.12740](http://arxiv.org/abs/2603.12740)|null|
 |**2026-03-13**|**Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity**|Donglin Yu et.al.|[2603.12707](http://arxiv.org/abs/2603.12707)|null|
@@ -1788,11 +1793,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**SpecMoE: Spectral Mixture-of-Experts Foundation Model for Cross-Species EEG Decoding**|D. Darankoum et.al.|[2603.16739](http://arxiv.org/abs/2603.16739)|null|
+|**2026-03-17**|**HMAR: Hierarchical Modality-Aware Expert and Dynamic Routing Medical Image Retrieval Architecture**|Aojie Yuan et.al.|[2603.16679](http://arxiv.org/abs/2603.16679)|null|
+|**2026-03-17**|**Mixture of Style Experts for Diverse Image Stylization**|Shihao Zhu et.al.|[2603.16649](http://arxiv.org/abs/2603.16649)|null|
+|**2026-03-17**|**Tarab: A Multi-Dialect Corpus of Arabic Lyrics and Poetry**|Mo El-Haj et.al.|[2603.16601](http://arxiv.org/abs/2603.16601)|null|
+|**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)|null|
+|**2026-03-17**|**EngGPT2: Sovereign, Efficient and Open Intelligence**|G. Ciarfaglia et.al.|[2603.16430](http://arxiv.org/abs/2603.16430)|null|
+|**2026-03-17**|**PlotTwist: A Creative Plot Generation Framework with Small Language Models**|Abhinav Thorat et.al.|[2603.16410](http://arxiv.org/abs/2603.16410)|null|
+|**2026-03-17**|**DynamicGate MLP Conditional Computation via Learned Structural Dropout and Input Dependent Gating for Functional Plasticity**|Yong Il Choi et.al.|[2603.16367](http://arxiv.org/abs/2603.16367)|null|
+|**2026-03-17**|**Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits**|Jia Qing Yap et.al.|[2603.16335](http://arxiv.org/abs/2603.16335)|null|
+|**2026-03-17**|**AW-MoE: All-Weather Mixture of Experts for Robust Multi-Modal 3D Object Detection**|Hongwei Lin et.al.|[2603.16261](http://arxiv.org/abs/2603.16261)|null|
+|**2026-03-17**|**Accelerating Approximate Analytical Join Queries over Unstructured Data with Statistical Guarantees**|Yuxuan Zhu et.al.|[2603.16153](http://arxiv.org/abs/2603.16153)|null|
+|**2026-03-16**|**Confidently Wrong: Why Ignoring Binaries Biases IMF Inference at Large Sample Sizes**|Anna L. Rosen et.al.|[2603.15779](http://arxiv.org/abs/2603.15779)|null|
+|**2026-03-16**|**Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning**|Ye Wang et.al.|[2603.15708](http://arxiv.org/abs/2603.15708)|null|
 |**2026-03-16**|**Bridging Local and Global Knowledge: Cascaded Mixture-of-Experts Learning for Near-Shortest Path Routing**|Yung-Fu Chen et.al.|[2603.15541](http://arxiv.org/abs/2603.15541)|null|
 |**2026-03-16**|**Talk, Evaluate, Diagnose: User-aware Agent Evaluation with Automated Error Analysis**|Penny Chong et.al.|[2603.15483](http://arxiv.org/abs/2603.15483)|null|
 |**2026-03-16**|**A Closer Look into LLMs for Table Understanding**|Jia Wang et.al.|[2603.15402](http://arxiv.org/abs/2603.15402)|null|
 |**2026-03-16**|**MoE-ACT: Scaling Multi-Task Bimanual Manipulation with Sparse Language-Conditioned Mixture-of-Experts Transformers**|Kangjun Guo et.al.|[2603.15265](http://arxiv.org/abs/2603.15265)|null|
-|**2026-03-16**|**Tracking the Discriminative Axis: Dual Prototypes for Test-Time OOD Detection Under Covariate Shift**|Wooseok Lee et.al.|[2603.15213](http://arxiv.org/abs/2603.15213)|null|
+|**2026-03-17**|**Tracking the Discriminative Axis: Dual Prototypes for Test-Time OOD Detection Under Covariate Shift**|Wooseok Lee et.al.|[2603.15213](http://arxiv.org/abs/2603.15213)|null|
 |**2026-03-16**|**ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation**|Yang Li et.al.|[2603.15169](http://arxiv.org/abs/2603.15169)|null|
 |**2026-03-16**|**M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts**|Shiwei Wang et.al.|[2603.14816](http://arxiv.org/abs/2603.14816)|null|
 |**2026-03-16**|**Genetic Algorithms in Regression**|Mo Li et.al.|[2603.14801](http://arxiv.org/abs/2603.14801)|null|
@@ -3700,6 +3718,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Characterizing Delusional Spirals through Human-LLM Chat Logs**|Jared Moore et.al.|[2603.16567](http://arxiv.org/abs/2603.16567)|null|
+|**2026-03-17**|**SpecSteer: Synergizing Local Context and Global Reasoning for Efficient Personalized Generation**|Hang Lv et.al.|[2603.16219](http://arxiv.org/abs/2603.16219)|null|
+|**2026-03-17**|**Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective**|Noppanat Wadlom et.al.|[2603.16104](http://arxiv.org/abs/2603.16104)|null|
 |**2026-03-16**|**Evasive Intelligence: Lessons from Malware Analysis for Evaluating AI Agents**|Simone Aonzo et.al.|[2603.15457](http://arxiv.org/abs/2603.15457)|null|
 |**2026-03-16**|**The ALMA-QUARKS Survey: Evidence of an Explosive Molecular Outflow in IRAS 15520--5234**|Ariful Hoque et.al.|[2603.15040](http://arxiv.org/abs/2603.15040)|null|
 |**2026-03-16**|**MMSpec: Benchmarking Speculative Decoding for Vision-Language Models**|Hui Shen et.al.|[2603.14989](http://arxiv.org/abs/2603.14989)|null|
