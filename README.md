@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference**|Arpit Singh Gautam et.al.|[2603.17891](http://arxiv.org/abs/2603.17891)|null|
+|**2026-03-18**|**Swarm: Co-Activation Aware KVCache Offloading Across Multiple SSDs**|Tuowei Wang et.al.|[2603.17803](http://arxiv.org/abs/2603.17803)|null|
 |**2026-03-18**|**Multi-stage Flow Scheduling for LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|null|
 |**2026-03-18**|**ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression**|Ruibo Fan et.al.|[2603.17435](http://arxiv.org/abs/2603.17435)|null|
 |**2026-03-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al.|[2603.17351](http://arxiv.org/abs/2603.17351)|null|
@@ -1810,6 +1812,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**DebugLM: Learning Traceable Training Data Provenance for LLMs**|Wenjie Jacky Mo et.al.|[2603.17884](http://arxiv.org/abs/2603.17884)|null|
 |**2026-03-18**|**The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency**|Huamin Chen et.al.|[2603.17280](http://arxiv.org/abs/2603.17280)|null|
 |**2026-03-17**|**Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency**|Lucas Bandarkar et.al.|[2603.17102](http://arxiv.org/abs/2603.17102)|null|
 |**2026-03-17**|**Edge-Efficient Two-Stream Multimodal Architecture for Non-Intrusive Bathroom Fall Detection**|Haitian Wang et.al.|[2603.17069](http://arxiv.org/abs/2603.17069)|null|
@@ -1818,7 +1821,7 @@
 |**2026-03-17**|**Mixture of Style Experts for Diverse Image Stylization**|Shihao Zhu et.al.|[2603.16649](http://arxiv.org/abs/2603.16649)|null|
 |**2026-03-17**|**Tarab: A Multi-Dialect Corpus of Arabic Lyrics and Poetry**|Mo El-Haj et.al.|[2603.16601](http://arxiv.org/abs/2603.16601)|null|
 |**2026-03-17**|**Visual Distraction Undermines Moral Reasoning in Vision-Language Models**|Xinyi Yang et.al.|[2603.16445](http://arxiv.org/abs/2603.16445)|null|
-|**2026-03-17**|**EngGPT2: Sovereign, Efficient and Open Intelligence**|G. Ciarfaglia et.al.|[2603.16430](http://arxiv.org/abs/2603.16430)|null|
+|**2026-03-18**|**EngGPT2: Sovereign, Efficient and Open Intelligence**|G. Ciarfaglia et.al.|[2603.16430](http://arxiv.org/abs/2603.16430)|null|
 |**2026-03-17**|**PlotTwist: A Creative Plot Generation Framework with Small Language Models**|Abhinav Thorat et.al.|[2603.16410](http://arxiv.org/abs/2603.16410)|null|
 |**2026-03-17**|**DynamicGate MLP Conditional Computation via Learned Structural Dropout and Input Dependent Gating for Functional Plasticity**|Yong Il Choi et.al.|[2603.16367](http://arxiv.org/abs/2603.16367)|null|
 |**2026-03-17**|**Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits**|Jia Qing Yap et.al.|[2603.16335](http://arxiv.org/abs/2603.16335)|null|
@@ -3740,6 +3743,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing**|Raghavv Goel et.al.|[2603.17942](http://arxiv.org/abs/2603.17942)|null|
+|**2026-03-18**|**HeiSD: Hybrid Speculative Decoding for Embodied Vision-Language-Action Models with Kinematic Awareness**|Zihao Zheng et.al.|[2603.17573](http://arxiv.org/abs/2603.17573)|null|
 |**2026-03-18**|**"Not Just Me and My To-Do List": Understanding Challenges of Task Management for Adults with ADHD and the Need for AI-Augmented Social Scaffolds**|Jingruo Chen et.al.|[2603.17258](http://arxiv.org/abs/2603.17258)|null|
 |**2026-03-17**|**Search For a Counterpart to the Subsolar Mass Gravitational Wave Candidate S251112cm**|Nicholas Vieira et.al.|[2603.17009](http://arxiv.org/abs/2603.17009)|null|
 |**2026-03-17**|**Characterizing Delusional Spirals through Human-LLM Chat Logs**|Jared Moore et.al.|[2603.16567](http://arxiv.org/abs/2603.16567)|null|
