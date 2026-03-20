@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
 |**2026-03-19**|**BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding**|Xiucheng Wang et.al.|[2603.18855](http://arxiv.org/abs/2603.18855)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-03-19**|**From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning**|Grant Wilkins et.al.|[2603.18383](http://arxiv.org/abs/2603.18383)|null|
 |**2026-03-18**|**Conflict-Free Policy Languages for Probabilistic ML Predicates: A Framework and Case Study with the Semantic Router DSL**|Xunzhuo Liu et.al.|[2603.18174](http://arxiv.org/abs/2603.18174)|null|
@@ -1817,6 +1818,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation**|Zhuolin Yang et.al.|[2603.19220](http://arxiv.org/abs/2603.19220)|null|
+|**2026-03-19**|**DyMoE: Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge**|Yuegui Huang et.al.|[2603.19172](http://arxiv.org/abs/2603.19172)|null|
+|**2026-03-19**|**ATG-MoE: Autoregressive trajectory generation with mixture-of-experts for assembly skill learning**|Weihang Huang et.al.|[2603.19029](http://arxiv.org/abs/2603.19029)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants**|The LIGO Scientific Collaboration et.al.|[2603.19021](http://arxiv.org/abs/2603.19021)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. II. Parameterized Tests**|The LIGO Scientific Collaboration et.al.|[2603.19020](http://arxiv.org/abs/2603.19020)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. I. Overview and General Tests**|The LIGO Scientific Collaboration et.al.|[2603.19019](http://arxiv.org/abs/2603.19019)|null|
 |**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
 |**2026-03-19**|**Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture**|Fuze Sun et.al.|[2603.18771](http://arxiv.org/abs/2603.18771)|null|
 |**2026-03-19**|**Observation of $D_s^+ \to a_0(980)^+f_0(500)$ in the Amplitude Analysis of $D_s^+ \to π^+ π^0 π^0 η$**|BESIII Collaboration et.al.|[2603.18521](http://arxiv.org/abs/2603.18521)|null|
@@ -3758,6 +3765,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**The Uncertain Policy Price of Scaling Direct Air Capture**|Leonardo Chiani et.al.|[2603.19143](http://arxiv.org/abs/2603.19143)|null|
+|**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
+|**2026-03-19**|**In the Margins: An Empirical Study of Ethereum Inscriptions**|Xihan Xiong et.al.|[2603.19086](http://arxiv.org/abs/2603.19086)|null|
+|**2026-03-19**|**Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution**|Yifan Sui et.al.|[2603.18897](http://arxiv.org/abs/2603.18897)|null|
 |**2026-03-19**|**SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation**|Jialiang Kang et.al.|[2603.18599](http://arxiv.org/abs/2603.18599)|null|
 |**2026-03-19**|**Dream the Dream: Futuring Communication between LGBTQ+ and Cisgender Groups in Metaverse**|Anqi Wang et.al.|[2603.18578](http://arxiv.org/abs/2603.18578)|null|
 |**2026-03-19**|**SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding**|Shenggui Li et.al.|[2603.18567](http://arxiv.org/abs/2603.18567)|null|
