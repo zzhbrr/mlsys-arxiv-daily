@@ -7,15 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Utility-Guided Agent Orchestration for Efficient LLM Tool Use**|Boyan Liu et.al.|[2603.19896](http://arxiv.org/abs/2603.19896)|null|
+|**2026-03-20**|**Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification**|Baoding He et.al.|[2603.19715](http://arxiv.org/abs/2603.19715)|null|
+|**2026-03-20**|**HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning**|Beibei Xu et.al.|[2603.19639](http://arxiv.org/abs/2603.19639)|null|
 |**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
-|**2026-03-19**|**BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding**|Xiucheng Wang et.al.|[2603.18855](http://arxiv.org/abs/2603.18855)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-03-19**|**BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding**|Xiucheng Wang et.al.|[2603.18855](http://arxiv.org/abs/2603.18855)|null|
 |**2026-03-19**|**From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning**|Grant Wilkins et.al.|[2603.18383](http://arxiv.org/abs/2603.18383)|null|
 |**2026-03-18**|**Conflict-Free Policy Languages for Probabilistic ML Predicates: A Framework and Case Study with the Semantic Router DSL**|Xunzhuo Liu et.al.|[2603.18174](http://arxiv.org/abs/2603.18174)|null|
 |**2026-03-18**|**Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction**|Xin Wei Chia et.al.|[2603.18085](http://arxiv.org/abs/2603.18085)|null|
@@ -1807,6 +1810,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?**|Lokesh Kumar et.al.|[2603.19831](http://arxiv.org/abs/2603.19831)|null|
+|**2026-03-20**|**Making Video Models Adhere to User Intent with Minor Adjustments**|Daniel Ajisafe et.al.|[2603.19672](http://arxiv.org/abs/2603.19672)|null|
+|**2026-03-20**|**Structured Prompting for Arabic Essay Proficiency: A Trait-Centric Evaluation Approach**|Salim Al Mandhari et.al.|[2603.19668](http://arxiv.org/abs/2603.19668)|null|
+|**2026-03-20**|**CS-MUNet: A Channel-Spatial Dual-Stream Mamba Network for Multi-Organ Segmentation**|Yuyang Zheng et.al.|[2603.19659](http://arxiv.org/abs/2603.19659)|null|
+|**2026-03-20**|**UniBioTransfer: A Unified Framework for Multiple Biometrics Transfer**|Caiyi Sun et.al.|[2603.19637](http://arxiv.org/abs/2603.19637)|null|
+|**2026-03-19**|**Scalable Prompt Routing via Fine-Grained Latent Task Discovery**|Yunyi Zhang et.al.|[2603.19415](http://arxiv.org/abs/2603.19415)|null|
 |**2026-03-19**|**Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation**|Zhuolin Yang et.al.|[2603.19220](http://arxiv.org/abs/2603.19220)|null|
 |**2026-03-19**|**DyMoE: Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge**|Yuegui Huang et.al.|[2603.19172](http://arxiv.org/abs/2603.19172)|null|
 |**2026-03-19**|**ATG-MoE: Autoregressive trajectory generation with mixture-of-experts for assembly skill learning**|Weihang Huang et.al.|[2603.19029](http://arxiv.org/abs/2603.19029)|null|
@@ -3752,6 +3761,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding**|Quan Kong et.al.|[2603.19610](http://arxiv.org/abs/2603.19610)|null|
+|**2026-03-19**|**Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks**|Irene Hou et.al.|[2603.19504](http://arxiv.org/abs/2603.19504)|null|
+|**2026-03-19**|**Speculative Policy Orchestration: A Latency-Resilient Framework for Cloud-Robotic Manipulation**|Chanh Nguyen et.al.|[2603.19418](http://arxiv.org/abs/2603.19418)|null|
 |**2026-03-19**|**The Uncertain Policy Price of Scaling Direct Air Capture**|Leonardo Chiani et.al.|[2603.19143](http://arxiv.org/abs/2603.19143)|null|
 |**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
 |**2026-03-19**|**In the Margins: An Empirical Study of Ethereum Inscriptions**|Xihan Xiong et.al.|[2603.19086](http://arxiv.org/abs/2603.19086)|null|
