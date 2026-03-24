@@ -14,9 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs**|Kangqi Ni et.al.|[2603.22206](http://arxiv.org/abs/2603.22206)|null|
+|**2026-03-23**|**GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**|Xiao Han et.al.|[2603.22096](http://arxiv.org/abs/2603.22096)|null|
+|**2026-03-23**|**CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning**|Shuo Wang et.al.|[2603.21725](http://arxiv.org/abs/2603.21725)|null|
+|**2026-03-23**|**PRISM: Breaking the O(n) Memory Wall in Long-Context LLM Inference via O(1) Photonic Block Selection**|Hyoseok Park et.al.|[2603.21576](http://arxiv.org/abs/2603.21576)|null|
+|**2026-03-22**|**TIDE: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference**|Jaber Jaber et.al.|[2603.21365](http://arxiv.org/abs/2603.21365)|null|
+|**2026-03-22**|**The Workload-Router-Pool Architecture for LLM Inference Optimization: A Vision Paper from the vLLM Semantic Router Project**|Huamin Chen et.al.|[2603.21354](http://arxiv.org/abs/2603.21354)|null|
+|**2026-03-22**|**Improving Coherence and Persistence in Agentic AI for System Optimization**|Pantea Karimi et.al.|[2603.21321](http://arxiv.org/abs/2603.21321)|null|
+|**2026-03-22**|**CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands**|Weiye Wang et.al.|[2603.21257](http://arxiv.org/abs/2603.21257)|null|
+|**2026-03-22**|**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs**|Zihui Chen et.al.|[2603.21155](http://arxiv.org/abs/2603.21155)|null|
 |**2026-03-21**|**WWW.Serve: Interconnecting Global LLM Services through Decentralization**|Huanyu Wang et.al.|[2603.20661](http://arxiv.org/abs/2603.20661)|null|
 |**2026-03-20**|**KV Cache Optimization Strategies for Scalable and Efficient LLM Inference**|Yichun Xu et.al.|[2603.20397](http://arxiv.org/abs/2603.20397)|null|
-|**2026-03-20**|**Utility-Guided Agent Orchestration for Efficient LLM Tool Use**|Boyan Liu et.al.|[2603.19896](http://arxiv.org/abs/2603.19896)|**[link](https://github.com/kagami-kasumi/Utility-Guided-Agent-Orchestration-for-Efficient-LLM-Tool-Use)**|
+|**2026-03-20**|**Utility-Guided Agent Orchestration for Efficient LLM Tool Use**|Boyan Liu et.al.|[2603.19896](http://arxiv.org/abs/2603.19896)|null|
 |**2026-03-20**|**Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification**|Baoding He et.al.|[2603.19715](http://arxiv.org/abs/2603.19715)|null|
 |**2026-03-20**|**HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning**|Beibei Xu et.al.|[2603.19639](http://arxiv.org/abs/2603.19639)|null|
 |**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
@@ -1812,6 +1821,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
+|**2026-03-23**|**A bending in the size-mass relation of star-forming galaxies across $0.5 < z < 6.0$ at a critical stellar mass of $10^{10}M_\odot$ revealed by JWST**|Longyue Chen et.al.|[2603.22239](http://arxiv.org/abs/2603.22239)|null|
+|**2026-03-23**|**Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning**|Daniel Shao et.al.|[2603.22198](http://arxiv.org/abs/2603.22198)|null|
+|**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|null|
+|**2026-03-23**|**Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization**|Weilin Wan et.al.|[2603.21862](http://arxiv.org/abs/2603.21862)|null|
+|**2026-03-23**|**DiT-Flow: Speech Enhancement Robust to Multiple Distortions based on Flow Matching in Latent Space and Diffusion Transformers**|Tianyu Cao et.al.|[2603.21608](http://arxiv.org/abs/2603.21608)|null|
+|**2026-03-22**|**Aggregation Alignment for Federated Learning with Mixture-of-Experts under Data Heterogeneity**|Zihan Fang et.al.|[2603.21276](http://arxiv.org/abs/2603.21276)|null|
+|**2026-03-22**|**QMoP: Query Guided Mixture-of-Projector for Efficient Visual Token Compression**|Zhongyang Li et.al.|[2603.21232](http://arxiv.org/abs/2603.21232)|null|
+|**2026-03-22**|**MI-DPG: Decomposable Parameter Generation Network Based on Mutual Information for Multi-Scenario Recommendation**|Wenzhuo Cheng et.al.|[2603.21209](http://arxiv.org/abs/2603.21209)|null|
+|**2026-03-22**|**Diffusion-based Probabilistic Air Quality Forecasting with Mechanistic Insight**|Ao Ding et.al.|[2603.21131](http://arxiv.org/abs/2603.21131)|null|
 |**2026-03-22**|**Mixture of Chapters: Scaling Learnt Memory in Transformers**|Tasmay Pankaj Tibrewal et.al.|[2603.21096](http://arxiv.org/abs/2603.21096)|null|
 |**2026-03-22**|**CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models**|Nan Zhou et.al.|[2603.21077](http://arxiv.org/abs/2603.21077)|null|
 |**2026-03-22**|**LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning**|Jianing Wang et.al.|[2603.21065](http://arxiv.org/abs/2603.21065)|null|
@@ -3771,11 +3790,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
 |**2026-03-22**|**On the origin of the strong internal magnetic fields of central compact objects**|Kazım Yavuz Ekşi et.al.|[2603.21103](http://arxiv.org/abs/2603.21103)|null|
 |**2026-03-21**|**SWE-Next: Scalable Real-World Software Engineering Tasks for Agents**|Jiarong Liang et.al.|[2603.20691](http://arxiv.org/abs/2603.20691)|null|
 |**2026-03-21**|**AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing**|Sen Fang et.al.|[2603.20637](http://arxiv.org/abs/2603.20637)|null|
 |**2026-03-20**|**Does This Gradient Spark Joy?**|Ian Osband et.al.|[2603.20526](http://arxiv.org/abs/2603.20526)|null|
-|**2026-03-20**|**ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding**|Quan Kong et.al.|[2603.19610](http://arxiv.org/abs/2603.19610)|null|
+|**2026-03-23**|**ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding**|Quan Kong et.al.|[2603.19610](http://arxiv.org/abs/2603.19610)|null|
 |**2026-03-19**|**Beyond the Desk: Barriers and Future Opportunities for AI to Assist Scientists in Embodied Physical Tasks**|Irene Hou et.al.|[2603.19504](http://arxiv.org/abs/2603.19504)|null|
 |**2026-03-19**|**Speculative Policy Orchestration: A Latency-Resilient Framework for Cloud-Robotic Manipulation**|Chanh Nguyen et.al.|[2603.19418](http://arxiv.org/abs/2603.19418)|null|
 |**2026-03-19**|**The Uncertain Policy Price of Scaling Direct Air Capture**|Leonardo Chiani et.al.|[2603.19143](http://arxiv.org/abs/2603.19143)|null|
