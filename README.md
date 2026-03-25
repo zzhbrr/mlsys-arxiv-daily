@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference**|Euijun Chung et.al.|[2603.22774](http://arxiv.org/abs/2603.22774)|null|
 |**2026-03-23**|**Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs**|Kangqi Ni et.al.|[2603.22206](http://arxiv.org/abs/2603.22206)|null|
 |**2026-03-23**|**GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**|Xiao Han et.al.|[2603.22096](http://arxiv.org/abs/2603.22096)|null|
 |**2026-03-23**|**CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning**|Shuo Wang et.al.|[2603.21725](http://arxiv.org/abs/2603.21725)|null|
@@ -30,7 +31,7 @@
 |**2026-03-22**|**Improving Coherence and Persistence in Agentic AI for System Optimization**|Pantea Karimi et.al.|[2603.21321](http://arxiv.org/abs/2603.21321)|null|
 |**2026-03-22**|**CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands**|Weiye Wang et.al.|[2603.21257](http://arxiv.org/abs/2603.21257)|null|
 |**2026-03-22**|**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs**|Zihui Chen et.al.|[2603.21155](http://arxiv.org/abs/2603.21155)|null|
-|**2026-03-21**|**WWW.Serve: Interconnecting Global LLM Services through Decentralization**|Huanyu Wang et.al.|[2603.20661](http://arxiv.org/abs/2603.20661)|null|
+|**2026-03-24**|**WWW.Serve: Interconnecting Global LLM Services through Decentralization**|Huanyu Wang et.al.|[2603.20661](http://arxiv.org/abs/2603.20661)|null|
 |**2026-03-20**|**KV Cache Optimization Strategies for Scalable and Efficient LLM Inference**|Yichun Xu et.al.|[2603.20397](http://arxiv.org/abs/2603.20397)|null|
 |**2026-03-20**|**Utility-Guided Agent Orchestration for Efficient LLM Tool Use**|Boyan Liu et.al.|[2603.19896](http://arxiv.org/abs/2603.19896)|null|
 |**2026-03-20**|**Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification**|Baoding He et.al.|[2603.19715](http://arxiv.org/abs/2603.19715)|null|
@@ -1734,7 +1735,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1826,12 +1827,19 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Amplitude Analysis of the Isospin-Violating Decay $J/ψ\rightarrowγηπ^{0}$**|BESIII Collaboration et.al.|[2603.23081](http://arxiv.org/abs/2603.23081)|null|
+|**2026-03-24**|**IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals**|Wanying Mo et.al.|[2603.22917](http://arxiv.org/abs/2603.22917)|null|
+|**2026-03-24**|**Search for the radiative decays $D^0\to γ\bar K_1(1270)^0$ and $D^+\to γK_1(1270)^+$**|BESIII Collaboration et.al.|[2603.22804](http://arxiv.org/abs/2603.22804)|null|
+|**2026-03-24**|**KALAVAI: Predicting When Independent Specialist Fusion Works -- A Quantitative Model for Post-Hoc Cooperative LLM Training**|Ramchand Kumaresan et.al.|[2603.22755](http://arxiv.org/abs/2603.22755)|null|
+|**2026-03-24**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708](http://arxiv.org/abs/2603.22708)|null|
+|**2026-03-23**|**Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning**|Jihyun Janice Ahn et.al.|[2603.22619](http://arxiv.org/abs/2603.22619)|null|
+|**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|null|
 |**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
 |**2026-03-23**|**A bending in the size-mass relation of star-forming galaxies across $0.5 < z < 6.0$ at a critical stellar mass of $10^{10}M_\odot$ revealed by JWST**|Longyue Chen et.al.|[2603.22239](http://arxiv.org/abs/2603.22239)|null|
 |**2026-03-23**|**Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning**|Daniel Shao et.al.|[2603.22198](http://arxiv.org/abs/2603.22198)|null|
@@ -3797,13 +3805,15 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-23**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
+|**2026-03-24**|**Mars excitement in Australian newspapers, 1877-1899: Humour and the public negotiation of astronomical knowledge**|Richard de Grijs et.al.|[2603.22906](http://arxiv.org/abs/2603.22906)|null|
+|**2026-03-23**|**From Brittle to Robust: Improving LLM Annotations for SE Optimization**|Lohith Senthilkumar et.al.|[2603.22474](http://arxiv.org/abs/2603.22474)|null|
+|**2026-03-24**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
 |**2026-03-22**|**On the origin of the strong internal magnetic fields of central compact objects**|Kazım Yavuz Ekşi et.al.|[2603.21103](http://arxiv.org/abs/2603.21103)|null|
 |**2026-03-21**|**SWE-Next: Scalable Real-World Software Engineering Tasks for Agents**|Jiarong Liang et.al.|[2603.20691](http://arxiv.org/abs/2603.20691)|null|
 |**2026-03-21**|**AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing**|Sen Fang et.al.|[2603.20637](http://arxiv.org/abs/2603.20637)|null|
@@ -4969,7 +4979,7 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -5338,7 +5348,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

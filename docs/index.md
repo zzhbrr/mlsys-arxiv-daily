@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Characterizing CPU-Induced Slowdowns in Multi-GPU LLM Inference**|Euijun Chung et.al.|[2603.22774](http://arxiv.org/abs/2603.22774)|null|
 |**2026-03-23**|**Chimera: Latency- and Performance-Aware Multi-agent Serving for Heterogeneous LLMs**|Kangqi Ni et.al.|[2603.22206](http://arxiv.org/abs/2603.22206)|null|
 |**2026-03-23**|**GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**|Xiao Han et.al.|[2603.22096](http://arxiv.org/abs/2603.22096)|null|
 |**2026-03-23**|**CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning**|Shuo Wang et.al.|[2603.21725](http://arxiv.org/abs/2603.21725)|null|
@@ -23,7 +24,7 @@ layout: default
 |**2026-03-22**|**Improving Coherence and Persistence in Agentic AI for System Optimization**|Pantea Karimi et.al.|[2603.21321](http://arxiv.org/abs/2603.21321)|null|
 |**2026-03-22**|**CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands**|Weiye Wang et.al.|[2603.21257](http://arxiv.org/abs/2603.21257)|null|
 |**2026-03-22**|**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs**|Zihui Chen et.al.|[2603.21155](http://arxiv.org/abs/2603.21155)|null|
-|**2026-03-21**|**WWW.Serve: Interconnecting Global LLM Services through Decentralization**|Huanyu Wang et.al.|[2603.20661](http://arxiv.org/abs/2603.20661)|null|
+|**2026-03-24**|**WWW.Serve: Interconnecting Global LLM Services through Decentralization**|Huanyu Wang et.al.|[2603.20661](http://arxiv.org/abs/2603.20661)|null|
 |**2026-03-20**|**KV Cache Optimization Strategies for Scalable and Efficient LLM Inference**|Yichun Xu et.al.|[2603.20397](http://arxiv.org/abs/2603.20397)|null|
 |**2026-03-20**|**Utility-Guided Agent Orchestration for Efficient LLM Tool Use**|Boyan Liu et.al.|[2603.19896](http://arxiv.org/abs/2603.19896)|null|
 |**2026-03-20**|**Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification**|Baoding He et.al.|[2603.19715](http://arxiv.org/abs/2603.19715)|null|
@@ -1821,6 +1822,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Amplitude Analysis of the Isospin-Violating Decay $J/ψ\rightarrowγηπ^{0}$**|BESIII Collaboration et.al.|[2603.23081](http://arxiv.org/abs/2603.23081)|null|
+|**2026-03-24**|**IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals**|Wanying Mo et.al.|[2603.22917](http://arxiv.org/abs/2603.22917)|null|
+|**2026-03-24**|**Search for the radiative decays $D^0\to γ\bar K_1(1270)^0$ and $D^+\to γK_1(1270)^+$**|BESIII Collaboration et.al.|[2603.22804](http://arxiv.org/abs/2603.22804)|null|
+|**2026-03-24**|**KALAVAI: Predicting When Independent Specialist Fusion Works -- A Quantitative Model for Post-Hoc Cooperative LLM Training**|Ramchand Kumaresan et.al.|[2603.22755](http://arxiv.org/abs/2603.22755)|null|
+|**2026-03-24**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708](http://arxiv.org/abs/2603.22708)|null|
+|**2026-03-23**|**Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning**|Jihyun Janice Ahn et.al.|[2603.22619](http://arxiv.org/abs/2603.22619)|null|
+|**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|null|
 |**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279](http://arxiv.org/abs/2603.22279)|null|
 |**2026-03-23**|**A bending in the size-mass relation of star-forming galaxies across $0.5 < z < 6.0$ at a critical stellar mass of $10^{10}M_\odot$ revealed by JWST**|Longyue Chen et.al.|[2603.22239](http://arxiv.org/abs/2603.22239)|null|
 |**2026-03-23**|**Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning**|Daniel Shao et.al.|[2603.22198](http://arxiv.org/abs/2603.22198)|null|
@@ -3790,7 +3798,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-23**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
+|**2026-03-24**|**Mars excitement in Australian newspapers, 1877-1899: Humour and the public negotiation of astronomical knowledge**|Richard de Grijs et.al.|[2603.22906](http://arxiv.org/abs/2603.22906)|null|
+|**2026-03-23**|**From Brittle to Robust: Improving LLM Annotations for SE Optimization**|Lohith Senthilkumar et.al.|[2603.22474](http://arxiv.org/abs/2603.22474)|null|
+|**2026-03-24**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
 |**2026-03-22**|**On the origin of the strong internal magnetic fields of central compact objects**|Kazım Yavuz Ekşi et.al.|[2603.21103](http://arxiv.org/abs/2603.21103)|null|
 |**2026-03-21**|**SWE-Next: Scalable Real-World Software Engineering Tasks for Agents**|Jiarong Liang et.al.|[2603.20691](http://arxiv.org/abs/2603.20691)|null|
 |**2026-03-21**|**AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing**|Sen Fang et.al.|[2603.20637](http://arxiv.org/abs/2603.20637)|null|
