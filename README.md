@@ -1839,6 +1839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Enes Causal Discovery**|Alexis Kafantaris et.al.|[2603.24436](http://arxiv.org/abs/2603.24436)|null|
 |**2026-03-25**|**Cross Section Measurements of $\bar{n}p \rightarrow K^{+}K^{-}π^{+}(π^{0})$ via Antineutrons Produced by $J/ψ\to p π^{-} \bar{n}$ Decays**|BESIII Collaboration et.al.|[2603.24272](http://arxiv.org/abs/2603.24272)|null|
 |**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245](http://arxiv.org/abs/2603.24245)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
@@ -1848,7 +1849,7 @@
 |**2026-03-25**|**SiftMoE: Similarity-Aware Energy-Efficient Expert Selection for Wireless Distributed MoE Inference**|Qian Chen et.al.|[2603.23888](http://arxiv.org/abs/2603.23888)|null|
 |**2026-03-24**|**Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters**|Nan Cui et.al.|[2603.23780](http://arxiv.org/abs/2603.23780)|null|
 |**2026-03-24**|**The Diminishing Returns of Early-Exit Decoding in Modern LLMs**|Rui Wei et.al.|[2603.23701](http://arxiv.org/abs/2603.23701)|null|
-|**2026-03-24**|**VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs**|Haoran Yuan et.al.|[2603.23481](http://arxiv.org/abs/2603.23481)|**[link](https://github.com/nktkt/paper-2026-03-25-vtam-video-tactile-action-models-for-complex-physi)**|
+|**2026-03-24**|**VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs**|Haoran Yuan et.al.|[2603.23481](http://arxiv.org/abs/2603.23481)|null|
 |**2026-03-24**|**Similarity-Aware Mixture-of-Experts for Data-Efficient Continual Learning**|Connor Mclaughlin et.al.|[2603.23436](http://arxiv.org/abs/2603.23436)|null|
 |**2026-03-24**|**Amplitude Analysis of the Isospin-Violating Decay $J/ψ\rightarrowγηπ^{0}$**|BESIII Collaboration et.al.|[2603.23081](http://arxiv.org/abs/2603.23081)|null|
 |**2026-03-24**|**IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals**|Wanying Mo et.al.|[2603.22917](http://arxiv.org/abs/2603.22917)|null|
@@ -3828,6 +3829,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Quantum walk with a local spin interaction**|Manami Yamagishi et.al.|[2603.24444](http://arxiv.org/abs/2603.24444)|null|
 |**2026-03-25**|**AI Fortune-Teller: Juxtaposing Shaman and AI to Reveal Human Agency in the Age of AI**|Soonho Kwon et.al.|[2603.23811](http://arxiv.org/abs/2603.23811)|null|
 |**2026-03-24**|**Mars in the Australian Press, 1875-1899. 1. Interpretation, Authority and Planetary Science**|Richard de Grijs et.al.|[2603.23563](http://arxiv.org/abs/2603.23563)|null|
 |**2026-03-24**|**SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning**|Haoyu Huang et.al.|[2603.23483](http://arxiv.org/abs/2603.23483)|null|
@@ -5006,6 +5008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-25**|**SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems**|Chung-En Johnny Yu et.al.|[2603.23853](http://arxiv.org/abs/2603.23853)|null|
 |**2026-03-19**|**6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models**|Rundong Su et.al.|[2603.18742](http://arxiv.org/abs/2603.18742)|null|
 |**2026-03-18**|**DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe and Deployable Autonomous Driving**|Zilin Huang et.al.|[2603.18315](http://arxiv.org/abs/2603.18315)|null|
