@@ -1842,6 +1842,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Short proofs in combinatorics and number theory**|Boris Alexeev et.al.|[2603.29961](http://arxiv.org/abs/2603.29961)|null|
+|**2026-03-31**|**First energy scan measurement of $e^{+}e^{-}\to K^{+}K^{-}$ around the $ψ(2S)$ resonance**|BESIII Collaboration et.al.|[2603.29854](http://arxiv.org/abs/2603.29854)|null|
+|**2026-03-31**|**Counterfactual Analysis of Brain Network Dynamics**|Moo K. Chung et.al.|[2603.29843](http://arxiv.org/abs/2603.29843)|null|
 |**2026-03-31**|**Training-Free Dynamic Upcycling of Expert Language Models**|Eros Fanì et.al.|[2603.29765](http://arxiv.org/abs/2603.29765)|null|
 |**2026-03-31**|**TrafficMoE: Heterogeneity-aware Mixture of Experts for Encrypted Traffic Classification**|Qing He et.al.|[2603.29520](http://arxiv.org/abs/2603.29520)|null|
 |**2026-03-31**|**Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE**|Hejin Huang et.al.|[2603.29259](http://arxiv.org/abs/2603.29259)|null|
@@ -1852,7 +1855,7 @@ layout: default
 |**2026-03-30**|**Observation of $Λ^+_c\to nπ^+η$ and search for $Λ^+_c\to na_0(980)^+$**|BESIII Collaboration et.al.|[2603.28232](http://arxiv.org/abs/2603.28232)|null|
 |**2026-03-30**|**Graph Vector Field: A Unified Framework for Multimodal Health Risk Assessment from Heterogeneous Wearable and Environmental Data Streams**|Silvano Coletti et.al.|[2603.28115](http://arxiv.org/abs/2603.28115)|null|
 |**2026-03-30**|**ExFusion: Efficient Transformer Training via Multi-Experts Fusion**|Jiacheng Ruan et.al.|[2603.27965](http://arxiv.org/abs/2603.27965)|null|
-|**2026-03-30**|**MathGen: Revealing the Illusion of Mathematical Competence through Text-to-Image Generation**|Ruiyao Liu et.al.|[2603.27959](http://arxiv.org/abs/2603.27959)|null|
+|**2026-03-31**|**MathGen: Revealing the Illusion of Mathematical Competence through Text-to-Image Generation**|Ruiyao Liu et.al.|[2603.27959](http://arxiv.org/abs/2603.27959)|null|
 |**2026-03-29**|**KAT-Coder-V2 Technical Report**|Fengxiang Li et.al.|[2603.27703](http://arxiv.org/abs/2603.27703)|null|
 |**2026-03-29**|**LVRPO: Language-Visual Alignment with GRPO for Multimodal Understanding and Generation**|Shentong Mo et.al.|[2603.27693](http://arxiv.org/abs/2603.27693)|null|
 |**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
@@ -3863,6 +3866,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Cloudy With a Chance of Meatballs**|Wolf Cukier et.al.|[2603.29883](http://arxiv.org/abs/2603.29883)|null|
+|**2026-03-31**|**Detecting speculative leaks with compositional semantics**|Xaver Fabian et.al.|[2603.29800](http://arxiv.org/abs/2603.29800)|null|
 |**2026-03-31**|**Milky Way evolution on a human timescale**|Eugene et.al.|[2603.29503](http://arxiv.org/abs/2603.29503)|null|
 |**2026-03-31**|**Mexican Burrowing Toads as gravitational wave detectors**|Frederic V. Hessman et.al.|[2603.29334](http://arxiv.org/abs/2603.29334)|null|
 |**2026-03-30**|**The Binary-Binary Hierarchical System XY Leo: A Laboratory for Stellar Activity and Concealed Companions**|D. Koçak et.al.|[2603.28934](http://arxiv.org/abs/2603.28934)|null|
@@ -5061,7 +5066,7 @@ layout: default
 |**2026-03-11**|**COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints**|Mohammad Saeid Anwar et.al.|[2603.10436](http://arxiv.org/abs/2603.10436)|null|
 |**2026-03-09**|**SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving**|Ayush Barik et.al.|[2603.07865](http://arxiv.org/abs/2603.07865)|null|
 |**2026-03-08**|**MWM: Mobile World Models for Action-Conditioned Consistent Prediction**|Han Yan et.al.|[2603.07799](http://arxiv.org/abs/2603.07799)|null|
-|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
+|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|**[link](https://github.com/vita-epfl/SenCache)**|
 |**2026-02-26**|**LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification**|Shawn Liang et.al.|[2602.23553](http://arxiv.org/abs/2602.23553)|null|
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
