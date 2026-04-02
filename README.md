@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Fast and Accurate Probing of In-Training LLMs' Downstream Performances**|Zhichen Liu et.al.|[2604.01025](http://arxiv.org/abs/2604.01025)|null|
 |**2026-04-01**|**Learning from Many and Adapting to the Unknown in Open-set Test Streams**|Xiao Zhang et.al.|[2604.00533](http://arxiv.org/abs/2604.00533)|null|
 |**2026-04-01**|**Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions**|Haoyu Zheng et.al.|[2604.00499](http://arxiv.org/abs/2604.00499)|null|
 |**2026-04-01**|**TENT: A Declarative Slice Spraying Engine for Performant and Resilient Data Movement in Disaggregated LLM Serving**|Feng Ren et.al.|[2604.00368](http://arxiv.org/abs/2604.00368)|null|
@@ -1857,6 +1858,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[2604.01152](http://arxiv.org/abs/2604.01152)|null|
+|**2026-04-01**|**Asymptotically Optimal Sequential Testing with Heterogeneous LLMs**|Guokai Li et.al.|[2604.01086](http://arxiv.org/abs/2604.01086)|null|
+|**2026-04-01**|**PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement**|Zilong Li et.al.|[2604.01053](http://arxiv.org/abs/2604.01053)|null|
 |**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
 |**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[2604.00812](http://arxiv.org/abs/2604.00812)|null|
 |**2026-04-01**|**Routing-Free Mixture-of-Experts**|Yilun Liu et.al.|[2604.00801](http://arxiv.org/abs/2604.00801)|null|
