@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Learning from Many and Adapting to the Unknown in Open-set Test Streams**|Xiao Zhang et.al.|[2604.00533](http://arxiv.org/abs/2604.00533)|null|
+|**2026-04-01**|**Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions**|Haoyu Zheng et.al.|[2604.00499](http://arxiv.org/abs/2604.00499)|null|
+|**2026-04-01**|**TENT: A Declarative Slice Spraying Engine for Performant and Resilient Data Movement in Disaggregated LLM Serving**|Feng Ren et.al.|[2604.00368](http://arxiv.org/abs/2604.00368)|null|
+|**2026-03-31**|**ParetoBandit: Budget-Paced Adaptive Routing for Non-Stationary LLM Serving**|Annette Taberner-Miller et.al.|[2604.00136](http://arxiv.org/abs/2604.00136)|null|
 |**2026-03-30**|**Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference**|Zifan He et.al.|[2603.29002](http://arxiv.org/abs/2603.29002)|null|
 |**2026-03-24**|**StepCache: Step-Level Reuse with Lightweight Verification and Selective Patching for LLM Serving**|Azam Nouri et.al.|[2603.28795](http://arxiv.org/abs/2603.28795)|null|
 |**2026-03-30**|**A Techno-Economic Framework for Cost Modeling and Revenue Opportunities in Open and Programmable AI-RAN**|Gabriele Gemmi et.al.|[2603.28680](http://arxiv.org/abs/2603.28680)|null|
@@ -1842,6 +1846,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
+|**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[2604.00812](http://arxiv.org/abs/2604.00812)|null|
+|**2026-04-01**|**Routing-Free Mixture-of-Experts**|Yilun Liu et.al.|[2604.00801](http://arxiv.org/abs/2604.00801)|null|
+|**2026-04-01**|**Scalable Pretraining of Large Mixture of Experts Language Models on Aurora Super Computer**|Dharma Teja Vooturi et.al.|[2604.00785](http://arxiv.org/abs/2604.00785)|null|
+|**2026-04-01**|**Toward Optimal Sampling Rate Selection and Unbiased Classification for Precise Animal Activity Recognition**|Axiu Mao et.al.|[2604.00517](http://arxiv.org/abs/2604.00517)|null|
+|**2026-04-01**|**Self-Routing: Parameter-Free Expert Routing from Hidden States**|Jama Hussein Mohamud et.al.|[2604.00421](http://arxiv.org/abs/2604.00421)|null|
+|**2026-03-31**|**From Skew to Symmetry: Node-Interconnect Multi-Path Balancing with Execution-time Planning for Modern GPU Clusters**|Jinghan Yao et.al.|[2604.00317](http://arxiv.org/abs/2604.00317)|null|
+|**2026-03-31**|**Directly visualizing the energy level structure of quantum dot molecules**|Heun Mo Yoo et.al.|[2604.00232](http://arxiv.org/abs/2604.00232)|null|
+|**2026-03-31**|**Towards Verifiable and Self-Correcting AI Physicists for Quantum Many-Body Simulations**|Ken Deng et.al.|[2604.00149](http://arxiv.org/abs/2604.00149)|null|
+|**2026-03-31**|**PASM: Population Adaptive Symbolic Mixture-of-Experts Model for Cross-location Hurricane Evacuation Decision Prediction**|Xiao Qian et.al.|[2604.00074](http://arxiv.org/abs/2604.00074)|null|
 |**2026-03-31**|**Short proofs in combinatorics and number theory**|Boris Alexeev et.al.|[2603.29961](http://arxiv.org/abs/2603.29961)|null|
 |**2026-03-31**|**First energy scan measurement of $e^{+}e^{-}\to K^{+}K^{-}$ around the $ψ(2S)$ resonance**|BESIII Collaboration et.al.|[2603.29854](http://arxiv.org/abs/2603.29854)|null|
 |**2026-03-31**|**Counterfactual Analysis of Brain Network Dynamics**|Moo K. Chung et.al.|[2603.29843](http://arxiv.org/abs/2603.29843)|null|
@@ -3866,6 +3880,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Frege in the Flesh: Biolinguistics and the Neural Enforcement of Syntactic Structures**|Elliot Murphy et.al.|[2604.00291](http://arxiv.org/abs/2604.00291)|null|
+|**2026-03-31**|**Spatially modulated morphotropic phase boundaries in a compressively strained multiferroic thin film**|Ting-Ran Liu et.al.|[2604.00288](http://arxiv.org/abs/2604.00288)|null|
+|**2026-03-31**|**Blockspace Under Pressure: An Analysis of Spam MEV on High-Throughput Blockchains**|Wenhao Wang et.al.|[2604.00234](http://arxiv.org/abs/2604.00234)|null|
 |**2026-03-31**|**Cloudy With a Chance of Meatballs**|Wolf Cukier et.al.|[2603.29883](http://arxiv.org/abs/2603.29883)|null|
 |**2026-03-31**|**Detecting speculative leaks with compositional semantics**|Xaver Fabian et.al.|[2603.29800](http://arxiv.org/abs/2603.29800)|null|
 |**2026-03-31**|**Milky Way evolution on a human timescale**|Eugene et.al.|[2603.29503](http://arxiv.org/abs/2603.29503)|null|
@@ -5057,8 +5074,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-31**|**GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation**|Rui Xie et.al.|[2603.26266](http://arxiv.org/abs/2603.26266)|null|
 |**2026-03-26**|**DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease**|Runsheng Bai et.al.|[2603.25872](http://arxiv.org/abs/2603.25872)|null|
-|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
-|**2026-03-25**|**SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems**|Chung-En Johnny Yu et.al.|[2603.23853](http://arxiv.org/abs/2603.23853)|null|
+|**2026-04-01**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-04-01**|**SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems**|Chung-En Johnny Yu et.al.|[2603.23853](http://arxiv.org/abs/2603.23853)|null|
 |**2026-03-19**|**6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models**|Rundong Su et.al.|[2603.18742](http://arxiv.org/abs/2603.18742)|null|
 |**2026-03-18**|**DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe and Deployable Autonomous Driving**|Zilin Huang et.al.|[2603.18315](http://arxiv.org/abs/2603.18315)|null|
 |**2026-03-13**|**Draft-and-Target Sampling for Video Generation Policy**|Qikang Zhang et.al.|[2603.13438](http://arxiv.org/abs/2603.13438)|null|
@@ -5066,7 +5083,7 @@ layout: default
 |**2026-03-11**|**COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints**|Mohammad Saeid Anwar et.al.|[2603.10436](http://arxiv.org/abs/2603.10436)|null|
 |**2026-03-09**|**SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving**|Ayush Barik et.al.|[2603.07865](http://arxiv.org/abs/2603.07865)|null|
 |**2026-03-08**|**MWM: Mobile World Models for Action-Conditioned Consistent Prediction**|Han Yan et.al.|[2603.07799](http://arxiv.org/abs/2603.07799)|null|
-|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|**[link](https://github.com/vita-epfl/SenCache)**|
+|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
 |**2026-02-26**|**LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification**|Shawn Liang et.al.|[2602.23553](http://arxiv.org/abs/2602.23553)|null|
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
