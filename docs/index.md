@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding**|Tao Jin et.al.|[2604.02047](http://arxiv.org/abs/2604.02047)|null|
+|**2026-04-02**|**DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72**|Wanqian Li et.al.|[2604.01621](http://arxiv.org/abs/2604.01621)|null|
 |**2026-04-01**|**Fast and Accurate Probing of In-Training LLMs' Downstream Performances**|Zhichen Liu et.al.|[2604.01025](http://arxiv.org/abs/2604.01025)|null|
 |**2026-04-01**|**Learning from Many and Adapting to the Unknown in Open-set Test Streams**|Xiao Zhang et.al.|[2604.00533](http://arxiv.org/abs/2604.00533)|null|
 |**2026-04-01**|**Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions**|Haoyu Zheng et.al.|[2604.00499](http://arxiv.org/abs/2604.00499)|null|
@@ -1847,8 +1849,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level**|Jeremy Herbst et.al.|[2604.02178](http://arxiv.org/abs/2604.02178)|null|
+|**2026-04-02**|**FlatAttention: Dataflow and Fabric Collectives Co-Optimization for Large Attention-Based Model Inference on Tile-Based Accelerators**|Chi Zhang et.al.|[2604.02110](http://arxiv.org/abs/2604.02110)|null|
+|**2026-04-02**|**SURE: Synergistic Uncertainty-aware Reasoning for Multimodal Emotion Recognition in Conversations**|Yiqiang Cai et.al.|[2604.01916](http://arxiv.org/abs/2604.01916)|null|
+|**2026-04-02**|**FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models**|Juyong Jiang et.al.|[2604.01762](http://arxiv.org/abs/2604.01762)|null|
+|**2026-04-02**|**M3D-BFS: a Multi-stage Dynamic Fusion Strategy for Sample-Adaptive Multi-Modal Brain Network Analysis**|Rui Dong et.al.|[2604.01667](http://arxiv.org/abs/2604.01667)|null|
+|**2026-04-02**|**Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models**|Shuibai Zhang et.al.|[2604.01622](http://arxiv.org/abs/2604.01622)|null|
+|**2026-04-02**|**DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72**|Wanqian Li et.al.|[2604.01621](http://arxiv.org/abs/2604.01621)|null|
+|**2026-04-01**|**Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation**|Jiuzhou Lei et.al.|[2604.01414](http://arxiv.org/abs/2604.01414)|null|
+|**2026-04-01**|**Sparse Spectral LoRA: Routed Experts for Medical VLMs**|Omid Nejati Manzari et.al.|[2604.01310](http://arxiv.org/abs/2604.01310)|null|
 |**2026-04-01**|**Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning**|Mohammad R. Abu Ayyash et.al.|[2604.01152](http://arxiv.org/abs/2604.01152)|null|
-|**2026-04-01**|**Asymptotically Optimal Sequential Testing with Heterogeneous LLMs**|Guokai Li et.al.|[2604.01086](http://arxiv.org/abs/2604.01086)|null|
+|**2026-04-02**|**Asymptotically Optimal Sequential Testing with Heterogeneous LLMs**|Guokai Li et.al.|[2604.01086](http://arxiv.org/abs/2604.01086)|null|
 |**2026-04-01**|**PHASOR: Anatomy- and Phase-Consistent Volumetric Diffusion for CT Virtual Contrast Enhancement**|Zilong Li et.al.|[2604.01053](http://arxiv.org/abs/2604.01053)|null|
 |**2026-04-01**|**KUET at StanceNakba Shared Task: StanceMoE: Mixture-of-Experts Architecture for Stance Detection**|Abdullah Al Shafi et.al.|[2604.00878](http://arxiv.org/abs/2604.00878)|null|
 |**2026-04-01**|**Cost-Penalized Fitness in FMA-Orchestrated Mixture of Experts: Experimental Evidence for Molecular Memory in Domain Adaptation**|Martin Jaraiz et.al.|[2604.00812](http://arxiv.org/abs/2604.00812)|null|
@@ -3884,6 +3895,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding**|Tao Jin et.al.|[2604.02047](http://arxiv.org/abs/2604.02047)|null|
+|**2026-04-02**|**Reinforcement Learning for Speculative Trading under Exploratory Framework**|Yun Zhao et.al.|[2604.02035](http://arxiv.org/abs/2604.02035)|null|
+|**2026-04-02**|**Phonon Thermal Hall Effect in quartz and its absence in silica**|Yu Ling et.al.|[2604.01908](http://arxiv.org/abs/2604.01908)|null|
 |**2026-03-31**|**Frege in the Flesh: Biolinguistics and the Neural Enforcement of Syntactic Structures**|Elliot Murphy et.al.|[2604.00291](http://arxiv.org/abs/2604.00291)|null|
 |**2026-03-31**|**Spatially modulated morphotropic phase boundaries in a compressively strained multiferroic thin film**|Ting-Ran Liu et.al.|[2604.00288](http://arxiv.org/abs/2604.00288)|null|
 |**2026-03-31**|**Blockspace Under Pressure: An Analysis of Spam MEV on High-Throughput Blockchains**|Wenhao Wang et.al.|[2604.00234](http://arxiv.org/abs/2604.00234)|null|
@@ -3892,7 +3906,7 @@ layout: default
 |**2026-03-31**|**Milky Way evolution on a human timescale**|Eugene et.al.|[2603.29503](http://arxiv.org/abs/2603.29503)|null|
 |**2026-03-31**|**Mexican Burrowing Toads as gravitational wave detectors**|Frederic V. Hessman et.al.|[2603.29334](http://arxiv.org/abs/2603.29334)|null|
 |**2026-03-30**|**The Binary-Binary Hierarchical System XY Leo: A Laboratory for Stellar Activity and Concealed Companions**|D. Koçak et.al.|[2603.28934](http://arxiv.org/abs/2603.28934)|null|
-|**2026-03-30**|**A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7**|Alberto Torralba et.al.|[2603.28335](http://arxiv.org/abs/2603.28335)|null|
+|**2026-04-02**|**A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7**|Alberto Torralba et.al.|[2603.28335](http://arxiv.org/abs/2603.28335)|null|
 |**2026-03-30**|**Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting**|Zhen Zou et.al.|[2603.28049](http://arxiv.org/abs/2603.28049)|null|
 |**2026-03-28**|**SJD-VP: Speculative Jacobi Decoding with Verification Prediction for Autoregressive Image Generation**|Bingqi Shan et.al.|[2603.27115](http://arxiv.org/abs/2603.27115)|null|
 |**2026-03-27**|**TAPS: Task Aware Proposal Distributions for Speculative Sampling**|Mohamad Zbib et.al.|[2603.27027](http://arxiv.org/abs/2603.27027)|null|
