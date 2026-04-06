@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|
+|**2026-04-03**|**Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference**|Cornelius Kummer et.al.|[2604.02985](http://arxiv.org/abs/2604.02985)|null|
+|**2026-04-03**|**MSAO: Adaptive Modality Sparsity-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference**|Zheming Yang et.al.|[2604.02945](http://arxiv.org/abs/2604.02945)|null|
+|**2026-04-02**|**Fast NF4 Dequantization Kernels for Large Language Model Inference**|Xiangbo Qi et.al.|[2604.02556](http://arxiv.org/abs/2604.02556)|null|
+|**2026-04-02**|**OmniTQA: A Cost-Aware System for Hybrid Query Processing over Semi-Structured Data**|Nima Shahbazi et.al.|[2604.02444](http://arxiv.org/abs/2604.02444)|null|
+|**2026-04-02**|**SelRoute: Query-Type-Aware Routing for Long-Term Conversational Memory Retrieval**|Matthew McKee et.al.|[2604.02431](http://arxiv.org/abs/2604.02431)|null|
 |**2026-04-02**|**Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding**|Tao Jin et.al.|[2604.02047](http://arxiv.org/abs/2604.02047)|null|
 |**2026-04-02**|**DWDP: Distributed Weight Data Parallelism for High-Performance LLM Inference on NVL72**|Wanqian Li et.al.|[2604.01621](http://arxiv.org/abs/2604.01621)|null|
 |**2026-04-01**|**Fast and Accurate Probing of In-Training LLMs' Downstream Performances**|Zhichen Liu et.al.|[2604.01025](http://arxiv.org/abs/2604.01025)|null|
@@ -1849,6 +1855,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|
+|**2026-04-03**|**JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency**|Aichen Cai et.al.|[2604.03044](http://arxiv.org/abs/2604.03044)|null|
+|**2026-04-03**|**PolyReal: A Benchmark for Real-World Polymer Science Workflows**|Wanhao Liu et.al.|[2604.02934](http://arxiv.org/abs/2604.02934)|null|
+|**2026-04-03**|**Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus**|Shuai Wu et.al.|[2604.02923](http://arxiv.org/abs/2604.02923)|null|
+|**2026-04-03**|**Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration**|Wachiravit Modecrua et.al.|[2604.02869](http://arxiv.org/abs/2604.02869)|null|
+|**2026-04-03**|**FluxMoE: Decoupling Expert Residency for High-Performance MoE Serving**|Qingxiu Liu et.al.|[2604.02715](http://arxiv.org/abs/2604.02715)|null|
+|**2026-04-03**|**V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views**|Junwei You et.al.|[2604.02710](http://arxiv.org/abs/2604.02710)|null|
+|**2026-04-03**|**Adaptive Semantic Communication for Wireless Image Transmission Leveraging Mixture-of-Experts Mechanism**|Haowen Wan et.al.|[2604.02691](http://arxiv.org/abs/2604.02691)|null|
 |**2026-04-02**|**The Expert Strikes Back: Interpreting Mixture-of-Experts Language Models at Expert Level**|Jeremy Herbst et.al.|[2604.02178](http://arxiv.org/abs/2604.02178)|null|
 |**2026-04-02**|**FlatAttention: Dataflow and Fabric Collectives Co-Optimization for Large Attention-Based Model Inference on Tile-Based Accelerators**|Chi Zhang et.al.|[2604.02110](http://arxiv.org/abs/2604.02110)|null|
 |**2026-04-02**|**SURE: Synergistic Uncertainty-aware Reasoning for Multimodal Emotion Recognition in Conversations**|Yiqiang Cai et.al.|[2604.01916](http://arxiv.org/abs/2604.01916)|null|
@@ -3895,9 +3909,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA**|Zihua Wang et.al.|[2604.02965](http://arxiv.org/abs/2604.02965)|null|
+|**2026-04-03**|**MSAO: Adaptive Modality Sparsity-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference**|Zheming Yang et.al.|[2604.02945](http://arxiv.org/abs/2604.02945)|null|
 |**2026-04-02**|**Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding**|Tao Jin et.al.|[2604.02047](http://arxiv.org/abs/2604.02047)|null|
 |**2026-04-02**|**Reinforcement Learning for Speculative Trading under Exploratory Framework**|Yun Zhao et.al.|[2604.02035](http://arxiv.org/abs/2604.02035)|null|
-|**2026-04-02**|**Phonon Thermal Hall Effect in quartz and its absence in silica**|Yu Ling et.al.|[2604.01908](http://arxiv.org/abs/2604.01908)|null|
+|**2026-04-03**|**Phonon Thermal Hall Effect in quartz and its absence in silica**|Yu Ling et.al.|[2604.01908](http://arxiv.org/abs/2604.01908)|null|
 |**2026-03-31**|**Frege in the Flesh: Biolinguistics and the Neural Enforcement of Syntactic Structures**|Elliot Murphy et.al.|[2604.00291](http://arxiv.org/abs/2604.00291)|null|
 |**2026-03-31**|**Spatially modulated morphotropic phase boundaries in a compressively strained multiferroic thin film**|Ting-Ran Liu et.al.|[2604.00288](http://arxiv.org/abs/2604.00288)|null|
 |**2026-03-31**|**Blockspace Under Pressure: An Analysis of Spam MEV on High-Throughput Blockchains**|Wenhao Wang et.al.|[2604.00234](http://arxiv.org/abs/2604.00234)|null|
