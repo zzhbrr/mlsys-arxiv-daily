@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Hume's Representational Conditions for Causal Judgment: What Bayesian Formalization Abstracted Away**|Yiling Wu et.al.|[2604.03387](http://arxiv.org/abs/2604.03387)|null|
 |**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|
 |**2026-04-03**|**Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference**|Cornelius Kummer et.al.|[2604.02985](http://arxiv.org/abs/2604.02985)|null|
 |**2026-04-03**|**MSAO: Adaptive Modality Sparsity-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference**|Zheming Yang et.al.|[2604.02945](http://arxiv.org/abs/2604.02945)|null|
@@ -1855,6 +1856,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Robust SAR Ship Detection**|Fenghao Song et.al.|[2604.04127](http://arxiv.org/abs/2604.04127)|null|
+|**2026-04-05**|**Bootstrap-Aggregated Method-of-Moments Estimation of the Copula Correlation Parameter for Marginal Survival Inference under Dependent Censoring**|Hyun-Soo Zhang et.al.|[2604.04032](http://arxiv.org/abs/2604.04032)|null|
+|**2026-04-04**|**SPARK-IL: Spectral Retrieval-Augmented RAG for Knowledge-driven Deepfake Detection via Incremental Learning**|Hessen Bougueffa Eutamene et.al.|[2604.03833](http://arxiv.org/abs/2604.03833)|null|
+|**2026-04-04**|**Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning**|Tianci Luo et.al.|[2604.03657](http://arxiv.org/abs/2604.03657)|null|
+|**2026-04-04**|**Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation**|Kening Zheng et.al.|[2604.03592](http://arxiv.org/abs/2604.03592)|null|
+|**2026-04-03**|**Diffusion Policy with Bayesian Expert Selection for Active Multi-Target Tracking**|Haotian Xiang et.al.|[2604.03404](http://arxiv.org/abs/2604.03404)|null|
+|**2026-04-03**|**Mixture-of-Experts in Remote Sensing: A Survey**|Yongchuan Cui et.al.|[2604.03342](http://arxiv.org/abs/2604.03342)|null|
 |**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|
 |**2026-04-03**|**JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency**|Aichen Cai et.al.|[2604.03044](http://arxiv.org/abs/2604.03044)|null|
 |**2026-04-03**|**PolyReal: A Benchmark for Real-World Polymer Science Workflows**|Wanhao Liu et.al.|[2604.02934](http://arxiv.org/abs/2604.02934)|null|
