@@ -1868,6 +1868,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis**|Sk Miraj Ahmed et.al.|[2604.05960](http://arxiv.org/abs/2604.05960)|null|
 |**2026-04-07**|**Precise measurement of the CKM angle $γ$ with a novel approach**|The BESIII et.al.|[2604.05712](http://arxiv.org/abs/2604.05712)|null|
 |**2026-04-07**|**QA-MoE: Towards a Continuous Reliability Spectrum with Quality-Aware Mixture of Experts for Robust Multimodal Sentiment Analysis**|Yitong Zhu et.al.|[2604.05704](http://arxiv.org/abs/2604.05704)|null|
 |**2026-04-07**|**Measurement of the CKM angle $γ$ in $B^{\pm} \rightarrow D(\rightarrow K^{0}_{\rm S} h^{\prime+}h^{\prime-})h^{\pm}$ decays with a novel approach**|The BESIII et.al.|[2604.05701](http://arxiv.org/abs/2604.05701)|null|
@@ -3946,6 +3947,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization**|Changxin Ke et.al.|[2604.05963](http://arxiv.org/abs/2604.05963)|null|
 |**2026-04-07**|**See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs**|Yicheng Ji et.al.|[2604.05650](http://arxiv.org/abs/2604.05650)|null|
 |**2026-04-07**|**Multi-Drafter Speculative Decoding with Alignment Feedback**|Taehyeon Kim et.al.|[2604.05417](http://arxiv.org/abs/2604.05417)|null|
 |**2026-04-06**|**DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models**|Satyam Goyal et.al.|[2604.05250](http://arxiv.org/abs/2604.05250)|null|
