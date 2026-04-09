@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Autopoiesis: A Self-Evolving System Paradigm for LLM Serving Under Runtime Dynamics**|Youhe Jiang et.al.|[2604.07144](http://arxiv.org/abs/2604.07144)|null|
+|**2026-04-08**|**Scheduling the Unschedulable: Taming Black-Box LLM Inference at Scale**|Renzhong Yuan et.al.|[2604.06970](http://arxiv.org/abs/2604.06970)|null|
+|**2026-04-08**|**TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design**|Juan Du et.al.|[2604.06747](http://arxiv.org/abs/2604.06747)|null|
+|**2026-04-08**|**Foundry: Template-Based CUDA Graph Context Materialization for Fast LLM Serving Cold Start**|Xueshen Liu et.al.|[2604.06664](http://arxiv.org/abs/2604.06664)|null|
+|**2026-04-07**|**Inference-Time Code Selection via Symbolic Equivalence Partitioning**|David Cho et.al.|[2604.06485](http://arxiv.org/abs/2604.06485)|null|
 |**2026-04-07**|**HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference**|Bowen Zeng et.al.|[2604.05887](http://arxiv.org/abs/2604.05887)|null|
 |**2026-04-07**|**Vision-Guided Iterative Refinement for Frontend Code Generation**|Hannah Sansford et.al.|[2604.05839](http://arxiv.org/abs/2604.05839)|null|
 |**2026-04-07**|**CAKE: Cloud Architecture Knowledge Evaluation of Large Language Models**|Tim Lukas Adam et.al.|[2604.05755](http://arxiv.org/abs/2604.05755)|null|
@@ -1868,9 +1873,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification**|Xin Tian et.al.|[2604.07298](http://arxiv.org/abs/2604.07298)|null|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models**|Hongyu Chen et.al.|[2604.07173](http://arxiv.org/abs/2604.07173)|null|
+|**2026-04-08**|**The Impact of Steering Large Language Models with Persona Vectors in Educational Applications**|Yongchao Wu et.al.|[2604.07102](http://arxiv.org/abs/2604.07102)|null|
+|**2026-04-08**|**Gemma 4, Phi-4, and Qwen3: Accuracy-Efficiency Tradeoffs in Dense and MoE Reasoning Language Models**|Md Motaleb Hossen Manik et.al.|[2604.07035](http://arxiv.org/abs/2604.07035)|null|
+|**2026-04-08**|**MoE Routing Testbed: Studying Expert Specialization and Routing Behavior at Small Scale**|Tobias Falke et.al.|[2604.07030](http://arxiv.org/abs/2604.07030)|null|
+|**2026-04-08**|**Stress Estimation in Elderly Oncology Patients Using Visual Wearable Representations and Multi-Instance Learning**|Ioannis Kyprakis et.al.|[2604.06990](http://arxiv.org/abs/2604.06990)|null|
+|**2026-04-08**|**MoBiE: Efficient Inference of Mixture of Binary Experts under Post-Training Quantization**|Zhixiong Zhao et.al.|[2604.06798](http://arxiv.org/abs/2604.06798)|null|
+|**2026-04-08**|**HQF-Net: A Hybrid Quantum-Classical Multi-Scale Fusion Network for Remote Sensing Image Segmentation**|Md Aminur Hossain et.al.|[2604.06715](http://arxiv.org/abs/2604.06715)|null|
+|**2026-04-08**|**Heterogeneous Mixture-of-Experts for Energy-Efficient Multimodal ISAC in Highly Mobile Networks**|Wenqi Fan et.al.|[2604.06697](http://arxiv.org/abs/2604.06697)|null|
+|**2026-04-08**|**Foundry: Template-Based CUDA Graph Context Materialization for Fast LLM Serving Cold Start**|Xueshen Liu et.al.|[2604.06664](http://arxiv.org/abs/2604.06664)|null|
+|**2026-04-08**|**Short proofs in combinatorics, probability and number theory II**|Boris Alexeev et.al.|[2604.06609](http://arxiv.org/abs/2604.06609)|null|
+|**2026-04-08**|**Does a Global Perspective Help Prune Sparse MoEs Elegantly?**|Zeliang Zhang et.al.|[2604.06542](http://arxiv.org/abs/2604.06542)|null|
+|**2026-04-07**|**Soft-Quantum Algorithms**|Basil Kyriacou et.al.|[2604.06523](http://arxiv.org/abs/2604.06523)|null|
+|**2026-04-07**|**Efficient Quantization of Mixture-of-Experts with Theoretical Generalization Guarantees**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2604.06515](http://arxiv.org/abs/2604.06515)|null|
+|**2026-04-07**|**State-of-the-Art Arabic Language Modeling with Sparse MoE Fine-Tuning and Chain-of-Thought Distillation**|Navan Preet Singh et.al.|[2604.06421](http://arxiv.org/abs/2604.06421)|null|
+|**2026-04-07**|**TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models**|Lin Mu et.al.|[2604.06291](http://arxiv.org/abs/2604.06291)|null|
 |**2026-04-07**|**A Mixture of Experts Foundation Model for Scanning Electron Microscopy Image Analysis**|Sk Miraj Ahmed et.al.|[2604.05960](http://arxiv.org/abs/2604.05960)|null|
 |**2026-04-07**|**Precise measurement of the CKM angle $γ$ with a novel approach**|The BESIII et.al.|[2604.05712](http://arxiv.org/abs/2604.05712)|null|
-|**2026-04-07**|**QA-MoE: Towards a Continuous Reliability Spectrum with Quality-Aware Mixture of Experts for Robust Multimodal Sentiment Analysis**|Yitong Zhu et.al.|[2604.05704](http://arxiv.org/abs/2604.05704)|null|
+|**2026-04-08**|**QA-MoE: Towards a Continuous Reliability Spectrum with Quality-Aware Mixture of Experts for Robust Multimodal Sentiment Analysis**|Yitong Zhu et.al.|[2604.05704](http://arxiv.org/abs/2604.05704)|null|
 |**2026-04-07**|**Measurement of the CKM angle $γ$ in $B^{\pm} \rightarrow D(\rightarrow K^{0}_{\rm S} h^{\prime+}h^{\prime-})h^{\pm}$ decays with a novel approach**|The BESIII et.al.|[2604.05701](http://arxiv.org/abs/2604.05701)|null|
 |**2026-04-07**|**A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting**|Yongchuan Cui et.al.|[2604.05629](http://arxiv.org/abs/2604.05629)|null|
 |**2026-04-07**|**From Pixels to Personas: Tracking the Evolution of Anime Characters**|Rongze Liu et.al.|[2604.05507](http://arxiv.org/abs/2604.05507)|null|
@@ -3947,6 +3969,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
+|**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
+|**2026-04-08**|**Neutron Star Merger Rates from Multi-messenger Observations: Clues to the Physical Origin of the Short and Long-short Gamma-ray Bursts**|Zhi-Ping Jin et.al.|[2604.06772](http://arxiv.org/abs/2604.06772)|null|
+|**2026-04-07**|**AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent**|Wenyue Hua et.al.|[2604.06296](http://arxiv.org/abs/2604.06296)|null|
 |**2026-04-07**|**QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization**|Changxin Ke et.al.|[2604.05963](http://arxiv.org/abs/2604.05963)|null|
 |**2026-04-07**|**See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs**|Yicheng Ji et.al.|[2604.05650](http://arxiv.org/abs/2604.05650)|null|
 |**2026-04-07**|**Multi-Drafter Speculative Decoding with Alignment Feedback**|Taehyeon Kim et.al.|[2604.05417](http://arxiv.org/abs/2604.05417)|null|
