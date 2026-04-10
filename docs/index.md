@@ -7,16 +7,30 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving**|Xunzhuo Liu et.al.|[2604.08075](http://arxiv.org/abs/2604.08075)|null|
+|**2026-04-09**|**Automating aggregation strategy selection in federated learning**|Dian S. Y. Pang et.al.|[2604.08056](http://arxiv.org/abs/2604.08056)|null|
+|**2026-04-09**|**A Full-Stack Performance Evaluation Infrastructure for 3D-DRAM-based LLM Accelerators**|Cong Li et.al.|[2604.08044](http://arxiv.org/abs/2604.08044)|null|
+|**2026-04-09**|**Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles**|Jiawei Liu et.al.|[2604.08031](http://arxiv.org/abs/2604.08031)|null|
+|**2026-04-09**|**LogAct: Enabling Agentic Reliability via Shared Logs**|Mahesh Balakrishnan et.al.|[2604.07988](http://arxiv.org/abs/2604.07988)|null|
+|**2026-04-09**|**Robust Length Prediction: A Perspective from Heavy-Tailed Prompt-Conditioned Distributions**|Jing Wang et.al.|[2604.07931](http://arxiv.org/abs/2604.07931)|null|
+|**2026-04-09**|**Valve: Production Online-Offline Inference Colocation with Jointly-Bounded Preemption Latency and Rate**|Fangyue Liu et.al.|[2604.07874](http://arxiv.org/abs/2604.07874)|null|
+|**2026-04-09**|**AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention**|Yuxuan Hu et.al.|[2604.07815](http://arxiv.org/abs/2604.07815)|null|
+|**2026-04-09**|**SAGE: Sign-Adaptive Gradient for Memory-Efficient LLM Optimization**|Wooin Lee et.al.|[2604.07663](http://arxiv.org/abs/2604.07663)|null|
+|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|null|
+|**2026-04-08**|**Blink: CPU-Free LLM Inference by Delegating the Serving Stack to GPU and SmartNIC**|Mohammad Siavashi et.al.|[2604.07609](http://arxiv.org/abs/2604.07609)|null|
+|**2026-04-08**|**Fast Heterogeneous Serving: Scalable Mixed-Scale LLM Allocation for SLO-Constrained Inference**|Jiaming Cheng et.al.|[2604.07472](http://arxiv.org/abs/2604.07472)|null|
+|**2026-04-08**|**SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs**|Jintao Zhang et.al.|[2604.07396](http://arxiv.org/abs/2604.07396)|null|
+|**2026-04-08**|**Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference**|Quantong Qiu et.al.|[2604.07394](http://arxiv.org/abs/2604.07394)|null|
 |**2026-04-08**|**Autopoiesis: A Self-Evolving System Paradigm for LLM Serving Under Runtime Dynamics**|Youhe Jiang et.al.|[2604.07144](http://arxiv.org/abs/2604.07144)|null|
 |**2026-04-08**|**Scheduling the Unschedulable: Taming Black-Box LLM Inference at Scale**|Renzhong Yuan et.al.|[2604.06970](http://arxiv.org/abs/2604.06970)|null|
-|**2026-04-08**|**TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design**|Juan Du et.al.|[2604.06747](http://arxiv.org/abs/2604.06747)|null|
+|**2026-04-09**|**TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design**|Juan Du et.al.|[2604.06747](http://arxiv.org/abs/2604.06747)|null|
 |**2026-04-08**|**Foundry: Template-Based CUDA Graph Context Materialization for Fast LLM Serving Cold Start**|Xueshen Liu et.al.|[2604.06664](http://arxiv.org/abs/2604.06664)|null|
 |**2026-04-07**|**Inference-Time Code Selection via Symbolic Equivalence Partitioning**|David Cho et.al.|[2604.06485](http://arxiv.org/abs/2604.06485)|null|
 |**2026-04-07**|**HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference**|Bowen Zeng et.al.|[2604.05887](http://arxiv.org/abs/2604.05887)|null|
@@ -1873,6 +1887,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
+|**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
+|**2026-04-09**|**SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection**|You Hu et.al.|[2604.08211](http://arxiv.org/abs/2604.08211)|null|
+|**2026-04-09**|**Alloc-MoE: Budget-Aware Expert Activation Allocation for Efficient Mixture-of-Experts Inference**|Baihui Liu et.al.|[2604.08133](http://arxiv.org/abs/2604.08133)|null|
+|**2026-04-09**|**Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator**|Luozheng Qin et.al.|[2604.08121](http://arxiv.org/abs/2604.08121)|null|
+|**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Shuanghao Bai et.al.|[2604.07993](http://arxiv.org/abs/2604.07993)|null|
+|**2026-04-09**|**QaRL: Rollout-Aligned Quantization-Aware RL for Fast and Stable Training under Training--Inference Mismatch**|Hao Gu et.al.|[2604.07853](http://arxiv.org/abs/2604.07853)|null|
+|**2026-04-09**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
+|**2026-04-09**|**Symbiotic-MoE: Unlocking the Synergy between Generation and Understanding**|Xiangyue Liu et.al.|[2604.07753](http://arxiv.org/abs/2604.07753)|null|
+|**2026-04-08**|**From LLM to Silicon: RL-Driven ASIC Architecture Exploration for On-Device AI Inference**|Ravindra Ganti et.al.|[2604.07526](http://arxiv.org/abs/2604.07526)|null|
+|**2026-04-08**|**SPAMoE: Spectrum-Aware Hybrid Operator Framework for Full-Waveform Inversion**|Zhenyu Wang et.al.|[2604.07421](http://arxiv.org/abs/2604.07421)|null|
 |**2026-04-08**|**Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification**|Xin Tian et.al.|[2604.07298](http://arxiv.org/abs/2604.07298)|null|
 |**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
 |**2026-04-08**|**InfiniLoRA: Disaggregated Multi-LoRA Serving for Large Language Models**|Hongyu Chen et.al.|[2604.07173](http://arxiv.org/abs/2604.07173)|null|
@@ -3969,12 +3994,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|null|
 |**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
 |**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
 |**2026-04-08**|**Neutron Star Merger Rates from Multi-messenger Observations: Clues to the Physical Origin of the Short and Long-short Gamma-ray Bursts**|Zhi-Ping Jin et.al.|[2604.06772](http://arxiv.org/abs/2604.06772)|null|
 |**2026-04-07**|**AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent**|Wenyue Hua et.al.|[2604.06296](http://arxiv.org/abs/2604.06296)|null|
 |**2026-04-07**|**QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization**|Changxin Ke et.al.|[2604.05963](http://arxiv.org/abs/2604.05963)|null|
-|**2026-04-07**|**See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs**|Yicheng Ji et.al.|[2604.05650](http://arxiv.org/abs/2604.05650)|null|
+|**2026-04-08**|**See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs**|Yicheng Ji et.al.|[2604.05650](http://arxiv.org/abs/2604.05650)|null|
 |**2026-04-07**|**Multi-Drafter Speculative Decoding with Alignment Feedback**|Taehyeon Kim et.al.|[2604.05417](http://arxiv.org/abs/2604.05417)|null|
 |**2026-04-06**|**DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models**|Satyam Goyal et.al.|[2604.05250](http://arxiv.org/abs/2604.05250)|null|
 |**2026-04-06**|**Understanding Clinician Experiences with Game-Based Interventions for Autistic Children to Inform a Future Game Platform Focused on Improving Motor Skills**|Hunter M Beach et.al.|[2604.05249](http://arxiv.org/abs/2604.05249)|null|
@@ -5179,8 +5205,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**CodecSight: Leveraging Video Codec Signals for Efficient Streaming VLM Inference**|Yulin Zou et.al.|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
 |**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
-|**2026-04-06**|**GENSERVE: Efficient Co-Serving of Heterogeneous Diffusion Model Workloads**|Fanjiang Ye et.al.|[2604.04335](http://arxiv.org/abs/2604.04335)|null|
+|**2026-04-08**|**GENSERVE: Efficient Co-Serving of Heterogeneous Diffusion Model Workloads**|Fanjiang Ye et.al.|[2604.04335](http://arxiv.org/abs/2604.04335)|null|
 |**2026-03-31**|**GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation**|Rui Xie et.al.|[2603.26266](http://arxiv.org/abs/2603.26266)|null|
 |**2026-03-26**|**DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease**|Runsheng Bai et.al.|[2603.25872](http://arxiv.org/abs/2603.25872)|null|
 |**2026-04-01**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
