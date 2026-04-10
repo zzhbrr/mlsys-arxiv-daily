@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Dead Weights, Live Signals: Feedforward Graphs of Frozen Language Models**|Marcus Armstrong et.al.|[2604.08335](http://arxiv.org/abs/2604.08335)|null|
 |**2026-04-09**|**Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving**|Xunzhuo Liu et.al.|[2604.08075](http://arxiv.org/abs/2604.08075)|null|
 |**2026-04-09**|**Automating aggregation strategy selection in federated learning**|Dian S. Y. Pang et.al.|[2604.08056](http://arxiv.org/abs/2604.08056)|null|
 |**2026-04-09**|**A Full-Stack Performance Evaluation Infrastructure for 3D-DRAM-based LLM Accelerators**|Cong Li et.al.|[2604.08044](http://arxiv.org/abs/2604.08044)|null|
@@ -1898,6 +1899,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
 |**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
 |**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
 |**2026-04-09**|**SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection**|You Hu et.al.|[2604.08211](http://arxiv.org/abs/2604.08211)|null|
@@ -4007,7 +4009,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|null|
+|**2026-04-09**|**PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores**|Luke Panayi et.al.|[2604.08445](http://arxiv.org/abs/2604.08445)|null|
+|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|**[link](https://github.com/kasakh/relaxed-spec-decoding)**|
 |**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
 |**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
 |**2026-04-08**|**Neutron Star Merger Rates from Multi-messenger Observations: Clues to the Physical Origin of the Short and Long-short Gamma-ray Bursts**|Zhi-Ping Jin et.al.|[2604.06772](http://arxiv.org/abs/2604.06772)|null|
