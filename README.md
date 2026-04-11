@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.10
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1801,7 +1801,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1893,7 +1893,7 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## MoE
 
@@ -4003,14 +4003,14 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-04-09**|**PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores**|Luke Panayi et.al.|[2604.08445](http://arxiv.org/abs/2604.08445)|null|
-|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|**[link](https://github.com/kasakh/relaxed-spec-decoding)**|
+|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|null|
 |**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
 |**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
 |**2026-04-08**|**Neutron Star Merger Rates from Multi-messenger Observations: Clues to the Physical Origin of the Short and Long-short Gamma-ray Bursts**|Zhi-Ping Jin et.al.|[2604.06772](http://arxiv.org/abs/2604.06772)|null|
@@ -5217,7 +5217,7 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -5593,7 +5593,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

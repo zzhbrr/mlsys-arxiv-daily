@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.10
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -3997,7 +3997,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-09**|**PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores**|Luke Panayi et.al.|[2604.08445](http://arxiv.org/abs/2604.08445)|null|
-|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|**[link](https://github.com/kasakh/relaxed-spec-decoding)**|
+|**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|null|
 |**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
 |**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
 |**2026-04-08**|**Neutron Star Merger Rates from Multi-messenger Observations: Clues to the Physical Origin of the Short and Long-short Gamma-ray Bursts**|Zhi-Ping Jin et.al.|[2604.06772](http://arxiv.org/abs/2604.06772)|null|
