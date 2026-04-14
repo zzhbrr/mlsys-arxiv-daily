@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.12
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Discourse Diversity in Multi-Turn Empathic Dialogue**|Hongli Zhan et.al.|[2604.11742](http://arxiv.org/abs/2604.11742)|null|
+|**2026-04-13**|**From Agent Loops to Structured Graphs:A Scheduler-Theoretic Framework for LLM Agent Execution**|Hu Wei et.al.|[2604.11378](http://arxiv.org/abs/2604.11378)|null|
+|**2026-04-13**|**Flow-Controlled Scheduling for LLM Inference with Provable Stability Guarantees**|Zhuolun Dong et.al.|[2604.11001](http://arxiv.org/abs/2604.11001)|null|
+|**2026-04-13**|**When Valid Signals Fail: Regime Boundaries Between LLM Features and RL Trading Policies**|Zhengzhe Yang et.al.|[2604.10996](http://arxiv.org/abs/2604.10996)|null|
+|**2026-04-13**|**Ro-SLM: Onboard Small Language Models for Robot Task Planning and Operation Code Generation**|Wenhao Wang et.al.|[2604.10929](http://arxiv.org/abs/2604.10929)|null|
+|**2026-04-13**|**RouterWise: Joint Resource Allocation and Routing for Latency-Aware Multi-Model LLM Serving**|Hossein Hosseini Kasnavieh et.al.|[2604.10907](http://arxiv.org/abs/2604.10907)|null|
+|**2026-04-12**|**The xPU-athalon: Quantifying the Competition of AI Acceleration**|Alicia Golden et.al.|[2604.10852](http://arxiv.org/abs/2604.10852)|null|
+|**2026-04-11**|**CodeComp: Structural KV Cache Compression for Agentic Coding**|Qiujiang Chen et.al.|[2604.10235](http://arxiv.org/abs/2604.10235)|null|
+|**2026-04-11**|**WaveTune: Wave-aware Bilinear Modeling for Efficient GPU Kernel Auto-tuning**|Kaixuan Zhang et.al.|[2604.10187](http://arxiv.org/abs/2604.10187)|null|
+|**2026-04-11**|**Rebooting Microreboot: Architectural Support for Safe, Parallel Recovery in Microservice Systems**|Laurent Bindschaedler et.al.|[2604.09963](http://arxiv.org/abs/2604.09963)|null|
+|**2026-04-10**|**Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents**|Nilanjan Sinhababu et.al.|[2604.09492](http://arxiv.org/abs/2604.09492)|null|
+|**2026-04-10**|**EdgeFlow: Fast Cold Starts for LLMs on Mobile Devices**|Yongsheng Yan et.al.|[2604.09083](http://arxiv.org/abs/2604.09083)|null|
+|**2026-04-10**|**Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures**|Mauricio Fadel Argerich et.al.|[2604.09048](http://arxiv.org/abs/2604.09048)|null|
 |**2026-04-09**|**Dead Weights, Live Signals: Feedforward Graphs of Frozen Language Models**|Marcus Armstrong et.al.|[2604.08335](http://arxiv.org/abs/2604.08335)|null|
 |**2026-04-09**|**Dual-Pool Token-Budget Routing for Cost-Efficient and Reliable LLM Serving**|Xunzhuo Liu et.al.|[2604.08075](http://arxiv.org/abs/2604.08075)|null|
 |**2026-04-09**|**Automating aggregation strategy selection in federated learning**|Dian S. Y. Pang et.al.|[2604.08056](http://arxiv.org/abs/2604.08056)|null|
@@ -1801,7 +1814,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1893,12 +1906,32 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Relax: An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale**|Liujie Zhang et.al.|[2604.11554](http://arxiv.org/abs/2604.11554)|null|
+|**2026-04-13**|**Learning How Much to Think: Difficulty-Aware Dynamic MoEs for Graph Node Classification**|Jiajun Zhou et.al.|[2604.11473](http://arxiv.org/abs/2604.11473)|null|
+|**2026-04-13**|**Judge Like Human Examiners: A Weighted Importance Multi-Point Evaluation Framework for Generative Tasks with Long-form Answers**|Guoxin Yu et.al.|[2604.11246](http://arxiv.org/abs/2604.11246)|null|
+|**2026-04-13**|**Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE**|Wei Bao et.al.|[2604.11140](http://arxiv.org/abs/2604.11140)|null|
+|**2026-04-13**|**Frugal Knowledge Graph Construction with Local LLMs: A Zero-Shot Pipeline, Self-Consistency and Wisdom of Artificial Crowds**|Pierre Jourlin et.al.|[2604.11104](http://arxiv.org/abs/2604.11104)|null|
+|**2026-04-13**|**Quantitative propagation of chaos for particle systems with bounded kernels and multiplicative noise**|Ning Jiang et.al.|[2604.11084](http://arxiv.org/abs/2604.11084)|null|
+|**2026-04-12**|**MoEITS: A Green AI approach for simplifying MoE-LLMs**|Luis Balderas et.al.|[2604.10603](http://arxiv.org/abs/2604.10603)|null|
+|**2026-04-12**|**WaveMoE: A Wavelet-Enhanced Mixture-of-Experts Foundation Model for Time Series Forecasting**|Shunyu Wu et.al.|[2604.10544](http://arxiv.org/abs/2604.10544)|null|
+|**2026-04-12**|**Measurement of the branching fractions of $χ_{cJ} \to π^{+}π^{-}π^{0}π^{0}$ via $ψ(3686) \to γχ_{cJ}$**|BESIII Collaboration et.al.|[2604.10523](http://arxiv.org/abs/2604.10523)|null|
+|**2026-04-12**|**How Many Tries Does It Take? Iterative Self-Repair in LLM Code Generation Across Model Scales and Benchmarks**|Johin Johny Arimbur et.al.|[2604.10508](http://arxiv.org/abs/2604.10508)|null|
+|**2026-04-12**|**CodeQuant: Unified Clustering and Quantization for Enhanced Outlier Smoothing in Low-Precision Mixture-of-Experts**|Xiangyang Yin et.al.|[2604.10496](http://arxiv.org/abs/2604.10496)|null|
+|**2026-04-12**|**First Observation of \boldmath{ $D^+ \to a_0(980)ρ$ and $D^+ \to a_0(980)^+ f_0(500)$} in \boldmath{$D^+ \to π^+π^+π^-η$ and $D^+ \to π^+π^0π^0η$ } Decays**|BESIII Collaboration et.al.|[2604.10444](http://arxiv.org/abs/2604.10444)|null|
+|**2026-04-11**|**DREAMuS: Dark matter REsearch with Advanced Muon Source**|Xiang Chen et.al.|[2604.10257](http://arxiv.org/abs/2604.10257)|null|
+|**2026-04-11**|**Adapting 2D Multi-Modal Large Language Model for 3D CT Image Analysis**|Yang Yu et.al.|[2604.10233](http://arxiv.org/abs/2604.10233)|null|
+|**2026-04-11**|**SpecMoE: A Fast and Efficient Mixture-of-Experts Inference via Self-Assisted Speculative Decoding**|Jehyeon Bang et.al.|[2604.10152](http://arxiv.org/abs/2604.10152)|null|
+|**2026-04-10**|**The Myth of Expert Specialization in MoEs: Why Routing Reflects Geometry, Not Necessarily Domain Expertise**|Xi Wang et.al.|[2604.09780](http://arxiv.org/abs/2604.09780)|null|
+|**2026-04-10**|**SafeMind: A Risk-Aware Differentiable Control Framework for Adaptive and Safe Quadruped Locomotion**|Zukun Zhang et.al.|[2604.09474](http://arxiv.org/abs/2604.09474)|null|
+|**2026-04-10**|**Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark**|Jinquan Yan et.al.|[2604.09313](http://arxiv.org/abs/2604.09313)|null|
+|**2026-04-10**|**Generalization and Scaling Laws for Mixture-of-Experts Transformers**|Mansour Zoubeirou a Mayaki et.al.|[2604.09175](http://arxiv.org/abs/2604.09175)|null|
+|**2026-04-10**|**Text-Conditioned Multi-Expert Regression Framework for Fully Automated Multi-Abutment Design**|Mianjie Zheng et.al.|[2604.09047](http://arxiv.org/abs/2604.09047)|null|
 |**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
 |**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|
 |**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
@@ -4003,16 +4036,23 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Putting the Brauer back in Brauer-Picard**|Sean Sanford et.al.|[2604.10869](http://arxiv.org/abs/2604.10869)|null|
+|**2026-04-11**|**SpecMoE: A Fast and Efficient Mixture-of-Experts Inference via Self-Assisted Speculative Decoding**|Jehyeon Bang et.al.|[2604.10152](http://arxiv.org/abs/2604.10152)|null|
+|**2026-04-10**|**A-IO: Adaptive Inference Orchestration for Memory-Bound NPUs**|Chen Zhang et.al.|[2604.09752](http://arxiv.org/abs/2604.09752)|null|
+|**2026-04-09**|**SMART: When is it Actually Worth Expanding a Speculative Tree?**|Lifu Wang et.al.|[2604.09731](http://arxiv.org/abs/2604.09731)|null|
+|**2026-04-08**|**ConfigSpec: Profiling-Based Configuration Selection for Distributed Edge--Cloud Speculative LLM Serving**|Xiangchen Li et.al.|[2604.09722](http://arxiv.org/abs/2604.09722)|null|
+|**2026-04-10**|**The Speculative Future of Conversational AI for Neurocognitive Disorder Screening: a Multi-Stakeholder Perspective**|Jiaxiong Hu et.al.|[2604.09070](http://arxiv.org/abs/2604.09070)|null|
+|**2026-04-10**|**Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs**|Qixuan Huang et.al.|[2604.09021](http://arxiv.org/abs/2604.09021)|null|
 |**2026-04-09**|**PG-MDP: Profile-Guided Memory Dependence Prediction for Area-Constrained Cores**|Luke Panayi et.al.|[2604.08445](http://arxiv.org/abs/2604.08445)|null|
 |**2026-04-08**|**DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification**|Ziyi Wang et.al.|[2604.07622](http://arxiv.org/abs/2604.07622)|null|
 |**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
-|**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
+|**2026-04-10**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
 |**2026-04-08**|**Neutron Star Merger Rates from Multi-messenger Observations: Clues to the Physical Origin of the Short and Long-short Gamma-ray Bursts**|Zhi-Ping Jin et.al.|[2604.06772](http://arxiv.org/abs/2604.06772)|null|
 |**2026-04-07**|**AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent**|Wenyue Hua et.al.|[2604.06296](http://arxiv.org/abs/2604.06296)|null|
 |**2026-04-07**|**QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization**|Changxin Ke et.al.|[2604.05963](http://arxiv.org/abs/2604.05963)|null|
@@ -5217,12 +5257,13 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 ## Multimodal System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-11**|**Mosaic: Cross-Modal Clustering for Efficient Video Understanding**|Tuowei Wang et.al.|[2604.10060](http://arxiv.org/abs/2604.10060)|null|
 |**2026-04-09**|**CodecSight: Leveraging Video Codec Signals for Efficient Streaming VLM Inference**|Yulin Zou et.al.|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
 |**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
 |**2026-04-08**|**GENSERVE: Efficient Co-Serving of Heterogeneous Diffusion Model Workloads**|Fanjiang Ye et.al.|[2604.04335](http://arxiv.org/abs/2604.04335)|null|
@@ -5593,7 +5634,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
