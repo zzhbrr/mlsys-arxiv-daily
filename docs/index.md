@@ -7,14 +7,25 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.15
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-14**|**Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration**|Eliya Habba et.al.|[2604.12843](http://arxiv.org/abs/2604.12843)|null|
+|**2026-04-16**|**From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning**|Kiran Purohit et.al.|[2604.15244](http://arxiv.org/abs/2604.15244)|null|
+|**2026-04-16**|**Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap**|Naryeong Kim et.al.|[2604.15075](http://arxiv.org/abs/2604.15075)|null|
+|**2026-04-16**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|null|
+|**2026-04-16**|**Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving**|Tingyang Sun et.al.|[2604.14993](http://arxiv.org/abs/2604.14993)|null|
+|**2026-04-16**|**RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding**|Zihong Zhang et.al.|[2604.14885](http://arxiv.org/abs/2604.14885)|null|
+|**2026-04-16**|**SkillDroid: Compile Once, Reuse Forever**|Qijia Chen et.al.|[2604.14872](http://arxiv.org/abs/2604.14872)|null|
+|**2026-04-16**|**CoTEvol: Self-Evolving Chain-of-Thoughts for Data Synthesis in Mathematical Reasoning**|Zhuo Wang et.al.|[2604.14768](http://arxiv.org/abs/2604.14768)|null|
+|**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
+|**2026-04-15**|**YOCO++: Enhancing YOCO with KV Residual Connections for Efficient LLM Inference**|You Wu et.al.|[2604.13556](http://arxiv.org/abs/2604.13556)|null|
+|**2026-04-15**|**ToolSpec: Accelerating Tool Calling via Schema-Aware and Retrieval-Augmented Speculative Decoding**|Heming Xia et.al.|[2604.13519](http://arxiv.org/abs/2604.13519)|null|
+|**2026-04-14**|**Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel**|Hongyi Jin et.al.|[2604.13327](http://arxiv.org/abs/2604.13327)|null|
+|**2026-04-15**|**Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration**|Eliya Habba et.al.|[2604.12843](http://arxiv.org/abs/2604.12843)|null|
 |**2026-04-14**|**Three Birds, One Stone: Solving the Communication-Memory-Privacy Trilemma in LLM Fine-tuning Over Wireless Networks with Zeroth-Order Optimization**|Zhijie Cai et.al.|[2604.12401](http://arxiv.org/abs/2604.12401)|null|
 |**2026-04-14**|**oxo-call: Documentation-grounded Skill Augmentation for Accurate Bioinformatics Command-line Generation with Large Language Models**|Yun Peng et.al.|[2604.12387](http://arxiv.org/abs/2604.12387)|null|
 |**2026-04-14**|**LLM-Guided Semantic Bootstrapping for Interpretable Text Classification with Tsetlin Machines**|Jiechao Gao et.al.|[2604.12223](http://arxiv.org/abs/2604.12223)|null|
@@ -1909,12 +1920,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**OmniLight: One Model to Rule All Lighting Conditions**|Youngjin Oh et.al.|[2604.15170](http://arxiv.org/abs/2604.15170)|null|
+|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
+|**2026-04-16**|**Switching Efficiency: A Novel Framework for Dissecting AI Data Center Network Efficiency**|Niangen Ye et.al.|[2604.14690](http://arxiv.org/abs/2604.14690)|null|
+|**2026-04-16**|**ELMoE-3D: Leveraging Intrinsic Elasticity of MoE for Hybrid-Bonding-Enabled Self-Speculative Decoding in On-Premises Serving**|Yuseon Choi et.al.|[2604.14626](http://arxiv.org/abs/2604.14626)|null|
+|**2026-04-16**|**WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.|[2604.14540](http://arxiv.org/abs/2604.14540)|null|
+|**2026-04-16**|**Geometric Metrics for MoE Specialization: From Fisher Information to Early Failure Detection**|Dongxin Guo et.al.|[2604.14500](http://arxiv.org/abs/2604.14500)|null|
+|**2026-04-15**|**Geometric Routing Enables Causal Expert Control in Mixture of Experts**|Ivan Ternovtsii et.al.|[2604.14434](http://arxiv.org/abs/2604.14434)|null|
+|**2026-04-15**|**Equifinality in Mixture of Experts: Routing Topology Does Not Determine Language Modeling Quality**|Ivan Ternovtsii et.al.|[2604.14419](http://arxiv.org/abs/2604.14419)|null|
+|**2026-04-15**|**Awakening Dormant Experts:Counterfactual Routing to Mitigate MoE Hallucinations**|Wentao Hu et.al.|[2604.14246](http://arxiv.org/abs/2604.14246)|null|
+|**2026-04-15**|**Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation**|Svetlana Pavlitska et.al.|[2604.13761](http://arxiv.org/abs/2604.13761)|null|
+|**2026-04-15**|**Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling**|Sanghyeok Chu et.al.|[2604.13508](http://arxiv.org/abs/2604.13508)|null|
+|**2026-04-15**|**Chain of Uncertain Rewards with Large Language Models for Reinforcement Learning**|Shentong Mo et.al.|[2604.13504](http://arxiv.org/abs/2604.13504)|null|
 |**2026-04-14**|**PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models**|Han Bao et.al.|[2604.12995](http://arxiv.org/abs/2604.12995)|null|
 |**2026-04-14**|**Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots**|Yifei Yan et.al.|[2604.12909](http://arxiv.org/abs/2604.12909)|null|
 |**2026-04-14**|**Stable Fine-Time-Step Long-Horizon Turbulence Prediction with a Multi-Stepsize Mixture-of-Experts Neural Operator**|Guanyu Pan et.al.|[2604.12794](http://arxiv.org/abs/2604.12794)|null|
 |**2026-04-14**|**AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition**|Zeheng Wang et.al.|[2604.12735](http://arxiv.org/abs/2604.12735)|null|
 |**2026-04-14**|**Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining**|Junfeng Xia et.al.|[2604.12683](http://arxiv.org/abs/2604.12683)|null|
-|**2026-04-14**|**Observation of the Exotic State $π_{1}(1600)$ in $ψ(2S)\rightarrowγχ_{c1},χ_{c1}\rightarrowπ^{+}π^{-}η'$**|BESIII Collaboration et.al.|[2604.12524](http://arxiv.org/abs/2604.12524)|null|
+|**2026-04-15**|**Observation of the Exotic State $π_{1}(1600)$ in $ψ(2S)\rightarrowγχ_{c1},χ_{c1}\rightarrowπ^{+}π^{-}η'$**|BESIII Collaboration et.al.|[2604.12524](http://arxiv.org/abs/2604.12524)|null|
 |**2026-04-14**|**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**|Junbin Su et.al.|[2604.12502](http://arxiv.org/abs/2604.12502)|null|
 |**2026-04-14**|**Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2604.12374](http://arxiv.org/abs/2604.12374)|null|
 |**2026-04-14**|**Nucleus-Image: Sparse MoE for Image Generation**|Chandan Akiti et.al.|[2604.12163](http://arxiv.org/abs/2604.12163)|null|
@@ -4047,6 +4070,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning**|Kiran Purohit et.al.|[2604.15244](http://arxiv.org/abs/2604.15244)|null|
+|**2026-04-16**|**RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding**|Zihong Zhang et.al.|[2604.14885](http://arxiv.org/abs/2604.14885)|null|
+|**2026-04-16**|**The Missing Knowledge Layer in AI: A Framework for Stable Human-AI Reasoning**|Rikard Rosenbacke et.al.|[2604.14881](http://arxiv.org/abs/2604.14881)|null|
+|**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
+|**2026-04-16**|**ELMoE-3D: Leveraging Intrinsic Elasticity of MoE for Hybrid-Bonding-Enabled Self-Speculative Decoding in On-Premises Serving**|Yuseon Choi et.al.|[2604.14626](http://arxiv.org/abs/2604.14626)|null|
+|**2026-04-16**|**ConfLayers: Adaptive Confidence-based Layer Skipping for Self-Speculative Decoding**|Walaa Amer et.al.|[2604.14612](http://arxiv.org/abs/2604.14612)|null|
+|**2026-04-16**|**Prime--Zero Duality: Fractal Geometry, Renormalization-Group Flow, and an Information-Ontological Framework for Number Theory**|Zhengqiang Li et.al.|[2604.14596](http://arxiv.org/abs/2604.14596)|null|
+|**2026-04-15**|**Calibrated Speculative Decoding: Frequency-Guided Candidate Selection for Efficient Inference**|Xuwen Zhou et.al.|[2604.13634](http://arxiv.org/abs/2604.13634)|null|
+|**2026-04-15**|**ToolSpec: Accelerating Tool Calling via Schema-Aware and Retrieval-Augmented Speculative Decoding**|Heming Xia et.al.|[2604.13519](http://arxiv.org/abs/2604.13519)|null|
 |**2026-04-14**|**Accelerating Speculative Decoding with Block Diffusion Draft Trees**|Liran Ringel et.al.|[2604.12989](http://arxiv.org/abs/2604.12989)|null|
 |**2026-04-14**|**JWST observations of photodissociation regions. IV. Carbonaceous emission band sub-components in NGC 7023 have distinct spatial distributions**|D. Van De Putte et.al.|[2604.12860](http://arxiv.org/abs/2604.12860)|null|
 |**2026-04-14**|**Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2604.12374](http://arxiv.org/abs/2604.12374)|null|
@@ -4056,7 +4088,7 @@ layout: default
 |**2026-04-13**|**Is There an AI Bubble? Robust Date-Stamping for Periods of Exuberance**|Abir Sarkar et.al.|[2604.12062](http://arxiv.org/abs/2604.12062)|null|
 |**2026-04-13**|**Putting the Brauer back in Brauer-Picard**|Sean Sanford et.al.|[2604.10869](http://arxiv.org/abs/2604.10869)|null|
 |**2026-04-11**|**SpecMoE: A Fast and Efficient Mixture-of-Experts Inference via Self-Assisted Speculative Decoding**|Jehyeon Bang et.al.|[2604.10152](http://arxiv.org/abs/2604.10152)|null|
-|**2026-04-10**|**A-IO: Adaptive Inference Orchestration for Memory-Bound NPUs**|Chen Zhang et.al.|[2604.09752](http://arxiv.org/abs/2604.09752)|null|
+|**2026-04-15**|**A-IO: Adaptive Inference Orchestration for Memory-Bound NPUs**|Chen Zhang et.al.|[2604.09752](http://arxiv.org/abs/2604.09752)|null|
 |**2026-04-09**|**SMART: When is it Actually Worth Expanding a Speculative Tree?**|Lifu Wang et.al.|[2604.09731](http://arxiv.org/abs/2604.09731)|null|
 |**2026-04-08**|**ConfigSpec: Profiling-Based Configuration Selection for Distributed Edge--Cloud Speculative LLM Serving**|Xiangchen Li et.al.|[2604.09722](http://arxiv.org/abs/2604.09722)|null|
 |**2026-04-10**|**The Speculative Future of Conversational AI for Neurocognitive Disorder Screening: a Multi-Stakeholder Perspective**|Jiaxiong Hu et.al.|[2604.09070](http://arxiv.org/abs/2604.09070)|null|
@@ -5273,6 +5305,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**A Semantic Geometry for Uncovering Paradigm Dynamics via Scientific Publications**|Jinchang Liu et.al.|[2604.15150](http://arxiv.org/abs/2604.15150)|null|
+|**2026-04-15**|**Thermodynamic Diffusion Inference with Minimal Digital Conditioning**|Aditi De et.al.|[2604.14332](http://arxiv.org/abs/2604.14332)|null|
 |**2026-04-14**|**DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos**|Yuan Huang et.al.|[2604.12270](http://arxiv.org/abs/2604.12270)|null|
 |**2026-04-11**|**Mosaic: Cross-Modal Clustering for Efficient Video Understanding**|Tuowei Wang et.al.|[2604.10060](http://arxiv.org/abs/2604.10060)|null|
 |**2026-04-09**|**CodecSight: Leveraging Video Codec Signals for Efficient Streaming VLM Inference**|Yulin Zou et.al.|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
