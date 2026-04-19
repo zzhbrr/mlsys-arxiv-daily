@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.17
+## Updated on 2026.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
@@ -18,7 +18,7 @@ layout: default
 |**2026-04-16**|**Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap**|Naryeong Kim et.al.|[2604.15075](http://arxiv.org/abs/2604.15075)|null|
 |**2026-04-16**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|null|
 |**2026-04-16**|**Serving Chain-structured Jobs with Large Memory Footprints with Application to Large Foundation Model Serving**|Tingyang Sun et.al.|[2604.14993](http://arxiv.org/abs/2604.14993)|null|
-|**2026-04-16**|**RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding**|Zihong Zhang et.al.|[2604.14885](http://arxiv.org/abs/2604.14885)|null|
+|**2026-04-16**|**RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding**|Zihong Zhang et.al.|[2604.14885](http://arxiv.org/abs/2604.14885)|**[link](https://github.com/hkr04/RACER)**|
 |**2026-04-16**|**SkillDroid: Compile Once, Reuse Forever**|Qijia Chen et.al.|[2604.14872](http://arxiv.org/abs/2604.14872)|null|
 |**2026-04-16**|**CoTEvol: Self-Evolving Chain-of-Thoughts for Data Synthesis in Mathematical Reasoning**|Zhuo Wang et.al.|[2604.14768](http://arxiv.org/abs/2604.14768)|null|
 |**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
@@ -1900,7 +1900,7 @@ layout: default
 |**2025-06-17**|**Semantic Scheduling for LLM Inference**|Wenyue Hua et.al.|[2506.12204](http://arxiv.org/abs/2506.12204)|null|
 |**2025-05-29**|**Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters**|Hayden Moore et.al.|[2505.23554](http://arxiv.org/abs/2505.23554)|null|
 |**2025-05-26**|**Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency**|Ruixiao Li et.al.|[2505.17074](http://arxiv.org/abs/2505.17074)|null|
-|**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|null|
+|**2025-05-14**|**ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor**|Seungbeom Choi et.al.|[2505.09142](http://arxiv.org/abs/2505.09142)|**[link](https://github.com/hyunnnchoi/ELIS)**|
 |**2025-04-25**|**Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents**|Yueying Li et.al.|[2504.07347](http://arxiv.org/abs/2504.07347)|null|
 |**2025-04-08**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|
 |**2025-07-25**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|
@@ -1908,7 +1908,7 @@ layout: default
 |**2025-11-06**|**LLM Query Scheduling with Prefix Reuse and Latency Constraints**|Gregory Dexter et.al.|[2502.04677](http://arxiv.org/abs/2502.04677)|null|
 |**2024-11-01**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2025-06-08**|**PecSched: Preemptive and Efficient Cluster Scheduling for LLM Inference**|Zeyu Zhang et.al.|[2409.15104](http://arxiv.org/abs/2409.15104)|null|
-|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
+|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|**[link](https://github.com/hao-ai-lab/vllm-ltr)**|
 |**2024-11-15**|**Large Language Models for Power Scheduling: A User-Centric Approach**|Thomas Mongaillard et.al.|[2407.00476](http://arxiv.org/abs/2407.00476)|null|
 |**2024-06-07**|**Llumnix: Dynamic Scheduling for Large Language Model Serving**|Biao Sun et.al.|[2406.03243](http://arxiv.org/abs/2406.03243)|null|
 |**2024-05-24**|**PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services**|Zheming Yang et.al.|[2405.14636](http://arxiv.org/abs/2405.14636)|null|
@@ -1938,7 +1938,7 @@ layout: default
 |**2026-04-14**|**AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition**|Zeheng Wang et.al.|[2604.12735](http://arxiv.org/abs/2604.12735)|null|
 |**2026-04-14**|**Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining**|Junfeng Xia et.al.|[2604.12683](http://arxiv.org/abs/2604.12683)|null|
 |**2026-04-15**|**Observation of the Exotic State $π_{1}(1600)$ in $ψ(2S)\rightarrowγχ_{c1},χ_{c1}\rightarrowπ^{+}π^{-}η'$**|BESIII Collaboration et.al.|[2604.12524](http://arxiv.org/abs/2604.12524)|null|
-|**2026-04-14**|**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**|Junbin Su et.al.|[2604.12502](http://arxiv.org/abs/2604.12502)|null|
+|**2026-04-14**|**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**|Junbin Su et.al.|[2604.12502](http://arxiv.org/abs/2604.12502)|**[link](https://github.com/AutoLab-SAI-SJTU/SEATrack)**|
 |**2026-04-14**|**Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2604.12374](http://arxiv.org/abs/2604.12374)|null|
 |**2026-04-14**|**Nucleus-Image: Sparse MoE for Image Generation**|Chandan Akiti et.al.|[2604.12163](http://arxiv.org/abs/2604.12163)|null|
 |**2026-04-13**|**TriFit: Trimodal Fusion with Protein Dynamics for Mutation Fitness Prediction**|Seungik Cho et.al.|[2604.12026](http://arxiv.org/abs/2604.12026)|null|
@@ -4071,7 +4071,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-16**|**From Tokens to Steps: Verification-Aware Speculative Decoding for Efficient Multi-Step Reasoning**|Kiran Purohit et.al.|[2604.15244](http://arxiv.org/abs/2604.15244)|null|
-|**2026-04-16**|**RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding**|Zihong Zhang et.al.|[2604.14885](http://arxiv.org/abs/2604.14885)|null|
+|**2026-04-16**|**RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding**|Zihong Zhang et.al.|[2604.14885](http://arxiv.org/abs/2604.14885)|**[link](https://github.com/hkr04/RACER)**|
 |**2026-04-16**|**The Missing Knowledge Layer in AI: A Framework for Stable Human-AI Reasoning**|Rikard Rosenbacke et.al.|[2604.14881](http://arxiv.org/abs/2604.14881)|null|
 |**2026-04-16**|**Acceptance Dynamics Across Cognitive Domains in Speculative Decoding**|Saif Mahmoud et.al.|[2604.14682](http://arxiv.org/abs/2604.14682)|null|
 |**2026-04-16**|**ELMoE-3D: Leveraging Intrinsic Elasticity of MoE for Hybrid-Bonding-Enabled Self-Speculative Decoding in On-Premises Serving**|Yuseon Choi et.al.|[2604.14626](http://arxiv.org/abs/2604.14626)|null|
