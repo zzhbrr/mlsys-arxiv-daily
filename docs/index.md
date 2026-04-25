@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.23
+## Updated on 2026.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
+|**2026-04-23**|**A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks**|Mingqi Han et.al.|[2604.21399](http://arxiv.org/abs/2604.21399)|null|
+|**2026-04-23**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284](http://arxiv.org/abs/2604.21284)|**[link](https://github.com/web3guru888/mempalace-scientific-analysis)**|
+|**2026-04-23**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|null|
+|**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
+|**2026-04-22**|**TRACES: Tagging Reasoning Steps for Adaptive Cost-Efficient Early-Stopping**|Yannis Belkhiter et.al.|[2604.21057](http://arxiv.org/abs/2604.21057)|null|
+|**2026-04-22**|**MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference**|Anurita Das et.al.|[2604.21026](http://arxiv.org/abs/2604.21026)|null|
+|**2026-04-22**|**DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge**|Yaodan Xu et.al.|[2604.20919](http://arxiv.org/abs/2604.20919)|null|
+|**2026-04-22**|**FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels**|Fei Zuo et.al.|[2604.20913](http://arxiv.org/abs/2604.20913)|null|
 |**2026-04-22**|**FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving**|Wenyan Chen et.al.|[2604.20503](http://arxiv.org/abs/2604.20503)|null|
 |**2026-04-22**|**LLM-guided phase diagram construction through high-throughput experimentation**|Ryo Tamura et.al.|[2604.20304](http://arxiv.org/abs/2604.20304)|null|
 |**2026-04-21**|**Statistics, Not Scale: Modular Medical Dialogue with Bayesian Belief Engine**|Yusuf Kesmen et.al.|[2604.20022](http://arxiv.org/abs/2604.20022)|null|
@@ -1951,6 +1960,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Direct observation of surface bandgap shrinkage and negative electronic compressibility in SrTiO3**|Warakorn Jindata et.al.|[2604.21783](http://arxiv.org/abs/2604.21783)|null|
+|**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
+|**2026-04-23**|**Decoupled DiLoCo for Resilient Distributed Pre-training**|Arthur Douillard et.al.|[2604.21428](http://arxiv.org/abs/2604.21428)|null|
+|**2026-04-23**|**Teacher-Guided Routing for Sparse Vision Mixture-of-Experts**|Masahiro Kada et.al.|[2604.21330](http://arxiv.org/abs/2604.21330)|null|
+|**2026-04-23**|**Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation**|Minping Chen et.al.|[2604.21264](http://arxiv.org/abs/2604.21264)|null|
 |**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
 |**2026-04-22**|**On Bayesian Softmax-Gated Mixture-of-Experts Models**|Nicola Bariletto et.al.|[2604.20551](http://arxiv.org/abs/2604.20551)|null|
 |**2026-04-22**|**XRF 241001A/SN 2024aiiq: A Faint Soft X-ray Transient Detected by SVOM with a Broad-Line Type Ic Supernova Revealed by JWST**|B. Schneider et.al.|[2604.20346](http://arxiv.org/abs/2604.20346)|null|
@@ -4141,6 +4155,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Emergence of a non-bulk hexagonal Fe $_2$S$_2$ single layer via phase transformation**|Affan Safeer et.al.|[2604.21613](http://arxiv.org/abs/2604.21613)|null|
+|**2026-04-22**|**The two-level systems in cryogenic solids, or how to avoid stressful memories**|Vassiliy Lubchenko et.al.|[2604.21109](http://arxiv.org/abs/2604.21109)|null|
+|**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
+|**2026-04-22**|**HARBOR: Automated Harness Optimization**|Biswa Sengupta et.al.|[2604.20938](http://arxiv.org/abs/2604.20938)|null|
+|**2026-04-22**|**DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge**|Yaodan Xu et.al.|[2604.20919](http://arxiv.org/abs/2604.20919)|null|
 |**2026-04-22**|**Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming**|Jinliang Xu et.al.|[2604.20737](http://arxiv.org/abs/2604.20737)|null|
 |**2026-04-22**|**FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving**|Wenyan Chen et.al.|[2604.20503](http://arxiv.org/abs/2604.20503)|null|
 |**2026-04-22**|**Emergence biases in molecular evolution**|Timothy Fuqua et.al.|[2604.20477](http://arxiv.org/abs/2604.20477)|null|

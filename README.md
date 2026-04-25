@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.23
+## Updated on 2026.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
+|**2026-04-23**|**A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks**|Mingqi Han et.al.|[2604.21399](http://arxiv.org/abs/2604.21399)|null|
+|**2026-04-23**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284](http://arxiv.org/abs/2604.21284)|**[link](https://github.com/web3guru888/mempalace-scientific-analysis)**|
+|**2026-04-23**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|null|
+|**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
+|**2026-04-22**|**TRACES: Tagging Reasoning Steps for Adaptive Cost-Efficient Early-Stopping**|Yannis Belkhiter et.al.|[2604.21057](http://arxiv.org/abs/2604.21057)|null|
+|**2026-04-22**|**MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference**|Anurita Das et.al.|[2604.21026](http://arxiv.org/abs/2604.21026)|null|
+|**2026-04-22**|**DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge**|Yaodan Xu et.al.|[2604.20919](http://arxiv.org/abs/2604.20919)|null|
+|**2026-04-22**|**FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels**|Fei Zuo et.al.|[2604.20913](http://arxiv.org/abs/2604.20913)|null|
 |**2026-04-22**|**FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving**|Wenyan Chen et.al.|[2604.20503](http://arxiv.org/abs/2604.20503)|null|
 |**2026-04-22**|**LLM-guided phase diagram construction through high-throughput experimentation**|Ryo Tamura et.al.|[2604.20304](http://arxiv.org/abs/2604.20304)|null|
 |**2026-04-21**|**Statistics, Not Scale: Modular Medical Dialogue with Bayesian Belief Engine**|Yusuf Kesmen et.al.|[2604.20022](http://arxiv.org/abs/2604.20022)|null|
@@ -1864,7 +1873,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -1956,12 +1965,17 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Direct observation of surface bandgap shrinkage and negative electronic compressibility in SrTiO3**|Warakorn Jindata et.al.|[2604.21783](http://arxiv.org/abs/2604.21783)|null|
+|**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
+|**2026-04-23**|**Decoupled DiLoCo for Resilient Distributed Pre-training**|Arthur Douillard et.al.|[2604.21428](http://arxiv.org/abs/2604.21428)|null|
+|**2026-04-23**|**Teacher-Guided Routing for Sparse Vision Mixture-of-Experts**|Masahiro Kada et.al.|[2604.21330](http://arxiv.org/abs/2604.21330)|null|
+|**2026-04-23**|**Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation**|Minping Chen et.al.|[2604.21264](http://arxiv.org/abs/2604.21264)|null|
 |**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
 |**2026-04-22**|**On Bayesian Softmax-Gated Mixture-of-Experts Models**|Nicola Bariletto et.al.|[2604.20551](http://arxiv.org/abs/2604.20551)|null|
 |**2026-04-22**|**XRF 241001A/SN 2024aiiq: A Faint Soft X-ray Transient Detected by SVOM with a Broad-Line Type Ic Supernova Revealed by JWST**|B. Schneider et.al.|[2604.20346](http://arxiv.org/abs/2604.20346)|null|
@@ -4148,12 +4162,17 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Emergence of a non-bulk hexagonal Fe $_2$S$_2$ single layer via phase transformation**|Affan Safeer et.al.|[2604.21613](http://arxiv.org/abs/2604.21613)|null|
+|**2026-04-22**|**The two-level systems in cryogenic solids, or how to avoid stressful memories**|Vassiliy Lubchenko et.al.|[2604.21109](http://arxiv.org/abs/2604.21109)|null|
+|**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
+|**2026-04-22**|**HARBOR: Automated Harness Optimization**|Biswa Sengupta et.al.|[2604.20938](http://arxiv.org/abs/2604.20938)|null|
+|**2026-04-22**|**DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge**|Yaodan Xu et.al.|[2604.20919](http://arxiv.org/abs/2604.20919)|null|
 |**2026-04-22**|**Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming**|Jinliang Xu et.al.|[2604.20737](http://arxiv.org/abs/2604.20737)|null|
 |**2026-04-22**|**FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving**|Wenyan Chen et.al.|[2604.20503](http://arxiv.org/abs/2604.20503)|null|
 |**2026-04-22**|**Emergence biases in molecular evolution**|Timothy Fuqua et.al.|[2604.20477](http://arxiv.org/abs/2604.20477)|null|
@@ -5401,7 +5420,7 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
 
 ## Multimodal System
 
@@ -5782,7 +5801,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
