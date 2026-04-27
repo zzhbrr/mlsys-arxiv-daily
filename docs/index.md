@@ -7,20 +7,24 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.25
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
+|**2026-04-24**|**Guess-Verify-Refine: Data-Aware Top-K for Sparse-Attention Decoding on Blackwell via Temporal Correlation**|Long Cheng et.al.|[2604.22312](http://arxiv.org/abs/2604.22312)|null|
+|**2026-04-24**|**An LLM-Driven Closed-Loop Autonomous Learning Framework for Robots Facing Uncovered Tasks in Open Environments**|Hong Su et.al.|[2604.22199](http://arxiv.org/abs/2604.22199)|null|
+|**2026-04-23**|**LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs**|Mohamed Ali Souibgui et.al.|[2604.22050](http://arxiv.org/abs/2604.22050)|null|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
 |**2026-04-23**|**A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks**|Mingqi Han et.al.|[2604.21399](http://arxiv.org/abs/2604.21399)|null|
-|**2026-04-23**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284](http://arxiv.org/abs/2604.21284)|**[link](https://github.com/web3guru888/mempalace-scientific-analysis)**|
+|**2026-04-23**|**Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture**|Robin Dey et.al.|[2604.21284](http://arxiv.org/abs/2604.21284)|null|
 |**2026-04-23**|**SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference**|Hongyao Liu et.al.|[2604.21231](http://arxiv.org/abs/2604.21231)|null|
 |**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
 |**2026-04-22**|**TRACES: Tagging Reasoning Steps for Adaptive Cost-Efficient Early-Stopping**|Yannis Belkhiter et.al.|[2604.21057](http://arxiv.org/abs/2604.21057)|null|
-|**2026-04-22**|**MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference**|Anurita Das et.al.|[2604.21026](http://arxiv.org/abs/2604.21026)|null|
+|**2026-04-24**|**MCAP: Deployment-Time Layer Profiling for Memory-Constrained LLM Inference**|Anurita Das et.al.|[2604.21026](http://arxiv.org/abs/2604.21026)|null|
 |**2026-04-22**|**DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge**|Yaodan Xu et.al.|[2604.20919](http://arxiv.org/abs/2604.20919)|null|
 |**2026-04-22**|**FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels**|Fei Zuo et.al.|[2604.20913](http://arxiv.org/abs/2604.20913)|null|
 |**2026-04-22**|**FASER: Fine-Grained Phase Management for Speculative Decoding in Dynamic LLM Serving**|Wenyan Chen et.al.|[2604.20503](http://arxiv.org/abs/2604.20503)|null|
@@ -1960,6 +1964,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Synchrotron polarization of anisotropic electron distribution in GRB prompt emission**|Kang-Fa Cheng et.al.|[2604.22598](http://arxiv.org/abs/2604.22598)|null|
+|**2026-04-24**|**Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution**|Haiyun Qiu et.al.|[2604.22464](http://arxiv.org/abs/2604.22464)|null|
+|**2026-04-24**|**The Cathaya argyrophylla Genome Reveals the Evolutionary Trade-offs of a Living Fossil**|Yun Wang et.al.|[2604.22440](http://arxiv.org/abs/2604.22440)|null|
+|**2026-04-24**|**QAssemble: A Pure Python Package for Quantum Many-Body Theory**|Seongjun Mo et.al.|[2604.22223](http://arxiv.org/abs/2604.22223)|null|
 |**2026-04-23**|**Direct observation of surface bandgap shrinkage and negative electronic compressibility in SrTiO3**|Warakorn Jindata et.al.|[2604.21783](http://arxiv.org/abs/2604.21783)|null|
 |**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
 |**2026-04-23**|**Decoupled DiLoCo for Resilient Distributed Pre-training**|Arthur Douillard et.al.|[2604.21428](http://arxiv.org/abs/2604.21428)|null|
@@ -4155,6 +4163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Guess-Verify-Refine: Data-Aware Top-K for Sparse-Attention Decoding on Blackwell via Temporal Correlation**|Long Cheng et.al.|[2604.22312](http://arxiv.org/abs/2604.22312)|null|
+|**2026-04-23**|**Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models**|Muhammad Shafique et.al.|[2604.21952](http://arxiv.org/abs/2604.21952)|null|
 |**2026-04-23**|**Emergence of a non-bulk hexagonal Fe $_2$S$_2$ single layer via phase transformation**|Affan Safeer et.al.|[2604.21613](http://arxiv.org/abs/2604.21613)|null|
 |**2026-04-22**|**The two-level systems in cryogenic solids, or how to avoid stressful memories**|Vassiliy Lubchenko et.al.|[2604.21109](http://arxiv.org/abs/2604.21109)|null|
 |**2026-04-22**|**Distributed Generative Inference of LLM at Internet Scales with Multi-Dimensional Communication Optimization**|Jiu Chen et.al.|[2604.21072](http://arxiv.org/abs/2604.21072)|null|
@@ -4169,7 +4179,7 @@ layout: default
 |**2026-04-21**|**A Possible Protocluster of Galaxies Serendipitously Discovered in the Field of an Intermediate-Redshift Post-starburst Galaxy**|Mary C. Knowlton et.al.|[2604.19651](http://arxiv.org/abs/2604.19651)|null|
 |**2026-04-21**|**Solving Convex-Concave Problems with $\tilde{\mathcal{O}}(ε^{-4/(3p+1)})$ $p$ th-Order Oracle Complexity**|Lesi Chen et.al.|[2604.19462](http://arxiv.org/abs/2604.19462)|null|
 |**2026-04-20**|**From Tokens to Ties: Network and Discourse Analysis of Web3 Ecosystems**|Valentina Kuskova et.al.|[2604.18761](http://arxiv.org/abs/2604.18761)|null|
-|**2026-04-20**|**Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM**|Sravanth Kodavanti et.al.|[2604.18655](http://arxiv.org/abs/2604.18655)|null|
+|**2026-04-24**|**Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM**|Sravanth Kodavanti et.al.|[2604.18655](http://arxiv.org/abs/2604.18655)|null|
 |**2026-04-20**|**Copy-as-Decode: Grammar-Constrained Parallel Prefill for LLM Editing**|Ziyang Liu et.al.|[2604.18170](http://arxiv.org/abs/2604.18170)|null|
 |**2026-04-20**|**WISV: Wireless-Informed Semantic Verification for Distributed Speculative Decoding in Device-Edge LLM Inference**|Zixuan Liu et.al.|[2604.17701](http://arxiv.org/abs/2604.17701)|null|
 |**2026-04-19**|**Speculative Decoding for Autoregressive Video Generation**|Yuezhou Hu et.al.|[2604.17397](http://arxiv.org/abs/2604.17397)|null|
@@ -5429,8 +5439,8 @@ layout: default
 |**2026-02-20**|**Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning**|Earl J St Sauver et.al.|[2603.13243](http://arxiv.org/abs/2603.13243)|null|
 |**2026-03-11**|**COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints**|Mohammad Saeid Anwar et.al.|[2603.10436](http://arxiv.org/abs/2603.10436)|null|
 |**2026-03-09**|**SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving**|Ayush Barik et.al.|[2603.07865](http://arxiv.org/abs/2603.07865)|null|
-|**2026-03-08**|**MWM: Mobile World Models for Action-Conditioned Consistent Prediction**|Han Yan et.al.|[2603.07799](http://arxiv.org/abs/2603.07799)|null|
-|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
+|**2026-03-08**|**MWM: Mobile World Models for Action-Conditioned Consistent Prediction**|Han Yan et.al.|[2603.07799](http://arxiv.org/abs/2603.07799)|**[link](https://github.com/AIGeeksGroup/MWM)**|
+|**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|**[link](https://github.com/vita-epfl/SenCache)**|
 |**2026-02-26**|**LE-NeuS: Latency-Efficient Neuro-Symbolic Video Understanding via Adaptive Temporal Verification**|Shawn Liang et.al.|[2602.23553](http://arxiv.org/abs/2602.23553)|null|
 |**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
 |**2026-02-13**|**AdaCorrection: Adaptive Offset Cache Correction for Accurate Diffusion Transformers**|Dong Liu et.al.|[2602.13357](http://arxiv.org/abs/2602.13357)|null|
