@@ -7,20 +7,30 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.05
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours**|The Verkor Team et.al.|[2605.05170](http://arxiv.org/abs/2605.05170)|null|
+|**2026-05-06**|**Cognitive Twins: Investigating Personalized Thinking Model Building and Its Performance Enhancement with Human-in-the-Loop**|Wu-Yuin Hwang et.al.|[2605.04761](http://arxiv.org/abs/2605.04761)|null|
+|**2026-05-06**|**A Queueing-Theoretic Framework for Stability Analysis of LLM Inference with KV Cache Memory Constraints**|Chengyi Nie et.al.|[2605.04595](http://arxiv.org/abs/2605.04595)|null|
+|**2026-05-05**|**Coral: Cost-Efficient Multi-LLM Serving over Heterogeneous Cloud GPUs**|Yixuan Mei et.al.|[2605.04357](http://arxiv.org/abs/2605.04357)|null|
+|**2026-05-05**|**Parallel Prefix Verification for Speculative Generation**|Yuncheng Yao et.al.|[2605.04263](http://arxiv.org/abs/2605.04263)|null|
+|**2026-05-05**|**Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs**|Michael Rottoli et.al.|[2605.04215](http://arxiv.org/abs/2605.04215)|null|
+|**2026-05-05**|**Two Calls, Two Moments, and the Vote-Accuracy Curve of Repeated LLM Inference**|Yi Liu et.al.|[2605.03379](http://arxiv.org/abs/2605.03379)|null|
+|**2026-05-05**|**Tutti: Making SSD-Backed KV Cache Practical for Long-Context LLM Serving**|Shi Qiu et.al.|[2605.03375](http://arxiv.org/abs/2605.03375)|null|
+|**2026-05-04**|**VDCores: Resource Decoupled Programming and Execution for Asynchronous GPU**|Zijian He et.al.|[2605.03190](http://arxiv.org/abs/2605.03190)|null|
+|**2026-05-05**|**SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**|Shikhar Shukla et.al.|[2605.02888](http://arxiv.org/abs/2605.02888)|null|
 |**2026-05-04**|**CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation**|Berk Çiçek et.al.|[2605.02600](http://arxiv.org/abs/2605.02600)|null|
 |**2026-05-04**|**Taming Request Imbalance: SLO-Aware Scheduling for Disaggregated LLM Inference**|Qipeng Wang et.al.|[2605.02329](http://arxiv.org/abs/2605.02329)|null|
 |**2026-05-04**|**PipeMax: Enhancing Offline LLM Inference on Commodity GPU Servers**|Hongbin Zhang et.al.|[2605.02189](http://arxiv.org/abs/2605.02189)|null|
 |**2026-05-04**|**AAFLOW: Scalable Patterns for Agentic AI Workflows**|Arup Kumar Sarker et.al.|[2605.02162](http://arxiv.org/abs/2605.02162)|null|
 |**2026-05-03**|**Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models**|Nikolaos Giarelis et.al.|[2605.01870](http://arxiv.org/abs/2605.01870)|null|
 |**2026-05-03**|**SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving**|Yipin Guo et.al.|[2605.01708](http://arxiv.org/abs/2605.01708)|null|
-|**2026-05-02**|**Neuro-Symbolic Agents for Hallucination-Free Requirements Reuse**|Ahmed Ibrahim et.al.|[2605.01562](http://arxiv.org/abs/2605.01562)|null|
+|**2026-05-05**|**Neuro-Symbolic Agents for Hallucination-Free Requirements Reuse**|Ahmed F. Ibrahim et.al.|[2605.01562](http://arxiv.org/abs/2605.01562)|null|
 |**2026-05-02**|**LLM-Foraging: Large Language Models for Decentralized Swarm Robot Foraging**|Peihan Li et.al.|[2605.01461](http://arxiv.org/abs/2605.01461)|null|
 |**2026-05-02**|**Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics**|Zijie Zhou et.al.|[2605.01280](http://arxiv.org/abs/2605.01280)|null|
 |**2026-05-01**|**Position: agentic AI orchestration should be Bayes-consistent**|Theodore Papamarkou et.al.|[2605.00742](http://arxiv.org/abs/2605.00742)|null|
@@ -2012,6 +2022,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
+|**2026-05-06**|**Piper: Efficient Large-Scale MoE Training via Resource Modeling and Pipelined Hybrid Parallelism**|Sajal Dash et.al.|[2605.05049](http://arxiv.org/abs/2605.05049)|null|
+|**2026-05-06**|**You Snooze, You Lose: Automatic Safety Alignment Restoration through Neural Weight Translation**|Marco Arazzi et.al.|[2605.04992](http://arxiv.org/abs/2605.04992)|null|
+|**2026-05-06**|**Adaptive Inverted-Index Routing for Granular Mixtures-of-Experts**|Klaus-Rudolf Kladny et.al.|[2605.04952](http://arxiv.org/abs/2605.04952)|null|
+|**2026-05-06**|**Phase-Time Array Enabled Multistatic Sensing with Multi-Level Fusion for UAV Localization**|Ming Gao et.al.|[2605.04919](http://arxiv.org/abs/2605.04919)|null|
+|**2026-05-06**|**Measurement of the double Dalitz decay $η\to e^+e^-e^+e^-$**|BESIII Collaboration et.al.|[2605.04898](http://arxiv.org/abs/2605.04898)|null|
+|**2026-05-06**|**OpenWatch: A Multimodal Benchmark for Hand Gesture Recognition on Smartwatches**|Pietro Bonazzi et.al.|[2605.04791](http://arxiv.org/abs/2605.04791)|null|
+|**2026-05-06**|**AxMoE: Characterizing the Impact of Approximate Multipliers on Mixture-of-Experts DNN Architectures**|Omkar B Shende et.al.|[2605.04754](http://arxiv.org/abs/2605.04754)|null|
+|**2026-05-06**|**SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning**|Lirui Luo et.al.|[2605.04712](http://arxiv.org/abs/2605.04712)|null|
+|**2026-05-06**|**YOTOnet: Zero-Shot Cross-Domain Fault Diagnosis via Domain-Conditioned Mixture of Experts**|Zesen Wang et.al.|[2605.04528](http://arxiv.org/abs/2605.04528)|null|
+|**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|Ziqi Zhu et.al.|[2605.04449](http://arxiv.org/abs/2605.04449)|null|
+|**2026-05-06**|**Misrouter: Exploiting Routing Mechanisms for Input-Only Attacks on Mixture-of-Experts LLMs**|Zekun Fei et.al.|[2605.04446](http://arxiv.org/abs/2605.04446)|null|
+|**2026-05-06**|**Autonomous Laparoscope Control through Unified Mechanics-Based Representation of Multimodal Intraoperative Information**|Xiaojian Li et.al.|[2605.04408](http://arxiv.org/abs/2605.04408)|null|
+|**2026-05-05**|**2D Optical Beam Scanning using Integrated Acousto-Optics and a Frequency Comb**|Shucheng Fang et.al.|[2605.04287](http://arxiv.org/abs/2605.04287)|null|
+|**2026-05-05**|**RD-ViT: Recurrent-Depth Vision Transformer for Semantic Segmentation with Reduced Data Dependence Extending the Recurrent-Depth Transformer Architecture to Dense Prediction**|Renjie He et.al.|[2605.03999](http://arxiv.org/abs/2605.03999)|null|
+|**2026-05-05**|**MiniMind-O Technical Report: An Open Small-Scale Speech-Native Omni Model**|Jingyao Gong et.al.|[2605.03937](http://arxiv.org/abs/2605.03937)|null|
+|**2026-05-05**|**Unified Multimodal Visual Tracking with Dual Mixture-of-Experts**|Lingyi Hong et.al.|[2605.03716](http://arxiv.org/abs/2605.03716)|null|
+|**2026-05-05**|**Identification and characterization of 15265 super-Nyquist frequencies in 1309 δ Scuti stars from Kepler photometry**|Yanqi Mo et.al.|[2605.03502](http://arxiv.org/abs/2605.03502)|null|
+|**2026-05-06**|**Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts**|Hahyeon Choi et.al.|[2605.03348](http://arxiv.org/abs/2605.03348)|null|
+|**2026-05-05**|**Symmetry-Protected Lyapunov Neutral Modes in Equivariant Recurrent Networks**|Hanson Hanxuan Mo et.al.|[2605.03338](http://arxiv.org/abs/2605.03338)|null|
 |**2026-05-04**|**Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE**|Yangming Shi et.al.|[2605.02641](http://arxiv.org/abs/2605.02641)|null|
 |**2026-05-04**|**Universal Smoothness via Bernstein Polynomials: A Constructive Approximation Approach for Activation Functions**|Wentao Zhang et.al.|[2605.02591](http://arxiv.org/abs/2605.02591)|null|
 |**2026-05-04**|**M\textsuperscript{4}Fuse: Lightweight State-Space MoE with a Cross-Scale Gating Bridge for Brain Tumor Segmentation**|Meihua Zhou et.al.|[2605.02444](http://arxiv.org/abs/2605.02444)|null|
@@ -4269,6 +4299,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding**|Yepeng Weng et.al.|[2605.04543](http://arxiv.org/abs/2605.04543)|null|
+|**2026-05-05**|**Parallel Prefix Verification for Speculative Generation**|Yuncheng Yao et.al.|[2605.04263](http://arxiv.org/abs/2605.04263)|null|
+|**2026-05-04**|**MARS-DA: A Hierarchical Reinforcement Learning Framework for Risk-Aware Multi-Agent Bidding in Power Grids**|Jiayi Chen et.al.|[2605.03142](http://arxiv.org/abs/2605.03142)|null|
+|**2026-05-05**|**SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection**|Shikhar Shukla et.al.|[2605.02888](http://arxiv.org/abs/2605.02888)|null|
+|**2026-05-04**|**de Sitter Vacua & pUniverses**|Jeremias Aguilera-Damia et.al.|[2605.02883](http://arxiv.org/abs/2605.02883)|null|
 |**2026-05-04**|**CoVSpec: Efficient Device-Edge Co-Inference for Vision-Language Models via Speculative Decoding**|Yuanyuan Jia et.al.|[2605.02218](http://arxiv.org/abs/2605.02218)|null|
 |**2026-05-03**|**PRCD-MAP: Learning How Much to Trust Imperfect Priors in Causal Discovery**|Xihang Shan et.al.|[2605.01669](http://arxiv.org/abs/2605.01669)|null|
 |**2026-05-01**|**ADaPT: Adaptive-window Decoding for Practical fault-Tolerance**|Tina Oberoi et.al.|[2605.01149](http://arxiv.org/abs/2605.01149)|null|
@@ -5547,6 +5582,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|null|
 |**2026-05-04**|**WindowQuant: Mixed-Precision KV Cache Quantization based on Window-Level Similarity for VLMs Inference Optimization**|Wei Tao et.al.|[2605.02262](http://arxiv.org/abs/2605.02262)|null|
 |**2026-05-04**|**CoVSpec: Efficient Device-Edge Co-Inference for Vision-Language Models via Speculative Decoding**|Yuanyuan Jia et.al.|[2605.02218](http://arxiv.org/abs/2605.02218)|null|
 |**2026-04-29**|**Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models**|Cyril Shih-Huan Hsu et.al.|[2604.26508](http://arxiv.org/abs/2604.26508)|null|
