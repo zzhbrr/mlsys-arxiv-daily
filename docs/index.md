@@ -7,22 +7,29 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.09
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**UniSD: Towards a Unified Self-Distillation Framework for Large Language Models**|Yiqiao Jin et.al.|[2605.06597](http://arxiv.org/abs/2605.06597)|**[link](https://github.com/UnifiedSD/UnifiedSD.github.io)**|
-|**2026-05-07**|**Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale**|Tianci Bu et.al.|[2605.06113](http://arxiv.org/abs/2605.06113)|null|
+|**2026-05-08**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985](http://arxiv.org/abs/2605.07985)|null|
+|**2026-05-08**|**MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference**|Ruijie Zhou et.al.|[2605.07363](http://arxiv.org/abs/2605.07363)|null|
+|**2026-05-08**|**SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting**|Weijie Shi et.al.|[2605.07243](http://arxiv.org/abs/2605.07243)|null|
+|**2026-05-08**|**Reformulating KV Cache Eviction Problem for Long-Context LLM Inference**|Tho Mai et.al.|[2605.07234](http://arxiv.org/abs/2605.07234)|null|
+|**2026-05-08**|**Learning Agent Routing From Early Experience**|Yimin Wang et.al.|[2605.07180](http://arxiv.org/abs/2605.07180)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-05-07**|**Regulating Branch Parallelism in LLM Serving**|Swapnil Gandhi et.al.|[2605.06914](http://arxiv.org/abs/2605.06914)|null|
+|**2026-05-07**|**Sparse Attention as a Range Searching Problem: Towards an Inference-Efficient Index for KV Cache**|Mohsen Dehghankar et.al.|[2605.06763](http://arxiv.org/abs/2605.06763)|null|
+|**2026-05-07**|**UniSD: Towards a Unified Self-Distillation Framework for Large Language Models**|Yiqiao Jin et.al.|[2605.06597](http://arxiv.org/abs/2605.06597)|null|
+|**2026-05-08**|**Tackling the Data-Parallel Load Balancing Bottleneck in LLM Serving: Practical Online Routing at Scale**|Tianci Bu et.al.|[2605.06113](http://arxiv.org/abs/2605.06113)|null|
 |**2026-05-07**|**VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?**|Keisuke Kamahori et.al.|[2605.06068](http://arxiv.org/abs/2605.06068)|null|
 |**2026-05-07**|**XtraMAC: An Efficient MAC Architecture for Mixed-Precision LLM Inference on FPGA**|Feng Yu et.al.|[2605.06052](http://arxiv.org/abs/2605.06052)|null|
 |**2026-05-07**|**Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference**|Saksham Rathi et.al.|[2605.06046](http://arxiv.org/abs/2605.06046)|null|
 |**2026-05-07**|**Irminsul: MLA-Native Position-Independent Caching for Agentic LLM Serving**|Bole Ma et.al.|[2605.05696](http://arxiv.org/abs/2605.05696)|null|
 |**2026-05-07**|**TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference**|Zhuoran Li et.al.|[2605.05639](http://arxiv.org/abs/2605.05639)|null|
 |**2026-05-07**|**Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems**|Chen Zhang et.al.|[2605.05628](http://arxiv.org/abs/2605.05628)|null|
-|**2026-05-07**|**LLMSpace: Carbon Footprint Modeling for Large Language Model Inference on LEO Satellites**|Lei Jiang et.al.|[2605.05615](http://arxiv.org/abs/2605.05615)|null|
+|**2026-05-08**|**LLMSpace: Carbon Footprint Modeling for Large Language Model Inference on LEO Satellites**|Lei Jiang et.al.|[2605.05615](http://arxiv.org/abs/2605.05615)|null|
 |**2026-05-06**|**ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis**|Atharva Naik et.al.|[2605.05485](http://arxiv.org/abs/2605.05485)|null|
 |**2026-05-06**|**Nitsum: Serving Tiered LLM Requests with Adaptive Tensor Parallelism**|Vikranth Srivatsa et.al.|[2605.05467](http://arxiv.org/abs/2605.05467)|null|
 |**2026-05-06**|**Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours**|The Verkor Team et.al.|[2605.05170](http://arxiv.org/abs/2605.05170)|null|
@@ -2033,7 +2040,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|**[link](https://github.com/Centaurus-Alpha/UniPool)**|
+|**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Wen Huang et.al.|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
+|**2026-05-08**|**Benchmarking EngGPT2-16B-A3B against Comparable Italian and International Open-source LLMs**|Andrea Sassella et.al.|[2605.07731](http://arxiv.org/abs/2605.07731)|null|
+|**2026-05-08**|**PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation**|Yijin Wang et.al.|[2605.07496](http://arxiv.org/abs/2605.07496)|null|
+|**2026-05-08**|**DIMoE-Adapters: Dynamic Expert Evolution for Continual Learning in Vision-Language Models**|Mengxin Qin et.al.|[2605.07494](http://arxiv.org/abs/2605.07494)|null|
+|**2026-05-08**|**Tracking Large-scale Shared Bikes with Inertial Motion Learning in GNSS Blocked Environments**|Feng Liu et.al.|[2605.07412](http://arxiv.org/abs/2605.07412)|null|
+|**2026-05-08**|**MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference**|Ruijie Zhou et.al.|[2605.07363](http://arxiv.org/abs/2605.07363)|null|
+|**2026-05-08**|**SoLAR: Error-Resilient Streamable Long-Horizon Free-Viewpoint Video Reconstruction with Anchor Activation and Latent Recalibration**|Haotian Zhang et.al.|[2605.07346](http://arxiv.org/abs/2605.07346)|null|
+|**2026-05-08**|**When Are Experts Misrouted? Counterfactual Routing Analysis in Mixture-of-Experts Language Models**|Youngsik Yoon et.al.|[2605.07260](http://arxiv.org/abs/2605.07260)|null|
+|**2026-05-08**|**Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control**|Ali Taghibakhshi et.al.|[2605.07182](http://arxiv.org/abs/2605.07182)|null|
+|**2026-05-08**|**First Measurement of the $D_s^+\rightarrow K^{*}(892)^0μ^+ν_μ$ Decay, Study of Dynamics and Test of Lepton Universality with $D_s^+\rightarrow K^{*}(892)^0\ell^+ν_{\ell}$ Decays**|BESIII Collaboration et.al.|[2605.07176](http://arxiv.org/abs/2605.07176)|null|
+|**2026-05-08**|**ModelLens: Finding the Best for Your Task from Myriads of Models**|Rui Cai et.al.|[2605.07075](http://arxiv.org/abs/2605.07075)|null|
+|**2026-05-07**|**Disentangling bulk and surface electronic structure using targeted cleave planes in RuO $_2$**|Maria H. Visscher et.al.|[2605.06798](http://arxiv.org/abs/2605.06798)|null|
+|**2026-05-07**|**Measurement of the Absolute Branching Fraction of Xi(1530)^{-} to (Xi pi)^{-} and Updated Measurement of the Branching Fraction of psi(3686) to anti-Xi^{+} Xi(1530)^{-} + c.c**|BESIII Collaboration et.al.|[2605.06753](http://arxiv.org/abs/2605.06753)|null|
+|**2026-05-07**|**UniPool: A Globally Shared Expert Pool for Mixture-of-Experts**|Minbin Huang et.al.|[2605.06665](http://arxiv.org/abs/2605.06665)|null|
 |**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
 |**2026-05-07**|**Efficient Pre-Training with Token Superposition**|Bowen Peng et.al.|[2605.06546](http://arxiv.org/abs/2605.06546)|null|
 |**2026-05-07**|**Scene-Adaptive Continual Learning for CSI-based Human Activity Recognition with Mixture of Experts**|Wenhan Zheng et.al.|[2605.06447](http://arxiv.org/abs/2605.06447)|null|
@@ -4330,6 +4350,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Fast Byte Latent Transformer**|Julie Kallini et.al.|[2605.08044](http://arxiv.org/abs/2605.08044)|null|
+|**2026-05-08**|**Weak Order on the MacNeille Completion of Bruhat Order**|Colin Defant et.al.|[2605.08033](http://arxiv.org/abs/2605.08033)|null|
+|**2026-05-08**|**Future Validity is the Missing Statistic: From Impossibility to $Φ$ -Estimation for Grammar-Faithful Speculative Decoding**|Wenhua Nie et.al.|[2605.07698](http://arxiv.org/abs/2605.07698)|null|
+|**2026-05-08**|**There to care; not to kill: medical settings, statistics and wrongful convictions**|Richard D. Gill et.al.|[2605.07421](http://arxiv.org/abs/2605.07421)|null|
+|**2026-05-08**|**SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting**|Weijie Shi et.al.|[2605.07243](http://arxiv.org/abs/2605.07243)|null|
+|**2026-05-08**|**CASCADE: Context-Aware Relaxation for Speculative Image Decoding**|Selin Yildirim et.al.|[2605.07230](http://arxiv.org/abs/2605.07230)|null|
+|**2026-05-07**|**Bounding Fixed Points of Non-Monotone Processes: Theory to Practice**|Abdullah H. Rasheed et.al.|[2605.06803](http://arxiv.org/abs/2605.06803)|null|
 |**2026-05-06**|**Maximizing Rollout Informativeness under a Fixed Budget: A Submodular View of Tree Search for Tool-Use Agentic Reinforcement Learning**|Yuelin Hu et.al.|[2605.05262](http://arxiv.org/abs/2605.05262)|null|
 |**2026-05-06**|**UniVer: A Unified Perspective for Multi-step and Multi-draft Speculative Decoding**|Yepeng Weng et.al.|[2605.04543](http://arxiv.org/abs/2605.04543)|null|
 |**2026-05-05**|**Parallel Prefix Verification for Speculative Generation**|Yuncheng Yao et.al.|[2605.04263](http://arxiv.org/abs/2605.04263)|null|
