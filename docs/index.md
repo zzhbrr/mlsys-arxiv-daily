@@ -7,13 +7,33 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.11
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**LISA: Cognitive Arbitration for Signal-Free Autonomous Intersection Management**|Abderrahmane Lakas et.al.|[2605.12321](http://arxiv.org/abs/2605.12321)|null|
+|**2026-05-12**|**BatchBench: Toward a Workload-Aware Benchmark for Autoscaling Policies in Big Data Batch Processing -- A Proposed Framework**|Venkata Krishna Prasanth Budigi et.al.|[2605.12272](http://arxiv.org/abs/2605.12272)|null|
+|**2026-05-12**|**CR^2: Cost-Aware Risk-Controlled Routing for Wireless Device-Edge LLM Inference**|Nan Xue et.al.|[2605.12001](http://arxiv.org/abs/2605.12001)|null|
+|**2026-05-12**|**The Illusion of Power Capping in LLM Decode: A Phase-Aware Energy Characterisation Across Attention Architectures**|Bole Ma et.al.|[2605.11999](http://arxiv.org/abs/2605.11999)|null|
+|**2026-05-12**|**Very Efficient Listwise Multimodal Reranking for Long Documents**|Yiqun Sun et.al.|[2605.11864](http://arxiv.org/abs/2605.11864)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-12**|**Position: LLM Inference Should Be Evaluated as Energy-to-Token Production**|Xiang Liu et.al.|[2605.11733](http://arxiv.org/abs/2605.11733)|null|
+|**2026-05-12**|**GAR: Carbon-Aware Routing for LLM Inference via Constrained Optimization**|Disha Sheshanarayana et.al.|[2605.11603](http://arxiv.org/abs/2605.11603)|null|
+|**2026-05-12**|**Efficient LLM-based Advertising via Model Compression and Parallel Verification**|Wenxin Dong et.al.|[2605.11582](http://arxiv.org/abs/2605.11582)|null|
+|**2026-05-12**|**Ada-MK: Adaptive MegaKernel Optimization via Automated DAG-based Search for LLM Inference**|Wenxin Dong et.al.|[2605.11581](http://arxiv.org/abs/2605.11581)|null|
+|**2026-05-11**|**SOMA: Efficient Multi-turn LLM Serving via Small Language Model**|Xueqi Cheng et.al.|[2605.11317](http://arxiv.org/abs/2605.11317)|null|
+|**2026-05-11**|**Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack**|Prathamesh Vasudeo Naik et.al.|[2605.11232](http://arxiv.org/abs/2605.11232)|null|
+|**2026-05-11**|**Measuring Five-Nines Reliability: Sample-Efficient LLM Evaluation in Saturated Benchmarks**|Eungyeup Kim et.al.|[2605.11209](http://arxiv.org/abs/2605.11209)|null|
+|**2026-05-11**|**Continuous Discovery of Vulnerabilities in LLM Serving Systems with Fuzzing**|Yunze Zhao et.al.|[2605.11202](http://arxiv.org/abs/2605.11202)|null|
+|**2026-05-11**|**CATS: Cascaded Adaptive Tree Speculation for Memory-Limited LLM Inference Acceleration**|Yuning Han et.al.|[2605.11186](http://arxiv.org/abs/2605.11186)|null|
+|**2026-05-11**|**Enabling Performant and Flexible Model-Internal Observability for LLM Inference**|Nengneng Yu et.al.|[2605.11093](http://arxiv.org/abs/2605.11093)|null|
+|**2026-05-11**|**Compute Where it Counts: Self Optimizing Language Models**|Yash Akhauri et.al.|[2605.10875](http://arxiv.org/abs/2605.10875)|null|
+|**2026-05-11**|**EnergyLens: Interpretable Closed-Form Energy Models for Multimodal LLM Inference Serving**|Vittorio Palladino et.al.|[2605.10556](http://arxiv.org/abs/2605.10556)|null|
+|**2026-05-11**|**Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration**|Shuzhang Zhong et.al.|[2605.10195](http://arxiv.org/abs/2605.10195)|null|
+|**2026-05-11**|**GELATO: Generative Entropy- and Lyapunov-based Adaptive Token Offloading for Device-Edge Speculative LLM Inference**|Zengzipeng Tang et.al.|[2605.10124](http://arxiv.org/abs/2605.10124)|null|
+|**2026-05-11**|**When Are LLM Inferences Acceptable? User Reactions and Control Preferences for Inferred Personal Information**|Kyzyl Monteiro et.al.|[2605.10013](http://arxiv.org/abs/2605.10013)|null|
 |**2026-05-08**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985](http://arxiv.org/abs/2605.07985)|null|
 |**2026-05-08**|**MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference**|Ruijie Zhou et.al.|[2605.07363](http://arxiv.org/abs/2605.07363)|null|
 |**2026-05-08**|**SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting**|Weijie Shi et.al.|[2605.07243](http://arxiv.org/abs/2605.07243)|null|
@@ -2040,6 +2060,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Haiwen Diao et.al.|[2605.12500](http://arxiv.org/abs/2605.12500)|null|
+|**2026-05-12**|**Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts**|Sagi Ahrac et.al.|[2605.12476](http://arxiv.org/abs/2605.12476)|null|
+|**2026-05-12**|**Geometric Asymptotics of Score Mixing and Guidance in Diffusion Models**|Kang Liu et.al.|[2605.12231](http://arxiv.org/abs/2605.12231)|null|
+|**2026-05-12**|**ECTO: Exogenous-Conditioned Temporal Operator for Ultra-Short-Term Wind Power Forecasting**|Cao Yuan et.al.|[2605.12196](http://arxiv.org/abs/2605.12196)|null|
+|**2026-05-12**|**Emergent Vortex Ordering in a Multiflavor Pyrochlore-Lattice Compound GeCo $_2$O$_4$**|Jiajun Mo et.al.|[2605.12042](http://arxiv.org/abs/2605.12042)|null|
+|**2026-05-12**|**Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization**|Xu Chu et.al.|[2605.11974](http://arxiv.org/abs/2605.11974)|null|
+|**2026-05-12**|**From Trajectories to Phenotypes: Disease Progression as Structural Priors for Multi-organ Imaging Representation Learning**|Zian Wang et.al.|[2605.11958](http://arxiv.org/abs/2605.11958)|null|
+|**2026-05-12**|**Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models**|Boyi Deng et.al.|[2605.11887](http://arxiv.org/abs/2605.11887)|null|
+|**2026-05-12**|**Modulation Consistency-based Contrastive Learning for Self-Supervised Automatic Modulation Classification**|Chenxu Wang et.al.|[2605.11875](http://arxiv.org/abs/2605.11875)|null|
+|**2026-05-12**|**ROMER: Expert Replacement and Router Calibration for Robust MoE LLMs on Analog Compute-in-Memory Systems**|Wenyong Zhou et.al.|[2605.11800](http://arxiv.org/abs/2605.11800)|null|
+|**2026-05-12**|**M $^4$ -SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection**|Jiyuan Liu et.al.|[2605.11760](http://arxiv.org/abs/2605.11760)|null|
+|**2026-05-12**|**GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors**|The LIGO Scientific Collaboration et.al.|[2605.11703](http://arxiv.org/abs/2605.11703)|null|
+|**2026-05-12**|**Augmented Lagrangian Method for Last-Iterate Convergence for Constrained MDPs**|Michael Lu et.al.|[2605.11694](http://arxiv.org/abs/2605.11694)|null|
+|**2026-05-12**|**Slicing and Dicing: Configuring Optimal Mixtures of Experts**|Margaret Li et.al.|[2605.11689](http://arxiv.org/abs/2605.11689)|null|
+|**2026-05-12**|**Fast MoE Inference via Predictive Prefetching and Expert Replication**|Ankit Jyothish et.al.|[2605.11537](http://arxiv.org/abs/2605.11537)|null|
+|**2026-05-12**|**Study of $φ\to K\bar{K}$ in the amplitude analysis of $D^{+}\to K_{S}^{0}K_{L}^{0}π^{+}$**|BESIII Collaboration et.al.|[2605.11464](http://arxiv.org/abs/2605.11464)|null|
+|**2026-05-12**|**MaskTab: Scalable Masked Tabular Pretraining with Scaling Laws and Distillation for Industrial Classification**|Bo Zheng et.al.|[2605.11408](http://arxiv.org/abs/2605.11408)|null|
+|**2026-05-11**|**Sieve: Dynamic Expert-Aware PIM Acceleration for Evolving Mixture-of-Experts Models**|Jungwoo Kim et.al.|[2605.11277](http://arxiv.org/abs/2605.11277)|null|
+|**2026-05-11**|**HEBATRON: A Hebrew-Specialized Open-Weight Mixture-of-Experts Language Model**|Noam Kayzer et.al.|[2605.11255](http://arxiv.org/abs/2605.11255)|null|
+|**2026-05-12**|**DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices**|Chenyang Song et.al.|[2605.10933](http://arxiv.org/abs/2605.10933)|null|
 |**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Wen Huang et.al.|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
 |**2026-05-08**|**Benchmarking EngGPT2-16B-A3B against Comparable Italian and International Open-source LLMs**|Andrea Sassella et.al.|[2605.07731](http://arxiv.org/abs/2605.07731)|null|
 |**2026-05-08**|**PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation**|Yijin Wang et.al.|[2605.07496](http://arxiv.org/abs/2605.07496)|null|
@@ -4350,6 +4390,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection**|Tom Sander et.al.|[2605.12456](http://arxiv.org/abs/2605.12456)|null|
+|**2026-05-12**|**COSMIC 1001: Engaging Future Speculation on Space Exploration with Generative AI**|Lingyu Peng et.al.|[2605.11827](http://arxiv.org/abs/2605.11827)|null|
+|**2026-05-12**|**BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion**|Shaobin Zhuang et.al.|[2605.11577](http://arxiv.org/abs/2605.11577)|null|
+|**2026-05-12**|**Dynamic Execution Commitment of Vision-Language-Action Models**|Feng Chen et.al.|[2605.11567](http://arxiv.org/abs/2605.11567)|null|
+|**2026-05-11**|**Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack**|Prathamesh Vasudeo Naik et.al.|[2605.11232](http://arxiv.org/abs/2605.11232)|null|
+|**2026-05-11**|**Continuous Discovery of Vulnerabilities in LLM Serving Systems with Fuzzing**|Yunze Zhao et.al.|[2605.11202](http://arxiv.org/abs/2605.11202)|null|
+|**2026-05-11**|**CATS: Cascaded Adaptive Tree Speculation for Memory-Limited LLM Inference Acceleration**|Yuning Han et.al.|[2605.11186](http://arxiv.org/abs/2605.11186)|null|
+|**2026-05-11**|**Towards the Realization of the Dark Dimension Scenario in Hořava-Witten Theory**|Ralph Blumenhagen et.al.|[2605.11068](http://arxiv.org/abs/2605.11068)|null|
+|**2026-05-11**|**SlimSpec: Low-Rank Draft LM-Head for Accelerated Speculative Decoding**|Anton Plaksin et.al.|[2605.10453](http://arxiv.org/abs/2605.10453)|null|
+|**2026-05-11**|**Agent-X: Full Pipeline Acceleration of On-device AI Agents**|Jinha Chung et.al.|[2605.10380](http://arxiv.org/abs/2605.10380)|null|
+|**2026-05-11**|**Breaking the Reward Barrier: Accelerating Tree-of-Thought Reasoning via Speculative Exploration**|Shuzhang Zhong et.al.|[2605.10195](http://arxiv.org/abs/2605.10195)|null|
+|**2026-05-11**|**GELATO: Generative Entropy- and Lyapunov-based Adaptive Token Offloading for Device-Edge Speculative LLM Inference**|Zengzipeng Tang et.al.|[2605.10124](http://arxiv.org/abs/2605.10124)|null|
+|**2026-05-11**|**Janus: Compiler-Based Defense Against Transient Execution Attacks Using ARM Hardware Primitives**|Ciyan Ouyang et.al.|[2605.10049](http://arxiv.org/abs/2605.10049)|null|
+|**2026-05-11**|**Attention Drift: What Autoregressive Speculative Decoding Models Learn**|Doğaç Eldenk et.al.|[2605.09992](http://arxiv.org/abs/2605.09992)|null|
+|**2026-05-10**|**31.1 A 14.08-to-135.69Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding**|Pingcheng Dong et.al.|[2605.09375](http://arxiv.org/abs/2605.09375)|null|
+|**2026-05-10**|**Test-Time Speculation**|Avinash Kumar et.al.|[2605.09329](http://arxiv.org/abs/2605.09329)|null|
+|**2026-05-09**|**BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning**|Yuhang Xu et.al.|[2605.08862](http://arxiv.org/abs/2605.08862)|null|
+|**2026-05-09**|**PARD-2: Target-Aligned Parallel Draft Model for Dual-Mode Speculative Decoding**|Zihao An et.al.|[2605.08632](http://arxiv.org/abs/2605.08632)|null|
+|**2026-05-08**|**FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration**|Zhengding Hu et.al.|[2605.08520](http://arxiv.org/abs/2605.08520)|null|
 |**2026-05-08**|**Fast Byte Latent Transformer**|Julie Kallini et.al.|[2605.08044](http://arxiv.org/abs/2605.08044)|null|
 |**2026-05-08**|**Weak Order on the MacNeille Completion of Bruhat Order**|Colin Defant et.al.|[2605.08033](http://arxiv.org/abs/2605.08033)|null|
 |**2026-05-08**|**Future Validity is the Missing Statistic: From Impossibility to $Φ$ -Estimation for Grammar-Faithful Speculative Decoding**|Wenhua Nie et.al.|[2605.07698](http://arxiv.org/abs/2605.07698)|null|
@@ -5641,6 +5700,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**RealDiffusion: Physics-informed Attention for Multi-character Storybook Generation**|Qi Zhao et.al.|[2605.11927](http://arxiv.org/abs/2605.11927)|null|
+|**2026-05-09**|**Geometry Guided Self-Consistency for Physical AI**|Yinwei Dai et.al.|[2605.08638](http://arxiv.org/abs/2605.08638)|null|
 |**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|null|
 |**2026-05-04**|**WindowQuant: Mixed-Precision KV Cache Quantization based on Window-Level Similarity for VLMs Inference Optimization**|Wei Tao et.al.|[2605.02262](http://arxiv.org/abs/2605.02262)|null|
 |**2026-05-04**|**CoVSpec: Efficient Device-Edge Co-Inference for Vision-Language Models via Speculative Decoding**|Yuanyuan Jia et.al.|[2605.02218](http://arxiv.org/abs/2605.02218)|null|
