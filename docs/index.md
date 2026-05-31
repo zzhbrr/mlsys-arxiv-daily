@@ -7,13 +7,33 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.25
+## Updated on 2026.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**MarginGate: Sparse Margin-Triggered Verification for Batch-Invariant LLM Inference**|Kexin Chu et.al.|[2605.30218](http://arxiv.org/abs/2605.30218)|null|
+|**2026-05-28**|**Double-Edged Sword or Sharp Tool? Designing and Evaluating Triadic LLM-Teacher Collaboration for K-12 Writing at Scale**|Canran Wang et.al.|[2605.30200](http://arxiv.org/abs/2605.30200)|null|
+|**2026-05-28**|**Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots**|Mark Vero et.al.|[2605.29963](http://arxiv.org/abs/2605.29963)|null|
+|**2026-05-28**|**HTAM: Hierarchical Transition-Attended Memory for Operator Optimization**|Yining Zhang et.al.|[2605.29734](http://arxiv.org/abs/2605.29734)|null|
+|**2026-05-28**|**Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding**|Jianuo Huang et.al.|[2605.29707](http://arxiv.org/abs/2605.29707)|**[link](https://github.com/jianuo-huang/Domino)**|
+|**2026-05-28**|**RTP-LLM: High-Performance Alibaba LLM Inference Engine**|Boyu Tan et.al.|[2605.29639](http://arxiv.org/abs/2605.29639)|**[link](https://github.com/alibaba/rtp-llm)**|
+|**2026-05-28**|**CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems**|Ziyang Ma et.al.|[2605.29612](http://arxiv.org/abs/2605.29612)|null|
+|**2026-05-28**|**Revisiting Observation Reduction for Web Agents: Comprehensive Evaluation with a Lightweight Framework**|Masafumi Enomoto et.al.|[2605.29397](http://arxiv.org/abs/2605.29397)|null|
+|**2026-05-28**|**Draft-OPD: On-Policy Distillation for Speculative Draft Models**|Haodi Lei et.al.|[2605.29343](http://arxiv.org/abs/2605.29343)|null|
+|**2026-05-27**|**Thinking as Compression: Your Reasoning Model is Secretly a Context Compressor**|Guoxin Ma et.al.|[2605.28713](http://arxiv.org/abs/2605.28713)|null|
+|**2026-05-27**|**Efficient Post-training of LLMs for Code Generation With Offline Reinforcement Learning**|Mingze Wu et.al.|[2605.28409](http://arxiv.org/abs/2605.28409)|null|
+|**2026-05-27**|**Routing-Aligned Fine-Tuning for Multilingual Downstream Tasks in Mixture-of-Experts Models**|Guanzhi Deng et.al.|[2605.28306](http://arxiv.org/abs/2605.28306)|null|
+|**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|null|
+|**2026-05-27**|**Towards Cost-effective LLMs Routing with Batch Prompting**|Haotian Xu et.al.|[2605.28268](http://arxiv.org/abs/2605.28268)|null|
+|**2026-05-27**|**Cybersecurity AI (CAI) Dataset**|Víctor Mayoral-Vilches et.al.|[2605.28146](http://arxiv.org/abs/2605.28146)|null|
+|**2026-05-27**|**SiDP: Memory-Efficient Data Parallelism for Offline LLM Inference**|Alan Zhao et.al.|[2605.28095](http://arxiv.org/abs/2605.28095)|null|
+|**2026-05-27**|**PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting**|Yu-Che Tsai et.al.|[2605.28066](http://arxiv.org/abs/2605.28066)|null|
+|**2026-05-27**|**Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis**|Nils Constantin Hellwig et.al.|[2605.28058](http://arxiv.org/abs/2605.28058)|null|
+|**2026-05-27**|**RW-TTT: Batched Serving for Request-Owned Test-Time Training State**|Jian Yang et.al.|[2605.28053](http://arxiv.org/abs/2605.28053)|null|
+|**2026-05-26**|**A Paired Testing Protocol for Batch-Conditioned Refusal Robustness in LLM Serving**|Sahil Kadadekar et.al.|[2605.27763](http://arxiv.org/abs/2605.27763)|null|
 |**2026-05-22**|**CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference**|Guanlong Wu et.al.|[2605.23640](http://arxiv.org/abs/2605.23640)|null|
 |**2026-05-22**|**AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System**|Fengyao Bai et.al.|[2605.23389](http://arxiv.org/abs/2605.23389)|null|
 |**2026-05-22**|**XWind: A Cross-site Router for Large Language Model Inference Serving at Renewable Energy Farms**|Tella Rajashekhar Reddy et.al.|[2605.23348](http://arxiv.org/abs/2605.23348)|**[link](https://github.com/Ufere/Assingment_1)**|
@@ -2013,6 +2033,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**Heterogeneous Parallelism for Multimodal Large Language Model Training**|Yashaswi Karnati et.al.|[2605.27678](http://arxiv.org/abs/2605.27678)|null|
 |**2026-05-19**|**Towards Multi-Model LLM Schedulers: Empirical Insights into Offloading and Preemption**|Mert Yildiz et.al.|[2605.19593](http://arxiv.org/abs/2605.19593)|null|
 |**2026-03-13**|**SageSched: Efficient LLM Scheduling Confronting Demand Uncertainty and Hybridity**|Zhenghao Gan et.al.|[2603.07917](http://arxiv.org/abs/2603.07917)|null|
 |**2025-12-04**|**Counting Without Running: Evaluating LLMs' Reasoning About Code Complexity**|Gregory Bolet et.al.|[2512.04355](http://arxiv.org/abs/2512.04355)|null|
@@ -2104,6 +2125,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Electron Doping of $\mathrm{La_3Ni_2O_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity**|Shi-Cong Mo et.al.|[2605.30297](http://arxiv.org/abs/2605.30297)|null|
+|**2026-05-28**|**GenEraser: Generalizable Video Object Removal via Balanced Text-Mask Guidance and Decoupled Locator-Preserver**|Yuqing Chen et.al.|[2605.30045](http://arxiv.org/abs/2605.30045)|null|
+|**2026-05-28**|**Leveraging Routing Dynamics in Mixture-of-Experts Models for Efficient Language Adaptation**|Aditi Khandelwal et.al.|[2605.29714](http://arxiv.org/abs/2605.29714)|null|
+|**2026-05-28**|**Understanding Safety-Sensitive Expert Behavior in Mixture-of-Experts LLMs**|Zhibo Zhang et.al.|[2605.29708](http://arxiv.org/abs/2605.29708)|null|
+|**2026-05-28**|**Composing Non-Conjugate Factor Graphs with Closed-Form Variational Inference**|Mykola Lukashchuk et.al.|[2605.29467](http://arxiv.org/abs/2605.29467)|null|
+|**2026-05-28**|**ConMoE: Expert-Pool Consolidation via Prototype Reassignment for MoE Compression**|Yilun Yao et.al.|[2605.29350](http://arxiv.org/abs/2605.29350)|null|
+|**2026-05-28**|**Multi-Stage VLM Pipeline for Zero-Shot Traffic Accident Understanding**|Fumiya Tatematsu et.al.|[2605.29325](http://arxiv.org/abs/2605.29325)|null|
+|**2026-05-28**|**UniNote: A Unified Embedding Model for Multimodal Representation and Ranking**|Jinghan Zhao et.al.|[2605.29287](http://arxiv.org/abs/2605.29287)|null|
+|**2026-05-27**|**Rotary GPU: Exploring Local Execution Paths for Large Mixture-of-Experts Models Under Limited GPU Memory**|Myeong Jun Jo et.al.|[2605.29135](http://arxiv.org/abs/2605.29135)|null|
+|**2026-05-27**|**A Minimal Bifurcation Model of Load Imbalance in a Softmax Mixture-of-Experts Router**|O. M. Kiselev et.al.|[2605.29121](http://arxiv.org/abs/2605.29121)|null|
+|**2026-05-27**|**Using GALEX UV Excess to Search for Metal-poor Halo Stars**|Chase L. Smith et.al.|[2605.29060](http://arxiv.org/abs/2605.29060)|null|
+|**2026-05-27**|**Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States**|Quoc Hoan Tran et.al.|[2605.28690](http://arxiv.org/abs/2605.28690)|null|
+|**2026-05-27**|**Continual Model Routing in Evolving Model Hubs**|Jack Bell et.al.|[2605.28577](http://arxiv.org/abs/2605.28577)|null|
+|**2026-05-27**|**REVEAL: Reference-Grounded Reasoning for Multimodal Manipulation Detection**|Jun Zhou et.al.|[2605.28459](http://arxiv.org/abs/2605.28459)|null|
+|**2026-05-27**|**Nanoscale Confinement Enhances Ultrafast Demagnetization**|Yoav William Windsor et.al.|[2605.28307](http://arxiv.org/abs/2605.28307)|null|
+|**2026-05-27**|**Routing-Aligned Fine-Tuning for Multilingual Downstream Tasks in Mixture-of-Experts Models**|Guanzhi Deng et.al.|[2605.28306](http://arxiv.org/abs/2605.28306)|null|
+|**2026-05-27**|**From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation**|Shuaike Li et.al.|[2605.28303](http://arxiv.org/abs/2605.28303)|null|
+|**2026-05-27**|**How Far Can Disaggregation Go? A Design-Space Exploration of Attention-FFN Disaggregation for Efficient MoE LLM Serving**|Hanjiang Wu et.al.|[2605.28302](http://arxiv.org/abs/2605.28302)|null|
+|**2026-05-27**|**VidPrism: Heterogeneous Mixture of Experts for Image-to-Video Transfer**|Rui Lin et.al.|[2605.28229](http://arxiv.org/abs/2605.28229)|null|
+|**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|null|
 |**2026-05-22**|**ETCHR: Editing To Clarify and Harness Reasoning**|Beichen Zhang et.al.|[2605.23897](http://arxiv.org/abs/2605.23897)|null|
 |**2026-05-22**|**Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models**|Hongwu Peng et.al.|[2605.23893](http://arxiv.org/abs/2605.23893)|null|
 |**2026-05-22**|**Training-Free Looped Transformers**|Lizhang Chen et.al.|[2605.23872](http://arxiv.org/abs/2605.23872)|null|
@@ -4486,6 +4527,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Bastion: Budget-Aware Speculative Decoding with Tree-structured Block Diffusion Drafting**|Soowon Oh et.al.|[2605.29727](http://arxiv.org/abs/2605.29727)|null|
+|**2026-05-28**|**Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding**|Jianuo Huang et.al.|[2605.29707](http://arxiv.org/abs/2605.29707)|null|
+|**2026-05-28**|**RTP-LLM: High-Performance Alibaba LLM Inference Engine**|Boyu Tan et.al.|[2605.29639](http://arxiv.org/abs/2605.29639)|null|
+|**2026-05-28**|**Control Flow Graph Recovery for Dynamically Loaded Code via Symbolic Library Resolution**|Oleksandr Mostovyi et.al.|[2605.29620](http://arxiv.org/abs/2605.29620)|null|
+|**2026-05-28**|**Harmless Yet Harmful: Neutral Prompting Attacks for Stealthy Hallucination Steering in Agent Skills**|Chia-Yi Hsu et.al.|[2605.29354](http://arxiv.org/abs/2605.29354)|null|
+|**2026-05-28**|**Draft-OPD: On-Policy Distillation for Speculative Draft Models**|Haodi Lei et.al.|[2605.29343](http://arxiv.org/abs/2605.29343)|null|
+|**2026-05-27**|**Paper Agents, Paper Gains: An Empirical Analysis of DeFi Investment Agents**|Jay Yu et.al.|[2605.29174](http://arxiv.org/abs/2605.29174)|null|
+|**2026-05-27**|**DREAM-R: Multimodal Speculative Reasoning with RL-Based Refined Drafting, Precise Verification, and Fully Parallel Execution**|Yunhai Hu et.al.|[2605.28678](http://arxiv.org/abs/2605.28678)|null|
+|**2026-05-27**|**HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs**|Yansong Ning et.al.|[2605.28398](http://arxiv.org/abs/2605.28398)|null|
+|**2026-05-27**|**Matching second-order classical and 1-loop quantum tensor power spectra in de Sitter spacetime**|A. Hauser et.al.|[2605.27910](http://arxiv.org/abs/2605.27910)|null|
+|**2026-05-27**|**Double Dots: Compact Pairs Mark Little Red Dots and High-Redshift Broad-line AGNs**|A. J. Barger et.al.|[2605.27903](http://arxiv.org/abs/2605.27903)|null|
+|**2026-05-26**|**A Policy-Driven Runtime Layer for Agentic LLM Serving**|Rui Zhang et.al.|[2605.27744](http://arxiv.org/abs/2605.27744)|null|
+|**2026-05-26**|**Historical Developments in Probability Measures for Asset Pricing: From State Prices to Modern Pricing Kernels**|Zhang Chen et.al.|[2605.27658](http://arxiv.org/abs/2605.27658)|null|
+|**2026-05-26**|**EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms**|Abolfazl Younesi et.al.|[2605.27540](http://arxiv.org/abs/2605.27540)|null|
+|**2026-05-26**|**Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs**|Wenhui Tan et.al.|[2605.27255](http://arxiv.org/abs/2605.27255)|null|
+|**2026-05-26**|**Cassandra: Enabling Reasoning LLMs at Edge via Self-Speculative Decoding**|Soongyu Choi et.al.|[2605.26558](http://arxiv.org/abs/2605.26558)|null|
+|**2026-05-25**|**Stateful Inference for Low-Latency Multi-Agent Tool Calling**|Victor Norgren et.al.|[2605.26289](http://arxiv.org/abs/2605.26289)|null|
+|**2026-05-27**|**SetupX: Can LLM Agents Learn from Past Failures in Functionality-Correct Code Repository Setup?**|Zihang Zhou et.al.|[2605.26186](http://arxiv.org/abs/2605.26186)|null|
+|**2026-05-24**|**Beyond the Target: From Imitation to Collaboration in Speculative Decoding**|Jinze Li et.al.|[2605.24793](http://arxiv.org/abs/2605.24793)|null|
 |**2026-05-22**|**Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs**|Ali Zahir et.al.|[2605.23850](http://arxiv.org/abs/2605.23850)|null|
 |**2026-05-22**|**Misleading Microbenchmarks on the Java Virtual Machines**|Filippo Schiavio et.al.|[2605.23570](http://arxiv.org/abs/2605.23570)|null|
 |**2026-05-22**|**Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving**|Kewei Zhang et.al.|[2605.23163](http://arxiv.org/abs/2605.23163)|null|
@@ -5833,7 +5893,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-21**|**Action with Visual Primitives**|Weilong Guo et.al.|[2605.22183](http://arxiv.org/abs/2605.22183)|null|
+|**2026-05-28**|**OccamToken: Efficient VLM Inference with Training-Free and Budget-Adaptive Token Pruning**|Geng Li et.al.|[2605.29657](http://arxiv.org/abs/2605.29657)|null|
+|**2026-05-28**|**AsymVLM: Asymmetric Token Pruning for Efficient Vision-Language Model Inference**|Yilin Feng et.al.|[2605.29535](http://arxiv.org/abs/2605.29535)|null|
+|**2026-05-25**|**DisagFusion: Asynchronous Pipeline Parallelism and Elastic Scheduling for Disaggregated Diffusion Serving**|Hantian Zha et.al.|[2605.25550](http://arxiv.org/abs/2605.25550)|null|
+|**2026-05-24**|**Dynamic Neural Koopman Distillation for Real-Time Robot Control Using Diffusion Models**|Lei Zheng et.al.|[2605.24924](http://arxiv.org/abs/2605.24924)|null|
+|**2026-05-20**|**SA-Kura: An Energy-Efficient Systolic Array Accelerator for Locally-Coupled Kuramoto Drift in Diffusion Sampling**|Jeongmin Jin et.al.|[2605.24016](http://arxiv.org/abs/2605.24016)|null|
+|**2026-05-24**|**Action with Visual Primitives**|Weilong Guo et.al.|[2605.22183](http://arxiv.org/abs/2605.22183)|null|
 |**2026-05-19**|**Rotation-Aligned Key Channel Pruning for Efficient Vision-Language Model Inference**|Beomseok Kang et.al.|[2605.19218](http://arxiv.org/abs/2605.19218)|null|
 |**2026-05-14**|**KVCapsule: Efficient Sequential KV Cache Compression for Vision-Language Models with Asymmetric Redundancy**|Yingbing Huang et.al.|[2605.16439](http://arxiv.org/abs/2605.16439)|null|
 |**2026-04-03**|**Bridging the Missing-Modality Gap: Improving Text-Only Calibration of Vision Language Models**|Mingyeong Kim et.al.|[2605.12517](http://arxiv.org/abs/2605.12517)|null|
