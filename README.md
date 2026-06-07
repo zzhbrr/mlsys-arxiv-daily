@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.03
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents**|Zhuoming Chen et.al.|[2606.06453](http://arxiv.org/abs/2606.06453)|null|
+|**2026-06-04**|**Tangram: Unlocking Non-Uniform KV Cache for Efficient Multi-turn LLM Serving**|Hyungmin Kim et.al.|[2606.06302](http://arxiv.org/abs/2606.06302)|null|
+|**2026-06-04**|**RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention**|Yang Liu et.al.|[2606.06256](http://arxiv.org/abs/2606.06256)|null|
+|**2026-06-04**|**IR3DE: A Linear Router for Large Language Models**|Eros Fanì et.al.|[2606.06098](http://arxiv.org/abs/2606.06098)|**[link](https://github.com/gensyn-ai/IR3DE)**|
+|**2026-06-04**|**LLM Explainability with Counterfactual Chains and Causal Graphs**|Nirit Nussbaum-Hoffer et.al.|[2606.05972](http://arxiv.org/abs/2606.05972)|null|
+|**2026-06-04**|**Beyond Greedy Chunking: SLO-Aware Sliding-Window Scheduling for LLM Inference**|Yuansheng Chen et.al.|[2606.05933](http://arxiv.org/abs/2606.05933)|null|
+|**2026-06-04**|**The End of Software Engineering: How AI Agents Are Fundamentally Restructuring the Software Paradigm**|Zhenfeng Cao et.al.|[2606.05608](http://arxiv.org/abs/2606.05608)|null|
+|**2026-06-03**|**RH+: Row-Hit-Optimized Scheduling for PIM-based LLM Inference**|Yongchan Jung et.al.|[2606.05511](http://arxiv.org/abs/2606.05511)|null|
+|**2026-06-03**|**SharedRequest: Privacy-Preserving Model-Agnostic Inference for Large Language Models**|Peihua Mai et.al.|[2606.05004](http://arxiv.org/abs/2606.05004)|null|
+|**2026-06-03**|**Ekka: Automated Diagnosis of Silent Errors in LLM Inference**|Yile Gu et.al.|[2606.04594](http://arxiv.org/abs/2606.04594)|null|
+|**2026-06-03**|**SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference**|Yaosheng Fu et.al.|[2606.04511](http://arxiv.org/abs/2606.04511)|null|
+|**2026-06-03**|**D^2SD: Accelerating Speculative Decoding with Dual Diffusion Draft Models**|Liyuan Zhang et.al.|[2606.04446](http://arxiv.org/abs/2606.04446)|null|
+|**2026-06-03**|**FlexNPU: Transparent NPU Virtualization for Dynamic LLM Prefill-Decode Co-location**|Jiongjiong Gu et.al.|[2606.04415](http://arxiv.org/abs/2606.04415)|null|
+|**2026-06-02**|**Recover-LoRA for Aggressive Quantization: Reclaiming Accuracy in 2-Bit Language Models via Low-Rank Adaptation with Knowledge Distillation on Synthetic Data**|Devleena Das et.al.|[2606.04238](http://arxiv.org/abs/2606.04238)|null|
 |**2026-06-02**|**NetKV: Network-Aware Decode Instance Selection for Disaggregated LLM Inference**|Mubarak Adetunji Ojewale et.al.|[2606.03910](http://arxiv.org/abs/2606.03910)|null|
 |**2026-06-02**|**NeuroSymbolic Robustness Analysis for Discrete Systems with Respect to Transition Deviations**|Shih-Jie Shih et.al.|[2606.03872](http://arxiv.org/abs/2606.03872)|null|
 |**2026-06-02**|**$π$ Creds: Privately Inferred Credentials**|Samuel Breckenridge et.al.|[2606.03771](http://arxiv.org/abs/2606.03771)|null|
@@ -2064,7 +2078,7 @@
 |**2023-12-08**|**Efficient LLM Inference on CPUs**|Haihao Shen et.al.|[2311.00502](http://arxiv.org/abs/2311.00502)|null|
 |**2024-04-02**|**SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification**|Xupeng Miao et.al.|[2305.09781](http://arxiv.org/abs/2305.09781)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## LLM Scheduling
 
@@ -2158,12 +2172,32 @@
 |**2024-08-06**|**On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS)**|Vishal Pallagani et.al.|[2401.02500](http://arxiv.org/abs/2401.02500)|null|
 |**2023-05-30**|**Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline**|Zangwei Zheng et.al.|[2305.13144](http://arxiv.org/abs/2305.13144)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## MoE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**|Lizhi Yang et.al.|[2606.06493](http://arxiv.org/abs/2606.06493)|null|
+|**2026-06-04**|**Beyond Greedy Chunking: SLO-Aware Sliding-Window Scheduling for LLM Inference**|Yuansheng Chen et.al.|[2606.05933](http://arxiv.org/abs/2606.05933)|null|
+|**2026-06-04**|**Geometry-Aware Dataset Condensation for Diffusion Model Training**|Xiao Cui et.al.|[2606.05883](http://arxiv.org/abs/2606.05883)|null|
+|**2026-06-04**|**Value-and-Structure Alignment for Routing-Consistent Quantization of Mixture-of-Experts Models**|Hancheol Park et.al.|[2606.05688](http://arxiv.org/abs/2606.05688)|null|
+|**2026-06-04**|**Dark asteroids exhibiting intermediate characteristics between C and X types**|Sunao Hasegawa et.al.|[2606.05659](http://arxiv.org/abs/2606.05659)|null|
+|**2026-06-04**|**What's in a Name? Morphological Shortcuts by LLMs in Pharmacology**|Kaijie Mo et.al.|[2606.05616](http://arxiv.org/abs/2606.05616)|null|
+|**2026-06-04**|**Less is MoE: Trimming Experts in Domain-Specialist Language Models**|Haoze He et.al.|[2606.05538](http://arxiv.org/abs/2606.05538)|null|
+|**2026-06-03**|**Pattern Selectivity is Not Task-Causal Structure: A Cross-Architecture Mechanistic Study of Composed-Task Circuits in 1B-Class Language Models**|Yongzhong Xu et.al.|[2606.05378](http://arxiv.org/abs/2606.05378)|null|
+|**2026-06-03**|**Emergent Self-Similar Quantum Revivals in Spiral Drives**|Xin-Chi Zhou et.al.|[2606.05288](http://arxiv.org/abs/2606.05288)|null|
+|**2026-06-03**|**Early Multiwavelength Observations of AT 2026fgk: The Luminous Afterglow to Sub-luminous GRB 260310A, Identified Independently of a Gamma-ray Trigger**|K. -R. Hinds et.al.|[2606.05146](http://arxiv.org/abs/2606.05146)|null|
+|**2026-06-03**|**AlphaQ: Calibration-Free Bit Allocation for Mixture-of-Experts Quantization**|Wanqi Yang et.al.|[2606.04980](http://arxiv.org/abs/2606.04980)|null|
+|**2026-06-03**|**HD-DinoMoE: A Class-Aware Hierarchical Dual Mixture-of-Experts Network for Scleral Anomaly Segmentation in Complex Acquisition Scenarios**|Yinxiang Yu et.al.|[2606.04888](http://arxiv.org/abs/2606.04888)|null|
+|**2026-06-03**|**D $^3$ -MoE:Dual Disentangled Diffusion Mixture-of-Experts for Style-Controllable End-to-End Autonomous Driving**|Renju Feng et.al.|[2606.04884](http://arxiv.org/abs/2606.04884)|null|
+|**2026-06-03**|**Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment**|Cong Wang et.al.|[2606.04737](http://arxiv.org/abs/2606.04737)|null|
+|**2026-06-03**|**CoRe-MoE: Contrastive Reweighted Mixture of Experts for Multi-Terrain Humanoid Locomotion with Gait Adaptation**|Kailun Huang et.al.|[2606.04718](http://arxiv.org/abs/2606.04718)|null|
+|**2026-06-03**|**Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization**|Heng Cao et.al.|[2606.04547](http://arxiv.org/abs/2606.04547)|null|
+|**2026-06-03**|**Treat Traffic Like Trees: A Semantic-Preserving Hierarchical Graph-Based Expert Framework for Encrypted Traffic Analysis**|Yuantu Luo et.al.|[2606.04517](http://arxiv.org/abs/2606.04517)|null|
+|**2026-06-03**|**RowNet: A Memory Transformer for Tabular Regression**|Askat Rakhymbekov et.al.|[2606.04445](http://arxiv.org/abs/2606.04445)|null|
+|**2026-06-03**|**LoopMoE: Unifying Iterative Computation with Mixture-of-Experts for Language Modeling**|Wenkai Chen et.al.|[2606.04438](http://arxiv.org/abs/2606.04438)|null|
+|**2026-06-03**|**Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models**|Anant Khandelwal et.al.|[2606.04396](http://arxiv.org/abs/2606.04396)|null|
 |**2026-06-02**|**Dynamic Short Convolutions Improve Transformers**|Oliver Sieberling et.al.|[2606.03825](http://arxiv.org/abs/2606.03825)|null|
 |**2026-06-02**|**Expert-Aware Causal Tracing of Factual Recall in Sparse MoE Language Models**|Yuetian Lu et.al.|[2606.03780](http://arxiv.org/abs/2606.03780)|null|
 |**2026-06-02**|**AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE**|Tao Xie et.al.|[2606.03631](http://arxiv.org/abs/2606.03631)|null|
@@ -4594,12 +4628,16 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Speculative Decoding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**AdaPLD: Adaptive Retrieval and Reuse for Efficient Model-Free Speculative Decoding**|Runheng Liu et.al.|[2606.05742](http://arxiv.org/abs/2606.05742)|null|
+|**2026-06-03**|**Multi-SPIN: Multi-Access Speculative Inference for Cooperative Token Generation at the Edge**|Haotian Zheng et.al.|[2606.04581](http://arxiv.org/abs/2606.04581)|null|
+|**2026-06-03**|**Speculating the Impacts of Mediated Social Touch Technology**| Russian et.al.|[2606.04489](http://arxiv.org/abs/2606.04489)|null|
+|**2026-06-03**|**D^2SD: Accelerating Speculative Decoding with Dual Diffusion Draft Models**|Liyuan Zhang et.al.|[2606.04446](http://arxiv.org/abs/2606.04446)|null|
 |**2026-06-02**|**Suppressed diffusion and gamma-ray emission from the Cygnus Bubble**|Ben Li et.al.|[2606.03881](http://arxiv.org/abs/2606.03881)|null|
 |**2026-06-02**|**TreeFlash: Parallel AR-Approximation for Faster Speculative Decoding**|Peer Rheinboldt et.al.|[2606.03819](http://arxiv.org/abs/2606.03819)|null|
 |**2026-06-02**|**Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability**|Hasret Ozan Sevim et.al.|[2606.03434](http://arxiv.org/abs/2606.03434)|null|
@@ -5984,12 +6022,13 @@
 |**2023-05-22**|**Fast Inference from Transformers via Speculative Decoding**|Yaniv Leviathan et.al.|[2211.17192](http://arxiv.org/abs/2211.17192)|null|
 |**2023-10-31**|**Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**|Heming Xia et.al.|[2203.16487](http://arxiv.org/abs/2203.16487)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## Multimodal System
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**ReCache: Learning Budget-Aware Caching Schedules for Diffusion Models via REINFORCE**|Mishan Aliev et.al.|[2606.06060](http://arxiv.org/abs/2606.06060)|null|
 |**2026-06-02**|**RMPrior: Bridging Propagation Priors and Diffusion Refinement for Efficient Radio Map Construction**|Zixuan Guo et.al.|[2606.03074](http://arxiv.org/abs/2606.03074)|null|
 |**2026-06-01**|**Goal2Pixel: Grounding Goals to Pixels for Vision-Language Navigation**|Muyi Bao et.al.|[2606.01621](http://arxiv.org/abs/2606.01621)|null|
 |**2026-06-01**|**Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation**|Fang Wan et.al.|[2606.01595](http://arxiv.org/abs/2606.01595)|null|
@@ -6388,7 +6427,7 @@
 |**2014-06-03**|**$C^0$ -estimates and smoothness of solutions to the parabolic equation defined by Kimura operators**|Camelia A. Pop et.al.|[1406.0742](http://arxiv.org/abs/1406.0742)|null|
 |**2015-04-01**|**On nonnegative unbiased estimators**|Pierre E. Jacob et.al.|[1309.6473](http://arxiv.org/abs/1309.6473)|null|
 
-<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
