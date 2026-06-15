@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.13
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Implicit Reasoning for Large Language Model-based Generative Recommendation**|Yinhan He et.al.|[2606.14142](http://arxiv.org/abs/2606.14142)|null|
+|**2026-06-11**|**STREAM: Multi-Tier LLM Inference Middleware with Dual-Channel HPC Token Streaming**|Anas Nassar et.al.|[2606.13968](http://arxiv.org/abs/2606.13968)|null|
+|**2026-06-11**|**Efficient On-Device Diffusion LLM Inference with Mobile NPU**|Tuowei Wang et.al.|[2606.13740](http://arxiv.org/abs/2606.13740)|null|
+|**2026-06-10**|**Tiara: A Programmable Line-Rate ISA for Remote Memory Access**|Bojie Li et.al.|[2606.13708](http://arxiv.org/abs/2606.13708)|null|
 |**2026-06-11**|**Accelerating Speculative Diffusions via Block Verification**|Alexander Soen et.al.|[2606.13426](http://arxiv.org/abs/2606.13426)|null|
 |**2026-06-10**|**PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**|Mahmoud Srewa et.al.|[2606.12616](http://arxiv.org/abs/2606.12616)|null|
 |**2026-06-10**|**Arbor: Tree Search as a Cognition Layer for Autonomous Agents**|Neha Prakriya et.al.|[2606.12563](http://arxiv.org/abs/2606.12563)|null|
@@ -24,7 +28,7 @@ layout: default
 |**2026-06-10**|**LLM-Based User Personas for Recommendations at Scale**|Haoting Wang et.al.|[2606.12198](http://arxiv.org/abs/2606.12198)|null|
 |**2026-06-10**|**Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation**|Selen Erkan et.al.|[2606.12117](http://arxiv.org/abs/2606.12117)|null|
 |**2026-06-10**|**Characterizing Software Aging in GPU-Based LLM Serving Systems**|Domenico Cotroneo et.al.|[2606.11916](http://arxiv.org/abs/2606.11916)|null|
-|**2026-06-10**|**Making Locality-aware GEMM Compatible with Page-Granularity Placement on Chiplet GPUs**|Euijun Chung et.al.|[2606.11718](http://arxiv.org/abs/2606.11718)|null|
+|**2026-06-12**|**Making Locality-aware GEMM Compatible with Page-Granularity Placement on Chiplet GPUs**|Euijun Chung et.al.|[2606.11718](http://arxiv.org/abs/2606.11718)|null|
 |**2026-06-10**|**CompRank: Efficient LLM Reranking via Token-Level Compression and Decoding-Free Scoring**|Xuan Lu et.al.|[2606.11700](http://arxiv.org/abs/2606.11700)|null|
 |**2026-06-10**|**Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference**|Sayedeh Leila Noorbakhsh et.al.|[2606.11592](http://arxiv.org/abs/2606.11592)|null|
 |**2026-06-10**|**GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs**|Zhuoyi Peng et.al.|[2606.11562](http://arxiv.org/abs/2606.11562)|null|
@@ -2188,16 +2192,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing**|Hugo Daumain et.al.|[2606.14639](http://arxiv.org/abs/2606.14639)|null|
+|**2026-06-12**|**Neither Parallel Nor Sequential: How DiffusionGemma Actually Commits Tokens**|Ali Asaria et.al.|[2606.14620](http://arxiv.org/abs/2606.14620)|null|
+|**2026-06-12**|**Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency**|Chufei Yan et.al.|[2606.14609](http://arxiv.org/abs/2606.14609)|null|
+|**2026-06-12**|**Expert-Driven Survival Machines: Improving Stratification and Interpretability in Multiple Clinical Cohorts**|Farica Zhuang et.al.|[2606.14608](http://arxiv.org/abs/2606.14608)|null|
+|**2026-06-12**|**A theoretical model for task routing in mixture-of-expert transformers**|Yongli Xiang et.al.|[2606.14398](http://arxiv.org/abs/2606.14398)|null|
+|**2026-06-12**|**Decoupled Mixture-of-Experts for Parametric Knowledge Injection**|Baoqing Yue et.al.|[2606.14243](http://arxiv.org/abs/2606.14243)|null|
+|**2026-06-12**|**Zeta: Dual Whitening for Matrix Optimization via Coordinate-Adaptive Preconditioning**|Kaiwen Chen et.al.|[2606.14187](http://arxiv.org/abs/2606.14187)|null|
+|**2026-06-12**|**Evidence of $ψ(3770) \to π^{0}J/ψ$**| BESIII Collaboration et.al.|[2606.14105](http://arxiv.org/abs/2606.14105)|null|
+|**2026-06-12**|**Adaptive Nucleus Truncation for Long-Form Reasoning**|Ousmane Amadou Dia et.al.|[2606.13982](http://arxiv.org/abs/2606.13982)|null|
 |**2026-06-11**|**See Selectively, Act Adaptively: Dual-Level Structural Decomposition for Bimanual Robot Manipulation**|Yoon-Ji Choi et.al.|[2606.13279](http://arxiv.org/abs/2606.13279)|null|
 |**2026-06-11**|**AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders with Asymmetric MoE for Aerial Robots**|Jianli Sun et.al.|[2606.12859](http://arxiv.org/abs/2606.12859)|null|
 |**2026-06-11**|**TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models**|Zhengtao Yao et.al.|[2606.12841](http://arxiv.org/abs/2606.12841)|null|
 |**2026-06-10**|**Action-Effect Memory Pretraining for Robot Manipulation**|Yijing Zhou et.al.|[2606.12499](http://arxiv.org/abs/2606.12499)|null|
-|**2026-06-10**|**Strong and electromagnetic amplitudes, direct $CP$ and isospin asymmetries in the decays $J/ψ\to K^0_SK^+π^-+c.c.$**| BESIII Collaboration et.al.|[2606.12493](http://arxiv.org/abs/2606.12493)|null|
+|**2026-06-12**|**Strong and electromagnetic amplitudes, direct $CP$ and isospin asymmetries in the decays $J/ψ\to K^0_SK^+π^-+c.c.$**| BESIII Collaboration et.al.|[2606.12493](http://arxiv.org/abs/2606.12493)|null|
 |**2026-06-10**|**Redesign Mixture-of-Experts Routers with Manifold Power Iteration**|Songhao Wu et.al.|[2606.12397](http://arxiv.org/abs/2606.12397)|null|
 |**2026-06-10**|**Multi-Rate Mixture of Experts for Accelerating Liquid Neural Network Training**|Shilong Zong et.al.|[2606.12240](http://arxiv.org/abs/2606.12240)|null|
 |**2026-06-10**|**The Brain That Goes Quiet: Serving a Large Model's Knowledge at 131 Tokens per Second on an 8 GB Laptop by Removing the Large Model from the Runtime Path**|Myeong Jun Jo et.al.|[2606.12154](http://arxiv.org/abs/2606.12154)|null|
 |**2026-06-10**|**MFEN:Multi-Frequency Expert Network for Visible-Infrared Person Re-ID**|Xulin Li et.al.|[2606.12051](http://arxiv.org/abs/2606.12051)|null|
-|**2026-06-10**|**Unexpected large relative strong phase and search for isospin breaking and $CP$ asymmetries in$ J/ψ\to K^*(892)\bar K**| BESIII Collaboration et.al.|[2606.12002](http://arxiv.org/abs/2606.12002)|null|
+|**2026-06-12**|**Unexpected large relative strong phase and search for isospin breaking and $CP$ asymmetries in$ J/ψ\to K^*(892)\bar K**| BESIII Collaboration et.al.|[2606.12002](http://arxiv.org/abs/2606.12002)|null|
 |**2026-06-10**|**Harnessing Routing Foresight for Micro-step-level MoE load balancing in RL Post-training**|Yuming Zhou et.al.|[2606.11867](http://arxiv.org/abs/2606.11867)|null|
 |**2026-06-10**|**Beyond Per-Token Pricing: A Concurrency-Aware Methodology for LLM Infrastructure Cost Estimation**|Chitral Patil et.al.|[2606.11690](http://arxiv.org/abs/2606.11690)|null|
 |**2026-06-10**|**Updated measurement of the branching fraction of $D_s^+ \to τ^+ ν_τ$**| BESIII Collaboration et.al.|[2606.11593](http://arxiv.org/abs/2606.11593)|null|
@@ -4662,6 +4675,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Simple-IT: Practical Low-Latency Signature-Free BFT Consensus**|Qianyu Yu et.al.|[2606.14404](http://arxiv.org/abs/2606.14404)|null|
+|**2026-06-11**|**Efficient On-Device Diffusion LLM Inference with Mobile NPU**|Tuowei Wang et.al.|[2606.13740](http://arxiv.org/abs/2606.13740)|null|
 |**2026-06-11**|**Endpoint Anticipation for Low-Latency Spoken Dialogue**|Sathvik Udupa et.al.|[2606.13450](http://arxiv.org/abs/2606.13450)|null|
 |**2026-06-11**|**Accelerating Speculative Diffusions via Block Verification**|Alexander Soen et.al.|[2606.13426](http://arxiv.org/abs/2606.13426)|null|
 |**2026-06-10**|**From AGI to ASI**|Tim Genewein et.al.|[2606.12683](http://arxiv.org/abs/2606.12683)|null|
