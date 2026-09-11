@@ -7,16 +7,33 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.09
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**SpecGuard: Inference-Time Backdoor Detection For Free**|Rui Wen et.al.|[2609.11799](http://arxiv.org/abs/2609.11799)|null|
+|**2026-09-10**|**LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation**|Dongfang Zhao et.al.|[2609.11739](http://arxiv.org/abs/2609.11739)|null|
+|**2026-09-10**|**A Training-Free, Alignment-Free Approach to Corporate Intelligence: Application to SEC Filings**|Jean-François Delpech et.al.|[2609.11620](http://arxiv.org/abs/2609.11620)|null|
+|**2026-09-10**|**PATTON: Enabling Commodity PIM for Production LLM Serving**|Hangyeol Kim et.al.|[2609.11392](http://arxiv.org/abs/2609.11392)|null|
+|**2026-09-10**|**Phase-Decoupled, Model-Calibrated Power Control for Disaggregated LLM Serving**|Jae Gon Kim et.al.|[2609.11133](http://arxiv.org/abs/2609.11133)|null|
+|**2026-09-10**|**Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign**|Haoran Jin et.al.|[2609.10970](http://arxiv.org/abs/2609.10970)|null|
+|**2026-09-10**|**The Art of Closed-Formula Defaults: Search-Free Code Generation for Tensor Operators**|Paolo D'Alberto et.al.|[2609.10937](http://arxiv.org/abs/2609.10937)|null|
+|**2026-09-09**|**ExaServe: Large-Scale LLM Serving on Exascale HPC Systems**|Wenyi Wang et.al.|[2609.10812](http://arxiv.org/abs/2609.10812)|null|
+|**2026-09-09**|**Composable CXL Memory as a Kubernetes-Native Shared Memory for LLM Serving**|Hongjian Fan et.al.|[2609.10790](http://arxiv.org/abs/2609.10790)|null|
+|**2026-09-09**|**KVShareArena: KV-Cache Reuse Across Contexts and Model Checkpoints**|Xi Shi et.al.|[2609.10266](http://arxiv.org/abs/2609.10266)|null|
+|**2026-09-09**|**Maverick: Private and Verifiable LLM Inference Made Practical via Matrix-Vector Multiplication Delegation**|Ben Merbaum et.al.|[2609.10264](http://arxiv.org/abs/2609.10264)|null|
+|**2026-09-09**|**Forward-Free LLM Depth Pruning via Weight Redundancy**|Vincent-Daniel Yun et.al.|[2609.09883](http://arxiv.org/abs/2609.09883)|null|
+|**2026-09-09**|**HBFSim: Fast and Faithful Simulation of High-Bandwidth Flash Under Real GPU Execution**|Yanpeng Hu et.al.|[2609.09800](http://arxiv.org/abs/2609.09800)|null|
+|**2026-09-09**|**Spatial LLM Workload Shifting Needs Foresight: Model Commitment for AI Data Center Operation under Power Grid Constraints**|Bojun Du et.al.|[2609.09787](http://arxiv.org/abs/2609.09787)|null|
+|**2026-09-09**|**Epoch: Compiling Diffusion Blocks for Sparse MoE Serving**|Jianian Zhu et.al.|[2609.09748](http://arxiv.org/abs/2609.09748)|null|
+|**2026-09-09**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662](http://arxiv.org/abs/2609.09662)|null|
+|**2026-09-08**|**Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding**|Fengxiang Bie et.al.|[2609.09338](http://arxiv.org/abs/2609.09338)|null|
 |**2026-09-08**|**Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention**|Siran Liu et.al.|[2609.08450](http://arxiv.org/abs/2609.08450)|null|
 |**2026-09-08**|**A Measurement Study of LLM Inference Trade-offs Across Edge Continuum Hardware**|Maysam Khatib et.al.|[2609.08307](http://arxiv.org/abs/2609.08307)|null|
-|**2026-09-08**|**HoneyRoute: Honeypot-Model Routing for Adversarial LLM Serving**|Han Jin et.al.|[2609.08306](http://arxiv.org/abs/2609.08306)|null|
+|**2026-09-09**|**HoneyRoute: Honeypot-Model Routing for Adversarial LLM Serving**|Han Jin et.al.|[2609.08306](http://arxiv.org/abs/2609.08306)|null|
 |**2026-09-08**|**Do Dynamic Routers Need Memory? HeRo: History-Aware Routing for Efficient LLM Inference**|Hongjin Lin et.al.|[2609.08189](http://arxiv.org/abs/2609.08189)|null|
 |**2026-09-07**|**MetaKV: Adaptive KV Cache Compression for Constrained LLM Inference**|Michael Wang et.al.|[2609.07966](http://arxiv.org/abs/2609.07966)|null|
 |**2026-09-07**|**Deadline-Aware Adaptive Prefill Chunking for Efficient Large Language Model Serving**|Siyu Song et.al.|[2609.07883](http://arxiv.org/abs/2609.07883)|null|
@@ -2326,6 +2343,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data**|Atindra Jha et.al.|[2609.11917](http://arxiv.org/abs/2609.11917)|null|
+|**2026-09-10**|**High-Temperature ferromagnetism from site-selective filling in (Fe,Ni) $_{6-δ}$GeTe$_2$**|Tyler L. Werner et.al.|[2609.11862](http://arxiv.org/abs/2609.11862)|null|
+|**2026-09-10**|**Characterizing Job Power Elasticity for Power-Flexible AI Training**|Philip Colangelo et.al.|[2609.11542](http://arxiv.org/abs/2609.11542)|null|
+|**2026-09-10**|**Breaking the Central Bias: Spatially Partitioned Experts for Coordinate-Based Neuroevolution**|Romain Claret et.al.|[2609.11518](http://arxiv.org/abs/2609.11518)|null|
+|**2026-09-10**|**No Detectable One-halo Galactic Conformity Signal with Halo-mass Estimates Consistent with Weak-lensing Constraints**|Dingyi Zhao et.al.|[2609.11313](http://arxiv.org/abs/2609.11313)|null|
+|**2026-09-10**|**Statistical evidence for linear combination frequencies in γ Doradus stars being nonlinear resonant modes**|Yanqi Mo et.al.|[2609.11143](http://arxiv.org/abs/2609.11143)|null|
+|**2026-09-10**|**Phase-Decoupled, Model-Calibrated Power Control for Disaggregated LLM Serving**|Jae Gon Kim et.al.|[2609.11133](http://arxiv.org/abs/2609.11133)|null|
+|**2026-09-10**|**T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks**|Junyao Yang et.al.|[2609.11042](http://arxiv.org/abs/2609.11042)|null|
+|**2026-09-10**|**Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign**|Haoran Jin et.al.|[2609.10970](http://arxiv.org/abs/2609.10970)|null|
+|**2026-09-10**|**The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models**|Pengfei Zhang et.al.|[2609.10947](http://arxiv.org/abs/2609.10947)|null|
+|**2026-09-09**|**Learning Orthogonal Multi-Index Models Beyond Small Initialization: Incremental Learning, Competitive Dynamics and Symmetry**|Mo Zhou et.al.|[2609.10879](http://arxiv.org/abs/2609.10879)|null|
+|**2026-09-09**|**A data processing pipeline for the WINTER near-infrared surveyor using the $\texttt{mirar}$ framework**|Viraj Karambelkar et.al.|[2609.10675](http://arxiv.org/abs/2609.10675)|null|
+|**2026-09-09**|**BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models**|Junfeng Xia et.al.|[2609.10518](http://arxiv.org/abs/2609.10518)|null|
+|**2026-09-09**|**FreqFLD: Towards All-in-One Facial Landmark Detection via Frequency Modulation**|Shun Ren et.al.|[2609.10278](http://arxiv.org/abs/2609.10278)|null|
+|**2026-09-09**|**CompassOPD: Cross-Family On-Policy Distillation via Within-Family Likelihood Shifts**|Naibin Gu et.al.|[2609.10154](http://arxiv.org/abs/2609.10154)|null|
+|**2026-09-09**|**A Trust-Network-Based Federated Learning Framework for Multi-Center Aging Clock Prediction**|Chunxu Zhang et.al.|[2609.10108](http://arxiv.org/abs/2609.10108)|null|
+|**2026-09-09**|**Stable Answers, Unfinished Reasoning: Why Self-Consensus Is Not a Safe Early-Exit Signal**|Yunxiang Mo et.al.|[2609.09989](http://arxiv.org/abs/2609.09989)|null|
+|**2026-09-09**|**How Fragile Is Safety Alignment at Frontier Scale? A Single-Direction Attack on a 320B MoE**|Yi Shi et.al.|[2609.09793](http://arxiv.org/abs/2609.09793)|null|
+|**2026-09-09**|**Epoch: Compiling Diffusion Blocks for Sparse MoE Serving**|Jianian Zhu et.al.|[2609.09748](http://arxiv.org/abs/2609.09748)|null|
+|**2026-09-09**|**RobustSGPO: Search-Space Control for Agent Harness Evolution**|Zibo Zhao et.al.|[2609.09646](http://arxiv.org/abs/2609.09646)|null|
 |**2026-09-08**|**Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack**|Sohir Maskey et.al.|[2609.08966](http://arxiv.org/abs/2609.08966)|null|
 |**2026-09-08**|**Splitting Dynamics of Multiply Quantized Vortices in Holographic Superfluid of Finite Temperature**|Shanquan Lan et.al.|[2609.08831](http://arxiv.org/abs/2609.08831)|null|
 |**2026-09-08**|**Beyond Gait: Person Identification from Millimeter-Wave Point Clouds Across Activities of Daily Living**|Xilai Wang et.al.|[2609.08818](http://arxiv.org/abs/2609.08818)|null|
@@ -4964,6 +5001,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**SpecGuard: Inference-Time Backdoor Detection For Free**|Rui Wen et.al.|[2609.11799](http://arxiv.org/abs/2609.11799)|null|
+|**2026-09-09**|**Estimating the Time Advantage of Split-Staggered Starts in Record-Breaking Middle-Distance Races**|Tade Souaiaia et.al.|[2609.10833](http://arxiv.org/abs/2609.10833)|null|
+|**2026-09-09**|**From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity**|Yu Ma et.al.|[2609.10714](http://arxiv.org/abs/2609.10714)|null|
+|**2026-09-09**|**Guaranteeing Faithful Evidence Extraction in Speculative Retrieval-Augmented Generation**|Quentin Signé et.al.|[2609.10046](http://arxiv.org/abs/2609.10046)|null|
+|**2026-09-09**|**PELM: Power Efficient On-Device LLM Inference with Speculative Decoding and Dynamic Voltage Frequency Scaling**|Weisi Yang et.al.|[2609.09662](http://arxiv.org/abs/2609.09662)|null|
+|**2026-09-08**|**Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding**|Fengxiang Bie et.al.|[2609.09338](http://arxiv.org/abs/2609.09338)|null|
+|**2026-09-08**|**Gravitational quantum friction and the information-loss problem**|Francesco Del Porro et.al.|[2609.09283](http://arxiv.org/abs/2609.09283)|null|
 |**2026-09-08**|**Strong Polarization Signatures from Magnetically Stabilized Luminous Thin Accretion Disks**|P. Chris Fragile et.al.|[2609.08895](http://arxiv.org/abs/2609.08895)|null|
 |**2026-09-07**|**Measuring DeFi Risk**|Jeremy Bertomeu et.al.|[2609.07902](http://arxiv.org/abs/2609.07902)|null|
 |**2026-09-07**|**A Dusty Quenching-candidate AGN host at z=5.7: massive quiescent galaxies may quench already during the dust-obscured phase**|Francesco D'Eugenio et.al.|[2609.07825](http://arxiv.org/abs/2609.07825)|null|
