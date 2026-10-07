@@ -7,13 +7,33 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.05
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM inference
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth Flash**|Jaehoon Yang et.al.|[2610.08378](http://arxiv.org/abs/2610.08378)|null|
+|**2026-10-06**|**ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving**|Zou Qingyun et.al.|[2610.08373](http://arxiv.org/abs/2610.08373)|null|
+|**2026-10-06**|**DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching**|Jingpo Xu et.al.|[2610.08268](http://arxiv.org/abs/2610.08268)|null|
+|**2026-10-06**|**OSFP4: Joint Optimization of Diagonal Smoothing and Block Scales for NVFP4 Quantization**|Neriah Ben David et.al.|[2610.08231](http://arxiv.org/abs/2610.08231)|null|
+|**2026-10-06**|**Persistent Memory in Multi-Agent LLM Inference: What It Costs, What It Buys, and When You Can Tell**|Hochan Son et.al.|[2610.07782](http://arxiv.org/abs/2610.07782)|null|
+|**2026-10-06**|**APEX: Speculate smarter, not deeper**|Manvi Jha et.al.|[2610.07780](http://arxiv.org/abs/2610.07780)|null|
+|**2026-10-06**|**Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution**|Kyudan Jung et.al.|[2610.07641](http://arxiv.org/abs/2610.07641)|null|
+|**2026-10-05**|**AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation**|Hanzhi Zhang et.al.|[2610.07457](http://arxiv.org/abs/2610.07457)|null|
+|**2026-10-05**|**A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving**|Cong Guo et.al.|[2610.07443](http://arxiv.org/abs/2610.07443)|null|
+|**2026-10-05**|**Can LLM-assisted regularization increase forecast accuracy for migration flows in low data regimes?**|Nathaniel T. Hindman et.al.|[2610.07208](http://arxiv.org/abs/2610.07208)|null|
+|**2026-10-05**|**SchemaFill: Efficient LLM Tool Calling via Slot-Parallel Speculative Decoding**|Zhi-Kai Chen et.al.|[2610.07086](http://arxiv.org/abs/2610.07086)|null|
+|**2026-10-05**|**Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving**|Jiaqi Zhao et.al.|[2610.06597](http://arxiv.org/abs/2610.06597)|null|
+|**2026-10-05**|**Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models**|Joe Dwyer et.al.|[2610.06387](http://arxiv.org/abs/2610.06387)|null|
+|**2026-10-05**|**MATE: Adaptive Long- and Short-Term User Memory for LLM-Based Recommendation**|Yu Hou et.al.|[2610.06050](http://arxiv.org/abs/2610.06050)|null|
+|**2026-10-05**|**Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression**|Hankyul Kang et.al.|[2610.06026](http://arxiv.org/abs/2610.06026)|null|
+|**2026-10-05**|**MOLT: A Fine-Grained GPU Memory Sharing System for LLM Serving with Opportunistic Fine-Tuning**|Jaehoon Yang et.al.|[2610.05748](http://arxiv.org/abs/2610.05748)|null|
+|**2026-10-04**|**Robust Parameter-Efficient LLM Adaptation on Analog Hardware**|Jindan Li et.al.|[2610.05318](http://arxiv.org/abs/2610.05318)|null|
+|**2026-10-04**|**Characterizing Parallelism Strategies in LLM Inference: Fundamental Compute-Communication Trade-offs**|Javad Mirzaei et.al.|[2610.05305](http://arxiv.org/abs/2610.05305)|null|
+|**2026-10-04**|**Beyond LLM Serving: Characterizing Vision-Language-Action Workloads for Embodied AI System Design**|Seonghun Jung et.al.|[2610.05062](http://arxiv.org/abs/2610.05062)|null|
+|**2026-10-04**|**LLBPE: Linked-List Based GPU-Parallel BPE Tokenizer**|Aditya Kovilur et.al.|[2610.04951](http://arxiv.org/abs/2610.04951)|null|
 |**2026-10-02**|**Jumping the Line: Exploiting Length Predictions in LLM Scheduling**|Yuyang Dai et.al.|[2610.03430](http://arxiv.org/abs/2610.03430)|null|
 |**2026-10-02**|**EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures**|Yuhai Long et.al.|[2610.03394](http://arxiv.org/abs/2610.03394)|null|
 |**2026-10-02**|**Tailoring the Quantization Space for 1-Bit KV Cache Compression**|Minsoo Cheong et.al.|[2610.03027](http://arxiv.org/abs/2610.03027)|**[link](https://github.com/mscheong01/TaSQ)**|
@@ -2402,6 +2422,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**A Systematic Study of Small Language Models on Abstract Reasoning Tasks**|Nur A Zarin Nishat et.al.|[2610.08680](http://arxiv.org/abs/2610.08680)|null|
+|**2026-10-06**|**Forensic Reserve: Eliciting Latent Knowledge for Image Forgery Detection**|Jiahua Li et.al.|[2610.08639](http://arxiv.org/abs/2610.08639)|null|
+|**2026-10-06**|**Covariate-dependent Nonparametric $g$ -modeling for regression via infinite Mixture-of-Expertizing class**|Akira Okazaki et.al.|[2610.08321](http://arxiv.org/abs/2610.08321)|null|
+|**2026-10-06**|**Beyond the Leaderboard: Multi-Dimensional Evaluation of Dense and Mixture-of-Experts Models for Automated Program Repair**|Anvi Kalpesh Shah et.al.|[2610.08173](http://arxiv.org/abs/2610.08173)|null|
+|**2026-10-06**|**MASKerade: Token-Routed Mask Experts for Dense-to-MoE Upcycling**|Mingyuan Zhang et.al.|[2610.07809](http://arxiv.org/abs/2610.07809)|null|
+|**2026-10-06**|**Adaptive Mean Estimation by In-Context Learning: A Gradient-Flow Analysis**|Martin Eppert et.al.|[2610.07804](http://arxiv.org/abs/2610.07804)|null|
+|**2026-10-06**|**Reading, Not Manipulating: Leveraging Router Logits for Multimodal Safety in MoE Vision-Language Models**|Ziyuan Yang et.al.|[2610.07774](http://arxiv.org/abs/2610.07774)|null|
+|**2026-10-06**|**TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models**|Xin Wang et.al.|[2610.07767](http://arxiv.org/abs/2610.07767)|null|
+|**2026-10-06**|**Anchor-driven Multi-modal Multi-scale Expert Selection for Survival Prediction**|Tao Zhou et.al.|[2610.07694](http://arxiv.org/abs/2610.07694)|null|
+|**2026-10-06**|**VALSE: Vertical Adaptive Layer Skipping for Efficient Inference in Large Language Models**|Jia-Dong Zhang et.al.|[2610.07606](http://arxiv.org/abs/2610.07606)|null|
+|**2026-10-06**|**TRANSIT: Transparent Scale-in for Multi-Node LLM Training**|Hyungyo Kim et.al.|[2610.07593](http://arxiv.org/abs/2610.07593)|null|
+|**2026-10-06**|**Is $\sqrt{d}$ Separation Necessary for Gradient EM to Learn Gaussian Mixtures in High Dimensions?**|Yiran Zhang et.al.|[2610.07551](http://arxiv.org/abs/2610.07551)|null|
+|**2026-10-05**|**NCCL M2N: A Layout- and Topology-Aware Collective for Distributed Tensor Resharding**|Kaushik Kandadi et.al.|[2610.07516](http://arxiv.org/abs/2610.07516)|null|
+|**2026-10-05**|**CogAdapt: Cognition-informed Sparse Adaptation of Code LLMs**|Yueke Zhang et.al.|[2610.07446](http://arxiv.org/abs/2610.07446)|null|
+|**2026-10-05**|**Stepped MoE: Segment-Level Routing with Configurable Inference Complexity**|Arnav Kundu et.al.|[2610.07348](http://arxiv.org/abs/2610.07348)|null|
+|**2026-10-05**|**Memory-Efficient Expert Routing for Distributed MoE Training**|Arnab Kanti Tarafder et.al.|[2610.07333](http://arxiv.org/abs/2610.07333)|null|
+|**2026-10-05**|**Structuring MoE Expert Selection for Agentic Reinforcement Learning**|Bolian Li et.al.|[2610.07332](http://arxiv.org/abs/2610.07332)|null|
+|**2026-10-05**|**Cascadia: Resident 975B MoE Inference on Eleven AI PCs**|Tate Berenbaum et.al.|[2610.07219](http://arxiv.org/abs/2610.07219)|null|
+|**2026-10-05**|**Distributionally Robust Mixture-of-Experts Training**|Xin Teng et.al.|[2610.07207](http://arxiv.org/abs/2610.07207)|null|
+|**2026-10-05**|**Optimal Photon Counting with Fast, Low Noise Astronomical Imagers**|Jack T. Dinsmore et.al.|[2610.07137](http://arxiv.org/abs/2610.07137)|null|
 |**2026-10-02**|**RailWave: Adaptive Spatial and Temporal Scheduling for Expert-Parallel Communication**|Chutian Wang et.al.|[2610.03415](http://arxiv.org/abs/2610.03415)|null|
 |**2026-10-02**|**Mixture-of-Experts for Cryptocurrency Order Execution: Training Stability, Tail Risk, and Failure Modes**|Alexander Ardaiz et.al.|[2610.03369](http://arxiv.org/abs/2610.03369)|null|
 |**2026-10-02**|**SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining**|Dengdi Sun et.al.|[2610.03265](http://arxiv.org/abs/2610.03265)|null|
@@ -5120,10 +5160,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|null|
+|**2026-10-06**|**Early galactic heavy element production - a phenomenological approach**|B. Wehmeyer et.al.|[2610.08084](http://arxiv.org/abs/2610.08084)|null|
+|**2026-10-06**|**Nucleus Speculative Decoding: Plausibility-Aware Verification Beyond Exact Distribution**|Shuhao Li et.al.|[2610.07822](http://arxiv.org/abs/2610.07822)|null|
+|**2026-10-06**|**APEX: Speculate smarter, not deeper**|Manvi Jha et.al.|[2610.07780](http://arxiv.org/abs/2610.07780)|null|
+|**2026-10-06**|**AgentMemGate: Addressing Speculation Contamination in Conversational Assistant Memory**|Chirag Sharma et.al.|[2610.07707](http://arxiv.org/abs/2610.07707)|null|
+|**2026-10-06**|**DLoop: Looped Speculative Decoding**|Geonmo Gu et.al.|[2610.07659](http://arxiv.org/abs/2610.07659)|null|
+|**2026-10-06**|**Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution**|Kyudan Jung et.al.|[2610.07641](http://arxiv.org/abs/2610.07641)|null|
+|**2026-10-05**|**SPECULATE: A synthetic spectral library, emulator and fitting package for accretion disc winds -- Infrastructure and application to CVs**|Austen G. W. Wallis et.al.|[2610.07364](http://arxiv.org/abs/2610.07364)|null|
+|**2026-10-05**|**Trajectory-Retrieval Speculative Decoding: When Does a Model's Own History Help?**|Yuyang Dai et.al.|[2610.07350](http://arxiv.org/abs/2610.07350)|null|
+|**2026-10-05**|**SchemaFill: Efficient LLM Tool Calling via Slot-Parallel Speculative Decoding**|Zhi-Kai Chen et.al.|[2610.07086](http://arxiv.org/abs/2610.07086)|null|
+|**2026-10-05**|**Learning What to Imitate: Entropy-Aware Distribution Mixing**|Juan Garcia Giraldo et.al.|[2610.06671](http://arxiv.org/abs/2610.06671)|null|
+|**2026-10-05**|**D-Loop: Looped Diffusion Drafting for Speculative Decoding**|Kecheng Chen et.al.|[2610.06011](http://arxiv.org/abs/2610.06011)|null|
+|**2026-10-05**|**Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation**|Jie Wang et.al.|[2610.05978](http://arxiv.org/abs/2610.05978)|null|
+|**2026-10-04**|**SharpDraft: Accelerating Long-Context Speculative Decoding with Cardinality-Aware Query Scaling**|Jeonghoon Park et.al.|[2610.05106](http://arxiv.org/abs/2610.05106)|null|
+|**2026-10-06**|**SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models**|Chung-En Ho et.al.|[2610.04875](http://arxiv.org/abs/2610.04875)|null|
+|**2026-10-03**|**Learning to Clarify Underspecified Intents Under Limited Interaction**|Pranav M R et.al.|[2610.04719](http://arxiv.org/abs/2610.04719)|null|
 |**2026-10-02**|**EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures**|Yuhai Long et.al.|[2610.03394](http://arxiv.org/abs/2610.03394)|null|
 |**2026-10-02**|**Execution-Path Qualification and Realized Costs in Speculative Decoding on Consumer Systems**|Chengzhan Li et.al.|[2610.03228](http://arxiv.org/abs/2610.03228)|null|
-|**2026-10-02**|**LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs**|Seoyeon Ye et.al.|[2610.02902](http://arxiv.org/abs/2610.02902)|null|
-|**2026-10-02**|**BitNest: Bit-Nested Speculative Decoding for Memory-Efficient LLM Inference Acceleration**|Chence Yang et.al.|[2610.02800](http://arxiv.org/abs/2610.02800)|null|
+|**2026-10-06**|**LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs**|Seoyeon Ye et.al.|[2610.02902](http://arxiv.org/abs/2610.02902)|null|
+|**2026-10-06**|**BitNest: Bit-Nested Speculative Decoding for Memory-Efficient LLM Inference Acceleration**|Chence Yang et.al.|[2610.02800](http://arxiv.org/abs/2610.02800)|null|
 |**2026-10-02**|**LEAP: Learning Efficient Action Proposals For LLM Agents**|Zhen Xu et.al.|[2610.02670](http://arxiv.org/abs/2610.02670)|null|
 |**2026-10-01**|**What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute**|Zhixu Du et.al.|[2610.02491](http://arxiv.org/abs/2610.02491)|null|
 |**2026-10-01**|**Harnessing LLMs as Agents: What Does It Cost?**|Zelin Zhao et.al.|[2610.02488](http://arxiv.org/abs/2610.02488)|null|
@@ -6712,6 +6768,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation**|Jincheng Wang et.al.|[2610.06510](http://arxiv.org/abs/2610.06510)|null|
 |**2026-09-30**|**Asking the World: Generalist Physical Reasoning through Agentic World Modeling and Probing**|Shenxiang Zeng et.al.|[2609.39135](http://arxiv.org/abs/2609.39135)|null|
 |**2026-09-28**|**When Words Speak Louder than Images: Towards Understanding Language Bias in Vision-Language Models**|Yizhou Fang et.al.|[2609.35272](http://arxiv.org/abs/2609.35272)|null|
 |**2026-09-28**|**P4Q: Co-designing Token Pruning and Quantization for Vision-Language Model Acceleration**|Haizhao Jing et.al.|[2609.34867](http://arxiv.org/abs/2609.34867)|null|
@@ -6726,7 +6783,7 @@ layout: default
 |**2026-09-21**|**Cloud, Edge, or Split? Profiling Onboard and Split Vision-Language Model Deployment for Drone AI**|Zoha Azimi et.al.|[2609.25415](http://arxiv.org/abs/2609.25415)|null|
 |**2026-09-21**|**Capability-Aware Arbitration for Semantic Intent-Based Shared Control**|Zhaoda Du et.al.|[2609.25369](http://arxiv.org/abs/2609.25369)|null|
 |**2026-09-18**|**FORTE: Task-Adaptive Force Capability Optimization for Mobile Manipulators**|Xiao Wang et.al.|[2609.21497](http://arxiv.org/abs/2609.21497)|null|
-|**2026-09-17**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Jin Wu et.al.|[2609.21045](http://arxiv.org/abs/2609.21045)|null|
+|**2026-10-05**|**DEXTERA: From a Single Image to Deployable Dexterous Manipulation via Real-to-Sim-to-Real**|Jin Wu et.al.|[2609.21045](http://arxiv.org/abs/2609.21045)|null|
 |**2026-09-16**|**RAFAIL: Relationship-Aware Failure Detection for Robotic Manipulation**|Loris Schneider et.al.|[2609.18324](http://arxiv.org/abs/2609.18324)|null|
 |**2026-09-15**|**BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models**|Yihui Peng et.al.|[2609.17443](http://arxiv.org/abs/2609.17443)|null|
 |**2026-09-15**|**StackTok: Accelerating VLMs Inference with Budget-Adaptive Visual Token Selection**|Zhenbin Wang et.al.|[2609.16841](http://arxiv.org/abs/2609.16841)|null|
